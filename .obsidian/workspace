@@ -7,9 +7,17 @@
         "id": "3c652820f4ea50ad",
         "type": "leaf",
         "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "c5e66a71fbd9947e",
+        "type": "leaf",
+        "state": {
           "type": "markdown",
           "state": {
-            "file": "cool.md",
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source"
           }
         }
@@ -68,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cool.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,8 +93,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3c652820f4ea50ad",
+  "active": "c5e66a71fbd9947e",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "cool.md",
     "Untitled.md"
   ]
