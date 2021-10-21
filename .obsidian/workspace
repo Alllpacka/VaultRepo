@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Geschichte/Geschichte Mitschrift.md",
+            "file": "Medientechnik/Git Mitschrift für Win.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/Geschichte Mitschrift.md",
+                "file": "Medientechnik/Git Mitschrift für Win.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "b20b1bd0f6cc5195",
   "lastOpenFiles": [
+    "Medientechnik/Git Mitschrift für Win.md",
     "Geschichte/Geschichte Mitschrift.md",
     "Untitled.md",
-    "Medientechnik/Git Mitschrift für Win.md",
     "Deutsch/Deutsch Mitschrift.md"
   ]
 }
