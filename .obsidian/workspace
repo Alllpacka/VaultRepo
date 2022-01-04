@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "82bc27f670ecd2fa",
+    "id": "1c3ea726703f9e2b",
     "type": "split",
     "children": [
       {
-        "id": "3c652820f4ea50ad",
+        "id": "f58ad307232d2a06",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -81,7 +81,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3c652820f4ea50ad",
+  "active": "f58ad307232d2a06",
   "lastOpenFiles": [
     "Medientechnik/Git Mitschrift für Win.md",
     "conflict-files-obsidian-git.md",
