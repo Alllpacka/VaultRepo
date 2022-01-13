@@ -1,29 +1,33 @@
 {
   "main": {
-    "id": "1c3ea726703f9e2b",
+    "id": "7a78ccddbc6fd22f",
     "type": "split",
     "children": [
       {
-        "id": "f58ad307232d2a06",
+        "id": "b20b1bd0f6cc5195",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Englisch/Vocabulary.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6068f36db6b0ecdd",
+    "id": "dff8e4f7f8b5168e",
     "type": "split",
     "children": [
       {
-        "id": "8bef16e3538a89c7",
+        "id": "af278e54276ed15f",
         "type": "tabs",
         "children": [
           {
-            "id": "d2cdfef312d4c1b8",
+            "id": "1054e4614eef93ff",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +35,7 @@
             }
           },
           {
-            "id": "8b754d8b7688f1b2",
+            "id": "1d1566497f10801d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -52,19 +56,20 @@
     "width": 300
   },
   "right": {
-    "id": "934c8e8470383b92",
+    "id": "75057a0685c0ad7c",
     "type": "split",
     "children": [
       {
-        "id": "8e0d9fe954858eb7",
+        "id": "3158c6605c7efd53",
         "type": "tabs",
         "children": [
           {
-            "id": "957ea0840597afad",
+            "id": "17a09be47a7be58c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Englisch/Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,13 +84,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "f58ad307232d2a06",
+  "active": "b20b1bd0f6cc5195",
   "lastOpenFiles": [
+    "Englisch/Vocabulary.md",
     "Medientechnik/Git Mitschrift für Win.md",
-    "conflict-files-obsidian-git.md",
-    "cool.md",
-    "Untitled.md"
+    "Geschichte/Geschichte Mitschrift.md",
+    "Deutsch/Deutsch Mitschrift.md"
   ]
 }
