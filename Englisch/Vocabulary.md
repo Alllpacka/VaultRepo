@@ -311,3 +311,15 @@ Maintenance die Wartung
 a concern Bedenken
 
 a (big) corporation Konzern
+
+
+
+Advertising
+to advertise
+advertisment
+ex. video ads (YT; commercials)
+	news paper ad
+	streets
+	walls
+	billboard
+
