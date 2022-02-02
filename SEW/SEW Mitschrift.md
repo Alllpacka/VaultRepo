@@ -71,6 +71,7 @@ o Eigenschaften (Daten, Attribute) – in Variablen abgelegt.
 
 o Methoden (Operationen)
 
+#GrafischeDarstellung
 ## **Grafische Darstellung**
 
 ### **Bestandteile einer Klasse**
