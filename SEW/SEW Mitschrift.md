@@ -223,55 +223,8 @@ BankAccount myAccount = new BankAccount(1000);
 | in der gleichen Klasse     | J      | J       | J         | J      |
 | in gleichem Package        | N      | J       | J         | J      |
 | in Unterklasse (Vererbung) | N      | N       | J         | J      |
-| Global                     | N      | N       | N         |        |
+| Global                     | N      | N       | N         | J      |
 
-In gleicher Klasse
-
-In gleichem Package
-
-In Unterklassse (Vererbung)
-
-Global
-
-privat
-
-J
-
-N
-
-N
-
-N
-
-Default
-
-J
-
-J
-
-N
-
-N
-
-protected
-
-J
-
-J
-
-J
-
-N
-
-public
-
-J
-
-J
-
-J
-
-J
 
 #Kommunikation
 ### **Kommunikation zwischen Objekten**
@@ -344,19 +297,19 @@ public setOwner (String owner) {
 
 Klasse
 
-- attribut0
+/-/ attribut0
 
-- attribut1
+/-/ attribut1
 
-+ attribut2
+/+/ attribut2
 
-+ operation0()
+/+/ operation0()
 
 /#/ operation1()
 
-- operation2()
+/-/ operation2()
 
-~ operation3()
+/~/ operation3()
 
 Klassenname
 
@@ -373,13 +326,13 @@ Zugriffsmodifier
 
 #### **Zugriffsmodifier**
 
-/+ public
+/+/ public
 
-/- private
+/-/ private
 
 /#/ protected
 
-~ package
+/~/ package
 
 #Klassendiagramme
 ### **Klassendiagramm**
