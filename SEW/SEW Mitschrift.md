@@ -298,19 +298,19 @@ public setOwner (String owner) {
 
 Klasse
 
--\ attribut0
+\- attribut0
 
--\ attribut1
+\- attribut1
 
-+\ attribut2
+\+ attribut2
 
-+\ operation0()
+\+ operation0()
 
-#\\ operation1()
+\# operation1()
 
--\ operation2()
+\- operation2()
 
-~\ operation3()
+\~ operation3()
 
 Klassenname
 
@@ -327,13 +327,13 @@ Zugriffsmodifier
 
 #### **Zugriffsmodifier**
 
-+\ public
+\+ public
 
--\ private
+\- private
 
- \#\ protected
+\# protected
 
-~\ package
+\~ package
 
 #Klassendiagramme
 ### **Klassendiagramm**
@@ -342,19 +342,19 @@ Zugriffsmodifier
 
 BankAccount
 
-- number: int
+\- number: int
 
-- balance: double
+\- balance: double
 
-+BankAccount(int)
+\+ BankAccount(int)
 
-+ getBalance(): double
+\+ getBalance(): double
 
-+ deposit(double): void
+\+ deposit(double): void
 
-+ withdraw(double): void
+\+ withdraw(double): void
 
-+transfer(BankAccount, double): void
+\+ transfer(BankAccount, double): void
 
 #Überladen
 ### **Überladen von Methoden/Konstruktoren**
