@@ -1,6 +1,7 @@
-**Objektorientierte Programmierung**
+#ObjektorientierteProgrammierung
+# **Objektorientierte Programmierung**
 
-**Bisher: Strukturierte Programmierung**
+### **Bisher: Strukturierte Programmierung**
 
 · Beschreibt die Programmsteuerung
 
@@ -12,13 +13,13 @@ o Verzweigungen
 
 o Schleifen
 
-**Jetzt: Objektorientierte Programmierung**
+### **Jetzt: Objektorientierte Programmierung**
 
 Entstand aus dem Verlangen, die „echte“ Welt besser in Softwareentwicklung abbilden zu können.
 
 Eigenschaften (Daten) und Operationen (Methoden) werden zusammengefasst.
 
-**Vorteile:**
+#### **Vorteile:**
 
 · Bessere Strukturierung des Codes
 
@@ -32,7 +33,7 @@ o z.B. was darf von außen geändert werden
 
 o z.B. können Klassen, die Teilaufgaben behandeln, wiederverwendet werden
 
-**Konzepte der OOP**
+#### **Konzepte der OOP**
 
 · Datenkapselung
 
@@ -40,25 +41,25 @@ o z.B. können Klassen, die Teilaufgaben behandeln, wiederverwendet werden
 
 · Polymorphie
 
-**Datenkapselung**
+#### **Datenkapselung**
 
 · Encapsulation, information hiding
 
 · Auf die Eigenschaften eines Objekts kann nur über Methoden zugegriffen werden, der direkte Zugriff ist nicht möglich.
 
-**Vererbung**
+#### **Vererbung**
 
 · Inheritance
 
 · Klassen können von anderen Klassen abgeleitet werden und erben damit alle Eigenschaften und Methoden der Oberklasse (Superklasse).
 
-**Polymorphie**
+#### **Polymorphie**
 
 · „Mehrgeestalt“, „Vielgestalt“
 
 · Objekte verschiedener Klassen reagieren auf den gleichen Methodenaufruf unterschiedlich.
 
-**Klasse**
+#### **Klasse**
 
 · Bauplan für gleichartige Objekte
 
@@ -70,7 +71,7 @@ o Eigenschaften (Daten, Attribute) – in Variablen abgelegt.
 
 o Methoden (Operationen)
 
-**Grafische Darstellung**
+### **Grafische Darstellung**
 
 **Bestandteile einer Klasse**
 
@@ -172,6 +173,7 @@ betanken (menge: double)
 
 · Konvention: Methoden sind Verben und beginnen mit einem Kleinbuchstaben (z.B. getBalance(), deposit(), setColor(),…)
 
+#ObjekteErzeugen
 **Objekt erzeugen  
 ****Instantisieren**
 
@@ -259,6 +261,7 @@ J
 
 J
 
+#Kommunikation
 **Kommunikation zwischen Objekten**
 
 · Attribute und Methoden müssen adressierbar sein
@@ -321,6 +324,7 @@ public setOwner (String owner) {
 
 · Man spricht auch von _Klassenvariablen,_ bzw. _Klassenmethoden_.
 
+#UML
 **Unified Modeling Language**
 
 **UML Klassendiagramm**
@@ -335,7 +339,7 @@ Klasse
 
 + operation0()
 
-# operation1()
+/#/ operation1()
 
 - operation2()
 
@@ -351,6 +355,7 @@ Methoden
 
 Zugriffsmodifier
 
+#SichtbarkeitUndModifier
 **Sichtbarkeit**
 
 **Zugriffsmodifier**
@@ -363,6 +368,7 @@ Zugriffsmodifier
 
 ~ package
 
+#Klassendiagramme
 **Klassendiagramm**
 
 **BankAccount**
@@ -494,3 +500,18 @@ Bsp. String, Arrays, Klassen, …
 Wird eine Variable kopiert, wird die *Referenz* auf das eigentliche Objekt kopiert, das heißt beide Variablen auf das selbe Objekt verweisen
 Eine Änderung bei einer der beiden Variablen hat Auswirkung auf die andere Referenz
 
+#VergleichVonObjekten
+**Vergleich von Objekten**
+· == ist bei Referenztypen problematisch
+· == vergleicht die Referenzen (Speicheradressen) von Objekten und nicht deren Eigenschaften!
+· == liefert also *false*, selbst wenn beide verglichenen Objekte völlig ident belegte Attribute besitzen
+
+#equals
+**equals()**
+
+· wird implementiert, um Objekte zu vergleichen
+· vergleicht alle Attribute
+
+public boolean equals(Objekt o) {
+	return this.attr1 == o.attr1 && this.attr2 == o.attr2;
+}
