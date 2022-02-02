@@ -91,6 +91,7 @@ ueberweisen (zielkonto: Konto, betrag: double)
 
  Operationen (Methoden)
 
+~~~java
 class Bankaccount {
 
 int number; //Kontonummer
@@ -106,6 +107,7 @@ balance = balance + amount;
 // …
 
 }
+~~~
 
 #### **Fahrzeug**
 
@@ -177,11 +179,12 @@ betanken (menge: double)
 #ObjekteErzeugen
 ### **Objekt erzeugen  
 #### ***Instantisieren**
-
+~~~java
 class BandAccount { … }  
 //…  
 BankAccount myAccount = new BankAccount();  
 //…
+~~~
 
 #### **Konstruktor**
 
@@ -199,7 +202,7 @@ o beginnt mit einem Großbuchstaben
 
 #### **Konstruktor**
 
-~~~
+~~~java
 class BankAccount {  
  private int number; // Instanzvariable  
   
@@ -215,7 +218,12 @@ BankAccount myAccount = new BankAccount(1000);
 #Zugriffrechte
 ### **Zugriffrechte**
 
-Zugriffmodifier
+| Zugriffsmodifier           | privat | default | protected | public |
+| -------------------------- | ------ | ------- | --------- | ------ |
+| in der gleichen Klasse     | J      | J       | J         | J      |
+| in gleichem Package        | N      | J       | J         | J      |
+| in Unterklasse (Vererbung) | N      | N       | J         | J      |
+| Global                     | N      | N       | N         |        |
 
 In gleicher Klasse
 
@@ -274,7 +282,7 @@ J
 
 ##### **Problemstellung**
 
-~~~
+~~~java
 class BankAccount {
 
 private int number;
@@ -287,7 +295,7 @@ private int number;
 
 }
 ~~~
-~~~
+~~~java
 class BankAccount {
 
 private int number;
@@ -308,7 +316,7 @@ private int number;
 
 · Häufig in Konstruktoren und in settern („setter“-Methoden) zu finden
 
-~~~
+~~~java
 public setOwner (String owner) {
 
  this.owner = owner;
@@ -517,12 +525,12 @@ Eine Änderung bei einer der beiden Variablen hat Auswirkung auf die andere Refe
 · wird implementiert, um Objekte zu vergleichen
 · vergleicht alle Attribute
 
-~~~
+~~~java
 public boolean equals(Objekt o) {
 	return this.attr1 == o.attr1 && this.attr2 == o.attr2;
 }
 ~~~
-~~~
+~~~java
 public boolean equls(Objekt o) {
 	if (this == o) {return true;}
 
