@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7264bdded35fd168",
+        "id": "20882ba737aff11f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Deutsch/Deutsch Mitschrift.md",
+            "file": "Englisch/Vocabulary.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/Deutsch Mitschrift.md",
+                "file": "Englisch/Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,13 +86,15 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7264bdded35fd168",
+  "active": "20882ba737aff11f",
   "lastOpenFiles": [
+    "Englisch/Vocabulary.md",
+    "conflict-files-obsidian-git.md",
+    "SEW/SEW Mitschrift.md",
     "Deutsch/Deutsch Mitschrift.md",
     "Geschichte/Geschichte Mitschrift.md",
     "Medientechnik/Medientechnik Mitschrift.md",
     "Medientechnik/Git Mitschrift für Win.md",
-    "conflict-files-obsidian-git.md",
     "cool.md"
   ]
 }
