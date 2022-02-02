@@ -71,11 +71,11 @@ o Eigenschaften (Daten, Attribute) – in Variablen abgelegt.
 
 o Methoden (Operationen)
 
-### **Grafische Darstellung**
+## **Grafische Darstellung**
 
-**Bestandteile einer Klasse**
+### **Bestandteile einer Klasse**
 
-**Konto**
+#### **Konto**
 
 nummer: int
 
@@ -107,7 +107,7 @@ balance = balance + amount;
 
 }
 
-**Fahrzeug**
+#### **Fahrzeug**
 
 hersteller: String
 
@@ -125,7 +125,7 @@ bremsen ()
 
  Operationen (Methoden)
 
-**Kraftfahrzeug**
+#### **Kraftfahrzeug**
 
 hersteller: String
 
@@ -149,7 +149,8 @@ betanken (menge: double)
 
  Operationen (Methoden)
 
-**Klasse <> Objekt**
+#KlasseZuObjekten
+### **Klasse <> Objekt**
 
 · Klasse ~ „Bauplan“, „Schablone“ zur „Konstruktion von Objekten
 
@@ -159,13 +160,13 @@ betanken (menge: double)
 
 · Objekt ist etwas Konkretes
 
-**Variablen** 
+#### **Variablen** 
 
 · Die Daten jedes Objekts sind in den Variablen oder Klassen abgelegt
 
 · Variablen können in jedem Objekt (=jeder Instanz) anders belegt sein und werden daher als _Instanzvariablen_ bezeichnet.
 
-**Methoden**
+#### **Methoden**
 
 · Beschreiben das Verhalten der Klasse
 
@@ -174,15 +175,15 @@ betanken (menge: double)
 · Konvention: Methoden sind Verben und beginnen mit einem Kleinbuchstaben (z.B. getBalance(), deposit(), setColor(),…)
 
 #ObjekteErzeugen
-**Objekt erzeugen  
-****Instantisieren**
+### **Objekt erzeugen  
+#### ***Instantisieren**
 
 class BandAccount { … }  
 //…  
 BankAccount myAccount = new BankAccount();  
 //…
 
-**Konstruktor**
+#### **Konstruktor**
 
 · Spezielle „Methode“ zur Initialisierung eines neu erzeugten Objekts (Anfangszustand herstellen).
 
@@ -196,8 +197,9 @@ o beginnt mit einem Großbuchstaben
 
 · Solange kein Konstruktor implementier (programmiert) ist, verwendet Java einen Default Konstruktor
 
-**Konstruktor**
+#### **Konstruktor**
 
+~~~
 class BankAccount {  
  private int number; // Instanzvariable  
   
@@ -208,8 +210,10 @@ public BankAccount(int accountNumber) { // Konstruktor
 //…  
 BankAccount myAccount = new BankAccount(1000);  
 //…
+~~~
 
-**Zugriffrechte**
+#Zugriffrechte
+### **Zugriffrechte**
 
 Zugriffmodifier
 
@@ -262,16 +266,15 @@ J
 J
 
 #Kommunikation
-**Kommunikation zwischen Objekten**
+### **Kommunikation zwischen Objekten**
 
 · Attribute und Methoden müssen adressierbar sein
 
 · Punktnotation zum Trennen von Objekten und Attribut/Methode
 
-**this**
+##### **Problemstellung**
 
-**Problemstellung**
-
+~~~
 class BankAccount {
 
 private int number;
@@ -283,7 +286,8 @@ private int number;
 }
 
 }
-
+~~~
+~~~
 class BankAccount {
 
 private int number;
@@ -295,8 +299,8 @@ private int number;
 }
 
 }
-
-**this**
+~~~
+#### **this**
 
 · this bedeutet in etwa „_diese Instanz_“
 
@@ -304,13 +308,14 @@ private int number;
 
 · Häufig in Konstruktoren und in settern („setter“-Methoden) zu finden
 
+~~~
 public setOwner (String owner) {
 
  this.owner = owner;
 
 }
-
-**static**
+~~~
+#### **static**
 
 · der Modifier _static_ dient dazu, Methoden und variablen der Klasse als Ganzes zuzuordnen, anstatt den einzelnen Instanzen.
 
@@ -325,9 +330,9 @@ public setOwner (String owner) {
 · Man spricht auch von _Klassenvariablen,_ bzw. _Klassenmethoden_.
 
 #UML
-**Unified Modeling Language**
+## **Unified Modeling Language**
 
-**UML Klassendiagramm**
+#### **UML Klassendiagramm**
 
 Klasse
 
@@ -356,9 +361,9 @@ Methoden
 Zugriffsmodifier
 
 #SichtbarkeitUndModifier
-**Sichtbarkeit**
+### **Sichtbarkeit**
 
-**Zugriffsmodifier**
+#### **Zugriffsmodifier**
 
 /+ public
 
@@ -369,9 +374,9 @@ Zugriffsmodifier
 ~ package
 
 #Klassendiagramme
-**Klassendiagramm**
+### **Klassendiagramm**
 
-**BankAccount**
+#### **BankAccount**
 
 BankAccount
 
@@ -390,9 +395,9 @@ BankAccount
 +transfer(BankAccount, double): void
 
 #Überladen
-**Überladen von Methoden/Konstruktoren**
+### **Überladen von Methoden/Konstruktoren**
 
-**engl. “overloading”**
+#### **engl. “overloading”**
 
 · Mindesten 2 Methoden (od. Konstruktoren) einer Klasse haben den selben Methodennamen
 
@@ -410,7 +415,7 @@ Nur Datentypen der Parameter sind relevant, nicht ihre Namen
 
 Rückgabetyp der Methode ist hier irrelevant
 
-**Erzeugen eines Objekts aus einem String**
+#### **Erzeugen eines Objekts aus einem String**
 
 · objekt.toString() -> String
 
@@ -425,9 +430,9 @@ o -> new-Aufruf ist in der Methode valueOf() gekapselt
 o -> ist eine statische Methode (static Keyword)
 
 #StringMethoden
-**String-Methoden**
+### **String-Methoden**
 
-**Bereits bekannte Methoden**
+#### **Bereits bekannte Methoden**
 
 Methoden, die auf Instanzen der Klasse String aufgerufen werden können.
 
@@ -441,7 +446,7 @@ Methoden, die auf Instanzen der Klasse String aufgerufen werden können.
 
 · toUpperCase()
 
-**In valueOf() Implementierung verwendet**
+#### **In valueOf() Implementierung verwendet**
 
 · indexOf()
 
@@ -450,7 +455,7 @@ Methoden, die auf Instanzen der Klasse String aufgerufen werden können.
 · substring()
 
 #indexOf
-**indexOf()**
+### **indexOf()**
 
 Liefert den Index des ersten Auftretens des angegeben Zeichens oder Strings ab einer bestimmten Position.
 
@@ -464,9 +469,9 @@ Liefert den Index des ersten Auftretens des angegeben Zeichens oder Strings ab e
 
 #DatentypenCompare
 
-**Referenztyp <> elementarer Typ**
+### **Referenztyp <> elementarer Typ**
 
-*Elementarer Datentyp*
+#### **Elementarer Datentyp**
 
 Ist direkt in Java definiert
 
@@ -483,7 +488,7 @@ Bsp. Int, boolean, char, …
 Wird eine Variable kopiert, wird ihr *Wert* kopiert
 Eine Änderung der Original-Variable hat keine Auswirkung auf ihre Kopie (und umgekehrt)
 
-#Referenztyp
+#### **Referenztyp**
 
 Ist nicht direkt in Java definiert
 
@@ -501,17 +506,26 @@ Wird eine Variable kopiert, wird die *Referenz* auf das eigentliche Objekt kopie
 Eine Änderung bei einer der beiden Variablen hat Auswirkung auf die andere Referenz
 
 #VergleichVonObjekten
-**Vergleich von Objekten**
+### **Vergleich von Objekten**
 · == ist bei Referenztypen problematisch
 · == vergleicht die Referenzen (Speicheradressen) von Objekten und nicht deren Eigenschaften!
 · == liefert also *false*, selbst wenn beide verglichenen Objekte völlig ident belegte Attribute besitzen
 
 #equals
-**equals()**
+### **equals()**
 
 · wird implementiert, um Objekte zu vergleichen
 · vergleicht alle Attribute
 
+~~~
 public boolean equals(Objekt o) {
 	return this.attr1 == o.attr1 && this.attr2 == o.attr2;
 }
+~~~
+~~~
+public boolean equls(Objekt o) {
+	if (this == o) {return true;}
+
+	return this.attr1 == 0.attr1 && this.attr2 == o.attr2;
+}
+~~~
