@@ -35,32 +35,32 @@ ssh user8@172.16.5.55
 
 *cd* change directory (same in win)
 
-pwd* present working directory, shows current directory
+*pwd* present working directory, shows current directory
 
-rmdir remove directory
+*rmdir* remove directory
 
-wc $data$ word count
+*wc* <u>data</u> word count
 
 -rwxrwxrwx Permissions (d directory; r read; w write; x execute)
 
-Green user
+>first Block: user
 
-Yellow group
+>second Block: group
 
-Red other
+>third Block: other
 
-grep search function
+*grep* search function
 
- |$ at end of line
+    |$ at end of line
 
-sudo superuserdo executes command as root
+*sudo* (superuserdo) executes command as root
 
-chmod changes Permissions
+*chmod* changes Permissions
 
- |g+w gives the group write permission
+    |g+w gives the group write permission
 
- |a+w gives everyone write permission
+    |a+w gives everyone write permission
 
- |777 octal mode: gives everyone all permissions
+    |777 octal mode: gives everyone all permissions
 
-nano opens editor
+*nano* opens editor
