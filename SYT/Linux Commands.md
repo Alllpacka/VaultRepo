@@ -19,23 +19,23 @@ ssh user8@172.16.5.55
 
 *cat* writes files to console, can also type to file (type in win)
 
-*man* command shows desc. of command
+*man* <u>command</u> shows desc. of command
 
-touch creates empty file
+*touch* creates empty file
 
-cp $source$ $destination$ copies a file to destination
+*cp* <u>source destination</u> copies a file to destination
 
-mv move command
+*mv* move command
 
-rm remove (same in win)
+*rm* remove (same in win)
 
- |-r recursive
+    |-r recursive
 
-mkdir creates a directory (md in win)
+*mkdir* creates a directory (md in win)
 
-cd change directory (same in win)
+*cd* change directory (same in win)
 
-pwd present working directory, shows current directory
+pwd* present working directory, shows current directory
 
 rmdir remove directory
 
