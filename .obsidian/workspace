@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Deutsch/Deutsch Mitschrift.md",
+            "file": "SYT/Linux Commands.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/Deutsch Mitschrift.md",
+                "file": "SYT/Linux Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "b20b1bd0f6cc5195",
   "lastOpenFiles": [
+    "SYT/Linux Commands.md",
     "Deutsch/Deutsch Mitschrift.md",
     "SEW/SEW Mitschrift.md",
     "Englisch/Vocabulary.md",
