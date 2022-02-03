@@ -6,4 +6,8 @@ else
 	echo "Der Parameter $1 ist: "
 
 fi 
+
+if [ -d $1 ]
+then 
+	
 ~~~

@@ -107,3 +107,11 @@ ssh user8@172.16.5.55
  -x _file_      True if _file_ is executable. [[ -x demofile ]]
 
 _file_1 -ef _file_2    True if _file_1 and _file_2 have the same device and inode numbers,  i.e. they are hard links to each other.
+
+
+ps process status
+
+\$0 Programm selbst
+\$$
+\$* alle Parameter
+\$1 ... \$9 Parameter 
