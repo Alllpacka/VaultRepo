@@ -4,6 +4,18 @@
     "type": "split",
     "children": [
       {
+        "id": "248819b88ecccf3e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SYT/Linux Commands.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "b20b1bd0f6cc5195",
         "type": "leaf",
         "state": {
@@ -53,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "75057a0685c0ad7c",
@@ -69,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SYT/Server lagt wieder.md",
+                "file": "SYT/Linux Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,10 +108,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b20b1bd0f6cc5195",
+  "active": "248819b88ecccf3e",
   "lastOpenFiles": [
-    "SYT/Server lagt wieder.md",
     "SYT/Linux Commands.md",
+    "SYT/Server lagt wieder.md",
     "Deutsch/Deutsch Mitschrift.md",
     "SEW/SEW Mitschrift.md",
     "Englisch/Vocabulary.md",
