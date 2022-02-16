@@ -491,3 +491,19 @@ public boolean equls(Objekt o) {
 	return this.attr1 == 0.attr1 && this.attr2 == o.attr2;
 }
 ~~~
+
+
+ ### **Referenz**
+
+ wird eine Variable kopiert, wird die **Referenz** auf das eigentliche Objekt kopiert, das heißt, dass beide Variablen auf das selbe Objekt verweisen.
+
+ eine Änderung bei einer der beiden Varibablen hat auswirkung auf die andere Referenz.
+
+ ~~~java
+ BankAccount ba1 = new BankAccount("John", "Oliver");
+ BankAccount ba2 = ba1; //Referenz uaf das selbe Objekt
+ ba1.deposit(5000.0);
+ ba1.getBalance(); // 5000.0
+ ba2.getBalance(); // 5000.0
+~~~
+
