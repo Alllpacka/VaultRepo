@@ -485,7 +485,7 @@ public boolean equals(Objekt o) {
 }
 ~~~
 ~~~java
-public boolean equls(Objekt o) {
+public boolean equals(Objekt o) {
 	if (this == o) {return true;}
 
 	return this.attr1 == 0.attr1 && this.attr2 == o.attr2;
