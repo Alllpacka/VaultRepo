@@ -333,11 +333,15 @@ selfless
  city clean up
  volunteer fire fighter / brigade
 
-| Volunteering work                       |
-| -------------------------------- |
-| volunteer fire fighter / brigade   |
-| city clean up                                |
-| food shelf                                     | 
-| soup kitchen                                |
+| Volunteering work                |     |
+| -------------------------------- | --- |
+| volunteer fire fighter / brigade |     |
+| city clean up                    |     |
+| food shelf                       |     |
+| soup kitchen                     |     |
+| fundraising                      |     |
+| animal shelter                   |     |
+| wildlife conservation            |     | 
 
 sworn neutrality
+endangered species
