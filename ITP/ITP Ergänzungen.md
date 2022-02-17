@@ -24,3 +24,16 @@ Verfügungskompetenzen
 Infamationskompetenzen
 Vertretungskompetenzen
 
+## Zentralisation
+
+= Zusammenfassung von Aufgaben und Verantwortung
+
+Führt zu Spezialisierung der einzelnen Stellen, da sie sich nur mit ihren konkreten aufgaben auseinandersetzen müssen
+
+Entscheidungswege sind kürzer und Umsetzung der Entscheidungen effektiver (Kompetenzen sind)
+
+## Dezentralisation
+
+= Aufgaben und Verantwortung werden auf mehrere Stellen verteilt (dezentalisiiert)
+
+Höhere Akzeptanz, da entscheidungen nich von "oben" angeordnet werden
