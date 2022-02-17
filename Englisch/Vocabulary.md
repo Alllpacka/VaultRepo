@@ -314,7 +314,7 @@ a (big) corporation Konzern
 
 
 
-Advertising
+### Advertising
 to advertise
 advertisment
 ex. video ads (YT; commercials)
@@ -323,3 +323,21 @@ ex. video ads (YT; commercials)
 	walls
 	billboard
 
+
+
+### Volunteering & Volutourism
+selfless
+
+ soup kitchen
+ food shelf
+ city clean up
+ volunteer fire fighter / brigade
+
+| Volunteering work                       |
+| -------------------------------- |
+| volunteer fire fighter / brigade   |
+| city clean up                                |
+| food shelf                                     | 
+| soup kitchen                                |
+
+sworn neutrality
