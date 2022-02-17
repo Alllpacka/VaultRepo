@@ -106,7 +106,7 @@ ssh user8@172.16.5.55
 
  -x _file_      True if _file_ is executable. [[ -x demofile ]]
 
--z *file*        True if *file*
+-z *file*        True if *file* is zero
 
 _file_1 -ef _file_2    True if _file_1 and _file_2 have the same device and inode numbers,  i.e. they are hard links to each other.
 
