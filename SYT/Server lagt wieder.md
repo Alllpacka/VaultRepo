@@ -23,6 +23,14 @@ then
 	exit 1
 else 
 	echo "Der Parameter \$2 ist: " $2
+fi
+
+echo "Parameter 1 + 2 exestieren"
+
+if [ $1 -eq $2 ]
+then 
+echo sind gleich
+fi
 
 if [ -d $1 ]
 then 

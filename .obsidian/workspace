@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SYT/Linux Commands.md",
+                "file": "SYT/Server lagt wieder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,10 +109,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3cf90e546887f6cd",
+  "active": "248819b88ecccf3e",
   "lastOpenFiles": [
-    "SYT/Linux Commands.md",
     "SYT/Server lagt wieder.md",
+    "SYT/Linux Commands.md",
     "SEW/SEW Mitschrift.md",
     "Deutsch/Deutsch Mitschrift.md",
     "Englisch/Vocabulary.md",
