@@ -1,3 +1,4 @@
+[zumfachwirt.de]
 # Aufbau- und Ablauforganisation
 ## Grundsätze für eine gute Aufbauorganisation
 Zweckmäßigkeit (soll zu gutem Ergäbnis führen)
@@ -18,7 +19,8 @@ Instanzen:
 			Instanzentiefe = Anzahl der hierachieebenen in Firma
 
 ### Kompetenzen:
-		Weisungskompetenzen
-		Verfügungskompetenzen 
-		Infamationskompetenzen
-		Vertretungskompetenzen
+Weisungskompetenzen
+Verfügungskompetenzen 
+Infamationskompetenzen
+Vertretungskompetenzen
+
