@@ -326,7 +326,7 @@ ex. video ads (YT; commercials)
 
 
 ### Volunteering & Volutourism
-selfless
+#### selfless
 
  soup kitchen
  food shelf
@@ -341,7 +341,10 @@ selfless
 | soup kitchen                     |     |
 | fundraising                      |     |
 | animal shelter                   |     |
-| wildlife conservation            |     | 
+|      -> endangered species       |     |
+| wildlife conservation            |     |
 
 sworn neutrality
-endangered species
+meals on wheels
+Libary
+	-> woman's shelter
