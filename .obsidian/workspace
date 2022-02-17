@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SEW/SEW Mitschrift.md",
+            "file": "SYT/Linux Commands.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW/SEW Mitschrift.md",
+                "file": "SYT/Linux Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,9 +97,9 @@
   },
   "active": "248819b88ecccf3e",
   "lastOpenFiles": [
+    "SYT/Linux Commands.md",
     "SEW/SEW Mitschrift.md",
     "SYT/Server lagt wieder.md",
-    "SYT/Linux Commands.md",
     "Deutsch/Deutsch Mitschrift.md",
     "Englisch/Vocabulary.md",
     "Medieshop/GIT.md",
