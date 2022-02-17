@@ -29,8 +29,12 @@ echo "Parameter 1 + 2 exestieren"
 
 if [ $1 -eq $2 ]
 then 
-echo sind gleich
+	echo sind gleich
 fi
+
+if [ $1 -gt $2 ]
+then
+	echo $1 ist größer als $2
 
 if [ -d $1 ]
 then 
