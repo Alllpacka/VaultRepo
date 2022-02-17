@@ -6,6 +6,20 @@
       {
         "id": "248819b88ecccf3e",
         "type": "leaf",
+        "dimension": 47.625,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SYT/Server lagt wieder.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "3cf90e546887f6cd",
+        "type": "leaf",
+        "dimension": 52.37500000000001,
         "state": {
           "type": "markdown",
           "state": {
@@ -53,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 100
   },
   "right": {
     "id": "75057a0685c0ad7c",
@@ -95,7 +109,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "248819b88ecccf3e",
+  "active": "3cf90e546887f6cd",
   "lastOpenFiles": [
     "SYT/Linux Commands.md",
     "SYT/Server lagt wieder.md",
