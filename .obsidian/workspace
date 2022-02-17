@@ -6,24 +6,10 @@
       {
         "id": "248819b88ecccf3e",
         "type": "leaf",
-        "dimension": 53.75,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SYT/Server lagt wieder.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "3cf90e546887f6cd",
-        "type": "leaf",
-        "dimension": 46.25,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SYT/Linux Commands.md",
+            "file": "ITP/ITP Ergänzungen.md",
             "mode": "source",
             "source": false
           }
@@ -67,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 287.5
   },
   "right": {
     "id": "75057a0685c0ad7c",
@@ -83,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SYT/Server lagt wieder.md",
+                "file": "ITP/ITP Ergänzungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +97,7 @@
   },
   "active": "248819b88ecccf3e",
   "lastOpenFiles": [
+    "ITP/ITP Ergänzungen.md",
     "SYT/Server lagt wieder.md",
     "SYT/Linux Commands.md",
     "SEW/SEW Mitschrift.md",
