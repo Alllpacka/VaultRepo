@@ -37,3 +37,6 @@ Entscheidungswege sind kürzer und Umsetzung der Entscheidungen effektiver (Komp
 = Aufgaben und Verantwortung werden auf mehrere Stellen verteilt (dezentalisiiert)
 
 Höhere Akzeptanz, da entscheidungen nich von "oben" angeordnet werden
+
+
+ ## 
