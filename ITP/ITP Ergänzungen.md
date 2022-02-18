@@ -1,4 +1,5 @@
 !93 bis 98
+von einletung bis zu prozessen
 [zumfachwirt.de] Aufbauorganisation und Ablauforganisation Teil 1
 # Aufbau- und Ablauforganisation
 ## Grundsätze für eine gute Aufbauorganisation
