@@ -351,4 +351,4 @@ Libary
 
 
 #### Voluntourism
-volunteering in another count
+volunteering in another country

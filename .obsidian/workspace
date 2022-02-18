@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Englisch/Vocabulary.md",
+            "file": "Geschichte/Geschichte Mitschrift.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Englisch/Vocabulary.md",
+                "file": "Geschichte/Geschichte Mitschrift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,7 @@
   },
   "active": "248819b88ecccf3e",
   "lastOpenFiles": [
+    "Geschichte/Geschichte Mitschrift.md",
     "Englisch/Vocabulary.md",
     "SEW/SEW Mitschrift.md",
     "ITP/ITP Ergänzungen.md",
@@ -104,7 +105,6 @@
     "SYT/Linux Commands.md",
     "Deutsch/Deutsch Mitschrift.md",
     "Medieshop/GIT.md",
-    "Medientechnik/Git Mitschrift für Win.md",
-    "Geschichte/Geschichte Mitschrift.md"
+    "Medientechnik/Git Mitschrift für Win.md"
   ]
 }
