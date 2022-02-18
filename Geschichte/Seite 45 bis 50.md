@@ -17,4 +17,11 @@ S. 50 Aufgaben
 | Turmwächter                      |                         |
 | Dirnen                           |                         |
 
+| Grund für unehrlichkeit       | Berufe                                              |
+| ----------------------------- | --------------------------------------------------- |
+| Schmutz, Strafte und Tod      | Büttel, Straßenkehrer, Totengräber, Schafrichter    |
+| nicht Ortsfest oder Herrenlos | Lumpensammler, Spielleute, Kesselflicker, Hausierer | 
+
+
+Alle Berufe sind heutzutage wichtig und somit sollte keiner "unehrlich" sein
 
