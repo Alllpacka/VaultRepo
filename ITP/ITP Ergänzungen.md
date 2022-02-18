@@ -1,3 +1,4 @@
+!93 bis 98
 [zumfachwirt.de] Aufbauorganisation und Ablauforganisation Teil 1
 # Aufbau- und Ablauforganisation
 ## Grundsätze für eine gute Aufbauorganisation
@@ -39,13 +40,13 @@ Entscheidungswege sind kürzer und Umsetzung der Entscheidungen effektiver (Komp
 Höhere Akzeptanz, da entscheidungen nich von "oben" angeordnet werden
 
 
- ## Organigramme
+## Organigramme
 
- grafische Darstellung der Aufgabauorganisation
- hierarchische Strukturen
- Unterstellungsverhältnisse
- Aufgabenverteilung
- Veziehungen der einheiten unterinander
+grafische Darstellung der Aufgabauorganisation
+hierarchische Strukturen
+Unterstellungsverhältnisse
+Aufgabenverteilung
+Veziehungen der einheiten unterinander
 
 
  ## Einlinienorganisation
@@ -56,6 +57,16 @@ Höhere Akzeptanz, da entscheidungen nich von "oben" angeordnet werden
 
  linienorganisation
  stablinienorganisation
-spatenorganisaton
+ spatenorganisaton
 
-## 
+## Mehrlinienorganisation
+
+vorteile
+direkt kürzere kommunkikatonswege
+flexibler
+ausgelich zwischen dne führungskräften
+
+nachteile
+mehrfachunterstellungen
+keine klare kompetzenverteilung
+
