@@ -10,4 +10,11 @@ Die Dreifelderwirtschaft verbesserte sich zur Vierfelderwirtschaft und es wurden
 
 S. 50 Aufgaben
 
-| 
+| Beruf                            | Grund für unehrlichkeit |
+| -------------------------------- | ----------------------- |
+| Abdecker, Büttel und Totengräber | Viel kontakt mit Toten  | 
+| Gerber                           |                         |
+| Turmwächter                      |                         |
+| Dirnen                           |                         |
+
+
