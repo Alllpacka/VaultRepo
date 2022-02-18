@@ -10,13 +10,6 @@ Die Dreifelderwirtschaft verbesserte sich zur Vierfelderwirtschaft und es wurden
 
 S. 50 Aufgaben
 
-| Beruf                            | Grund für unehrlichkeit |
-| -------------------------------- | ----------------------- |
-| Abdecker, Büttel und Totengräber | Viel kontakt mit Toten  | 
-| Gerber                           |                         |
-| Turmwächter                      |                         |
-| Dirnen                           |                         |
-
 | Grund für unehrlichkeit       | Berufe                                              |
 | ----------------------------- | --------------------------------------------------- |
 | Schmutz, Strafte und Tod      | Büttel, Straßenkehrer, Totengräber, Schafrichter    |
@@ -24,4 +17,6 @@ S. 50 Aufgaben
 
 
 Alle Berufe sind heutzutage wichtig und somit sollte keiner "unehrlich" sein
+
+Knechte und Mägde durften nicht heiraten weil sie als Arbeitskräfte zu gebrauchen waren.
 
