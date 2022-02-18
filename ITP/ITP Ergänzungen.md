@@ -48,4 +48,14 @@ Höhere Akzeptanz, da entscheidungen nich von "oben" angeordnet werden
  Veziehungen der einheiten unterinander
 
 
- ## 
+ ## Einlinienorganisation
+
+ jeder MA hat einen direkten vorgesetzen von dem er anweisungen erhält und jede stelle eine übergeordnete stellen
+
+ es gibt verscheidene Formen
+
+ linienorganisation
+ stablinienorganisation
+spatenorganisaton
+
+## 
