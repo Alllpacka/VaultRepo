@@ -1,4 +1,4 @@
-[zumfachwirt.de]
+[zumfachwirt.de] Aufbauorganisation und Ablauforganisation Teil 1
 # Aufbau- und Ablauforganisation
 ## Grundsätze für eine gute Aufbauorganisation
 Zweckmäßigkeit (soll zu gutem Ergäbnis führen)
