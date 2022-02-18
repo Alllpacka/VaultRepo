@@ -39,4 +39,13 @@ Entscheidungswege sind kürzer und Umsetzung der Entscheidungen effektiver (Komp
 Höhere Akzeptanz, da entscheidungen nich von "oben" angeordnet werden
 
 
+ ## Organigramme
+
+ grafische Darstellung der Aufgabauorganisation
+ hierarchische Strukturen
+ Unterstellungsverhältnisse
+ Aufgabenverteilung
+ Veziehungen der einheiten unterinander
+
+
  ## 
