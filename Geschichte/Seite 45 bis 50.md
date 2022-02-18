@@ -20,3 +20,4 @@ Alle Berufe sind heutzutage wichtig und somit sollte keiner "unehrlich" sein
 
 Knechte und Mägde durften nicht heiraten weil sie als Arbeitskräfte zu gebrauchen waren.
 
+
