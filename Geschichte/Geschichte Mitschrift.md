@@ -8,3 +8,7 @@ zeiteinteilung kalender jüdisch
 						gregorianisch
 						
 Merkmale Früher Hochkulturen
+
+
+start 45 ende 50
+
