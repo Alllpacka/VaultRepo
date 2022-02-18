@@ -12,7 +12,7 @@ Die Dreifelderwirtschaft verbesserte sich zur Vierfelderwirtschaft und es wurden
 
 | Grund für unehrlichkeit       | Berufe                                              |
 | ----------------------------- | --------------------------------------------------- |
-| Schmutz, Strafte und Tod      | Büttel, Straßenkehrer, Totengräber, Schafrichter    |
+| Schmutz, Strafe und Tod      | Büttel, Straßenkehrer, Totengräber, Schafrichter    |
 | nicht Ortsfest oder Herrenlos | Lumpensammler, Spielleute, Kesselflicker, Hausierer | 
 
 
@@ -21,4 +21,6 @@ Alle Berufe sind heutzutage wichtig und somit sollte keiner "unehrlich" sein
 Knechte und Mägde durften nicht heiraten weil sie als Arbeitskräfte zu gebrauchen waren.
 
 Arme im Mittelalter wurdne von Reichen für die Almosen genutzt um sich einen Platz im Himmel zu sichern.
+
+Die Kirche duldete die Prostitution, für unverheiratete Männer, da sie fanden dass die unausgelebte Sexualität bedrohlich für die Gesellschaft wäre. 
 
