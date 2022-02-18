@@ -12,7 +12,7 @@ Die Dreifelderwirtschaft verbesserte sich zur Vierfelderwirtschaft und es wurden
 
 | Grund für unehrlichkeit       | Berufe                                              |
 | ----------------------------- | --------------------------------------------------- |
-| Schmutz, Strafe und Tod      | Büttel, Straßenkehrer, Totengräber, Schafrichter    |
+| Schmutz, Strafe und Tod       | Büttel, Straßenkehrer, Totengräber, Schafrichter    |
 | nicht Ortsfest oder Herrenlos | Lumpensammler, Spielleute, Kesselflicker, Hausierer | 
 
 
@@ -24,3 +24,4 @@ Arme im Mittelalter wurdne von Reichen für die Almosen genutzt um sich einen Pl
 
 Die Kirche duldete die Prostitution, für unverheiratete Männer, da sie fanden dass die unausgelebte Sexualität bedrohlich für die Gesellschaft wäre. 
 
+Der Stadtherr war an der Spitze der feudalen Ordnung und konnte weltlicher oder geistlicher Fürst sein
