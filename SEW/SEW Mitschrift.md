@@ -493,6 +493,7 @@ public boolean equals(Objekt o) {
 ~~~
 
 
+#Referenz
  ### **Referenz**
 
  wird eine Variable kopiert, wird die **Referenz** auf das eigentliche Objekt kopiert, das heißt, dass beide Variablen auf das selbe Objekt verweisen.
