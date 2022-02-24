@@ -57,13 +57,13 @@ fi
 
 if [ $1 -eq $2 ]
 then
-	echo Parameter 1 $1 und Parameter 2 $2 sind gleich
+	echo $1 und $2 sind gleich
 elif [ $1 -gt $2 ]
 then
-	echo Parameter 1 $1 ist größer als Parameter 2 $2
+	echo $1 ist größer als $2
 elif [ $1 -lt $2 ]
 then
-	echo Parameter 1 $1 ist kleiner als Parameter 2 $2
+	echo $1 ist kleiner als $2
 fi
 
 ~~~
