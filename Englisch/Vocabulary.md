@@ -361,3 +361,6 @@ regenative travel
 <u>interpersonal</u>
 <u>Intercultural</u>    communtication
 
+making a spectable out of poverty
+deliberately squalid
+->on purpose     ->bad
