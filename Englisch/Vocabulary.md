@@ -344,11 +344,19 @@ sworn neutrality
 meals on wheels
 Libary
 	-> woman's shelter
-
+extinct
+endangered species
 
 #### Voluntourism
 volunteering in another country
 
-##### Benefits
 regenative travel
 	-> leaving the place better than you found it
+
+1. Teaching
+2. Wildlife conseration
+3. Restoration + community development
+	-> building houses/infrastructure    -> helping homeless, womans empowerment
+
+interpersonal
+Intercultural    communtication
