@@ -358,5 +358,5 @@ regenative travel
 3. Restoration + community development
 	-> building houses/infrastructure    -> helping homeless, womans empowerment
 
-interpersonal
-Intercultural    communtication
+<u>interpersonal</u>
+<u>Intercultural</u>    communtication
