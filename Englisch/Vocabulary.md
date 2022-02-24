@@ -328,10 +328,6 @@ ex. video ads (YT; commercials)
 ### Volunteering & Volutourism
 #### selfless
 
- soup kitchen
- food shelf
- city clean up
- volunteer fire fighter / brigade
 
 | Volunteering work                |     |
 | -------------------------------- | --- |
@@ -352,3 +348,7 @@ Libary
 
 #### Voluntourism
 volunteering in another country
+
+##### Benefits
+regenative travel
+	-> leaving the place better than you found it
