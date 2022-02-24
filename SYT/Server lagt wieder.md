@@ -43,9 +43,19 @@ then
 
 ~~~bash
 #!/bin/bash
+if [ -z $1 ]
+	echo "Es gibt keinen ersten Parameter"
+elif [ -z $2 ]
+	echo "Es gibt keine zweiten Parameter"
+else
+	echo "Parameter 1 ist:" $1
+	echo "Parameter 2 ist:" $2
+fi
 
-echo Parameter 1 ist: $1
-echo Parameter 2 ist: $2
-
+if [ $1 -eq $2 ]
+	echo "Parameter 1 und Parameter 2 sind gleich"
+elif [ $1 -gt $2 ]
+	echo "Parameter 1 ist größer als Parameter "
+fi
 
 ~~~
