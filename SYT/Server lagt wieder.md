@@ -40,3 +40,12 @@ if [ -d $1 ]
 then 
 	
 ~~~
+
+~~~bash
+#!/bin/bash
+
+echo Parameter 1 ist: $1
+echo Parameter 2 ist: $2
+
+
+~~~

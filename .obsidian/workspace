@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SEW/SEW Mitschrift.md",
+            "file": "SYT/Server lagt wieder.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW/SEW Mitschrift.md",
+                "file": "SYT/Server lagt wieder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,17 +93,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "248819b88ecccf3e",
   "lastOpenFiles": [
+    "SYT/Server lagt wieder.md",
+    "SYT/Linux Commands.md",
     "SEW/SEW Mitschrift.md",
     "ITP/ITP Ergänzungen.md",
     "Geschichte/Seite 45 bis 50.md",
     "Geschichte/Geschichte Mitschrift.md",
     "Englisch/Vocabulary.md",
-    "SYT/Server lagt wieder.md",
-    "SYT/Linux Commands.md",
     "Deutsch/Deutsch Mitschrift.md",
     "Mediashop/GIT.md",
     "Medientechnik/Git Mitschrift für Win.md"
