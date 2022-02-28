@@ -152,4 +152,5 @@ Hier gibt es einige Formulierungshilfen. Achten Sie bitte darauf, dass hier "Art
 
  - <u>Einleitung</u>, **Hauptteil** und Schluss
  - <u>Einleitung</u>: Autor, Titel, Erscheinungsort, Erscheinungsdatum, Thema, Textart; szenischer Einstieg
- - **Hauptteil**: Diskussion mit Argumenten (3-B-Schema) -> Gleichgewicht zwischen Pro- und Kontraargumenten, Reihung ist unwichtig (**pro**, pro, kontra, **kontra**; **pro**, kontra, pro, **kontra**, etc), wichtig ist aber, dass die Argumente steigend gereiht
+ - **Hauptteil**: Diskussion mit Argumenten (3-B-Schema) -> Gleichgewicht zwischen Pro- und Kontraargumenten, Reihung ist unwichtig (**pro**, pro, kontra, **kontra**; **pro**, kontra, pro, **kontra**, etc), wichtig ist aber, dass die Argumente steigend gereiht werden; 1. Teil des HTs -> kurze Zusammenfassung (2-3 (4) Sätze)
+ - Schluss: kurze Zusammenfassung er Vor- und Nachteile, Stellung beziehen (evtl. eigene Meinung)
