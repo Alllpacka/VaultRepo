@@ -152,4 +152,4 @@ Hier gibt es einige Formulierungshilfen. Achten Sie bitte darauf, dass hier "Art
 
  - <u>Einleitung</u>, **Hauptteil** und Schluss
  - <u>Einleitung</u>: Autor, Titel, Erscheinungsort, Erscheinungsdatum, Thema, Textart; szenischer Einstieg
- - **Hauptteil**: Diskussion mit Argument
+ - **Hauptteil**: Diskussion mit Argumenten (3-B-Schema) -> Gleichgewicht zwischen Pro- und Kontraargumenten, Reihung ist unwichtig (**pro**, pro, kontra, **kontra**; **pro**, kontra, pro, **kontra**, etc), wichtig ist aber, dass die Argumente steigend gereiht
