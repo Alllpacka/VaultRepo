@@ -145,4 +145,11 @@ Hier gibt es einige Formulierungshilfen. Achten Sie bitte darauf, dass hier "Art
 
 
 
- 
+ #Erörterung
+ # Die Erörterung
+
+ ## Aufbau einer Erörterung
+
+ - <u>Einleitung</u>, **Hauptteil** und Schluss
+ - <u>Einleitung</u>: Autor, Titel, Erscheinungsort, Erscheinungsdatum, Thema, Textart; szenischer Einstieg
+ - **Hauptteil**: Diskussion mit Argument
