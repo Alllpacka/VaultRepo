@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Deutsch/Deutsch Mitschrift.md",
+            "file": "SEW/SEW Mitschrift.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/Deutsch Mitschrift.md",
+                "file": "SEW/SEW Mitschrift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,12 +98,12 @@
   },
   "active": "248819b88ecccf3e",
   "lastOpenFiles": [
+    "SEW/SEW Mitschrift.md",
     "Deutsch/Deutsch Mitschrift.md",
     "Geschichte/Seite 45 bis 50.md",
     "Englisch/Vocabulary.md",
     "SYT/Server lagt wieder.md",
     "SYT/Linux Commands.md",
-    "SEW/SEW Mitschrift.md",
     "ITP/ITP Ergänzungen.md",
     "Geschichte/Geschichte Mitschrift.md",
     "Mediashop/GIT.md",
