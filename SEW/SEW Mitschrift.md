@@ -508,10 +508,10 @@ public boolean equals(Objekt o) {
  ba2.getBalance(); // 5000.0
 ~~~
 
+#compareTo
+### compareTo()
 
-compareTo()
-
-- Zwei Objekte x und y müssen vergleichbar sein
-- Ein Aufruf von x.compareTo(y), muss einen negativen Wert, den Wert 0 oder einen positiven Wert liefern, je nachdem, ob x kleiner als y, x gleich y oder x größer als y ist.
-- compareTo() sollte konsitent zu equals() implementiert werden:
-	- x.compareTo()
+- Zwei Objekte **x** und **y** müssen vergleichbar sein
+- Ein Aufruf von *x.compareTo(y)*, muss einen negativen Wert, den Wert **0** oder einen positiven Wert liefern, je nachdem, ob **x** kleiner als **y**, **x** gleich **y** oder **x** größer als **y** ist.
+- *compareTo()* sollte konsitent zu *equals()* implementiert werden:
+	- *x.compareTo(y) == 0* liefert den gleichen Wert wie *x.equals(y)*
