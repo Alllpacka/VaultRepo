@@ -507,5 +507,3 @@ public boolean equals(Objekt o) {
  ba1.getBalance(); // 5000.0
  ba2.getBalance(); // 5000.0
 ~~~
-
-don't care + didn't ask + ratio + hexagon + L + if-Schleife + 
