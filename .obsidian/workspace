@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SYT/32.900 Ping Gang.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "3b88da65e0da9897",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SYT/Linux Commands.md",
+            "file": "ITP/ITP Ergänzungen.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SYT/32.900 Ping Gang.md",
+                "file": "ITP/ITP Ergänzungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,9 +88,9 @@
   },
   "active": "46afc666da9b6bfe",
   "lastOpenFiles": [
+    "ITP/ITP Ergänzungen.md",
     "SYT/32.900 Ping Gang.md",
     "SYT/Linux Commands.md",
-    "ITP/ITP Ergänzungen.md",
     "conflict-files-obsidian-git.md",
     "SEW/SEW Mitschrift.md",
     "Englisch/Vocabulary.md",
