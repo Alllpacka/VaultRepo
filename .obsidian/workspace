@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "ITP/ITP Ergänzungen.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "ITP/ITP Ergänzungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "46afc666da9b6bfe",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "ITP/ITP Ergänzungen.md",
+    "conflict-files-obsidian-git.md",
     "SEW/SEW Mitschrift.md",
     "Englisch/Vocabulary.md",
     "Deutsch/Deutsch Mitschrift.md",
