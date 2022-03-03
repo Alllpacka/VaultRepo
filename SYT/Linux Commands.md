@@ -67,6 +67,7 @@ ssh user8@172.16.5.55
 
 #Scrips
 
+#ifSchleife
 ## if-Schleife
 
 -b _file_      True if _file_ is a Block special device. [[ -b demofile ]]

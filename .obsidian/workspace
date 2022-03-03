@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ITP/ITP Ergänzungen.md",
+            "file": "SYT/32.900 Ping Gang.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "3b88da65e0da9897",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SYT/Linux Commands.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITP/ITP Ergänzungen.md",
+                "file": "SYT/32.900 Ping Gang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +100,8 @@
   },
   "active": "46afc666da9b6bfe",
   "lastOpenFiles": [
+    "SYT/32.900 Ping Gang.md",
+    "SYT/Linux Commands.md",
     "ITP/ITP Ergänzungen.md",
     "conflict-files-obsidian-git.md",
     "SEW/SEW Mitschrift.md",
@@ -95,7 +109,6 @@
     "Deutsch/Deutsch Mitschrift.md",
     "Geschichte/Geschichte Mitschrift.md",
     "Medientechnik/Medientechnik Mitschrift.md",
-    "Medientechnik/Git Mitschrift für Win.md",
-    "cool.md"
+    "Medientechnik/Git Mitschrift für Win.md"
   ]
 }
