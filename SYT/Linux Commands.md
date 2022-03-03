@@ -117,3 +117,4 @@ ps process status
 \$$
 \$* alle Parameter
 \$1 ... \$9 Parameter 
+
