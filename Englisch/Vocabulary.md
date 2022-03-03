@@ -314,7 +314,7 @@ a (big) corporation Konzern
 
 
 
-Advertising
+### Advertising
 to advertise
 advertisment
 ex. video ads (YT; commercials)
@@ -323,3 +323,44 @@ ex. video ads (YT; commercials)
 	walls
 	billboard
 
+
+
+### Volunteering & Volutourism
+#### selfless
+
+
+| Volunteering work                |     |
+| -------------------------------- | --- |
+| volunteer fire fighter / brigade |     |
+| city clean up                    |     |
+| food shelf                       |     |
+| soup kitchen                     |     |
+| fundraising                      |     |
+| animal shelter                   |     |
+|      -> endangered species       |     |
+| wildlife conservation            |     |
+
+sworn neutrality
+meals on wheels
+Libary
+	-> woman's shelter
+extinct
+endangered species
+
+#### Voluntourism
+volunteering in another country
+
+regenative travel
+	-> leaving the place better than you found it
+
+1. Teaching
+2. Wildlife conseration
+3. Restoration + community development
+	-> building houses/infrastructure    -> helping homeless, womans empowerment
+
+<u>interpersonal</u>
+<u>Intercultural</u>    communtication
+
+making a spectable out of poverty
+deliberately squalid
+->on purpose     ->bad

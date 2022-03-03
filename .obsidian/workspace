@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "20882ba737aff11f",
+        "id": "46afc666da9b6bfe",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SEW/SEW Mitschrift.md",
+            "file": "conflict-files-obsidian-git.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW/SEW Mitschrift.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,10 +86,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "20882ba737aff11f",
+  "active": "46afc666da9b6bfe",
   "lastOpenFiles": [
-    "SEW/SEW Mitschrift.md",
     "conflict-files-obsidian-git.md",
+    "ITP/ITP Ergänzungen.md",
+    "SEW/SEW Mitschrift.md",
     "Englisch/Vocabulary.md",
     "Deutsch/Deutsch Mitschrift.md",
     "Geschichte/Geschichte Mitschrift.md",
