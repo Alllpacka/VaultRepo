@@ -71,5 +71,9 @@ fi
 
 ~~~bash
 #!/bin/bash
-echo 
+echo Geben Sie etwas ein
+
+read input
+
+echo Es wurde $input eingegeben
 ~~~
