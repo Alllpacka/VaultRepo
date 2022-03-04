@@ -32,7 +32,7 @@ Vertretungskompetenzen
 
 Führt zu Spezialisierung der einzelnen Stellen, da sie sich nur mit ihren konkreten aufgaben auseinandersetzen müssen
 
-Entscheidungswege sind kürzer und Umsetzung der Entscheidungen effektiver (Kompetenzen sind)
+Entscheidungswege sind kürzer und Umsetzung der Entscheidungen effektiver (Kompetenzen sind klar geregelt)
 
 ## Dezentralisation
 
