@@ -377,3 +377,36 @@ mass communication  -> spread information to many people
 #### apps
 discord
 reddit
+twitter
+yt
+
+#### watching shows/videos
+news
+yt
+streaming services
+
+#### reading
+newspaper
+
+
+### digital footprint
+everyone has a footprint
+
+#### active footprint
+deliberately shared information
+
+posts
+calls
+location
+emails
+comments
+
+#### passive footprint
+information collected without you knowing
+
+browsing history
+divice information
+frequent websites
+ip address
+medical records
+tax records
