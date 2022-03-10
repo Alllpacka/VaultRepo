@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SEW/SEW Mitschrift.md",
+            "file": "SYT/Linux Commands.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW/SEW Mitschrift.md",
+                "file": "SYT/Linux Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,14 +84,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "46afc666da9b6bfe",
   "lastOpenFiles": [
+    "SYT/Linux Commands.md",
+    "SYT/32.900 Ping Gang.md",
     "SEW/SEW Mitschrift.md",
     "ITP/ITP Ergänzungen.md",
-    "SYT/32.900 Ping Gang.md",
-    "SYT/Linux Commands.md",
     "conflict-files-obsidian-git.md",
     "Englisch/Vocabulary.md",
     "Deutsch/Deutsch Mitschrift.md",
