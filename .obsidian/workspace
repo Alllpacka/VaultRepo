@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SYT/Linux Commands.md",
+            "file": "SYT/32.900 Ping Gang.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SYT/Linux Commands.md",
+                "file": "SYT/32.900 Ping Gang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "46afc666da9b6bfe",
   "lastOpenFiles": [
-    "SYT/Linux Commands.md",
     "SYT/32.900 Ping Gang.md",
+    "SYT/Linux Commands.md",
     "SEW/SEW Mitschrift.md",
     "ITP/ITP Ergänzungen.md",
     "conflict-files-obsidian-git.md",
