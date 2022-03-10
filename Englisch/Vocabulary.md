@@ -410,3 +410,9 @@ frequent websites
 ip address
 medical records
 tax records
+
+
+
+
+### homework
+group 2: 5 - 8
