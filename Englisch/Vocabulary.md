@@ -364,3 +364,16 @@ regenative travel
 making a spectable out of poverty
 deliberately squalid
 ->on purpose     ->bad
+
+
+
+## Media
+
+### what is media
+mass communication  -> spread information to many people
+
+### consuming media
+
+#### apps
+discord
+reddit
