@@ -27,3 +27,16 @@ erweiterung kostenspielig
 stammen aus vielen ländern 
 viele beleidigungen
 viele erlasse zur müllentsorgung
+viele erhöhungen des bodens
+viel ungeziefer
+viele tötliche krankheiten
+holzschuhe als modisch
+unwetter wird vorhergesagt und speziell geläutet
+brotmangel
+frost
+kleine eiszeit
+oberschichts teil der stadt
+bleifenster
+antike bücher wichtig für ärzte
+schwarze- gelbe galle, schleim; blut
+müssen im gleichgewicht sein
