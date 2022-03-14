@@ -8,4 +8,9 @@ Protokolle:
 + UDP         user Datagram P.
 
 TCP: + Verbindungs-Orientiert
-  
+        + Flow Control
+        + Vollständige auslieferung
+           Fehlerhafte Segmente
+           werden wiederhohlt
+        + richtige Reihenfolge der Segmente
+        + 
