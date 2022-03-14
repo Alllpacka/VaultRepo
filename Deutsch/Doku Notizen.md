@@ -40,3 +40,7 @@ bleifenster
 antike bücher wichtig für ärzte
 schwarze- gelbe galle, schleim; blut
 müssen im gleichgewicht sein
+glaube an magie
+mumienpulver
+salben werden selbst hergestellt
+arztnei aus mittelalter kann neue viren besiegen
