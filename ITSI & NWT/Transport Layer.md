@@ -10,7 +10,6 @@ Protokolle:
 TCP: + Verbindungs-Orientiert
         + Flow Control
         + Vollständige auslieferung
-           Fehlerhafte Segmente
-           werden wiederhohlt
+           Fehlerhafte Segmente werden wiederholt
         + richtige Reihenfolge der Segmente
         + 
