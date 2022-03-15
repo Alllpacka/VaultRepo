@@ -12,4 +12,7 @@ TCP: + Verbindungs-Orientiert
         + Vollständige auslieferung
            Fehlerhafte Segmente werden wiederholt
         + richtige Reihenfolge der Segmente
-        + 
+
+	SYN
+	SYN, ACK
+	ACK
