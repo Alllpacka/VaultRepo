@@ -5,7 +5,7 @@ Adresssen: Ports
 
 Protokolle:
 + TCP          Transmission Control P.
-+ UDP         user Datagram P.
++ UDP         User Datagram P.
 
 TCP: + Verbindungs-Orientiert
         + Flow Control
