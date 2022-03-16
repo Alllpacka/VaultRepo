@@ -536,4 +536,15 @@ public class Book implements Comparable<Book> {
    Das erste Zeichen von s1 wird mit dem ersten Zeichen von s2. Ist es kleiner, wird eine negative zahl zurückgegeben, ist es größer, eine positive Zahl. Sind di ebeiden ersten Zeichen gleich, wird das nächste Zeichen untersucht.
 + ...
 
-#lex
+#lexikalisch: die Untersuchung von isolierten Wörtern ohne Berücksichtigung des Textzusammenhangs betreffend
+
+### clone()
++ lieert eine "Kopie" (einen "Klon") des Objekts
++ zur Erinnerung: **Date d2 = d1;** erzeugt ur eine neure Referenz, keine Kopie! (Änderung in **d2** wirken sich auch auf **d1** aus!)
++ für Kopie: **d2 = d1.clone();**
+
+~~~java
+public Object clone() {
+	return new Object(this.attr1, this.attr2, this.attr3,...);
+}
+~~~
