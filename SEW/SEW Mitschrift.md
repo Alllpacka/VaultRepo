@@ -518,4 +518,12 @@ public boolean equals(Objekt o) {
 - Anwendungsfall z.B. **Arrays.sort()**
 	- nur im Zusammenhang mit: **implements Comparable<** *Klasse* **>**
 
-~~~ja
+~~~java
+public class Book implements Comparable<Book> {
+
+	@Override
+	public int compateTo(Book other) {...}
+	
+}
+~~~
+
