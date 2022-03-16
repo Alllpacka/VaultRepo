@@ -527,3 +527,13 @@ public class Book implements Comparable<Book> {
 }
 ~~~
 
+### Vergleichsmethoden
+#### am Beispiel String
+
++ **equals()** überprüft die *inhaltliche Gleichheit*
++ **equalsIgnoreCase()** wie equals(), allerdings wird *Groß-/Kleinschreibung ignoriert*
++ **compareTo()** *lexikalischer Vergleich*. Prüft, ob die Inhalte der Zeichenketten kleiner, gleich oder größer als andere ist. 
+   Das erste Zeichen von s1 wird mit dem ersten Zeichen von s2. Ist es kleiner, wird eine negative zahl zurückgegeben, ist es größer, eine positive Zahl. Sind di ebeiden ersten Zeichen gleich, wird das nächste Zeichen untersucht.
++ ...
+
+#lex
