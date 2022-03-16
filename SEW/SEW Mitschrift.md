@@ -539,24 +539,26 @@ public class Book implements Comparable<Book> {
 #lexikalisch: die Untersuchung von isolierten Wörtern ohne Berücksichtigung des Textzusammenhangs betreffend
 
 ### clone()
+
 + lieert eine "Kopie" (einen "Klon") des Objekts
 + zur Erinnerung: **Date d2 = d1;** erzeugt ur eine neure Referenz, keine Kopie! (Änderung in **d2** wirken sich auch auf **d1** aus!)
 + für Kopie: **d2 = d1.clone();**
 
 ~~~java
 public Object clone() {
-	return new Object(this.attr1, this.attr2, this.attr3,...);
+	return new Object(this.attr1, this.attr2, this.attr3, ...);
 }
 ~~~
 
 
 ### hashCode()
+
 + liefert einen ganzzahligen Wert ("Hashcode"), der z.B. für die Speicherung in "Hash-Tabellen" benötigt wird
 + sollte immer gemeinsam mit equals() implementiert werden
 + sind zwei Objekte gleich, müssen sie auch den gleichen Hashcode liefern (vgl. equals muss true liefern, wenn Objekte gleich sind)
 
 ~~~java
 public int hashCode() {
-	re
+	return Objects.hash(this.attr1, this.attr2, this. attr3, ...);
 }
 ~~~
