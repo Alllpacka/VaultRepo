@@ -548,3 +548,15 @@ public Object clone() {
 	return new Object(this.attr1, this.attr2, this.attr3,...);
 }
 ~~~
+
+
+### hashCode()
++ liefert einen ganzzahligen Wert ("Hashcode"), der z.B. für die Speicherung in "Hash-Tabellen" benötigt wird
++ sollte immer gemeinsam mit equals() implementiert werden
++ sind zwei Objekte gleich, müssen sie auch den gleichen Hashcode liefern (vgl. equals muss true liefern, wenn Objekte gleich sind)
+
+~~~java
+public int hashCode() {
+	re
+}
+~~~
