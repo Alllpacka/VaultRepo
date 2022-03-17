@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#simpleloops",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,11 +99,11 @@
   "active": "fda440d7873b28f7",
   "lastOpenFiles": [
     "SYT/Linux Commands.md",
+    "SYT/32.900 Ping Gang.md",
     "SEW/SEW Mitschrift.md",
     "ITSI & NWT/Transport Layer.md",
     "Deutsch/Doku Notizen.md",
     "Englisch/Vocabulary.md",
-    "SYT/32.900 Ping Gang.md",
     "ITP/ITP Ergänzungen.md",
     "conflict-files-obsidian-git.md",
     "Deutsch/Deutsch Mitschrift.md",

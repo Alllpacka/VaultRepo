@@ -1,8 +1,11 @@
-#Anmeldung
-
+#login
+## login
 ~~~cmd
 ssh user8@172.16.5.55
 ~~~
+
+#commands
+## commands
 *passwd* to change password
 
 *who* to see who is in the network
@@ -111,24 +114,25 @@ ssh user8@172.16.5.55
 
 _file_1 -ef _file_2    True if _file_1 and _file_2 have the same device and inode numbers,  i.e. they are hard links to each other.
 
-
+#parameter
+## parameters
 ps process status
 
-\$0 Programm selbst
+\$0 the programm itself
 \$$
-\$* alle Parameter
+\$* all Parameter
 \$1 ... \$9 Parameter 
 
 
 
-#simpleloops
-
+#loops
+## loops
 simple loop: 
 
 ~~~bash
 for i in {numbers}
 	do
-		... $ #<- access to loop variable
+		... $i #<- access to loop variable
 done
 ~~~
 
@@ -141,4 +145,13 @@ for i in {number..number}
 done
 ~~~
 
-range loop with c
+range loop with custom increment:
+
+~~~bash
+for i in {number..incNumber..number}
+	do              #^ sets the increment
+		...
+done
+~~~
+
+
