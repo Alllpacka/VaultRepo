@@ -119,3 +119,26 @@ ps process status
 \$* alle Parameter
 \$1 ... \$9 Parameter 
 
+
+
+#simpleloops
+
+simple loop: 
+
+~~~bash
+for i in {numbers}
+	do
+		... $ #<- access to loop variable
+done
+~~~
+
+range loop:
+
+~~~bash
+for i in {number..number}
+	do         #^ adds one to the number (until second number is reached)
+		...
+done
+~~~
+
+range loop with c
