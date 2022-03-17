@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "46afc666da9b6bfe",
+        "id": "fda440d7873b28f7",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -79,15 +79,24 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "7273aa2caba0930a",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "46afc666da9b6bfe",
+  "active": "fda440d7873b28f7",
   "lastOpenFiles": [
     "SEW/SEW Mitschrift.md",
     "ITSI & NWT/Transport Layer.md",

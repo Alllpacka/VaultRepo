@@ -1,4 +1,9 @@
 [
   "obsidian-git",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-dictionary-plugin",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-icons-plugin",
+  "obsidian-mind-map",
+  "nldates-obsidian"
 ]
