@@ -44,3 +44,8 @@ glaube an magie
 mumienpulver
 salben werden selbst hergestellt
 arztnei aus mittelalter kann neue viren besiegen
+teste an pazienten
+mitglied einer zunft
+ehrenstrafen
+tiermasken
+markt aus fernen ländern
