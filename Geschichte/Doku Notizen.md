@@ -44,8 +44,12 @@ glaube an magie
 mumienpulver
 salben werden selbst hergestellt
 arztnei aus mittelalter kann neue viren besiegen
-teste an pazienten
+testung an pazienten
 mitglied einer zunft
 ehrenstrafen
 tiermasken
 markt aus fernen ländern
+biebeldruck
+freizeit wird in wirtshäusern verbracht
+viel alk
+bier gesünder als wasser
