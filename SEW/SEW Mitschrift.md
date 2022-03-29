@@ -538,6 +538,7 @@ public class Book implements Comparable<Book> {
 
 #lexikalisch: die Untersuchung von isolierten Wörtern ohne Berücksichtigung des Textzusammenhangs betreffend
 
+#clone
 ### clone()
 
 + lieert eine "Kopie" (einen "Klon") des Objekts
@@ -550,7 +551,7 @@ public Object clone() {
 }
 ~~~
 
-
+#hashCode
 ### hashCode()
 
 + liefert einen ganzzahligen Wert ("Hashcode"), der z.B. für die Speicherung in "Hash-Tabellen" benötigt wird
@@ -561,4 +562,11 @@ public Object clone() {
 public int hashCode() {
 	return Objects.hash(this.attr1, this.attr2, this. attr3, ...);
 }
+~~~
+
+#typeCast
+### type cast
+
+~~~java
+	Nonsens nonsense = (Nonsense) other;
 ~~~
