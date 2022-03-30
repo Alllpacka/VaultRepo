@@ -522,8 +522,21 @@ public boolean equals(Objekt o) {
 public class Book implements Comparable<Book> {
 
 	@Override
-	public int compateTo(Book other) {...}
-	
+	public int compateTo(Book other) {
+		if (this.attribut1 == other.attribut1) {
+			if (this.attribut2 == other.attribut2) {
+				if (this.attribut3 == other.attrinut3) {
+					return 0;
+				} else {
+					return this.attribut3 - other.attribut3;
+				}
+			} else {
+				return this.attribut2 - other.attribut2;
+			}
+		} else {
+			return this.attribut1 - other.attribut1;
+		}
+	}
 }
 ~~~
 
