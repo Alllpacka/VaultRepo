@@ -491,7 +491,14 @@ public boolean equals(Objekt o) {
 	return this.attr1 == 0.attr1 && this.attr2 == o.attr2;
 }
 ~~~
-
+~~~java
+Override
+public boolean equals(Object o) {
+	if (this == o) return true;
+	if (o == null || getClass() != o.getClass()) return false;
+	[Originclass] [originclass] = ([Orig])
+}
+~~~
 
 #Referenz
  ### **Referenz**
