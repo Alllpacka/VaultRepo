@@ -496,7 +496,8 @@ Override
 public boolean equals(Object o) {
 	if (this == o) return true;
 	if (o == null || getClass() != o.getClass()) return false;
-	[Originclass] [originclass] = ([Orig])
+	[Originclass] [originclass] = ([Originclass)] o;
+	return attribut1 == originclass.attribut1 && attribut2 == originclass.attribut2 && attribut3 == originclass.attribut3 && ...;
 }
 ~~~
 
