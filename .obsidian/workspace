@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#simpleloops",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,14 +99,14 @@
   "active": "fda440d7873b28f7",
   "lastOpenFiles": [
     "SEW/SEW Mitschrift.md",
+    "SYT/Linux Commands.md",
+    "SYT/32.900 Ping Gang.md",
+    "Deutsch/Deutsch Mitschrift.md",
     "ITSI & NWT/Transport Layer.md",
     "Geschichte/Doku Notizen.md",
     "Geschichte/Geschichte Mitschrift.md",
     "Geschichte/Seite 45 bis 50.md",
-    "SYT/Linux Commands.md",
     "Mediashop/GIT.md",
-    "Medientechnik/Medientechnik Mitschrift.md",
-    "SYT/32.900 Ping Gang.md",
-    "Englisch/Vocabulary.md"
+    "Medientechnik/Medientechnik Mitschrift.md"
   ]
 }
