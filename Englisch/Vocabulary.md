@@ -459,4 +459,5 @@ group 2: 5 - 8
 | to prescribe               | verschreiben   | 
 | to earn a beach body       |                |
 
-revision nach osterferien??
+revision nach osterferien?? 28.4.
+
