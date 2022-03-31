@@ -420,23 +420,42 @@ group 2: 5 - 8
 
 
 ## Unit 8
-| Unit 8                     |     |
-| -------------------------- | --- |
-| to relieve stress          |     |
-| to keep mentally active    |     |
-| to boost the energy level  |     |
-| to improve your mood       |     |
-| moderate physical activity |     |
-| demanding                  |     |
-| to benefit                 |     |
-| endorphins                 |     |
-| self-esteem                |     |
-| sense of achievement       |     |
-| pride                      |     |
-| to be proud                |     |
-| to speed up the metabolism |     |
-| to age well                |     |
-| to quicken the breathing   |     |
-| limbs                      |     |
-| abdomen                    |     |
-|                            |     |
+| Vocabolary                 |                |
+| -------------------------- | -------------- |
+| to relieve stress          |                |
+| to keep mentally active    |                |
+| to boost the energy level  |                |
+| to improve your mood       |                |
+| moderate physical activity |                |
+| demanding                  |                |
+| to benefit                 |                |
+| endorphins                 |                |
+| self-esteem                |                |
+| sense of achievement       |                |
+| pride                      |                |
+| to be proud                |                |
+| to speed up the metabolism |                |
+| to age well                |                |
+| to quicken the breathing   |                |
+| limbs                      |                |
+| abdomen                    |                |
+| joints                     |                |
+| to soar                    |                |
+| puny                       |                |
+| claf / calves              |                |
+| to neglect your body       |                |
+| to embarrass               |                |
+| inflammation               |                |
+| X-ray                      |                |
+| injury                     |                |
+| to injure                  |                |
+| you need rest              |                |
+| a sore throat              |                |
+| sore                       | entzündet      |
+| to cough                   |                |
+| cough                      |                |
+| to throw uo / to vomit     | sich übergeben |
+| prescription               | Arztrezept     |
+| to prescribe               | verschreiben   | 
+| to earn a beach body       |                |
+
