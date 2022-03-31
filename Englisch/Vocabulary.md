@@ -416,3 +416,27 @@ tax records
 
 ### homework
 group 2: 5 - 8
+
+
+
+## Unit 8
+| Unit 8                     |     |
+| -------------------------- | --- |
+| to relieve stress          |     |
+| to keep mentally active    |     |
+| to boost the energy level  |     |
+| to improve your mood       |     |
+| moderate physical activity |     |
+| demanding                  |     |
+| to benefit                 |     |
+| endorphins                 |     |
+| self-esteem                |     |
+| sense of achievement       |     |
+| pride                      |     |
+| to be proud                |     |
+| to speed up the metabolism |     |
+| to age well                |     |
+| to quicken the breathing   |     |
+| limbs                      |     |
+| abdomen                    |     |
+|                            |     |
