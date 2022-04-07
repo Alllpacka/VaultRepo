@@ -155,3 +155,6 @@ done
 ~~~
 
 
+## find
+1. automatisieren
+2. komplexität der Befehle
