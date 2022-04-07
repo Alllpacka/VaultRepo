@@ -158,3 +158,16 @@ done
 ## find
 1. automatisieren
 2. komplexität der Befehle
+
+find -H -L -P path expression
+		^                                 ^
+					optional          (options) test actions
+
+mandatory = verpflichtend
+
+find path
+		^
+		z.B. /
+			  /home
+	sucht im angegeben Pfad und allen Unterverzeichnissen
+
