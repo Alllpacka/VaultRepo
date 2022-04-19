@@ -467,6 +467,14 @@ Bsp. String, Arrays, Klassen, …
 Wird eine Variable kopiert, wird die *Referenz* auf das eigentliche Objekt kopiert, das heißt beide Variablen auf das selbe Objekt verweisen
 Eine Änderung bei einer der beiden Variablen hat Auswirkung auf die andere Referenz
 
+#referenzVsBasic
+#### Basisdatentypen
+int, long, float, char, ...
+
+#### Referenztypen
+Arrays, String, Datentypen/Klassen (alles großgeschriebenes)
+
+
 #VergleichVonObjekten
 ### **Vergleich von Objekten**
 · == ist bei Referenztypen problematisch
@@ -593,9 +601,3 @@ public int hashCode() {
 ~~~
 
 
-#referenzVsBasic
-### Basisdatentypen
-int, long, float, char, ...
-
-### Referenztypen
-Arrays, String, Datentypen/Klassen (alles großgeschriebenes)
