@@ -593,3 +593,9 @@ public int hashCode() {
 ~~~
 
 
+#referenzVsBasic
+### Basisdatentypen
+int, long, float, char, ...
+
+### Referenztypen
+Arrays, String, Datentypen/Klassen (alles großgeschriebenes)
