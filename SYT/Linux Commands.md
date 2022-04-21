@@ -159,7 +159,7 @@ done
 1. automatisieren
 2. komplexität der Befehle
 
-find -H -L -P path expression
+find \[-H] \[-L] \[-P] path expression
 		^                                 ^
 					optional          (options) test actions
 
