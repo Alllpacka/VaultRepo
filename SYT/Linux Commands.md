@@ -179,3 +179,4 @@ Tests:
 -user
 -size
 -type
+-time
