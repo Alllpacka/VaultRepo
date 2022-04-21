@@ -171,3 +171,11 @@ find path
 			  /home
 	sucht im angegeben Pfad und allen Unterverzeichnissen
 
+Tests:
+
+-name
+-iname (like name but case insensitive)
+-empty
+-user
+-size
+
