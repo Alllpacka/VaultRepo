@@ -178,4 +178,4 @@ Tests:
 -empty
 -user
 -size
-
+-type
