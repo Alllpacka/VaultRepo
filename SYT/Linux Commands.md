@@ -180,3 +180,5 @@ Tests:
 -size
 -type
 -time
+	atime = access time; ctime = change time (metadata); mtime = modifiedtime;
+
