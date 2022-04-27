@@ -609,7 +609,7 @@ public int hashCode() {
 	 Arrays von Arrays usw.
 
 	~~~java
-	int [][] m  = new int[2][3];
+	int[][] m  = new int[2][3];
 	//erzeugt eine 2x3 Matrix: 2 Zeilen und 3 Spalten
 	~~~
 
@@ -622,7 +622,19 @@ public int hashCode() {
 | [0]\[0] | [0]\[1] | [0]\[2] |
 | ------- | ------- | ------- |
 | [1]\[0] | [1]\[1] | [1]\[2] |
-| ------- | ------- | ------- |
-|         |         |         |
 
-+ 
+
+~~~java
+final int ROWS = 10;
+final int COLS = 20;
+
+int[][] table = new int[ROWS][COLS];
+
+for (int row = 0; row < table.length; row++){
+	for (int col = 0; col < table[row].length; col++) {
+		//...
+	}
+}
+~~~
+
+
