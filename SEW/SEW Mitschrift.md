@@ -601,3 +601,28 @@ public int hashCode() {
 ~~~
 
 
+
+
+# Multidimensionale Arrays
+
++ Mehrdimensionale Arrays werden als geschachtelte Arrays angelegt:
+	 Arrays von Arrays usw.
+
+	~~~java
+	int [][] m  = new int[2][3];
+	//erzeugt eine 2x3 Matrix: 2 Zeilen und 3 Spalten
+	~~~
+
++ m[0] und m[1] verweisen jeweils auf ein Array mit 3 Elementen
++ Zugriff auf einzelne Elemente z.B.: 
+ ~~~java
+ m[1][0]
+ ~~~
+
+| [0]\[0] | [0]\[1] | [0]\[2] |
+| ------- | ------- | ------- |
+| [1]\[0] | [1]\[1] | [1]\[2] |
+| ------- | ------- | ------- |
+|         |         |         |
+
++ 
