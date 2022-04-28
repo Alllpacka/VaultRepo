@@ -21,4 +21,5 @@
 7. find /home/2A -type d -perm 755
 8. find /home/2A -type f -mtime -1
 9. find /home/2A -type f -size +10k
-10. 
+10. wc /home/2A/find/linux-essentials-1.md -l
+11. 
