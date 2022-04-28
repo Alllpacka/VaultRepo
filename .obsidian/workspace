@@ -6,24 +6,10 @@
       {
         "id": "fda440d7873b28f7",
         "type": "leaf",
-        "dimension": 53.06818181818181,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SYT/Aufgaben.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "173c017548947137",
-        "type": "leaf",
-        "dimension": 46.93181818181818,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "SYT/Linux Commands.md",
+            "file": "Englisch/Vocabulary.md",
             "mode": "source",
             "source": false
           }
@@ -67,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 243.5
   },
   "right": {
     "id": "934c8e8470383b92",
@@ -83,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SYT/Aufgaben.md",
+                "file": "Englisch/Vocabulary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,11 +97,11 @@
   },
   "active": "fda440d7873b28f7",
   "lastOpenFiles": [
+    "Englisch/Vocabulary.md",
     "SYT/Aufgaben.md",
     "SYT/Linux Commands.md",
     "SEW/SEW Mitschrift.md",
     "ITSI & NWT/Transport Layer.md",
-    "Englisch/Vocabulary.md",
     "SYT/32.900 und 43.200 Ping Gang.md",
     "Deutsch/Deutsch Mitschrift.md",
     "Geschichte/Doku Notizen.md",
