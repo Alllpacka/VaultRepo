@@ -183,5 +183,5 @@ Tests:
 	atime = access time; ctime = change time (metadata); mtime = modifiedtime;
 
 
-Bsp.: find ./ -name "\*.pdf" -exec cp {} ./documents
+Bsp.: find ./ -name "\*.pdf" -exec cp {} ./documents \ ; 
 

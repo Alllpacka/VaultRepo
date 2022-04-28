@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SYT/Linux Commands.md",
+                "file": "SYT/Aufgaben.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,10 +109,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "173c017548947137",
+  "active": "fda440d7873b28f7",
   "lastOpenFiles": [
-    "SYT/Linux Commands.md",
     "SYT/Aufgaben.md",
+    "SYT/Linux Commands.md",
     "SEW/SEW Mitschrift.md",
     "ITSI & NWT/Transport Layer.md",
     "Englisch/Vocabulary.md",
