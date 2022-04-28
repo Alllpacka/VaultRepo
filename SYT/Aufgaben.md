@@ -12,5 +12,7 @@
 11. Suchen Sie in dieser Datei nach dem Text "dev/sda" (Befehl: grep) und ermitteln Sie die Zeilennummer.
 
 ## Lösungen
-1. find -type f -name \*.sh
-2. 
+1. find /home/2A -type f -name \*.sh
+2. find /home/2A -maxdepth 1 -type f -name \*.sh
+3. find /home/2A -maxdepth 1 -type f -iname \*.sh
+4. 
