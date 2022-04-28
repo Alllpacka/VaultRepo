@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SEW/SEW Mitschrift.md",
+            "file": "SYT/Aufgaben.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "173c017548947137",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "SYT/Linux Commands.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 168.5
+    "width": 100
   },
   "right": {
     "id": "934c8e8470383b92",
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW/SEW Mitschrift.md",
+                "file": "SYT/Aufgaben.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +109,15 @@
   },
   "active": "fda440d7873b28f7",
   "lastOpenFiles": [
+    "SYT/Aufgaben.md",
+    "SYT/Linux Commands.md",
     "SEW/SEW Mitschrift.md",
     "ITSI & NWT/Transport Layer.md",
     "Englisch/Vocabulary.md",
-    "SYT/Linux Commands.md",
     "SYT/32.900 und 43.200 Ping Gang.md",
     "Deutsch/Deutsch Mitschrift.md",
     "Geschichte/Doku Notizen.md",
     "Geschichte/Geschichte Mitschrift.md",
-    "Geschichte/Seite 45 bis 50.md",
-    "Mediashop/GIT.md"
+    "Geschichte/Seite 45 bis 50.md"
   ]
 }
