@@ -602,6 +602,13 @@ public int hashCode() {
 
 
 
+# Schriftarten
+
+diklengleiche Schriften == **Monospace** Schriften
+
+| i | m | o |                                ^Courier, Consolas
+
+
 
 # Multidimensionale Arrays
 
