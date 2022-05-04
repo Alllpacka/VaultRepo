@@ -87,17 +87,26 @@
               "type": "dictionary-view",
               "state": {}
             }
+          },
+          {
+            "id": "ef6260f14b787a3a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "fda440d7873b28f7",
   "lastOpenFiles": [
     "SEW/SEW Mitschrift.md",
+    "SYT/32.900 und 43.200 und 79.200 Ping Gang.md",
     "Englisch/Vocabulary.md",
     "SYT/Aufgaben.md",
     "SYT/Linux Commands.md",
@@ -105,7 +114,6 @@
     "SYT/32.900 und 43.200 Ping Gang.md",
     "Deutsch/Deutsch Mitschrift.md",
     "Geschichte/Doku Notizen.md",
-    "Geschichte/Geschichte Mitschrift.md",
-    "Geschichte/Seite 45 bis 50.md"
+    "Geschichte/Geschichte Mitschrift.md"
   ]
 }

@@ -679,3 +679,22 @@ for (int row = 0; row < table.length; row++){
 	Integer intObj = Integer.valueOf(244);
 	~~~
 
+
+
++ Über Methode
+~~~java
+	...value();
+~~~
+
++ z.B. 
+~~~java
+int number = intObj.intValue();
+~~~
+
++ z.B.
+~~~java
+float balance = budget.floatvalue();
+~~~
+
++ etc.
+
