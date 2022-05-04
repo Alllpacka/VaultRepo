@@ -654,4 +654,28 @@ for (int row = 0; row < table.length; row++){
 
 **Wrapper == Hülle**
 
+| Elemtarer Datentyp | Wrapper-Klasse |
+| ------------------ | -------------- |
+| byte               | Byte           |
+| short              | Short          |
+| int                | Integer        |
+| long               | Long           |
+| float              | Float          |
+| double             | Double         |
+| boolean            | Boolean        |
+| char               | Char           |
+
+## Elementarer Datentyp -> Wrapper-Objekt
+
++ Über den Konstruktor
+	+ z.B. 
+	~~~java
+	Integer intObj = new Integer(244);
+	~~~
+	oder
++ Zu jeder Wrapper-Klasse gibt es die Klassenmethode **valueOf()**, mit der eine Instanz auf Basis eines Wertes vom einfachen Datentyp erzeugt werden kann:
+	+ z.B
+	~~~java
+	Integer intObj = Integer.valueOf(244);
+	~~~
 
