@@ -652,3 +652,6 @@ for (int row = 0; row < table.length; row++){
 + Objeke von Wrapper-Klassen sin nach ihrer Erzeugung nihct mehr veränderbar
 + Elementare Datentypen sind effizinter als Wrapper-Klassen
 
+**Wrapper == Hülle**
+
+
