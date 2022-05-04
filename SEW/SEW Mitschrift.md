@@ -645,3 +645,10 @@ for (int row = 0; row < table.length; row++){
 ~~~
 
 
+# Wrapper-Klassen
+
++ zu jedem elementaren datentyp gibt eine sogenannte *Wrapper-Klasse*, deren Objekte Werte diesen Datentyps speichern
++ -> "einfache" Werte können somit als Objekte angesprochen werden
++ Objeke von Wrapper-Klassen sin nach ihrer Erzeugung nihct mehr veränderbar
++ Elementare Datentypen sind effizinter als Wrapper-Klassen
+
