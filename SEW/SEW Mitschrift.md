@@ -681,6 +681,8 @@ for (int row = 0; row < table.length; row++){
 
 
 
+## Wrapper-Objekt -> Elementarer Datentyp
+
 + Über Methode
 ~~~java
 	...value();
@@ -697,4 +699,52 @@ float balance = budget.floatvalue();
 ~~~
 
 + etc.
+
+## String umwandeln
+
++ In elementaren Datentyp: Über 
+~~~java
+parse...();
+~~~
+Methode, z.B.:
+~~~java
+int myInt = Integer.parseInt("234");
+
+float myfloat = Float.parseFloat("12.24");
+~~~
+
++ In Wrapper-Objekt: Über 
+~~~java
+valueOf();
+~~~
+Methoden, z.B.:
+~~~java
+Integer myIntObj = Integer.valueOf("234");
+
+Float myFloatObj = Float.valueOf("12.24");
+~~~
+
+## Auto-Boxing
+
++ Compiler kann das Umwandeln auch automatisch erledigen ("Auto-Boxen" / "Unboxing"):
+
+~~~java
+Integer intObj = 244;   // autoboxing
+
+int i = someIntegerObj;  // unboxing
+~~~
+
+
+## Numberische Konstanten (Auswahl)
+
+~~~java
+static final typ MIN_VALUE
+							byte, short, int, long, double, float
+static final typ MAX_VALUE
+~~~
+
++ z.B. 
+~~~java
+Integer.MAX_VALUE
+~~~
 
