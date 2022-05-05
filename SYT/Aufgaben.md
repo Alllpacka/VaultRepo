@@ -24,7 +24,7 @@
 10. wc /home/2A/find/linux-essentials-1.md -l (Zeile 898)
 11. grep -n 'dev/sda' /home/2A/find/linux-essentials-1.md (Zeile 700)
 
-9 & 10 = find /home/2A -type f -size +10k -exec wc {} -l \ ;
+9 & 10 = find /home/2A -type f -size +10k -exec wc {} -l \;
 
 
 # 2. Aufgabe
@@ -46,6 +46,13 @@
 
 ## Lösungen
 1.  cp -R /home/2A/20220505 ~/20220505
-3.  find -type f -name "2AHITS.\*"
-4.  find -type f -name "2?HITS.\*"
-5. 
+1.  find -type f -name "2AHITS.\*"
+2.  find -type f -name "2?HITS.\*"
+3.  find -type f -name "2\*HITS.\*"
+4.  find -type f -iname "2\*HITS.\*"
+5.  
+6.  find -type f -iname "2\*HITS.\*" -exec cat {} \;
+7.  find -type f -iname "2\*HITS.\*" -exec wc {} -c \;
+10.  find -type f -iname "2\*HITS.\*" -exec cp {} {}.copy \;
+11.  find -type f -empty
+ 
