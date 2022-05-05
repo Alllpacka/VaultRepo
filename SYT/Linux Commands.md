@@ -200,4 +200,21 @@ crontab -l ... lists Cronjobs
 
 1. Minutes (0...59)
 2. Hour (0...23)
-3. 
+3. DOM ... Day of Month (1...31)
+4. MON ... Month (1...12)
+5. DOW ... Day of Week (0...6)  (0 = Sunday)
+
+
+
+\*\*\*\*\* == every minute of each day
+0 0 * * 6 == every Saturday on Midnight
+
+\* ... asterik ... every Option, no Limit
+
+, ... comma ... Value as List
+
+0 18 1,15 * * ... 6 pm at 1st and 15th of the Month
+
+\- ... hyphen ... Range
+
+0 18 * * 1-5 ... 6 pm from Mo till Fr
