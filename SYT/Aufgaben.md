@@ -46,4 +46,6 @@
 
 ## Lösungen
 1.  cp -R /home/2A/20220505 ~/20220505
-3.  
+3.  find -type f -name "2AHITS.\*"
+4.  find -type f -name "2?HITS.\*"
+5. 
