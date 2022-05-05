@@ -185,3 +185,17 @@ Tests:
 
 Bsp.: find ./ -name "\*.pdf" -exec cp {} ./documents \ ; 
 
+
+## Scheduling Tasks mit cron
+
+cron ... daemon ... Service o. Prozess der im Hintergrund läuft und das ohne User interaktion läuft
+
+
+### crontab
+
+crontab -e ... edit job-table
+crontab -l ... lists Cronjobs
+
+\* * * * * Command or sh-Script
+ ^^^^^
+  | |  |

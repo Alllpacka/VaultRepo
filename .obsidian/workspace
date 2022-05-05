@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SYT/Aufgaben.md",
+            "file": "SYT/Linux Commands.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SYT/Aufgaben.md",
+                "file": "SYT/Linux Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,11 +106,11 @@
   },
   "active": "fda440d7873b28f7",
   "lastOpenFiles": [
+    "SYT/Linux Commands.md",
     "SYT/Aufgaben.md",
     "SEW/SEW Mitschrift.md",
     "SYT/32.900 und 43.200 und 79.200 Ping Gang.md",
     "Englisch/Vocabulary.md",
-    "SYT/Linux Commands.md",
     "ITSI & NWT/Transport Layer.md",
     "SYT/32.900 und 43.200 Ping Gang.md",
     "Deutsch/Deutsch Mitschrift.md",

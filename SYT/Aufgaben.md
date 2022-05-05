@@ -59,3 +59,4 @@
 13.  find -type f -empty -exec cp {} {}.empty \\;
 14.  find -type f -size +10k
 15.  find -type f -size +10k -exec cp {} {}.huge \\;
+
