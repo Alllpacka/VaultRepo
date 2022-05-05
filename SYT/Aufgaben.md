@@ -57,5 +57,5 @@
 11.  find -type f -empty
 12.  find -type f -empty -exec  echo {} \\;
 13.  find -type f -empty -exec cp {} {}.empty \\;
-14.  find -type f -size 10k
-15.  find -type f -size 10k -exec cp {} {}.huge \\;
+14.  find -type f -size +10k
+15.  find -type f -size +10k -exec cp {} {}.huge \\;
