@@ -197,5 +197,7 @@ crontab -e ... edit job-table
 crontab -l ... lists Cronjobs
 
 \* * * * * Command or sh-Script
- ^^^^^
-  | |  |
+
+1. Minutes (0...59)
+2. Hour (0...23)
+3. 
