@@ -24,7 +24,7 @@
 10. wc /home/2A/find/linux-essentials-1.md -l (Zeile 898)
 11. grep -n 'dev/sda' /home/2A/find/linux-essentials-1.md (Zeile 700)
 
-9 & 10 = find /home/2A -type f -size +10k -exec wc {} -l \;
+9 & 10 = find /home/2A -type f -size +10k -exec wc {} -l \\;
 
 
 # 2. Aufgabe
@@ -50,12 +50,12 @@
 4.    find -type f -name "2?HITS.\*"
 5.    find -type f -name "2\*HITS.\*"
 6.    find -type f -iname "2\*HITS.\*"
-7.    find -type f -iname "2\*HITS.\*" -exec echo {} \;
-8.    find -type f -iname "2\*HITS.\*" -exec cat {} \;
-9.    find -type f -iname "2\*HITS.\*" -exec wc {} -c \;
-10.  find -type f -iname "2\*HITS.\*" -exec cp {} {}.copy \;
+7.    find -type f -iname "2\*HITS.\*" -exec echo {} \\;
+8.    find -type f -iname "2\*HITS.\*" -exec cat {} \\;
+9.    find -type f -iname "2\*HITS.\*" -exec wc {} -c \\;
+10.  find -type f -iname "2\*HITS.\*" -exec cp {} {}.copy \\;
 11.  find -type f -empty
-12.  find -type f -empty -exec  echo {} \;
-13.  find -type f -empty -exec cp {} {}.empty \;
+12.  find -type f -empty -exec  echo {} \\;
+13.  find -type f -empty -exec cp {} {}.empty \\;
 14.  find -type f -size 10k
-15.  find -type f -size 10k -exec 
+15.  find -type f -size 10k -exec cp {} {}.huge \\;
