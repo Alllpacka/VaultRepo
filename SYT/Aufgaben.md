@@ -45,14 +45,17 @@
 15. Hängen Sie an den Dateinamen aller Dateien größer 10kByte .huge an.
 
 ## Lösungen
-1.  cp -R /home/2A/20220505 ~/20220505
-1.  find -type f -name "2AHITS.\*"
-2.  find -type f -name "2?HITS.\*"
-3.  find -type f -name "2\*HITS.\*"
-4.  find -type f -iname "2\*HITS.\*"
-5.  
-6.  find -type f -iname "2\*HITS.\*" -exec cat {} \;
-7.  find -type f -iname "2\*HITS.\*" -exec wc {} -c \;
+1.    cp -R /home/2A/20220505 ~/20220505
+3.    find -type f -name "2AHITS.\*"
+4.    find -type f -name "2?HITS.\*"
+5.    find -type f -name "2\*HITS.\*"
+6.    find -type f -iname "2\*HITS.\*"
+7.    find -type f -iname "2\*HITS.\*" -exec echo {} \;
+8.    find -type f -iname "2\*HITS.\*" -exec cat {} \;
+9.    find -type f -iname "2\*HITS.\*" -exec wc {} -c \;
 10.  find -type f -iname "2\*HITS.\*" -exec cp {} {}.copy \;
 11.  find -type f -empty
- 
+12.  find -type f -empty -exec  echo {} \;
+13.  find -type f -empty -exec cp {} {}.empty \;
+14.  find -type f -size 10k
+15.  find -type f -size 10k -exec 
