@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SEW/SEW Mitschrift.md",
+            "file": "SYT/Aufgaben.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 116.5
   },
   "right": {
     "id": "934c8e8470383b92",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW/SEW Mitschrift.md",
+                "file": "SYT/Aufgaben.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,14 +101,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "fda440d7873b28f7",
   "lastOpenFiles": [
+    "SYT/Aufgaben.md",
     "SEW/SEW Mitschrift.md",
     "SYT/32.900 und 43.200 und 79.200 Ping Gang.md",
     "Englisch/Vocabulary.md",
-    "SYT/Aufgaben.md",
     "SYT/Linux Commands.md",
     "ITSI & NWT/Transport Layer.md",
     "SYT/32.900 und 43.200 Ping Gang.md",

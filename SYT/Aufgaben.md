@@ -25,3 +25,25 @@
 11. grep -n 'dev/sda' /home/2A/find/linux-essentials-1.md (Zeile 700)
 
 9 & 10 = find /home/2A -type f -size +10k -exec wc {} -l \ ;
+
+
+# 2. Aufgabe
+1. Kopieren Sie den Inhalt des Verzeichnis /home/2A/20220505 incl. aller Unterverzeichnisse (cp -R) nach ~/20220505.  
+2. Führen Sie im Verzeichnis ~/20220505 die folgenden Schritte durch.  
+3. Finden Sie alle Dateien, die mit 2AHITS beginnen. (1 Treffer)  
+4. Finden Sie alle Dateien, die mit 2 beginnen und ab der 3. Stelle noch HITS enthalten. (3 Treffer)  
+5. Finden Sie alle Dateien, die mit 2 beginnen und dann noch HITS enthalten. (4 Treffer)  
+6. Finden Sie alle Dateien wie im vorigen Punkt, aber case-insensitiv. (5 Treffer)  
+7. ...wie im vorigen Punkt, und geben Sie deren Dateinamen mit echo aus.  
+8. ...wie im vorigen Punkt, und geben Sie deren Inhalt aus.  
+9. ...wie im vorigen Punkt, und geben Sie die Anzahl der in der Datei enthaltenen Zeichen aus.  
+10. ...wie im vorigen Punkt, und erstellen Sie eine Kopie mit dem Namen "<ursprünglicher Name>.copy".  
+11. Finden Sie alle leeren Dateien.  
+12. Finden Sie alle leeren Dateien und übergeben Sie diese dem echo-Befehl.  
+13. Finden Sie alle leeren Dateien und kopieren Sie diese mit dem zusätzlichen Namensende ".empty".  
+14. Finden Sie alle Dateien größer 10kByte.  
+15. Hängen Sie an den Dateinamen aller Dateien größer 10kByte .huge an.
+
+## Lösungen
+1.  cp -R /home/2A/20220505 ~/20220505
+3.  
