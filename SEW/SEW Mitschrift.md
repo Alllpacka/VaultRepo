@@ -806,3 +806,26 @@ Person (String firstName, String lastName, Date birthday)
 ...
 ~~~
 
+# StringBuilder
++ Objekte der Klasse **String** sind nicht veränderbar (auch, wenn es so aussieht)
+
++ **String s = "abc";
+	s = s + "def";
++ ein neues Objekt wird angelegt, das alte freigegeben ... sehr aufwendig
+
++ -> Alternative: **StringBuilder** - Objekte sind veränderbar ("mutable")
+	+ es gibt eige Methoden zum Verändern des Strings
+
+~~~java
+
+String s = "abc";
+
+s = s + "def";
+
+StringBuilder sb = new StringBuilder("abc");
+
+sb.append("def");
+
+.append(), .insert(), .replace(), .delete(), deleteCharAt(), ...
+~~~
+
