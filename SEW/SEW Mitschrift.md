@@ -791,6 +791,18 @@ import java.nio.file.*;
 	+ **Attributen und Accessor-Methoden (Getter- & Setter-Methoden)**
 + Werden z.B. auch benutzt, wenn mehrere Daten von einer Methode zurück geliefert werden sollen
 	+ -> als Retrurn-Typ oder mit Call-by-reference
+  
+
 + es gelten keine speziellen Kpnventionen
 + sogar Attribute dürfen public sein
 dienen dazu, die Lesbarkeit und Wiederverwendbarkeit von Code zu erhöhen
+
++ Beispiele:
+~~~java
+Date (int year, int month, int day)
+
+Person (String firstName, String lastName, Date birthday)
+
+...
+~~~
+
