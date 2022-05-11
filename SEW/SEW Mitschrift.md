@@ -759,3 +759,9 @@ Integer.MAX_VALUE
 	~~~java
 	java.nio.file.Paths.get() / java.nio.file.Files.newBufferedWriter()
 	~~~
++ Oder: Ein gesamtes Paket importieren
+	~~~java
+	import java.nio.file.Paths;
+	~~~
++ Wenn ein Paket importiert wird, steht sein gesamter Inhalt (die Funktionalität) zur Verfügung
+
