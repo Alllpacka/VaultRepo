@@ -757,4 +757,5 @@ Integer.MAX_VALUE
 + Pakete sind zumeist nach Themen zusammengefasst und in einer hierarchischen Struktur (wie Verzeichnisse) abgelegt.
 + Um auf die Funktionalität eines Paketes zugreifen zu können, muss man Java mitteilen, in werlchem Paket zu suchen ist
 	~~~java
-	java.nio.files.Paths.get() / java.nio.file.Files.newBufferedWriter
+	java.nio.file.Paths.get() / java.nio.file.Files.newBufferedWriter()
+	~~~
