@@ -778,4 +778,19 @@ import java.nio.file.Files;
 import java.nio.file.*;
 ~~~
 + Aber Vorsicht: * gilt nur für eine Ebene
-+ **import java.nio\*** macht nicht den Inhalt von **java.nio.file*
++ **import java.nio\*** macht nicht den Inhalt von **java.nio.file** verfügbar
+
+
+# Plain Old Java Objects: POJO
+## (wörtlich: "ganz normales Java Objekt")
+
+## "Datenhaltungsklasse"
++ Mehrere logisch zusammenhängende Daten können unter einen gemeinsamen Namen (Typ) behandelt werden
++ Eine Datenhaltungsklasse bestehen nur aus:
+	+ **Konstruktoren**
+	+ **Attributen und Accessor-Methoden (Getter- & Setter-Methoden)**
++ Werden z.B. auch benutzt, wenn mehrere Daten von einer Methode zurück geliefert werden sollen
+	+ -> als Retrurn-Typ oder mit Call-by-reference
++ es gelten keine speziellen Kpnventionen
++ sogar Attribute dürfen public sein
+dienen dazu, die Lesbarkeit und Wiederverwendbarkeit von Code zu erhöhen
