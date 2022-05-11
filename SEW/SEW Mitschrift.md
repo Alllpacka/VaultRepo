@@ -765,3 +765,17 @@ Integer.MAX_VALUE
 	~~~
 + Wenn ein Paket importiert wird, steht sein gesamter Inhalt (die Funktionalität) zur Verfügung
 
+~~~java
+import java.util.Scanner;
+
+import java.nio.file.Paths;
+import java.nio.file.Files;
+~~~
+
++ Oder mit Wildcards (~Platzhalter):
+
+~~~java
+import java.nio.file.*;
+~~~
++ Aber Vorsicht: * gilt nur für eine Ebene
++ **import java.nio\*** macht nicht den Inhalt von **java.nio.file*
