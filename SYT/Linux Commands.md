@@ -219,6 +219,3 @@ crontab -l ... lists Cronjobs
 
 0 18 * * 1-5 ... 6 pm from Mo till Fr
 
-
-**grondab**
-
