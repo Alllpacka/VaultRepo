@@ -1,7 +1,7 @@
 #login
 ## login
 ~~~cmd
-ssh user8@172.16.5.55
+ssh user?@172.16.5.55
 ~~~
 
 #commands
