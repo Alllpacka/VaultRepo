@@ -218,3 +218,7 @@ crontab -l ... lists Cronjobs
 \- ... hyphen ... Range
 
 0 18 * * 1-5 ... 6 pm from Mo till Fr
+
+
+**grondab**
+
