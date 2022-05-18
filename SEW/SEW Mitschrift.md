@@ -861,4 +861,27 @@ Size pizzaSize = Size.LARGE;
 + Auchtung: Reihenfolge der Wertliste ist relevant
 + Metode *ordinal()* liefert Positionsnummer einer Konstante: 0, 1, ...
 + *toString()* liefert Namen einer Konstante: *SMALL*, *MEDIUM*
-	
+	*pizzaSize.toString()*
++ Klassenmethode *values()* liefert ein Array mit allen Aufzählungskonstanten
+	*Size.values()*
+
+### enums & Switch
+
++ *enum*-Konstanten können als *case*-Konstanten in *switch*-Anweisungen verwendet werden:
+~~~java
+switch(pizzaSize) {
+case SMALL:
+	//...
+case MEDUIM:
+	//...
+case LARGE:
+	//...
+//etc. ...
+}
+~~~
+
++ Jede *enum*-Aufzählung ist automatisch **static**
++ Jeder Wert (**SMALL**, **MEDIUM**, ...) einer *enum*-Aufzählung ist vom Typ der Aufzählung selbst: *Size.LARGE* ist vom Typ *Size*.
++ Jeder *enum*-Wert kommt zur Laufzeit nur ein einziges Mal vor. Die Gleichheit von *enum*-Werten kann mit *\==* überprüft werden.
+
++ *enum*-Aufzählungen können Teil einer Klasse oder "global"
