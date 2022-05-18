@@ -829,3 +829,36 @@ sb.append("def");
 .append(), .insert(), .replace(), .delete(), deleteCharAt(), ...
 ~~~
 
+
+# enum
+
+## Aufzählungen
++ Alle möglichen Werte sind bereits zur Compile-Time bekannt
+	+ Wochentage
+	+ Größen (Small, Medium, Large, Extra-Large)
+	+ Schulnoten
+	+ Zustände
+	+ ...
+
+**Aufzählungen mit Integer-Konstanten ist nicht typsicher**
+*-> stattdessen ENUMs*
+
+~~~java
+//Syntax: enum Bezeichner {Werteliste}
+//Konstanten wie üblich in all-caps (GRO?BUCHSTABEN)
+
+enum Size { SMALL, MEDIUM, LARGE, EXTRA_LARGE }
+
+//Variablen werden wie mit anderen Datentypen angelegt:
+
+Size pizzaSize
+
+//Zugriff auf Werte über Punktnotation:
+
+Size pizzaSize = Size.LARGE;
+~~~
+
++ Auchtung: Reihenfolge der Wertliste ist relevant
++ Metode *ordinal()* liefert Positionsnummer einer Konstante: 0, 1, ...
++ *toString()* liefert Namen einer Konstante: *SMALL*, *MEDIUM*
+	
