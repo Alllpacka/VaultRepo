@@ -601,7 +601,7 @@ public int hashCode() {
 ~~~
 
 
-
+#Schriftarten
 # Schriftarten
 
 diklengleiche Schriften == **Monospace** Schriften
@@ -609,7 +609,7 @@ diklengleiche Schriften == **Monospace** Schriften
 | i | m | o |                                ^Courier, Consolas
 
 
-
+#MultidimensionaleArrays
 # Multidimensionale Arrays
 
 + Mehrdimensionale Arrays werden als geschachtelte Arrays angelegt:
@@ -645,6 +645,7 @@ for (int row = 0; row < table.length; row++){
 ~~~
 
 
+#Wrapper
 # Wrapper-Klassen
 
 + zu jedem elementaren datentyp gibt eine sogenannte *Wrapper-Klasse*, deren Objekte Werte diesen Datentyps speichern
@@ -749,6 +750,7 @@ Integer.MAX_VALUE
 ~~~
 
 
+#import
 # import Statement
 
 ## import
@@ -780,7 +782,7 @@ import java.nio.file.*;
 + Aber Vorsicht: * gilt nur für eine Ebene
 + **import java.nio\*** macht nicht den Inhalt von **java.nio.file** verfügbar
 
-
+#POJO
 # Plain Old Java Objects: POJO
 ## (wörtlich: "ganz normales Java Objekt")
 
@@ -806,6 +808,7 @@ Person (String firstName, String lastName, Date birthday)
 ...
 ~~~
 
+#StringBuilder
 # StringBuilder
 + Objekte der Klasse **String** sind nicht veränderbar (auch, wenn es so aussieht)
 
@@ -830,6 +833,7 @@ sb.append("def");
 ~~~
 
 
+#enum
 # enum
 
 ## Aufzählungen
