@@ -889,3 +889,6 @@ case LARGE:
 + Jeder *enum*-Wert kommt zur Laufzeit nur ein einziges Mal vor. Die Gleichheit von *enum*-Werten kann mit *\==* überprüft werden.
 
 + *enum*-Aufzählungen können Teil einer Klasse oder "global"
+
+
+#
