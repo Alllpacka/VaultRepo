@@ -892,3 +892,17 @@ case LARGE:
 
 
 # Test Driven Develpent (TDD)
+
+## Unit Tests (JUnit)
+
++ **Komponententests**
+
++ Kleine einhieten der Software werden getested (Methoden / Klassen)
++ Unit Test sollten Teil des gesamten Entwicklungsprozesses sein und immer wieder ausgefhrt werden
++ -> auch bei späten Änderungen an der Software muss sichergestellt werden, dass die Tests noch erfolgreich durchlaufen und die Software wie erwarted funktioniert!
++ Unit Tests werden daher in der Regel automatisiert, um ihre Ausführung schnell und einfach zu machen
+
+### Code Coverage
++ Möglichst viel der geschriebenden Software sollte von Tests abgedeckt werden 
++ z.B. alle Methoden, alle "Verzweigungen" (if / else, etc.)
++ 
