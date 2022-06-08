@@ -895,7 +895,7 @@ case LARGE:
 
 ## Unit Tests (JUnit)
 
-+ **Komponententests**
+### Komponententests
 
 + Kleine einhieten der Software werden getested (Methoden / Klassen)
 + Unit Test sollten Teil des gesamten Entwicklungsprozesses sein und immer wieder ausgefhrt werden
@@ -905,4 +905,27 @@ case LARGE:
 ### Code Coverage
 + Möglichst viel der geschriebenden Software sollte von Tests abgedeckt werden 
 + z.B. alle Methoden, alle "Verzweigungen" (if / else, etc.)
-+ 
+	+ -> "Code Coverage" ("Code Abdeckung")
+
+### 2 verschiedene Teststrategien
+
++ White Box Testing
+	+ Ersteller der Tests kennt den Source Code 
+
++ Black Box Testing
+	+ Tester kennt den Source Code nicht und hat keinen Zugriff darauf
+	+ Testen auf Basis der Anforderungen
+
+
+### Wichtige Test-Methoden
+| assert Methode                     |                      |
+| ---------------------------------- | -------------------- |
+| assertEquals(ergebnis, objekt)     | Vergleich mit equals |
+| assertNotEquals(ergebnis , objekt) |                      |
+| assertSame(ergebnis, objekt)       | Vergleich mit ==     |
+|                                    |                      |
+
+
+### Wichtige Annotatons
+
+### 
