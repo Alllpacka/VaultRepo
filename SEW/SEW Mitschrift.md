@@ -928,4 +928,7 @@ case LARGE:
 
 ### Wichtige Annotatons
 
-### 
++ \@Test - Kennzeichnung einer Testmethode (public void)
++ \@Before - wird vor jeder Testmethode ausgeführt (im Vorlauf zum Initialisieren des Tests; public void)
++ \@After - wird nach jder Testmethode ausgeführt (im Nachlauf, zum Abräumen des Tests; public void
++ \@BeforeClass - wird einmal pro Testklasse vor der ersten 
