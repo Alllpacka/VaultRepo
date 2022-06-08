@@ -918,12 +918,16 @@ case LARGE:
 
 
 ### Wichtige Test-Methoden
-| assert Methode                     |                      |
-| ---------------------------------- | -------------------- |
-| assertEquals(ergebnis, objekt)     | Vergleich mit equals |
-| assertNotEquals(ergebnis , objekt) |                      |
-| assertSame(ergebnis, objekt)       | Vergleich mit ==     |
-|                                    |                      |
+| assert Methode                     |                                  |
+| ---------------------------------- | -------------------------------- |
+| assertEquals(ergebnis, objekt)     | Vergleich mit equals             |
+| assertNotEquals(ergebnis , objekt) |                                  |
+| assertSame(ergebnis, objekt)       | Vergleich mit ==                 |
+| assertNotSame(ergebnis, objekt)    |                                  |
+| assertNull(objekt)                 | Ergebniss muss *null* sein       |
+| assertNotNull(objekt)              | Ergebniss muss nicht *null* sein |
+| assertTrue(objekt)                 | Ergebniss muss *true* sein       |
+| assertFalse(objekt)                | Ergebniss muss *false* sein      | 
 
 
 ### Wichtige Annotatons
