@@ -1,5 +1,6 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "Obsidian gruvbox",
-  "translucency": false
+  "cssTheme": "Wyrd",
+  "translucency": false,
+  "theme": "obsidian"
 }
