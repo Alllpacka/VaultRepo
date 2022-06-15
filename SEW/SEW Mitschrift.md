@@ -957,3 +957,11 @@ case LARGE:
 + Javadoc für die Standardklassen sind z.B. im Internet abrufbar
 + Javadoc wird direkt über dme zu dokumentierenden Element (**Klasse, Methode,** oder **Attribut** einer Klasse) geschrieben
 + Üblicherweise wird Javadoc bei Komponenten mit *private* Zugriffsmodifier nicht verwendet
+
+## Wichtige Parameter (Auswahl)
+| Klasse / Allgemein | Methode |
+| ------------------ | ------- |
+| @author            | @param  |
+| @version           | @return |
+| @see               | @throws | 
+
