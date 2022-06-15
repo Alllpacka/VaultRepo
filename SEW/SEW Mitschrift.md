@@ -952,4 +952,8 @@ case LARGE:
  */
  ~~~
 
-+ Javadoc sind spezielle Blockkommentare, die mit /**
++ Javadoc sind spezielle Blockkommentare, die mit /** beginnen
++ Aus Javadco kann HTML erzeugt weden, bzw. kann HTML-Elemente enthalten
++ Javadoc für die Standardklassen sind z.B. im Internet abrufbar
++ Javadoc wird direkt über dme zu dokumentierenden Element (**Klasse, Methode,** oder **Attribut** einer Klasse) geschrieben
++ Üblicherweise wird Javadoc bei Komponenten mit *private* Zugriffsmodifier nicht verwendet
