@@ -890,6 +890,10 @@ case LARGE:
 
 + *enum*-Aufzählungen können Teil einer Klasse oder "global"
 
+#### ich will sterben
+bitte keine enums 
+
+ludi = small pp man :)
 
 # Test Driven Develpent (TDD)
 
