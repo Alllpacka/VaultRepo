@@ -964,5 +964,3 @@ case LARGE:
 | @author            | @param  |
 | @version           | @return |
 | @see               | @throws | 
-
-	
