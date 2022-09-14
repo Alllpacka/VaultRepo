@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SEW/SEW Mitschrift.md",
+            "file": "Medientechnik/Medientechnik Mitschrift.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SEW/SEW Mitschrift.md",
+                "file": "Medientechnik/Medientechnik Mitschrift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,8 @@
   },
   "active": "fda440d7873b28f7",
   "lastOpenFiles": [
-    "Medientechnik/Medientechnik Mitschrift.md",
     "SEW/SEW Mitschrift.md",
+    "Medientechnik/Medientechnik Mitschrift.md",
     "Deutsch/Deutsch Mitschrift.md",
     "Englisch/Vocabulary.md",
     "ITP/ITP Ergänzungen.md",
