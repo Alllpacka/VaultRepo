@@ -1,0 +1,1 @@
+Der Lehrer ist schizophren
