@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Medientechnik/Medientechnik Mitschrift.md",
+            "file": "SYT/32.900 und 43.200 und 79.200 Ping Gang.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Medientechnik/Medientechnik Mitschrift.md",
+                "file": "SYT/32.900 und 43.200 und 79.200 Ping Gang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +107,7 @@
   "active": "fda440d7873b28f7",
   "lastOpenFiles": [
     "SEW/SEW Mitschrift.md",
+    "ITSI & NWT/Transport Layer.md",
     "Medientechnik/Medientechnik Mitschrift.md",
     "Deutsch/Deutsch Mitschrift.md",
     "Englisch/Vocabulary.md",
@@ -114,7 +115,6 @@
     "Geschichte/Doku Notizen.md",
     "Geschichte/Geschichte Mitschrift.md",
     "Geschichte/Seite 45 bis 50.md",
-    "ITSI & NWT/Transport Layer.md",
     "SYT/Linux Commands.md"
   ]
 }
