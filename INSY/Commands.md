@@ -9,4 +9,9 @@ DROP DATABASE <name>;
 
 use <name>;
 
-CREATE TABLE <name der Tabelle | Überschrift>
+CREATE TABLE <name der Tabelle | Überschrift> (
+	Nr <datentyp> ,
+	Vorname <datentyp> ,
+	Nachname <datentyp> ,
+	Geburtstag <datentyp>
+);
