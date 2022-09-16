@@ -21,6 +21,7 @@ Gestorben: 29. Januar 1910
 
 Berühmte Bücher: 
 1) Die Reise zum Mittelpunkt der Erde (1873)
+   ![Cover von Die Reise zum Mittelpunkt der Erde](zumMittelpunkt.png)
 2) Reise um die Erde in 80 Tagen (1873)
 Cover:
 ![Cover von Reise um die Erde in 80 Tagen](JulesVerneReiseIn80Tagen.png)
