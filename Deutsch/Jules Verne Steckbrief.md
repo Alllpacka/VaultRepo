@@ -29,6 +29,7 @@ Cover:
 Kapitän Nemo:
 ![Kapitän Nemo](JulesVerneNemo.jpg)
 4) Die geheimnisvolle Insel (1875)
+![Cover von Die geheimnisvolle Insel](Ile_Mysterieuse_02.jpg)
 
 ## Preise: Legion of Honour  (1892)
 
