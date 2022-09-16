@@ -3,10 +3,11 @@
 
 mysql -u root
 
-CREATE DATABASE <name>
+CREATE DATABASE <name>;
 
-DROP DATABASE <name>
+DROP DATABASE <name>;
 
-use <name>
+use <name>;
 
 CREATE TABLE
+
