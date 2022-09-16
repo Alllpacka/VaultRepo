@@ -21,5 +21,6 @@
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
   "username": "",
-  "showedMobileNotice": true
+  "showedMobileNotice": true,
+  "refreshSourceControlTimer": 7000
 }
