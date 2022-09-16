@@ -4,9 +4,11 @@
 Geboren:  8.Februar 1828
 Gestorben: 24.März 1905
 
-Eltern:
+#### Eltern:
 Pierre Verne (1799 - 1871)
 Sophie Allotte de la Fuyë (1800 - 1887)
+
+##### Kinder:
 
 ![Jules Verne](Jules_Verne.gif)
 
