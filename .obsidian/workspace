@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "RK/Mitschrift.md",
+            "file": "INSY/Mitschrift.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RK/Mitschrift.md",
+                "file": "INSY/Mitschrift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "fda440d7873b28f7",
   "lastOpenFiles": [
+    "RK/Mitschrift.md",
     "INSY/Mitschrift.md",
     "SYT/32.900 und 43.200 und 79.200 Ping Gang.md",
     "SEW/SEW Mitschrift.md",
@@ -114,7 +115,6 @@
     "Deutsch/Deutsch Mitschrift.md",
     "Englisch/Vocabulary.md",
     "ITP/ITP Ergänzungen.md",
-    "Geschichte/Doku Notizen.md",
-    "Geschichte/Geschichte Mitschrift.md"
+    "Geschichte/Doku Notizen.md"
   ]
 }
