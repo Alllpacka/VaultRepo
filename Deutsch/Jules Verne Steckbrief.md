@@ -32,4 +32,3 @@ Kapitän Nemo:
 ![Cover von Die geheimnisvolle Insel](Ile_Mysterieuse_02.jpg)
 
 ## Preise: Legion of Honour  (1892)
-
