@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mathe/Mitschrift.md",
+            "file": "Deutsch/Deutsch Mitschrift.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe/Mitschrift.md",
+                "file": "Deutsch/Deutsch Mitschrift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +104,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d2cdfef312d4c1b8",
+  "active": "fda440d7873b28f7",
   "lastOpenFiles": [
-    "INSY/Commands.md",
-    "RK/Mitschrift.md",
-    "SYT/32.900 und 43.200 und 79.200 Ping Gang.md",
     "SEW/SEW Mitschrift.md",
-    "ITSI & NWT/Transport Layer.md",
     "Medientechnik/Medientechnik Mitschrift.md",
     "Deutsch/Deutsch Mitschrift.md",
     "Englisch/Vocabulary.md",
+    "Geschichte/Seite 45 bis 50.md",
+    "Geschichte/Geschichte Mitschrift.md",
+    "Geschichte/Doku Notizen.md",
     "ITP/ITP Ergänzungen.md",
-    "Geschichte/Doku Notizen.md"
+    "ITSI & NWT/Transport Layer.md",
+    "SYT/32.900 und 43.200 und 79.200 Ping Gang.md"
   ]
 }
