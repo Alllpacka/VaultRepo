@@ -4,6 +4,10 @@
 Geboren:  8.Februar 1828
 Gestorben: 24.März 1905
 
+Eltern:
+Pierre Verne (1799 - 1871)
+Sophie Allotte de la Fuyë (1800 - 1887)
+
 ![Jules Verne](Jules_Verne.gif)
 
 Berühmte Bücher: 
