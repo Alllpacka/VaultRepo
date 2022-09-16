@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 186.5
+    "width": 203.5
   },
   "right": {
     "id": "934c8e8470383b92",
@@ -107,14 +107,14 @@
   "active": "fda440d7873b28f7",
   "lastOpenFiles": [
     "Deutsch/Jules Verne Steckbrief.md",
-    "Deutsch/Deutsch Mitschrift.md",
-    "SEW/SEW Mitschrift.md",
-    "Medientechnik/Medientechnik Mitschrift.md",
-    "Englisch/Vocabulary.md",
-    "Geschichte/Seite 45 bis 50.md",
-    "Geschichte/Geschichte Mitschrift.md",
-    "Geschichte/Doku Notizen.md",
-    "ITP/ITP Ergänzungen.md",
-    "ITSI & NWT/Transport Layer.md"
+    "Deutsch/SI-FI Geschichte.md",
+    "Firma_de_Julio_Verne.svg",
+    "Jules_Verne.gif",
+    "JulesVerneNemo.jpg",
+    "JulesVerneReiseIn80Tagen.png",
+    "Mathe/Mitschrift.md",
+    "INSY/Commands.md",
+    "RK/Mitschrift.md",
+    "SYT/32.900 und 43.200 und 79.200 Ping Gang.md"
   ]
 }
