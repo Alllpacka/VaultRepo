@@ -9,5 +9,4 @@ DROP DATABASE <name>;
 
 use <name>;
 
-CREATE TABLE
-
+CREATE TABLE <name der Tabelle | Überschrift>
