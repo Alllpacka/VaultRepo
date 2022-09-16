@@ -3,12 +3,19 @@
 Geboren:  8.Februar 1828
 Gestorben: 24.März 1905
 
-#### Eltern:
+##### Eltern:
 Pierre Verne (1799 - 1871)
 Sophie Allotte de la Fuyë (1800 - 1887)
 
-##### Kinder:
+##### Frau:
+Honorine Anne Hébée du Fraysne de Viane 
+Geboren: 25. November 1831
+Gestorben: 29. Januar 1910
 
+##### Kinder:
+1 Sohn: Michel Verne (1861 - 1925)
+2 Stieftöchter : Valentine Morel (?)
+							Suzanne Morel (?)
 ![Jules Verne](Jules_Verne.gif)
 
 Berühmte Bücher: 
