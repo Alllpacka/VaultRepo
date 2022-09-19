@@ -3,5 +3,6 @@
   "legacyEditor": false,
   "livePreview": true,
   "communityPluginSortOrder": "download",
-  "fileSortOrder": "alphabetical"
+  "fileSortOrder": "alphabetical",
+  "promptDelete": false
 }
