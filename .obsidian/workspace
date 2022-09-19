@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "SYT/Virtualisierung.md",
+            "file": "NW/Mitschrift.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SYT/Virtualisierung.md",
+                "file": "NW/Mitschrift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +104,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d2cdfef312d4c1b8",
+  "active": "fda440d7873b28f7",
   "lastOpenFiles": [
-    "Deutsch/SI-FI Geschichte.md",
+    "NW/NW_Rechnungen.md",
+    "SEW/SEW Mitschrift.md",
+    "SYT/Virtualisierung.md",
+    "SYT/Linux Commands.md",
+    "Deutsch/Deutsch Mitschrift.md",
     "Deutsch/Jules Verne Steckbrief.md",
-    "Firma_de_Julio_Verne.svg",
-    "Jules_Verne.gif",
-    "JulesVerneNemo.jpg",
-    "JulesVerneReiseIn80Tagen.png",
     "Mathe/Mitschrift.md",
-    "INSY/Commands.md",
-    "RK/Mitschrift.md",
-    "SYT/32.900 und 43.200 und 79.200 Ping Gang.md"
+    "Medientechnik/Medientechnik Mitschrift.md",
+    "NW/Mitschrift.md",
+    "zumMittelpunkt.png"
   ]
 }
