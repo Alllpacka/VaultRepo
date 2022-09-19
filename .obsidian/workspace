@@ -7,11 +7,9 @@
         "id": "fda440d7873b28f7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "NW/Mitschrift.md",
-            "mode": "source",
-            "source": false
+            "file": "SYT/SYT_FISCHI.md"
           }
         }
       }
@@ -69,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NW/Mitschrift.md",
+                "file": "SYT/SYT_FISCHI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +102,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fda440d7873b28f7",
+  "active": "d2cdfef312d4c1b8",
   "lastOpenFiles": [
+    "NW/Mitschrift.md",
     "NW/NW_Rechnungen.md",
     "SEW/SEW Mitschrift.md",
     "SYT/Virtualisierung.md",
@@ -114,7 +113,6 @@
     "Deutsch/Jules Verne Steckbrief.md",
     "Mathe/Mitschrift.md",
     "Medientechnik/Medientechnik Mitschrift.md",
-    "NW/Mitschrift.md",
     "zumMittelpunkt.png"
   ]
 }
