@@ -48,3 +48,17 @@ public class Testuebungen {
     }  
 }
 ~~~
+
+
+~~~java
+int anzahlenZeilen = 5;
+
+for (int row = 0; row < anzahlZeilen; row++) {
+	for (int plus = 0; plus < row; plus++) {
+		System.out.print("+");
+	}
+	for (int hash = 0; hash < anzahlZeilen; hash++) {
+		System.out.print("#");
+	}
+	System.out.println();
+}
