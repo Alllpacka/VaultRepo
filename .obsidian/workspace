@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Deutsch/SI-FI Geschichte.md",
+            "file": "NW/Mitschrift.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deutsch/SI-FI Geschichte.md",
+                "file": "NW/Mitschrift.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,8 @@
   },
   "active": "fda440d7873b28f7",
   "lastOpenFiles": [
-    "Deutsch/Jules Verne Steckbrief.md",
     "Deutsch/SI-FI Geschichte.md",
+    "Deutsch/Jules Verne Steckbrief.md",
     "Firma_de_Julio_Verne.svg",
     "Jules_Verne.gif",
     "JulesVerneNemo.jpg",
