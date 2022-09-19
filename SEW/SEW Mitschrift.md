@@ -1,4 +1,4 @@
-#ObjektorientierteProgrammierung
+	 #ObjektorientierteProgrammierung
 # **Objektorientierte Programmierung**
 
 ### **Bisher: Strukturierte Programmierung**
@@ -601,7 +601,7 @@ public int hashCode() {
 ~~~
 
 
-
+#Schriftarten
 # Schriftarten
 
 diklengleiche Schriften == **Monospace** Schriften
@@ -609,7 +609,7 @@ diklengleiche Schriften == **Monospace** Schriften
 | i | m | o |                                ^Courier, Consolas
 
 
-
+#MultidimensionaleArrays
 # Multidimensionale Arrays
 
 + Mehrdimensionale Arrays werden als geschachtelte Arrays angelegt:
@@ -645,6 +645,7 @@ for (int row = 0; row < table.length; row++){
 ~~~
 
 
+#Wrapper
 # Wrapper-Klassen
 
 + zu jedem elementaren datentyp gibt eine sogenannte *Wrapper-Klasse*, deren Objekte Werte diesen Datentyps speichern
@@ -748,3 +749,218 @@ static final typ MAX_VALUE
 Integer.MAX_VALUE
 ~~~
 
+
+#import
+# import Statement
+
+## import
+
++ Vieles von der Funktionalität von Java ist nicht direkt verfügbar, weil man sie nicht in jedem Programm braucht, sondern in externen Paketen zu finden.
++ Pakete sind zumeist nach Themen zusammengefasst und in einer hierarchischen Struktur (wie Verzeichnisse) abgelegt.
++ Um auf die Funktionalität eines Paketes zugreifen zu können, muss man Java mitteilen, in werlchem Paket zu suchen ist
+	~~~java
+	java.nio.file.Paths.get() / java.nio.file.Files.newBufferedWriter()
+	~~~
++ Oder: Ein gesamtes Paket importieren
+	~~~java
+	import java.nio.file.Paths;
+	~~~
++ Wenn ein Paket importiert wird, steht sein gesamter Inhalt (die Funktionalität) zur Verfügung
+
+~~~java
+import java.util.Scanner;
+
+import java.nio.file.Paths;
+import java.nio.file.Files;
+~~~
+
++ Oder mit Wildcards (~Platzhalter):
+
+~~~java
+import java.nio.file.*;
+~~~
++ Aber Vorsicht: * gilt nur für eine Ebene
++ **import java.nio\*** macht nicht den Inhalt von **java.nio.file** verfügbar
+
+#POJO
+# Plain Old Java Objects: POJO
+## (wörtlich: "ganz normales Java Objekt")
+
+## "Datenhaltungsklasse"
++ Mehrere logisch zusammenhängende Daten können unter einen gemeinsamen Namen (Typ) behandelt werden
++ Eine Datenhaltungsklasse bestehen nur aus:
+	+ **Konstruktoren**
+	+ **Attributen und Accessor-Methoden (Getter- & Setter-Methoden)**
++ Werden z.B. auch benutzt, wenn mehrere Daten von einer Methode zurück geliefert werden sollen
+	+ -> als Retrurn-Typ oder mit Call-by-reference
+  
+
++ es gelten keine speziellen Kpnventionen
++ sogar Attribute dürfen public sein
+dienen dazu, die Lesbarkeit und Wiederverwendbarkeit von Code zu erhöhen
+
++ Beispiele:
+~~~java
+Date (int year, int month, int day)
+
+Person (String firstName, String lastName, Date birthday)
+
+...
+~~~
+
+#StringBuilder
+# StringBuilder
++ Objekte der Klasse **String** sind nicht veränderbar (auch, wenn es so aussieht)
+
++ **String s = "abc";
+	s = s + "def";
++ ein neues Objekt wird angelegt, das alte freigegeben ... sehr aufwendig
+
++ -> Alternative: **StringBuilder** - Objekte sind veränderbar ("mutable")
+	+ es gibt eige Methoden zum Verändern des Strings
+
+~~~java
+
+String s = "abc";
+
+s = s + "def";
+
+StringBuilder sb = new StringBuilder("abc");
+
+sb.append("def");
+
+.append(), .insert(), .replace(), .delete(), deleteCharAt(), ...
+~~~
+
+
+#enum
+# enum
+
+## Aufzählungen
++ Alle möglichen Werte sind bereits zur Compile-Time bekannt
+	+ Wochentage
+	+ Größen (Small, Medium, Large, Extra-Large)
+	+ Schulnoten
+	+ Zustände
+	+ ...
+
+**Aufzählungen mit Integer-Konstanten ist nicht typsicher**
+*-> stattdessen ENUMs*
+
+~~~java
+//Syntax: enum Bezeichner {Werteliste}
+//Konstanten wie üblich in all-caps (GRO?BUCHSTABEN)
+
+enum Size { SMALL, MEDIUM, LARGE, EXTRA_LARGE }
+
+//Variablen werden wie mit anderen Datentypen angelegt:
+
+Size pizzaSize
+
+//Zugriff auf Werte über Punktnotation:
+
+Size pizzaSize = Size.LARGE;
+~~~
+
++ Auchtung: Reihenfolge der Wertliste ist relevant
++ Metode *ordinal()* liefert Positionsnummer einer Konstante: 0, 1, ...
++ *toString()* liefert Namen einer Konstante: *SMALL*, *MEDIUM*
+	*pizzaSize.toString()*
++ Klassenmethode *values()* liefert ein Array mit allen Aufzählungskonstanten
+	*Size.values()*
+
+### enums & Switch
+
++ *enum*-Konstanten können als *case*-Konstanten in *switch*-Anweisungen verwendet werden:
+~~~java
+switch(pizzaSize) {
+case SMALL:
+	//...
+case MEDUIM:
+	//...
+case LARGE:
+	//...
+//etc. ...
+}
+~~~
+
++ Jede *enum*-Aufzählung ist automatisch **static**
++ Jeder Wert (**SMALL**, **MEDIUM**, ...) einer *enum*-Aufzählung ist vom Typ der Aufzählung selbst: *Size.LARGE* ist vom Typ *Size*.
++ Jeder *enum*-Wert kommt zur Laufzeit nur ein einziges Mal vor. Die Gleichheit von *enum*-Werten kann mit *\==* überprüft werden.
+
++ *enum*-Aufzählungen können Teil einer Klasse oder "global"
+
+
+# Test Driven Develpent (TDD)
+
+## Unit Tests (JUnit)
+
+### Komponententests
+
++ Kleine einhieten der Software werden getested (Methoden / Klassen)
++ Unit Test sollten Teil des gesamten Entwicklungsprozesses sein und immer wieder ausgefhrt werden
++ -> auch bei späten Änderungen an der Software muss sichergestellt werden, dass die Tests noch erfolgreich durchlaufen und die Software wie erwarted funktioniert!
++ Unit Tests werden daher in der Regel automatisiert, um ihre Ausführung schnell und einfach zu machen
+
+### Code Coverage
++ Möglichst viel der geschriebenden Software sollte von Tests abgedeckt werden 
++ z.B. alle Methoden, alle "Verzweigungen" (if / else, etc.)
+	+ -> "Code Coverage" ("Code Abdeckung")
+
+### 2 verschiedene Teststrategien
+
++ White Box Testing
+	+ Ersteller der Tests kennt den Source Code 
+
++ Black Box Testing
+	+ Tester kennt den Source Code nicht und hat keinen Zugriff darauf
+	+ Testen auf Basis der Anforderungen
+
+
+### Wichtige Test-Methoden
+| assert Methode                     |                                  |
+| ---------------------------------- | -------------------------------- |
+| assertEquals(ergebnis, objekt)     | Vergleich mit equals             |
+| assertNotEquals(ergebnis , objekt) |                                  |
+| assertSame(ergebnis, objekt)       | Vergleich mit ==                 |
+| assertNotSame(ergebnis, objekt)    |                                  |
+| assertNull(objekt)                 | Ergebniss muss *null* sein       |
+| assertNotNull(objekt)              | Ergebniss muss nicht *null* sein |
+| assertTrue(objekt)                 | Ergebniss muss *true* sein       |
+| assertFalse(objekt)                | Ergebniss muss *false* sein      | 
+
+
+### Wichtige Annotatons
+
++ \@Test - Kennzeichnung einer Testmethode (public void)
++ \@Before - wird vor jeder Testmethode ausgeführt (im Vorlauf zum Initialisieren des Tests; public void)
++ \@After - wird nach jder Testmethode ausgeführt (im Nachlauf, zum Abräumen des Tests; public void
++ \@BeforeClass - wird einmal pro Testklasse vor der ersten 
+
+
+
+# Javadoc
+~~~java
+// Zeilenkommentar
+
+/*
+ * Blockkommentar
+ */
+
+/**
+ * Javadoc
+ */
+ ~~~
+
++ Javadoc sind spezielle Blockkommentare, die mit /** beginnen
++ Aus Javadco kann HTML erzeugt weden, bzw. kann HTML-Elemente enthalten
++ Javadoc für die Standardklassen sind z.B. im Internet abrufbar
++ Javadoc wird direkt über dme zu dokumentierenden Element (**Klasse, Methode,** oder **Attribut** einer Klasse) geschrieben
++ Üblicherweise wird Javadoc bei Komponenten mit *private* Zugriffsmodifier nicht verwendet
+
+## Wichtige Parameter (Auswahl)
+| Klasse / Allgemein | Methode |
+| ------------------ | ------- |
+| @author            | @param  |
+| @version           | @return |
+| @see               | @throws | 

@@ -1,7 +1,7 @@
 #login
 ## login
 ~~~cmd
-ssh user8@172.16.5.55
+ssh user?@172.16.5.55
 ~~~
 
 #commands
@@ -154,7 +154,7 @@ for i in {number..incNumber..number}
 done
 ~~~
 
-
+#find
 ## find
 1. automatisieren
 2. komplexität der Befehle
@@ -186,6 +186,7 @@ Tests:
 Bsp.: find ./ -name "\*.pdf" -exec cp {} ./documents \ ; 
 
 
+#crontab
 ## Scheduling Tasks mit cron
 
 cron ... daemon ... Service o. Prozess der im Hintergrund läuft und das ohne User interaktion läuft
@@ -218,3 +219,4 @@ crontab -l ... lists Cronjobs
 \- ... hyphen ... Range
 
 0 18 * * 1-5 ... 6 pm from Mo till Fr
+

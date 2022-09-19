@@ -1,5 +1,6 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "Obsidian gruvbox",
-  "translucency": false
+  "cssTheme": "Obsidian Windows 98 Edition",
+  "translucency": false,
+  "theme": "moonstone"
 }
