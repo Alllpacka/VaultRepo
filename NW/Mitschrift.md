@@ -19,3 +19,5 @@ Steinkohle verbrennt sauberer als Braunkohle
 C + O => CO_2
 
 ![[Pasted image 20220916125531.png]]
+
+![[Pasted image 20220920121912.png]]
