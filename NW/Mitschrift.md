@@ -1,6 +1,6 @@
 # Fossiele Rohstoffe
 
-Fossile = Überreste von Toten Tieren / Algen (die vor den ersten Menschen gelebt haben)
+Fossile = Überreste von Toten Tieren / Algen (die 1 Millionen Jahre alt ist)
 
 ### Fossiele Rohstoffe:
 1) Kalk CaCO_3
