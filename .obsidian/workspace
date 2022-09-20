@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "NW/Mitschrift.md",
+            "file": "Geschichte/Langes 19. Jahrhundert.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NW/Mitschrift.md",
+                "file": "Geschichte/Langes 19. Jahrhundert.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,14 +106,14 @@
   },
   "active": "fda440d7873b28f7",
   "lastOpenFiles": [
-    "NW/NW_Rechnungen.md",
-    "NW/Mitschrift.md",
+    "Geschichte/Doku Notizen.md",
     "SYT/SYT_FISCHI.md",
     "SYT/Linux Commands.md",
     "SYT/Aufgaben.md",
     "SYT/Virtualisierung.md",
     "SYT/32.900 und 43.200 und 79.200 Ping Gang.md",
     "Mathe/Mitschrift.md",
+    "NW/Mitschrift.md",
     "Deutsch/SI-FI Geschichte.md",
     "Deutsch/Jules Verne Steckbrief.md"
   ]
