@@ -32,3 +32,20 @@ Select * FROM person;
 -create
 -drop
 -alter
+
+
+## DML = Data Manage Language
+
+### Commands
+
+-insert
+-delete
+-update
+-(select)
+
+## DCL = Data Controlle Language
+
+## Commands
+
+-grant
+-revoke
