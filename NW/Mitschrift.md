@@ -1,6 +1,6 @@
 # Fossiele Rohstoffe
 
-Fossile = Überreste von Toten Tieren / Algen (die vor den ersten Menschen gelebt haben)
+Fossile = Überreste von Toten Tieren / Algen (die 1 Millionen Jahre alt ist)
 
 ### Fossiele Rohstoffe:
 1) Kalk CaCO_3
@@ -11,9 +11,13 @@ Fossile = Überreste von Toten Tieren / Algen (die vor den ersten Menschen geleb
 Feste Brennstoffe verursachen mehr Feinstaub als z.B.: Biogas/Erdgas
 	-> Kohlekraftwerke brauchen aufwändigere Filterungssysteme
 
+Steinkohle: 300 Millionen Jahre alt
+Braunkohle: 50 Millionen Jahre alt
+
 Steinkohle verbrennt sauberer als Braunkohle
 
 C + O => CO_2
 
 ![[Pasted image 20220916125531.png]]
-dc 
+
+![[Pasted image 20220920121912.png]]

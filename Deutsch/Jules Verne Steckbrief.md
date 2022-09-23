@@ -16,7 +16,7 @@ Gestorben: 29. Januar 1910
 ##### Kinder:
 1 Sohn: Michel Verne (1861 - 1925)
 2 Stieftöchter : Valentine Morel (?)
-							Suzanne Morel (?)
+						Suzanne Morel (?)
 ![Jules Verne](ExtraFiles/Images/Jules_Verne.gif)
 
 Berühmte Bücher: 
