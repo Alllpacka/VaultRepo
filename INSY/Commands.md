@@ -45,7 +45,11 @@ Select * FROM person;
 
 ## DCL = Data Controlle Language
 
-## Commands
+### Commands
 
 -grant
 -revoke
+
+## DQL = Data Query Language
+
+### 
