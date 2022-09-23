@@ -1,4 +1,5 @@
-# MYSQL
+# MYSQL  
+##### SQL = structure quary language
 ## Commands
 
 mysql -u root
@@ -23,3 +24,11 @@ CREATE TABLE <name der Tabelle | Überschrift> (
 );
 
 Select * FROM person;
+
+## DDL = Data Definition Language
+
+### Commands
+
+-create
+-drop
+-
