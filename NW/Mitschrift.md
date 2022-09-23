@@ -11,8 +11,8 @@ Fossile = Überreste von Toten Tieren / Algen (die 1 Millionen Jahre alt ist)
 Feste Brennstoffe verursachen mehr Feinstaub als z.B.: Biogas/Erdgas
 	-> Kohlekraftwerke brauchen aufwändigere Filterungssysteme
 
-Steinkohle: 300 Millionen Jahre alt
-Braunkohle: 50 Millionen Jahre alt
+Steinkohle: 300 Millionen Jahre alt (1kg = 30MJ)
+Braunkohle: 50 Millionen Jahre alt (1kg = 40MJ)
 
 Steinkohle verbrennt sauberer als Braunkohle
 
