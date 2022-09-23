@@ -21,3 +21,8 @@ C + O => CO_2
 ![[Pasted image 20220916125531.png]]
 
 ![[Pasted image 20220920121912.png]]
+
+Destillation = oben am Kühlsten unten am wärmsten
+
+-> beim Verdampfen wird es kälter
+
