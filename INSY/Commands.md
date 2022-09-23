@@ -15,3 +15,5 @@ CREATE TABLE <name der Tabelle | Überschrift> (
 	Nachname <datentyp> ,
 	Geburtstag <datentyp>
 );
+
+insert into person values ([Values seperated by comma])
