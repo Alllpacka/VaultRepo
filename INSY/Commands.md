@@ -31,4 +31,4 @@ Select * FROM person;
 
 -create
 -drop
--
+-alter
