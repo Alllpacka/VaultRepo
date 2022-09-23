@@ -1,5 +1,5 @@
-# MYSQL  
-##### SQL = structure quary language
+# SQL  
+##### SQL = structure quary language   (SQL != select)
 ## Commands
 
 mysql -u root
@@ -52,4 +52,6 @@ Select * FROM person;
 
 ## DQL = Data Query Language
 
-### 
+### Commands
+
+-select
