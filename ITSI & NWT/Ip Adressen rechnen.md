@@ -6,7 +6,7 @@ Netzwerk: 92.41.41.0
 
 Netzmask: 255.255.252.0
 
-
+Broadcast: 29.41.47.255
 
 
 ![[Pasted image 20220923081711.png]]
