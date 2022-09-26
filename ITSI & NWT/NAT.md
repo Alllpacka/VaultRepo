@@ -15,3 +15,5 @@ Wildcard Mask -> inverse from
 permit 192.168.100.0 0.0.0.255
 
 deny host 192.168.100.10
+
+permit any
