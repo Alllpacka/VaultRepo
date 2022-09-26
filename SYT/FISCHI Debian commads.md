@@ -9,6 +9,7 @@
 9. cat id_rsa.pub >> .ssh/autorized_keys
 10. reboot 
 
+apt install xfce4
 
 ## in win
 1. ssh-keygen.exe
@@ -16,4 +17,12 @@
 7. ssh root@\[ip addr]
 8. scp id_rsa.pub root@\[ip addr]:
 11. ssh root@\[ip addr]
+
+
+
+## generelle linux commands
+apt update
+apt install \[package name]
+apt upgrade
+apt dist-upgrade (upgraded den kerner)
 

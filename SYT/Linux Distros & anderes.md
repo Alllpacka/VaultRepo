@@ -10,6 +10,6 @@ Linus Torvalds
 Pinguin heißt TUX
 
 ## Distros
-![.svg von linux distros](Linux_Distribution_Timeline.svg)
+__![.svg von linux distros](Linux_Distribution_Timeline.svg)__
 
 
