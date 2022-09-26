@@ -43,6 +43,5 @@ int gig0/1
 ip nat inside
 int gig0/0
 ip nat out
-
 ~~~
 
