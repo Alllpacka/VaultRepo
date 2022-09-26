@@ -19,5 +19,20 @@ Wildcard Mask -> inverse from Subnetmask
 
 permit any
 
+Cisco:
+~~~cisco
+acces-list 10 deny 192.168.0.0 0.0.255.255
+acces-list 10 deny 10.0.0.0 0.255.255.255
+acces-list 10 deny 172.16.0.0 0.15.255.255
+acces-list 10 permit any
+~~~
 
+acces-list \[nummer] (nicht nummeriert)
+ip acces-list standard \[nummer] (nummeriert)
+
+2 acces-list for each port (incomming/outgoing)
+
+~~~cisco
+ip acces-group 10 in
+~~~
 
