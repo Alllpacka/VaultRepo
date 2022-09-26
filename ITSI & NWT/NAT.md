@@ -36,3 +36,13 @@ ip acces-list standard \[nummer] (nummeriert)
 ip acces-group 10 in
 ~~~
 
+~~~ciso
+ip nat inside source list [nummer der acces-controll list]10 interface gig 0/0 overload
+
+int gig0/1
+ip nat inside
+int gig0/0
+ip nat out
+
+~~~
+
