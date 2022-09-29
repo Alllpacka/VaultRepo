@@ -7,3 +7,7 @@
 	+ Strom ein
 + /system/reset-configuration no-defaults=yes
 + New Password promt mit Ctrl+C abbrechen
++ /system/identity/set name=[Routername]
++ /ip/neighbor/print -> neighbor-Liste anzeigen lassen
++ /tool/mac-telnet [MAC] (hat autocomplete)
++ 
