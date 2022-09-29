@@ -1,3 +1,5 @@
 Der britische Naturforscher Charles Darwin bewies als erster, dass sich alles leben ständig weiterentwickelt. Der Vorgang wird auch als Evolution bezeichnet.
 Er schlussfolgerte das die Evolution eine Folge der natürlichen Auslese ist, das bedeutet das sich neue Arten entwickeln, weil sie sich an ihre neue Umwelt anpassen als andere Arten. Die nicht so gut angepasset Art wird nun von Zeit zu Zeit aussterben. 
 Darwins Theorie erklärt auch, das alles Leben von einer Art entwickelt hat die inzwischen ausgestorben ist. Das gilt auch für uns Menschen.
+Seine Theorie war ein großer Widerspruch zur christlichen Lehre. Sogar Heutzutage probieren rechtskonservative Republikaner in den USA den wissenschaftlichen naturkundlichen Unterricht aus den Schulen zu verbannen, da es nicht mit der christlichen Lehre zusammenpasst.
+Siegmund Freud
