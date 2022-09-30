@@ -30,7 +30,7 @@ acces-list 10 permit any
 acces-list \[nummer] (nicht nummeriert)
 ip acces-list standard \[nummer] (nummeriert)
 
-2 acces-list for each port (incomming/outgoing)
+2 acces-list for each interface (incomming/outgoing)
 
 ~~~cisco
 ip acces-group 10 in
