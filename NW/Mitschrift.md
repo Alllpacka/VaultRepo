@@ -51,12 +51,36 @@ gut für den Sommer
 
 einfachste Verbindung
 
-2 Kohlenstoff- und 2 Wasserstoff Atome
+![[Pasted image 20220930132441.png]]
 
 ## Ethan
 #### C_2H_6
 
+![[Pasted image 20220930132504.png]]
+
 ## Propan
 #### C_3H_8
 
+![[Pasted image 20220930132556.png]]
 
+## Butan
+#### C_4H_10
+
+![[Pasted image 20220930132704.png]]
+
+## Pentan
+#### C_5H_12
+
+
+## Hexan
+#### C_6H_14
+
+
+## Heptan
+#### C_7H_16
+
+## Oktan
+#### C_8H_18
+
+## Nonan
+#### C_10
