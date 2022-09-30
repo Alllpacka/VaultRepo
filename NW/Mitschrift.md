@@ -92,6 +92,7 @@ einfach Bindung
 ### Dekan
 ##### C_10H_22
 
+
 ## Alkene
 
 Doppelbindungen
@@ -113,6 +114,7 @@ Doppelbindungen
 ![[Pasted image 20220930133315.png]]
 
 .....
+
 
 
 
