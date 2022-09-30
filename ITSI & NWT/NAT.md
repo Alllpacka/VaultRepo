@@ -21,22 +21,22 @@ permit any
 
 Cisco:
 ~~~cisco
-acces-list 10 deny 192.168.0.0 0.0.255.255
-acces-list 10 deny 10.0.0.0 0.255.255.255
-acces-list 10 deny 172.16.0.0 0.15.255.255
-acces-list 10 permit any
+access-list 10 deny 192.168.0.0 0.0.255.255
+access-list 10 deny 10.0.0.0 0.255.255.255
+access-list 10 deny 172.16.0.0 0.15.255.255
+access-list 10 permit any
 ~~~
 
-acces-list \[nummer] (nicht nummeriert)
-ip acces-list standard \[nummer] (nummeriert)
+access-list \[nummer] (nicht nummeriert)
+ip access-list standard \[nummer] (nummeriert)
 
-2 acces-list for each interface (incomming/outgoing)
+2 access-list for each interface (incomming/outgoing)
 
 ~~~cisco
-ip acces-group 10 in
+ip access-group 10 in
 ~~~
 
-~~~ciso
+~~~cisco
 ip nat inside source list [nummer der acces-controll list]10 interface gig 0/0 overload
 
 int gig0/1
