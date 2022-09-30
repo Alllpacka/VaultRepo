@@ -46,41 +46,60 @@ gut für den Sommer
 
 # Kohlenwasserstoffe
 
-## Methan
-#### CH_4
+## Alkane
+
+### Methan
+##### CH_4
 
 einfachste Verbindung
 
 ![[Pasted image 20220930132441.png]]
 
-## Ethan
-#### C_2H_6
+### Ethan
+##### C_2H_6
 
 ![[Pasted image 20220930132504.png]]
 
-## Propan
-#### C_3H_8
+### Propan
+##### C_3H_8
 
 ![[Pasted image 20220930132556.png]]
 
-## Butan
-#### C_4H_10
+### Butan
+##### C_4H_10
 
 ![[Pasted image 20220930132704.png]]
 
-## Pentan
-#### C_5H_12
+### Pentan
+##### C_5H_12
 
 
-## Hexan
-#### C_6H_14
+### Hexan
+##### C_6H_14
 
 
-## Heptan
-#### C_7H_16
+### Heptan
+##### C_7H_16
 
-## Oktan
-#### C_8H_18
+### Oktan
+##### C_8H_18
 
-## Nonan
-#### C_10
+### Nonan
+##### C_9H_20
+
+### Dekan
+##### C_10H_22
+
+## Alkene
+
+Doppelbindungen
+
+### Ethen
+##### C_2H_4
+
+![[Pasted image 20220930133120.png]]
+
+### Propen
+##### C_3H_6
+![[Pasted image 20220930133236.png]]
+
