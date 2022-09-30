@@ -26,3 +26,18 @@ Destillation = oben am Kühlsten unten am wärmsten
 
 -> beim Verdampfen wird es kälter
 
+
+
+#### __SAE 5W-30__
+
+Sommer und Winter verwendbar.
+
+Dünnflüssig im Winter, dickflüssig im Sommer
+
+__0W-30__
+
+gut für den Winter
+
+__0W-40__
+
+gut für den Sommer 
