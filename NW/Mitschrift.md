@@ -28,16 +28,35 @@ Destillation = oben am Kühlsten unten am wärmsten
 
 
 
-#### __SAE 5W-30__
+##### __SAE 5W-30__
 
 Sommer und Winter verwendbar.
 
 Dünnflüssig im Winter, dickflüssig im Sommer
 
-__0W-30__
+##### __0W-30__
 
 gut für den Winter
 
-__0W-40__
+##### __0W-40__
 
 gut für den Sommer 
+
+
+
+# Kohlenwasserstoffe
+
+## Methan
+#### CH_4
+
+einfachste Verbindung
+
+2 Kohlenstoff- und 2 Wasserstoff Atome
+
+## Ethan
+#### C_2H_6
+
+## Propan
+#### C_3H_8
+
+
