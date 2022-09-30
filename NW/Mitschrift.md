@@ -48,10 +48,10 @@ gut für den Sommer
 
 ## Alkane
 
+einfach Bindung
+
 ### Methan
 ##### CH_4
-
-einfachste Verbindung
 
 ![[Pasted image 20220930132441.png]]
 
@@ -108,3 +108,11 @@ Doppelbindungen
 
 ![[Pasted image 20220930133315.png]]
 
+.....
+
+
+
+
+## Alkine
+
+ Dreifachbindung
