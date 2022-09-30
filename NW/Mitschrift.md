@@ -50,7 +50,7 @@ gut für den Sommer
 
 einfach Bindung
 
-C_n H_2n+2
+##### C_n H_2n+2
 
 ### Methan
 ##### CH_4
@@ -121,7 +121,7 @@ Doppelbindungen
 
 Dreifachbindung
 
-C_n H_2n-2
+##### C_n H_2n-2
 
 ### Ethin
 ##### C_2H_2
