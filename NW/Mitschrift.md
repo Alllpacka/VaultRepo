@@ -103,3 +103,8 @@ Doppelbindungen
 ##### C_3H_6
 ![[Pasted image 20220930133236.png]]
 
+### Buten
+##### C_4H_8
+
+![[Pasted image 20220930133315.png]]
+
