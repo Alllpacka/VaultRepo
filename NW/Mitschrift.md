@@ -50,6 +50,8 @@ gut für den Sommer
 
 einfach Bindung
 
+C_n H_2n+2
+
 ### Methan
 ##### CH_4
 
@@ -94,6 +96,8 @@ einfach Bindung
 
 Doppelbindungen
 
+##### C_n H_2n
+
 ### Ethen
 ##### C_2H_4
 
@@ -115,4 +119,11 @@ Doppelbindungen
 
 ## Alkine
 
- Dreifachbindung
+Dreifachbindung
+
+C_n H_2n-2
+
+### Ethin
+##### C_2H_2
+
+![[Pasted image 20220930133707.png]]
