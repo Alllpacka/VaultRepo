@@ -27,5 +27,9 @@ apt install xfce4
 apt update
 apt install \[package name]
 apt upgrade
-apt dist-upgrade (upgraded den kerner)
+apt dist-upgrade (upgraded den kernel)
 
+## function-keys
+
+CTRL + ALT + F1 > terminal
+CTRL + ALT + F7 > GUI
