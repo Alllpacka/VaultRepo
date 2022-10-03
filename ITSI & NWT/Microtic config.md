@@ -10,4 +10,27 @@
 + /system/identity/set name=[Routername]
 + /ip/neighbor/print -> neighbor-Liste anzeigen lassen
 + /tool/mac-telnet [MAC] (hat autocomplete)
-+ 
+
+
+
+
+## zum wlan verbinden
+
+wireless
+security profile
+name: htlhl
+username & password
+Ehap zu ehap oder so ka habs nicht gesehen
+
+
+wifi interfaces
+2.4
+scan
+htlhl connect
+security profile htlhl
+
+
+ip thcp client
+wlan1 ip addr
+
+ping 8.8.8.8
