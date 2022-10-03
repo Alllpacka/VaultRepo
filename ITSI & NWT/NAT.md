@@ -39,8 +39,8 @@ ip access-group 10 in
 ~~~cisco
 ip nat inside source list [nummer der acces-controll list]10 interface gig 0/0 overload
 
-int gig0/1
-ip nat inside
 int gig0/0
+ip nat inside
+int gig0/1
 ip nat out
 ~~~
