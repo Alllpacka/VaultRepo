@@ -29,3 +29,7 @@ apt install \[package name]
 apt upgrade -> Updatet die gefundenen Updates
 apt dist-upgrade (upgraded den kerner)
 
+
+
+str3ngGehe1m!
+
