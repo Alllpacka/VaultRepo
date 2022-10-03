@@ -21,8 +21,8 @@ apt install xfce4
 
 
 ## generelle linux commands
-apt update
+apt update -> sucht nach Updates
 apt install \[package name]
-apt upgrade
+apt upgrade -> Updatet die gefundenen Updates
 apt dist-upgrade (upgraded den kerner)
 
