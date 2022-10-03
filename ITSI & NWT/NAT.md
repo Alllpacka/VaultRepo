@@ -44,3 +44,6 @@ ip nat inside
 int gig0/1
 ip nat outside
 ~~~
+
+
+ip nat inside source static tcp 172.16.0.10 80 78.49.129.2 80
