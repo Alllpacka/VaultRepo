@@ -1,3 +1,6 @@
+# password
+Ww1ssPfuLI
+
 ## in VirtualBox
 0. change network to briged
 
