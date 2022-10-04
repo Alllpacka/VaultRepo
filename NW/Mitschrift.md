@@ -104,6 +104,8 @@ Doppelbindungen
 
 ![[Pasted image 20220930133120.png]]
 
+C_2H_4 + H_2O -> C_2H5OH
+
 ### Propen
 ##### C_3H_6
 ![[Pasted image 20220930133236.png]]
