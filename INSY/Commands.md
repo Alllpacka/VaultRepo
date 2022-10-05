@@ -55,3 +55,20 @@ Select * FROM person;
 ### Commands
 
 -select
+
+
+# Übungen
+
+mysql -u root
+show databases;
+create database [name];
+use [databasename];
+exit;
+cd [folder of the .sql script]
+mysql -u root
+use [databasename];
+source [.sql script name];
+show tables;
+select * from [tablename];
+
+
