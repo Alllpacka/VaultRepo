@@ -12,7 +12,9 @@
 + /tool/mac-telnet [MAC] (hat autocomplete)
 
 
+~~~microtic
 
+~~~
 
 ## zum wlan verbinden
 

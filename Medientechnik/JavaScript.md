@@ -18,3 +18,8 @@ template String mit \`\`
 ![[Pasted image 20221006110356.png]]
 
 ![[regex-cheatsheet.jpg]]
+
+| Symbol | Description   |
+| ------ | ------------- |
+| ^      | Start of line |
+| \\A    |               |
