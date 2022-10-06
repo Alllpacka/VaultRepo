@@ -39,4 +39,9 @@ ping 8.8.8.8
 
 routing/rip/instance/add nume = [name]
 
-routing/rip/interface-template/add interface= ether1,ether2
+routing/rip/interface-template/add interface= ether1,ether2 instance: rip1
+
+/routing/rip/instance/set number=0  (tab zeit möglichkeiten an)
+
+/routing/rip/instance/set number=0 redistribute=connected, rip
+
