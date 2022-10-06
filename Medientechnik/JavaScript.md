@@ -1,6 +1,6 @@
 ~~~javascript
 alert('[message]')
 promt('[message]') //-> eingabefeld
-var name = [command] //-> rückgabe wird in variable gespeichert
-
+var [name] = [command] //-> rückgabe wird in variable gespeichert
+const var [name] //-> final varia
 ~~~
