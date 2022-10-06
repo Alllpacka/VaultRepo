@@ -11,8 +11,10 @@ Strings mit '' oder ""
 
 template String mit \`\`
 
-## decent into insanity (regex)
+## descend into insanity (regex)
 
 ![[196-rxdkwl.jpg]]
 
 ![[Pasted image 20221006110356.png]]
+
+![[regex-cheatsheet.jpg]]
