@@ -14,4 +14,8 @@ z.B.:
 6) Ellipse
 7) Enjabement
 8) Alliteration
-9) 
+9) Personifikation
+10) Ironie
+11) Tautologie
+12) Neologismus
+13) Sarkasmus
