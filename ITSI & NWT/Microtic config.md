@@ -13,7 +13,22 @@
 
 
 ~~~microtic
-
+/system identity
+set name=Router
+/ip address
+add address=10.0.0.1/30 interface=ether1 network=10.0.0.0
+add address=192.168.20.1/24 interface=ether2 network=192.168.20.0
+/interface bridge
+add name=bridge1
+/interface bridge port
+add bridge=bridge1 interface=ether2
+add bridge=bridge1 interface=ether3
+add bridge=bridge1 interface=ether4
+add bridge=bridge1 interface=ether5
+/routing rip instance
+add name=rip1 redistribute=connected,rip
+/routing rip interface-template
+add instance=rip1 interfaces=ether1,ether2
 ~~~
 
 ## zum wlan verbinden
@@ -39,7 +54,7 @@ ping 8.8.8.8
 
 ## RIP
 
-routing/rip/instance/add nume = [name]
+routing/rip/instance/add name = [name]
 
 routing/rip/interface-template/add interface= ether1,ether2 instance: rip1
 
