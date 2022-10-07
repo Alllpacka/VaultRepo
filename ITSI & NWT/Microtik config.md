@@ -35,6 +35,7 @@ add instance=rip1 interfaces=ether1,ether2
 ~~~microtik
 /ip/route/add dst-address=0.0.0.0/0 gateway=10.0.0.5
 ~~~
+
 ## zum wlan verbinden
 
 wireless
