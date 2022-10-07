@@ -27,6 +27,7 @@ select name, gdp/population from bbc where population > 200000000;
    Region 'South America'.
    (Teile die Bevölkerungszahl einfach durch 1.000.000 und runde auf die nächste ganze Zahl.)
    ~~~sql
+   select name, population/1000000 from bbc where region = "south america";
    ~~~
 | name                              | population/1000000 |  
 | --------------------------------- | ------------------ |  
@@ -44,9 +45,21 @@ select name, gdp/population from bbc where population > 200000000;
 | Uruguay                           | 3.3341             |    
    
 5) Zeige die Namen und die Bevölkerungszahlen für 'France', 'Germany', 'Italy'.
+~~~sql
+select name, population from bbc where name = "france" or name = "germany" or name = "italy";
+~~~
+
+| name | population |
+| ---- | ---------- |
+| France  |   59329691 |
+| Germany |   82797408 |
+| Italy   |   57634327 |
+
 
 6) Ermittle die Länder, deren Namen das Wort 'United' enthält.
+~~~sql
 
+~~~
 | name                 | region        | area    | population | gdp           |
 | -------------------- | ------------- | ------- | ---------- | ------------- |
 | United Arab Emirates | Middle East   | 82880   | 2369153    | 41500000000   |
