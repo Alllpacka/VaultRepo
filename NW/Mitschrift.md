@@ -132,3 +132,6 @@ Dreifachbindung
 ![[Pasted image 20220930133707.png]]
 
 
+# Benzen
+
+![[Pasted image 20221007133221.png]]
