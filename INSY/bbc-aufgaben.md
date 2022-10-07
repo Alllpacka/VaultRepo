@@ -7,10 +7,13 @@ Einfache SELECT-Aufgaben auf die Tabelle bbc(name, region, area, population, gdp
 		select name, region, population from bbc;
 
 2) Wie heißen die vier Länder, deren Bevölkerungszahl mindestens 200 Millionen beträgt?
-
-1) Nenne die Namen und das Pro-Kopf-Einkommen aller Länder mit einer Bevölkerungszahl
+		select * from bbc where population > 200000000;
+3) Nenne die Namen und das Pro-Kopf-Einkommen aller Länder mit einer Bevölkerungszahl
    von mindestens 200 Millionen?
-   
+		1. China: gdp: 4800000000000
+		2. India: gdp: 1805000000000
+		3. Indonesia: gdp: 610000000000
+		4. United States: gdp: 9255000000000
 4) Ermittle die Namen und die Bevölkerungszahl (in Millionen) der Länder der
    Region 'South America'.
    (Teile die Bevölkerungszahl einfach durch 1.000.000 und runde auf die nächste ganze Zahl.)
