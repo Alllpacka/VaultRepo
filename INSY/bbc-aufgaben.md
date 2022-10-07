@@ -58,7 +58,7 @@ select name, population from bbc where name = "france" or name = "germany" or na
 
 6) Ermittle die Länder, deren Namen das Wort 'United' enthält.
 ~~~sql
-
+select name from bbc where name like "% United %";
 ~~~
 | name                 | region        | area    | population | gdp           |
 | -------------------- | ------------- | ------- | ---------- | ------------- |
