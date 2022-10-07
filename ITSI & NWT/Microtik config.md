@@ -72,7 +72,7 @@ interface/wireless/set ssid=HTLHL security-profile=HTLsec mode=station numbers=1
 + RIP-Instanz
 	+ Name
 	+ redistribute = connected
-+ Interaf
++ Interface-Template
 
 ~~~microtik
 routing/rip/instance/add name = [name] redistribute = connected
