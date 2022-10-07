@@ -4,12 +4,13 @@ Einfache SELECT-Aufgaben auf die Tabelle bbc(name, region, area, population, gdp
     gdp (gross domestic product) --> Bruttoinlandsprodukt
 
 1) Gibt den Namen, die Region und die Bevölkerungszahl aller Länder aus.
-		select name, region, population from bbc;
-
+~~~sql
+select name, region, population from bbc;
+~~~
 2) Wie heißen die vier Länder, deren Bevölkerungszahl mindestens 200 Millionen beträgt?
 ~~~sql
 select * from bbc where population > 200000000;
-		
+~~~
 3) Nenne die Namen und das Pro-Kopf-Einkommen aller Länder mit einer Bevölkerungszahl
    von mindestens 200 Millionen?
 ~~~sql
