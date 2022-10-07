@@ -130,3 +130,5 @@ Dreifachbindung
 ### Ethin
 ##### C_2H_2
 ![[Pasted image 20220930133707.png]]
+
+
