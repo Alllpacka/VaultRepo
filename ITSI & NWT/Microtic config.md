@@ -12,7 +12,7 @@
 + /tool/mac-telnet [MAC] (hat autocomplete)
 
 
-~~~microtic
+~~~router1
 /system identity
 set name=Router
 /ip address
