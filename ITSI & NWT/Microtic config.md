@@ -52,6 +52,15 @@ wlan1 ip addr
 
 ping 8.8.8.8
 
+~~~ wlan
+interface/wireless/security-profiles/add mode=dynamic-keys authentication-types=wpa2-eap eap-methods=peap mschapv2-user name= [name an HTL] name=HTLsec suppliciant-identity=Mikrotik[FIMI] tls-mode=dont-verify-certificate
+
+interface/wireless/set ssid=HTLHL security-profile=HTLsec mode=station numbers=1 disabled=no
+
+/ip/dhcp-client/add interface=wlan2
+~~~
+
+
 ## RIP
 
 routing/rip/instance/add name = [name]
