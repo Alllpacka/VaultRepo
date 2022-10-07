@@ -11,6 +11,13 @@ select name, region, population from bbc;
 ~~~sql
 select * from bbc where population > 200000000;
 ~~~
+| name          |
+| ------------- |
+| China         |
+| India         |
+| Indonesia     | 
+| United States |
+
 3) Nenne die Namen und das Pro-Kopf-Einkommen aller Länder mit einer Bevölkerungszahl
    von mindestens 200 Millionen?
 ~~~sql
