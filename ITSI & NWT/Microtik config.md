@@ -34,6 +34,8 @@ add instance=rip1 interfaces=ether1,ether2
 ## default gateway
 ~~~microtik
 /ip/route/add dst-address=0.0.0.0/0 gateway=10.0.0.5
+
+0.0.0.0/0 => alle IPv4 Adressen 
 ~~~
 ## zum wlan verbinden
 
