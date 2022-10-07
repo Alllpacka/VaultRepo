@@ -85,4 +85,9 @@ routing/rip/interface-template/add interface= ether1,ether2 instance: rip1
 ~~~
 
 
-# 
+## Am Ende
+~~~Reset
+/system/reset-configuration no-defaults=yes
+
+str+altgr+9
+~~~
