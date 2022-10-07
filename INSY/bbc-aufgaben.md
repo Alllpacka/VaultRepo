@@ -28,8 +28,8 @@ select name, gdp/population from bbc where population > 200000000;
    (Teile die Bevölkerungszahl einfach durch 1.000.000 und runde auf die nächste ganze Zahl.)
    ~~~sql
    ~~~
-| name                              | population/1000000 |     | 
-| --------------------------------- | ------------------ | --- 
+| name                              | population/1000000 |  
+| --------------------------------- | ------------------ |  
 | Argentina                         | 36.9552            |     
 | Bolivia                           | 8.1526             |     
 | Brazil                            | 172.8604           |     
