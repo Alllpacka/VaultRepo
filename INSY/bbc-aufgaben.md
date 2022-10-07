@@ -18,6 +18,10 @@ Einfache SELECT-Aufgaben auf die Tabelle bbc(name, region, area, population, gdp
    Region 'South America'.
    (Teile die Bevölkerungszahl einfach durch 1.000.000 und runde auf die nächste ganze Zahl.)
    
+   Argentinien: 37mil
+   Bolivia: 8mil
+   Brazil: 
+   
 5) Zeige die Namen und die Bevölkerungszahlen für 'France', 'Germany', 'Italy'.
 
 6) Ermittle die Länder, deren Namen das Wort 'United' enthält.
