@@ -26,6 +26,22 @@ select name, gdp/population from bbc where population > 200000000;
 4) Ermittle die Namen und die Bevölkerungszahl (in Millionen) der Länder der
    Region 'South America'.
    (Teile die Bevölkerungszahl einfach durch 1.000.000 und runde auf die nächste ganze Zahl.)
+   ~~~sql
+   ~~~
+| name                              | population/1000000 |  
+| --------------------------------- | ------------------ |  
+| Argentina                         | 36.9552            |     
+| Bolivia                           | 8.1526             |     
+| Brazil                            | 172.8604           |     
+| Chile                             | 15.1538            |     
+| Ecuador                           | 12.9201            |     
+| Falkland Islands (Islas Malvinas) | 0.0028             |     
+| French Guiana                     | 0.1726             |     
+| Guyana                            | 0.6973             |     
+| Paraguay                          | 5.5858             |     
+| Peru                              | 27.0129            |     
+| Suriname                          | 0.4313             |    
+| Uruguay                           | 3.3341             |    
    
 5) Zeige die Namen und die Bevölkerungszahlen für 'France', 'Germany', 'Italy'.
 
