@@ -31,6 +31,12 @@ select name, gdp/population from bbc where population > 200000000;
 
 6) Ermittle die Länder, deren Namen das Wort 'United' enthält.
 
+| name                 | region        | area    | population | gdp           |
+| -------------------- | ------------- | ------- | ---------- | ------------- |
+| United Arab Emirates | Middle East   | 82880   | 2369153    | 41500000000   |
+| United Kingdom       | Europe        | 244820  | 59511464   | 1290000000000 |
+| United States        | North America | 9629091 | 275562673  | 9255000000000 |
+
 7) Ermittle die Größe der Weltgesamtbevölkerung.
 
 8) Zeige alle Regionen - aber jede nur einmal.
