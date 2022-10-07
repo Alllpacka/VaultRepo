@@ -29,4 +29,4 @@ Einfache SELECT-Aufgaben auf die Tabelle bbc(name, region, area, population, gdp
 11) Ermittle für jede Region die Region und die Anzahl der Länder mit einer
     Bevölkerungszahl von mindestens 10 Millionen.
     
-12) Erstell eine Liste der Regionen mit einer Gesamtbev�lkerung von mindestens 100 Millionen.
+12) Erstell eine Liste der Regionen mit einer Gesamtbev�(harry)lkerung von mindestens 100 Millionen.
