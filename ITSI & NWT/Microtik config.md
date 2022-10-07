@@ -70,6 +70,7 @@ interface/wireless/set ssid=HTLHL security-profile=HTLsec mode=station numbers=1
 
 ## RIP
 
+~~~microtik
 routing/rip/instance/add name = [name]
 
 routing/rip/interface-template/add interface= ether1,ether2 instance: rip1
