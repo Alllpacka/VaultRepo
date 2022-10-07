@@ -81,5 +81,5 @@ routing/rip/interface-template/add interface= ether1,ether2 instance: rip1
 
 /routing/rip/instance/set number=0  (tab zeigt möglichkeiten an)
 
-/routing/rip/instance/set number=0 redistribute=connected, rip
+/routing/rip/instance/set number=0 redistribute=connected,rip
 ~~~
