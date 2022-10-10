@@ -30,5 +30,6 @@ apt upgrade -> Updatet die gefundenen Updates
 apt dist-upgrade (upgraded den kerner)
 
 
+![[GNULinux-Kommandozeile.pdf]]
 
 str3ngGehe1m!
