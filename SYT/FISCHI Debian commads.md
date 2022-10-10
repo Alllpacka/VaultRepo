@@ -14,6 +14,13 @@ Ww1ssPfuLI
 
 apt install xfce4
 
+#### weitere oberflächen
++ xfce4
++ Gnome
++ Plasma (KDE) (mit Kubuntu)
++ Cinnamon
++ lxat
+
 ## in win
 1. ssh-keygen.exe
 2. cd C:\\users\\~\\.ssh
