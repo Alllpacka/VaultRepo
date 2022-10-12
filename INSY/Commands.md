@@ -71,8 +71,7 @@ sum()
 avg()
 ~~~
 
-# [SQL Wiki()
-http://172.16.1.77/insy/sql/
+# [SQL Wiki](http://172.16.1.77/insy/sql/)
 
 # Übungen
 
