@@ -50,11 +50,11 @@ select name, gdp/population from bbc where population > 200000000;
 select name from bbc where name like '%united%'
 ~~~
 
-| name                 | region        | area    | population | gdp           |
-| -------------------- | ------------- | ------- | ---------- | ------------- |
-| United Arab Emirates | Middle East   | 82880   | 2369153    | 41500000000   |
-| United Kingdom       | Europe        | 244820  | 59511464   | 1290000000000 |
-| United States        | North America | 9629091 | 275562673  | 9255000000000 |
+| name                 |
+| -------------------- | 
+| United Arab Emirates | 
+| United Kingdom       |     
+| United States        |     
 
 7) Ermittle die Größe der Weltgesamtbevölkerung.
 ~~~sql
