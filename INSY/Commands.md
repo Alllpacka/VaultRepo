@@ -57,7 +57,7 @@ Select * FROM person;
 -select
 
 
-* -> %
+\* -> %
 ? -> _
 
 when name LIKE 'S__u_t%'
@@ -67,6 +67,7 @@ count()
 max()
 min()
 sum()
+avg()
 ~~~
 # Übungen
 
