@@ -129,9 +129,11 @@ select region, count(distinct(name)) from bbc group by region;
 
 11) Ermittle für jede Region die Region und die Anzahl der Länder mit einer
     Bevölkerungszahl von mindestens 10 Millionen.
+~~~sql
+select region, count(distinct(name)) from bbc where population > 10000000 group by region;
+~~~
 
 | region                                           | count(distinct(name)) |
-+--------------------------------------------------+-----------------------+
 | Africa                                           |                    22 |
 | Asia                                             |                    11 |
 | Central America and the Caribbean                |                     2 |
@@ -143,5 +145,13 @@ select region, count(distinct(name)) from bbc group by region;
 | South America                                    |                     5 |
 | South America, Central America and the Caribbean |                     2 |
 | Southeast Asia                                   |                     8 |
-+--------------------------------------------------+-----------------------+
 12) Erstell eine Liste der Regionen mit einer Gesamtbev�(harry)lkerung von mindestens 100 Millionen.
+~~~sql
+select region from bbc where population > 100000000 group by region;
+~~~
+| region         |
+| Africa         |
+| Asia           |
+| North America  |
+| South America  |
+| Southeast Asia |
