@@ -54,15 +54,13 @@ select name, gdp/population from bbc where population > 200000000;
    
 5) Zeige die Namen und die Bevölkerungszahlen für 'France', 'Germany', 'Italy'.
 ~~~sql
+select name, population from bbc where name = 'france' or name = 'germany' or name = 'italy';
 ~~~
 
-+---------+------------+
 | name    | population |
-+---------+------------+
 | France  |   59329691 |
 | Germany |   82797408 |
 | Italy   |   57634327 |
-+---------+------------+
 6) Ermittle die Länder, deren Namen das Wort 'United' enthält.
 ~~~sql
 select name from bbc where name like '%united%'
@@ -131,5 +129,19 @@ select region, count(distinct(name)) from bbc group by region;
 
 11) Ermittle für jede Region die Region und die Anzahl der Länder mit einer
     Bevölkerungszahl von mindestens 10 Millionen.
-    
+
+| region                                           | count(distinct(name)) |
++--------------------------------------------------+-----------------------+
+| Africa                                           |                    22 |
+| Asia                                             |                    11 |
+| Central America and the Caribbean                |                     2 |
+| Commonwealth of Independent States               |                     4 |
+| Europe                                           |                    15 |
+| Middle East                                      |                     5 |
+| North America                                    |                     3 |
+| Oceania                                          |                     1 |
+| South America                                    |                     5 |
+| South America, Central America and the Caribbean |                     2 |
+| Southeast Asia                                   |                     8 |
++--------------------------------------------------+-----------------------+
 12) Erstell eine Liste der Regionen mit einer Gesamtbev�(harry)lkerung von mindestens 100 Millionen.
