@@ -62,7 +62,12 @@ Select * FROM person;
 
 when name LIKE 'S__u_t%'
 
-
+~~~sql
+count()
+max()
+min()
+sum()
+~~~
 # Übungen
 
 mysql -u root
@@ -76,3 +81,5 @@ use [databasename];
 source [.sql script name];
 show tables;
 select * from [tablename];
+
+
