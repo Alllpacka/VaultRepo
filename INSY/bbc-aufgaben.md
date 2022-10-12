@@ -46,6 +46,9 @@ select name, gdp/population from bbc where population > 200000000;
 5) Zeige die Namen und die Bevölkerungszahlen für 'France', 'Germany', 'Italy'.
 
 6) Ermittle die Länder, deren Namen das Wort 'United' enthält.
+~~~sql
+select name from bbc where name like '%united%'
+~~~
 
 | name                 | region        | area    | population | gdp           |
 | -------------------- | ------------- | ------- | ---------- | ------------- |
