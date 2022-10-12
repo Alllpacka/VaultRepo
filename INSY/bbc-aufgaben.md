@@ -53,7 +53,16 @@ select name, gdp/population from bbc where population > 200000000;
 | Uruguay                           | 3.3341             |    
    
 5) Zeige die Namen und die Bevölkerungszahlen für 'France', 'Germany', 'Italy'.
+~~~sql
+~~~
 
++---------+------------+
+| name    | population |
++---------+------------+
+| France  |   59329691 |
+| Germany |   82797408 |
+| Italy   |   57634327 |
++---------+------------+
 6) Ermittle die Länder, deren Namen das Wort 'United' enthält.
 ~~~sql
 select name from bbc where name like '%united%'
@@ -100,6 +109,25 @@ select distinct(region) from bbc;
 9) Wie heißen die Länder mit einem Bruttoinlandsprodukt (gdp) größer als Gesamt-Afrika?
 
 10) Zeig für jede Region die Region und die Anzahl der zugehörigen Länder.
+~~~sql
+select region, count(distinct(name)) from bbc group by region;
+~~~
+| region                                           | count(distinct(name)) |
+| Africa                                           |                    59 |
+| Antarctic Region                                 |                     5 |
+| Arctic Region                                    |                     4 |
+| Asia                                             |                    14 |
+| Bosnia and Herzegovina, Europe                   |                     1 |
+| Central America and the Caribbean                |                    31 |
+| Commonwealth of Independent States               |                    11 |
+| Europe                                           |                    43 |
+| Middle East                                      |                    17 |
+| North America                                    |                     5 |
+| Oceania                                          |                    34 |
+| South America                                    |                    12 |
+| South America, Central America and the Caribbean |                     2 |
+| Southeast Asia                                   |                    18 |
+| World                                            |                     5 |
 
 11) Ermittle für jede Region die Region und die Anzahl der Länder mit einer
     Bevölkerungszahl von mindestens 10 Millionen.
