@@ -62,6 +62,7 @@ Select * FROM person;
 
 when name LIKE 'S__u_t%'
 
+## Aggregatfunktionen
 ~~~sql
 count()
 max()
