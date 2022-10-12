@@ -70,6 +70,7 @@ min()
 sum()
 avg()
 ~~~
+
 # Übungen
 
 mysql -u root
