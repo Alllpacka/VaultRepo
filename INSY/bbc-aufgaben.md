@@ -54,6 +54,14 @@ select name, gdp/population from bbc where population > 200000000;
 | United States        | North America | 9629091 | 275562673  | 9255000000000 |
 
 7) Ermittle die Größe der Weltgesamtbevölkerung.
+~~~sql
+select sum(population) from bbc;
+~~~
+
+| sum(population) |
+| --------------- |
+|      6080153190 |
+
 
 8) Zeige alle Regionen - aber jede nur einmal.
 
