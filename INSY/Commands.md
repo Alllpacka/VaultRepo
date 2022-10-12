@@ -87,4 +87,3 @@ source [.sql script name];
 show tables;
 select * from [tablename];
 
-
