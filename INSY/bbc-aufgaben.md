@@ -58,9 +58,10 @@ select name, population from bbc where name = 'france' or name = 'germany' or na
 ~~~
 
 | name    | population |
-| France  |   59329691 |
-| Germany |   82797408 |
-| Italy   |   57634327 |
+| ------- | ---------- |
+| France  | 59329691   |
+| Germany | 82797408   |
+| Italy   | 57634327   |
 6) Ermittle die Länder, deren Namen das Wort 'United' enthält.
 ~~~sql
 select name from bbc where name like '%united%'
@@ -88,6 +89,7 @@ select distinct(region) from bbc;
 ~~~
 
 | region                                           |
+| ------------------------------------------------ |
 | Africa                                           |
 | Antarctic Region                                 |
 | Arctic Region                                    |
@@ -111,21 +113,22 @@ select distinct(region) from bbc;
 select region, count(distinct(name)) from bbc group by region;
 ~~~
 | region                                           | count(distinct(name)) |
-| Africa                                           |                    59 |
-| Antarctic Region                                 |                     5 |
-| Arctic Region                                    |                     4 |
-| Asia                                             |                    14 |
-| Bosnia and Herzegovina, Europe                   |                     1 |
-| Central America and the Caribbean                |                    31 |
-| Commonwealth of Independent States               |                    11 |
-| Europe                                           |                    43 |
-| Middle East                                      |                    17 |
-| North America                                    |                     5 |
-| Oceania                                          |                    34 |
-| South America                                    |                    12 |
-| South America, Central America and the Caribbean |                     2 |
-| Southeast Asia                                   |                    18 |
-| World                                            |                     5 |
+| ------------------------------------------------ | --------------------- |
+| Africa                                           | 59                    |
+| Antarctic Region                                 | 5                     |
+| Arctic Region                                    | 4                     |
+| Asia                                             | 14                    |
+| Bosnia and Herzegovina, Europe                   | 1                     |
+| Central America and the Caribbean                | 31                    |
+| Commonwealth of Independent States               | 11                    |
+| Europe                                           | 43                    |
+| Middle East                                      | 17                    |
+| North America                                    | 5                     |
+| Oceania                                          | 34                    |
+| South America                                    | 12                    |
+| South America, Central America and the Caribbean | 2                     |
+| Southeast Asia                                   | 18                    |
+| World                                            | 5                     |
 
 11) Ermittle für jede Region die Region und die Anzahl der Länder mit einer
     Bevölkerungszahl von mindestens 10 Millionen.
@@ -134,22 +137,24 @@ select region, count(distinct(name)) from bbc where population > 10000000 group 
 ~~~
 
 | region                                           | count(distinct(name)) |
-| Africa                                           |                    22 |
-| Asia                                             |                    11 |
-| Central America and the Caribbean                |                     2 |
-| Commonwealth of Independent States               |                     4 |
-| Europe                                           |                    15 |
-| Middle East                                      |                     5 |
-| North America                                    |                     3 |
-| Oceania                                          |                     1 |
-| South America                                    |                     5 |
-| South America, Central America and the Caribbean |                     2 |
-| Southeast Asia                                   |                     8 |
+| ------------------------------------------------ | --------------------- |
+| Africa                                           | 22                    |
+| Asia                                             | 11                    |
+| Central America and the Caribbean                | 2                     |
+| Commonwealth of Independent States               | 4                     |
+| Europe                                           | 15                    |
+| Middle East                                      | 5                     |
+| North America                                    | 3                     |
+| Oceania                                          | 1                     |
+| South America                                    | 5                     |
+| South America, Central America and the Caribbean | 2                     |
+| Southeast Asia                                   | 8                     |
 12) Erstell eine Liste der Regionen mit einer Gesamtbev�(harry)lkerung von mindestens 100 Millionen.
 ~~~sql
 select region from bbc where population > 100000000 group by region;
 ~~~
 | region         |
+| -------------- |
 | Africa         |
 | Asia           |
 | North America  |
