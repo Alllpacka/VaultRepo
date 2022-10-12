@@ -77,7 +77,25 @@ select sum(population) from bbc;
 
 8) Zeige alle Regionen - aber jede nur einmal.
 ~~~sql
+select distinct(region) from bbc;
 ~~~
+
+| region                                           |
+| Africa                                           |
+| Antarctic Region                                 |
+| Arctic Region                                    |
+| Asia                                             |
+| Bosnia and Herzegovina, Europe                   |
+| Central America and the Caribbean                |
+| Commonwealth of Independent States               |
+| Europe                                           |
+| Middle East                                      |
+| North America                                    |
+| Oceania                                          |
+| South America                                    |
+| South America, Central America and the Caribbean |
+| Southeast Asia                                   |
+| World                                            |
 
 9) Wie heißen die Länder mit einem Bruttoinlandsprodukt (gdp) größer als Gesamt-Afrika?
 
