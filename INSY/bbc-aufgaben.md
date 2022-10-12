@@ -11,6 +11,14 @@ select name, region, population from bbc;
 ~~~sql
 select * from bbc where population > 200000000;
 ~~~
+
+| name          | region         | area    | population | gdp           |
+
+| China         | Asia           | 9596960 | 1261832482 | 4800000000000 |
+| India         | Asia           | 3287590 | 1014003817 | 1805000000000 |
+| Indonesia     | Southeast Asia | 1919440 |  224784210 |  610000000000 |
+| United States | North America  | 9629091 |  275562673 | 9255000000000 |
++---------------+----------------+---------+------------+---------------+
 3) Nenne die Namen und das Pro-Kopf-Einkommen aller Länder mit einer Bevölkerungszahl
    von mindestens 200 Millionen?
 ~~~sql
@@ -27,6 +35,7 @@ select name, gdp/population from bbc where population > 200000000;
    Region 'South America'.
    (Teile die Bevölkerungszahl einfach durch 1.000.000 und runde auf die nächste ganze Zahl.)
    ~~~sql
+   select name, population/1000000 from bbc where region = "south america";
    ~~~
 | name                              | population/1000000 |  
 | --------------------------------- | ------------------ |  
