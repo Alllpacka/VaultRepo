@@ -12,13 +12,13 @@ select name, region, population from bbc;
 select * from bbc where population > 200000000;
 ~~~
 
-| name          | region         | area    | population | gdp           |
+| name          | region         | area    | population | gdp           | 
+| ------------- | -------------- | ------- | ---------- | ------------- | 
+| China         | Asia           | 9596960 | 1261832482 | 4800000000000 | 
+| India         | Asia           | 3287590 | 1014003817 | 1805000000000 | 
+| Indonesia     | Southeast Asia | 1919440 | 224784210  | 610000000000  | 
+| United States | North America  | 9629091 | 275562673  | 9255000000000 | 
 
-| China         | Asia           | 9596960 | 1261832482 | 4800000000000 |
-| India         | Asia           | 3287590 | 1014003817 | 1805000000000 |
-| Indonesia     | Southeast Asia | 1919440 |  224784210 |  610000000000 |
-| United States | North America  | 9629091 |  275562673 | 9255000000000 |
-+---------------+----------------+---------+------------+---------------+
 3) Nenne die Namen und das Pro-Kopf-Einkommen aller Länder mit einer Bevölkerungszahl
    von mindestens 200 Millionen?
 ~~~sql
@@ -76,6 +76,8 @@ select sum(population) from bbc;
 
 
 8) Zeige alle Regionen - aber jede nur einmal.
+~~~sql
+~~~
 
 9) Wie heißen die Länder mit einem Bruttoinlandsprodukt (gdp) größer als Gesamt-Afrika?
 
