@@ -108,5 +108,7 @@ supplicant-identity=jakob mschapv2-username=[Schülernummer] tls-mode=dont-verif
 
 /ip/dns/set allow-remote-requests=yes
 
+ /ip/firewall/nat/add chain=dstnat dst-address=172.18.8.101 dst-port=80 action=dst-nat to-addres
+ses=192.168.8.42 protocol=tcp
 
 ~~~
