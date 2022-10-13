@@ -16,4 +16,7 @@ Redungswendungen (ich wiö stereben)
 
 nix mit meiner Meinungu nach (fortnizte)
 
-gEnDErn
+gEnDErn (deez nuts)
+
+
+Crypto rand(gruppe)
