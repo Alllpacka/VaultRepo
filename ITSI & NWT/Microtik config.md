@@ -104,4 +104,5 @@ supplicant-identity=jakob mschapv2-username=[Schülernummer] tls-mode=dont-verif
 
 /ip/address/print
 
+/ip/firewall/nat/add chain=srcnat out-interface=wlan1 action=masquerade
 ~~~
