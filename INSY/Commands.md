@@ -55,3 +55,35 @@ Select * FROM person;
 ### Commands
 
 -select
+
+
+\* -> %
+? -> _
+
+when name LIKE 'S__u_t%'
+
+## Aggregatfunktionen
+~~~sql
+count()
+max()
+min()
+sum()
+avg()
+~~~
+
+# [SQL Wiki](http://172.16.1.77/insy/sql/)
+
+# Übungen
+
+mysql -u root
+show databases;
+create database [name];
+use [databasename];
+exit;
+cd [folder of the .sql script]
+mysql -u root
+use [databasename];
+source [.sql script name];
+show tables;
+select * from [tablename];
+
