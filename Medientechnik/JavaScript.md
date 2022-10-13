@@ -19,7 +19,5 @@ template String mit \`\`
 
 ![[regex-cheatsheet.jpg]]
 
-| Symbol | Description   |
-| ------ | ------------- |
-| ^      | Start of line |
-| \\A    |               |
+# Übungen
+name\@domain.tld
