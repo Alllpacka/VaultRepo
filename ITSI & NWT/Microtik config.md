@@ -95,8 +95,13 @@ str+altgr+9
 ~~~microtik
 /interface/wireless/security-profiles/print
 
-add name=secHTL mode=dynamic-keys authentication-types=wpa2-eap eap-methods=peap 
+interface/wireless/security-profiles/add name=secHTL mode=dynamic-keys authentication-types=wpa2-eap eap-methods=peap 
 supplicant-identity=jakob mschapv2-username=[Schülernummer] tls-mode=dont-verify-certificate
 
+/interface/wireless/set wlan1 mode=station ssid=HTLHL security-profile=secHTL disabled=no
+
+/ip/dhcp-client/add interface=wlan1
+
+/ip/address/print
 
 ~~~
