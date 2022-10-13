@@ -21,3 +21,7 @@ template String mit \`\`
 
 # Übungen
 name\@domain.tld
+
+~~~regex
+/^[a-z]+@[a-z]+\\.[a-z]
+~~~
