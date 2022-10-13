@@ -23,5 +23,5 @@ template String mit \`\`
 name\@domain.tld
 
 ~~~regex
-/^[a-z]+@[a-z]+\\.[a-z]
+/^[a-z0-9]+@[a-z0-9]+\.[a-z]{2,}$/
 ~~~
