@@ -92,7 +92,10 @@ routing/rip/interface-template/add interface= ether1,ether2 instance: rip1
 str+altgr+9
 ~~~
 
-~~~mikrotic
- /interface/wireless/security-profiles/print
+~~~microtik
+/interface/wireless/security-profiles/print
+
+/interface/wireless/security-profiles/add name=secHTL
+
 
 ~~~
