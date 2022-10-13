@@ -1,4 +1,4 @@
-x+ statische IP
+wx+ statische IP
 + Verbindung ether 2-5
 + neuste Version von winbox -> microtic.com
 + Neighbor Discovery funktioniert nicht: MAC-Adresse / Windows Firewall deaktivieren
