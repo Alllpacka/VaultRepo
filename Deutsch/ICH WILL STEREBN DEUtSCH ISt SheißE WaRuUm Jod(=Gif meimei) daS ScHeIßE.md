@@ -14,4 +14,6 @@ Beispiele (deez nuts)
 
 Redungswendungen (ich wiö stereben)
 
+nix mit meiner Meinungu nach (fortnizte)
 
+gEnDErn
