@@ -96,7 +96,7 @@ str+altgr+9
 /interface/wireless/security-profiles/print
 
 interface/wireless/security-profiles/add name=secHTL mode=dynamic-keys authentication-types=wpa2-eap eap-methods=peap 
-supplicant-identity=jakob mschapv2-username=[Schülernummer] tls-mode=dont-verify-certificate 
+supplicant-identity=jakob mschapv2-username=[Schülernummer] tls-mode=dont-verify-certificate mschapv2-password=[password]
 
 /interface/wireless/set wlan1 mode=station ssid=HTLHL security-profile=secHTL disabled=no
 
