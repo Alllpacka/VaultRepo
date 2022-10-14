@@ -147,3 +147,7 @@ o.
 Infrarot => kann durch Obst/Kaugummi gestört werden
 o.
 Farbindikator
+
+Bei vielen Hydroxy gruppen ist es ähnlich wie Zucker => schmeckt Süß
+
+
