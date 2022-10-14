@@ -140,3 +140,8 @@ Dreifachbindung
 
 ![[Pasted image 20221014100847.png]]
 
+Alkohol wird mit einer Brennstoffzelle im Alkoholvortestgerät gemessen
+o.
+Infrarot
+o.
+Farbindikat
