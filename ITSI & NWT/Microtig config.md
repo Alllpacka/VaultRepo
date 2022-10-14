@@ -84,14 +84,6 @@ routing/rip/interface-template/add interface= ether1,ether2 instance: rip1
 /routing/rip/instance/set number=0 redistribute=connected,rip
 ~~~
 
-
-## Am Ende
-~~~Reset
-/system/reset-configuration no-defaults=yes
-
-str+altgr+9
-~~~
-
 ~~~microtik
 /interface/wireless/security-profiles/print
 
@@ -112,3 +104,11 @@ supplicant-identity=jakob mschapv2-username=[Schülernummer] tls-mode=dont-verif
 ses=192.168.8.42 protocol=tcp
 
 ~~~
+
+## Am Ende
+~~~Reset
+/system/reset-configuration no-defaults=yes
+
+str+altgr+9
+~~~
+
