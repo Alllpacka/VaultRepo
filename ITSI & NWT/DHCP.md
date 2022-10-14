@@ -1,4 +1,6 @@
 Dynamic Host Configuration Protocol
 
 
-Client ----------Discover----------> Server
+Client >----------Discover----------> Server
+
+Discover = Broadcast
