@@ -12,4 +12,7 @@ Client <------------------------- Server
 Client -------------------------> Server
 						|
 					Request
-				
+
+Client <------------------------- Server
+						|
+					ACK
