@@ -1,1 +1,1 @@
-Dynamic Host Configuration Protokoll
+Dynamic Host Configuration Protocol
