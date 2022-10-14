@@ -3,4 +3,4 @@ Dynamic Host Configuration Protocol
 
 Client -------------------------> Server
 						|
-				DHCP-Discover
+				DHCP-Discover (Broadcast)
