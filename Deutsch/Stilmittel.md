@@ -25,3 +25,6 @@ z.B.:
 
 ![Stilmittel](ExtraFiles/Word/Stilmittel.docx)
 
+
+
+# Gruppenmeinungsrede 3AHITS Buch S.46f
