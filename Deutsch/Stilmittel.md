@@ -24,3 +24,10 @@ z.B.:
 # hawi Die besten Stilmittel
 
 ![[Stilmittel.docx]]
+
+
+
+
+# Gruppenmeinungsrede 3AHITS Buch S. 46f
+
+	fodsiojpdsafojpdsfkldsaflkdsafklöjdsafkjöldsaffkjlödsfkjlödsfkljödsfkljödsfkjlödsfkjlödsfkjlödsfkjlödsfköjldsfaklödsfakdsfkljödsfkjdsfkljödsfjklödsfjklödsfajklödsafkjladskjladsfkjldasfjklödsfkljdsfklöjadsfkjlöadsfkjlöadsfjklöadsfklöjadsfkjlödaf
