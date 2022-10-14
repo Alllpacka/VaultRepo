@@ -156,3 +156,6 @@ Bei vielen Hydroxy gruppen ist es ähnlich wie Zucker => schmeckt Süß
 ![[Pasted image 20221014104951.png]]
 								|																	|
 							Ethanol														Ethanal
+
+#### C Atom von +1 zu -1 wird Oxidation genannt.
+
