@@ -107,6 +107,18 @@ select distinct(region) from bbc;
 | World                                            |
 
 9) Wie heißen die Länder mit einem Bruttoinlandsprodukt (gdp) größer als Gesamt-Afrika?
+~~~sql
+select name from bbc where gdp > (select sum(gdp) from bbc where region like "Africa");
+~~~
+
+| name |
+| ---- |
+| China         |
+| Germany       |
+| India         |
+| Japan         |
+| United States |
+
 
 10) Zeig für jede Region die Region und die Anzahl der zugehörigen Länder.
 ~~~sql
