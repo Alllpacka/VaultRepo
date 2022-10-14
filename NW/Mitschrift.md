@@ -140,8 +140,10 @@ Dreifachbindung
 
 ![[Pasted image 20221014100847.png]]
 
-Alkohol wird mit einer Brennstoffzelle im Alkoholvortestgerät gemessen
+# Alkohol
+
+Alkohol wird mit einer Brennstoffzelle im Alkoholvortestgerät gemessen => wird durch Zigarettenrauch gestört
 o.
-Infrarot
+Infrarot => kann durch Obst/Kaugummi gestört werden
 o.
-Farbindikat
+Farbindikator
