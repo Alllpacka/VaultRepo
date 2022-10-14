@@ -4,9 +4,9 @@ Dynamic Host Configuration Protocol
 
 Discover = Broadcast
 
-Client >----------Discover----------> Server
+Client >----------Discover---------> Server
 
-Client <------------Offer------------< Server
+Client <------------Offer-----------< Server
 
 Client >----------Request----------> Server
 
