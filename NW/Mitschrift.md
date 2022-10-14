@@ -159,3 +159,4 @@ Bei vielen Hydroxy gruppen ist es ähnlich wie Zucker => schmeckt Süß
 
 #### C Atom von +1 zu -1 wird Oxidation genannt.
 
+Seite 133 Sekundärer Alkohol Oxidationszahlen 
