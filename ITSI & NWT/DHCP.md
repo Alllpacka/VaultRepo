@@ -1,5 +1,7 @@
 Dynamic Host Configuration Protocol
 
+## Ablauf
+
 Discover = Broadcast
 
 Client >----------Discover----------> Server
@@ -21,3 +23,5 @@ Client <------------ACK------------< Server
 * Boot-Server
 * Proxy
 * .....
+
+
