@@ -151,3 +151,9 @@ Farbindikator
 Bei vielen Hydroxy gruppen ist es ähnlich wie Zucker => schmeckt Süß
 
 
+## Oxidation von Alkohol
+
+![[Pasted image 20221014104951.png]]
+								|     | 
+								| --- |
+						Ethanol																			Ethanal
