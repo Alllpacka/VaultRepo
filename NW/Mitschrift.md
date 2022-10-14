@@ -135,3 +135,8 @@ Dreifachbindung
 # Benzen
 
 ![[Pasted image 20221007133221.png]]
+
+# Ethanol
+
+![[Pasted image 20221014100847.png]]
+
