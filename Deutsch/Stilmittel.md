@@ -19,3 +19,7 @@ z.B.:
 11) Tautologie
 12) Neologismus
 13) Sarkasmus
+
+
+# hawi Die besten Stilmittel
+
