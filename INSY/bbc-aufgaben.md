@@ -111,12 +111,12 @@ select distinct(region) from bbc;
 select name from bbc where gdp > (select sum(gdp) from bbc where region like "Africa");
 ~~~
 
-| name |
-| ---- |
-| China         |
+| name            |
+| -------------- |
+| China            |
 | Germany       |
-| India         |
-| Japan         |
+| India              |
+| Japan             |
 | United States |
 
 
