@@ -4,3 +4,4 @@ Discover = Broadcast
 
 Client >----------Discover----------> Server
 
+Client <------------Offer--------------< Server
