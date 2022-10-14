@@ -28,3 +28,9 @@ z.B.:
 
 
 # Gruppenmeinungsrede 3AHITS Buch S.46f
+
+### Jannis
+
+
+
+### Jakob
