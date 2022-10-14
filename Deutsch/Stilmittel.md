@@ -23,6 +23,4 @@ z.B.:
 
 # hawi Die besten Stilmittel
 
-| Name | Beschreibung | Beispiele |
-| ---- | ------------ | --------- |
-|      |              |           |
+![[Stilmittel.docx]]
