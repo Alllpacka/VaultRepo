@@ -1,32 +1,11 @@
 Dynamic Host Configuration Protocol
 
-## Ablauf
+Discover = Broadcast
 
-Client -------------------------> Server
-						|
-				DHCP-Discover (Broadcast)
+Client >----------Discover----------> Server
 
-Client <------------------------- Server
-						|
-					Offer
+Client <------------Offer------------< Server
 
-Client -------------------------> Server
-						|
-					Request
+Client >----------Request----------> Server
 
-Client <------------------------- Server
-						|
-					ACK
-
-
-##### Wichtig:
-* Ip-Adresse
-* Netzmaske
-* Default-Gateway
-* DNS-Server
--------------
-##### Optional:
-* Zeitserver
-* Boot-Server
-* Proxy
-* ....
+Client <------------ACK------------< Server
