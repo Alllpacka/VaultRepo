@@ -1,5 +1,6 @@
 Dynamic Host Configuration Protocol
 
+## Ablauf
 
 Client -------------------------> Server
 						|
@@ -16,3 +17,4 @@ Client -------------------------> Server
 Client <------------------------- Server
 						|
 					ACK
+
