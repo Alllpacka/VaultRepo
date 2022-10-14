@@ -18,3 +18,15 @@ Client <------------------------- Server
 						|
 					ACK
 
+
+##### Wichtig:
+* Ip-Adresse
+* Netzmaske
+* Default-Gateway
+* DNS-Server
+-------------
+##### Optional:
+* Zeitserver
+* Boot-Server
+* Proxy
+* ....
