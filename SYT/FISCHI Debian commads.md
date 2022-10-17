@@ -14,12 +14,6 @@ Ww1ssPfuLI
 
 apt install xfce4
 
-#### weitere oberflächen
-+ xfce4
-+ Gnome
-+ Plasma (KDE) (mit Kubuntu)
-+ Cinnamon
-+ lxat
 
 ## in win
 1. ssh-keygen.exe
@@ -28,7 +22,12 @@ apt install xfce4
 8. scp id_rsa.pub root@\[ip addr]:
 11. ssh root@\[ip addr]
 
-
+#### weitere oberflächen
++ xfce4
++ Gnome
++ Plasma (KDE) (mit Kubuntu)
++ Cinnamon
++ lxat
 
 ## generelle linux commands
 apt update -> sucht nach Updates
