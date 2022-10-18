@@ -966,7 +966,3 @@ case LARGE:
 | @see               | @throws | 
 
 
-glaubst du npc 326 lebt außerhalb der schule
-
-nein der brauct seine chargin station
-wireless oder nicht
