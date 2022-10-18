@@ -968,4 +968,5 @@ case LARGE:
 
 glaubst du npc 326 lebt außerhalb der schule
 
-nein der brauc
+nein der brauct seine chargin station
+wireless oder nicht
