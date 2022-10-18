@@ -163,5 +163,3 @@ Seite 133 Sekundärer Alkohol Oxidationszahlen
 
 
 Methanol wird für Brennstoffzellen verwendet
-
-![[Pasted image 20221014104951.png]]
