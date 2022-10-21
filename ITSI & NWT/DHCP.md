@@ -60,6 +60,5 @@ Client <------------ACK------------< Server
 
 #exit
 #dhcp excluded-address 20.1.1.129 20.1.1.140
-
 ~~~
 
