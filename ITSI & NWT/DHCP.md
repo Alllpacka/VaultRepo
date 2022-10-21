@@ -57,5 +57,9 @@ Client <------------ACK------------< Server
 #network 192.168.16.0 255.255.255.0
 #default-router 192.168.16.1
 #dns-server 192.168.16.1
+
+#exit
+#dhcp excluded-address 20.1.1.129 20.1.1.140
+
 ~~~
 
