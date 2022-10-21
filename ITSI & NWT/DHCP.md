@@ -64,3 +64,8 @@ Client <------------ACK------------< Server
 #dhcp excluded-address 192.168.16.1 192.168.16.20
 ~~~
 
+## Microtik
+
+~~~microtik
+
+~~~
