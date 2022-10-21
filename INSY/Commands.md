@@ -98,8 +98,10 @@ select name from Spieler where Tor > 10;
 select name as Vereinname from Vereinname where name like "FC%Bayern%";
 ~~~
 
-CONSTRAINTS
-Typen:
+## CONSTRAINTS
+
+### Typen:
+
 •    PRIMARY KEY
 •    UNIQUE KEY
 •    FOREIGN KEY
@@ -115,7 +117,7 @@ CREATE INDEX ix_produkte_bezeichnung ON wawi.produkte(bezeichnung);
 CREATE INDEX
 DROP INDEX
 
-VIEWS:
+### VIEWS:
 
 
 
