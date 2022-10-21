@@ -67,5 +67,9 @@ Client <------------ACK------------< Server
 ## Microtik
 
 ~~~microtik
+[set ip addresses on the ether ports]
 
+/ip/pool/add
+/ip/dhcp-server/network/add
+/ip/dhcp-server/add
 ~~~
