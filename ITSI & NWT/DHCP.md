@@ -28,5 +28,8 @@ Client <------------ACK------------< Server
 ## Cisco
 
 ~~~cisco
-
+ena
+conf t
+int gig0/0
+ip add 20.1.1.129 
 ~~~
