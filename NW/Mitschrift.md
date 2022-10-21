@@ -142,7 +142,7 @@ Dreifachbindung
 
 # Alkohol
 
-Alkohol wird mit einer Brennstoffzelle im Alkoholvortestgerät gemessen => wird durch Zigarettenrauch gestört
+Alkohol (Ethanol) wird mit einer Brennstoffzelle im Alkoholvortestgerät gemessen => wird durch Zigarettenrauch gestört
 o.
 Infrarot => kann durch Obst/Kaugummi gestört werden
 o.
@@ -163,4 +163,10 @@ Seite 133 Sekundärer Alkohol Oxidationszahlen
 
 
 Methanol wird für Brennstoffzellen verwendet
+
+Glycol machen Wein/Flüssigkeit Süßer
+
+Glycerin = Gummiplägemittel (vorm Winter schmieren)
+
+auch Frostschutz und Bremsflüssigkeit
 
