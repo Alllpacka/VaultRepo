@@ -87,6 +87,7 @@ source [.sql script name];
 show tables;
 select * from [tablename];
 
+~~~test
 1)
 select name from Vereinname;
 
@@ -95,3 +96,5 @@ select name from Spieler where Tor > 10;
 
 3)
 select name as Vereinname from Vereinname where name like "FC%Bayern%";
+~~~
+
