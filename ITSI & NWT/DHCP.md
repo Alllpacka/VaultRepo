@@ -32,8 +32,8 @@ Client <------------ACK------------< Server
 #conf t
 #int gig0/0
 #ip add 20.1.1.129 255.255.255.192
-no shut
-int gig0/1
+#no shut
+#int gig0/1
 #ip add 10.0.0.129 255.255.255.128
 #no shut
 #int gig0/2
@@ -43,5 +43,8 @@ int gig0/1
 #exit
 #ip dhcp pool [name]
 #network 20.1.1.128 255.255.255.192
+#default-router 20.1.1.129
+#dns-server 20.1.1.129
+#option
 #
 ~~~
