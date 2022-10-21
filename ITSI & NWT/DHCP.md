@@ -69,7 +69,9 @@ Client <------------ACK------------< Server
 ~~~microtik
 [set ip addresses on the ether ports]
 
-/ip/pool/add 
+/ip/pool/add name=dangl ranges=20.1.1.135-20.1.1.145
+/ip/pool/add name=fimi ranges=10.0.0.135-10.0.0.200
+/ip/pool/add name=felix ranges=20.1.1.135-20.1.16.250
 /ip/dhcp-server/network/add
 /ip/dhcp-server/add
 ~~~
