@@ -45,6 +45,16 @@ Client <------------ACK------------< Server
 #network 20.1.1.128 255.255.255.192
 #default-router 20.1.1.129
 #dns-server 20.1.1.129
-#option
 #
+#exit
+#ip dhcp pool [name]
+#network 10.0.0.128 255.255.255.128
+#default-router 10.0.0.129
+#dns-server 10.0.0.129
+
+#exit
+#ip dhcp pool [name]
+#network 20.1.1.128 255.255.255.192
+#default-router 20.1.1.129
+#dns-server 20.1.1.129
 ~~~
