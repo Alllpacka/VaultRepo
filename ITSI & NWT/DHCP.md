@@ -73,5 +73,5 @@ Client <------------ACK------------< Server
 /ip/pool/add name=fimi ranges=10.0.0.135-10.0.0.200
 /ip/pool/add name=felix ranges=192.168.16.2-192.168.16.250
 /ip/dhcp-server/network/add address=10.0.0.128/25 gateway=10.0.0.1 
-/ip/dhcp-server/add
+/ip/dhcp-server/add address-pool=dangl interface=ether1
 ~~~
