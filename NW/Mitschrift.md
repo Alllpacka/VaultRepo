@@ -170,3 +170,4 @@ Glycerin = Gummiplägemittel (vorm Winter schmieren)
 
 auch Frostschutz und Bremsflüssigkeit
 
+Phenole gut zum Desinfizieren
