@@ -98,3 +98,34 @@ select name from Spieler where Tor > 10;
 select name as Vereinname from Vereinname where name like "FC%Bayern%";
 ~~~
 
+CONSTRAINTS
+Typen:
+•    PRIMARY KEY
+•    UNIQUE KEY
+•    FOREIGN KEY
+•    CHECK
+•    NOT NULL / DEFAULT
+
+Index = braucht man zum Suchen (Baumstruktur)
+Ohne Index muss man alles durchsuchen
+Man macht den Index auf die Spalten, die sehr oft durchsuchen/verwendet werden
+z.B.:
+CREATE INDEX ix_produkte_bezeichnung ON wawi.produkte(bezeichnung);
+
+CREATE INDEX
+DROP INDEX
+
+VIEWS:
+
+
+
+
+
+
+
+
+
+
+z.B.:
+CREATE VIEW wawi.garten
+
