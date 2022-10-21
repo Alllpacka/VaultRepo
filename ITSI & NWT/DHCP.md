@@ -31,5 +31,11 @@ Client <------------ACK------------< Server
 ena
 conf t
 int gig0/0
-ip add 20.1.1.129 
+ip add 20.1.1.129 255.255.255.192
+no shut
+int gig0/1
+ip add 10.0.0.129 255.255.255.128
+no shut
+int gig0/2
+ip add 192.168.16.1 255.255.255.0
 ~~~
