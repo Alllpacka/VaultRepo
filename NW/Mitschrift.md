@@ -178,9 +178,13 @@ Orto Meta Paraposition
 Ethanol => Ethanal....
 
 Brennstoffzelle
-auf der einen Seite ist der Sauerstoff auf der anderen Seite
-durch Membran nur protonen keine elektronen
+auf der linken Seite sind die H Atome und auf der rechten Seite ist der Sauerstoff 
+auf der rechten Seite entsteht Wasser
+
+durch Membran nur protonen keine elektronen => elektronen gehen über drähte weiter
 
 Nitroglyzerin
 
-Methanol => Vorderergehirnlappen
+Ethanol / Methanol => Vorderergehirnlappen
+
+Methanol wirkt schneller weil es kleiner Moleküle hat => wenn man zu viel trinkt und man lichtblitze sieht dann hat man eine Methanol vergiftung => kann erblinden
