@@ -173,3 +173,14 @@ auch Frostschutz und Bremsflüssigkeit
 Phenole gut zum Desinfizieren
 
 Orto Meta Paraposition
+
+
+Ethanol => Ethanal....
+
+Brennstoffzelle
+auf der einen Seite ist der Sauerstoff auf der anderen Seite
+durch Membran nur protonen keine elektronen
+
+Nitroglyzerin
+
+Methanol => Vorderergehirnlappen
