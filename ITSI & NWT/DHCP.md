@@ -106,3 +106,5 @@ Client <------------ACK------------< Server
 /ip/dns/set allow-remote
 ~~~
 
+###### hahahahhahahahahahahahha nat =  cum
+###### hahahhaha destination-nat sein kaffee
