@@ -154,7 +154,6 @@ for i in {number..incNumber..number}
 done
 ~~~
 
-#find
 ## find
 1. automatisieren
 2. komplexität der Befehle
