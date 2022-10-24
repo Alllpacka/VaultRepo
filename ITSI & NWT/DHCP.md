@@ -101,3 +101,5 @@ Client <------------ACK------------< Server
 /ip/dhcp-server/network/add address=10.20.30.0/24 gateway=10.20.30.40 dns-server=10.20.30.40
 
 /ip/dhcp-server/add name dhcp1 disabled=no interface=br2
+
+/ip/dn
