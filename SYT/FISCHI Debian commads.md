@@ -39,3 +39,4 @@ apt dist-upgrade (upgraded den kerner)
 ![[GNULinux-Kommandozeile.pdf]]
 
 str3ngGehe1m!
+
