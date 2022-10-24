@@ -104,6 +104,8 @@ Client <------------ACK------------< Server
 
 # ich hasse den fischi der lasst die commands nicht am bildschirm
 /ip/dns/set allow-remote
+
+/ip/dhcp-server/lease/make-static numbers=[num]
 ~~~
 
 ###### hahahahhahahahahahahahha nat =  cum
