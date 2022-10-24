@@ -107,4 +107,4 @@ Client <------------ACK------------< Server
 ~~~
 
 ###### hahahahhahahahahahahahha nat =  cum
-###### hahahhaha destination-nat sein kaffee
+###### hahahhaha destination-nat sein mama
