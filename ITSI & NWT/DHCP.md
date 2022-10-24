@@ -87,6 +87,7 @@ Client <------------ACK------------< Server
 /interface/bridge/port/add bridge=br2 interface=ether5
 
 /ip/address/add address=10.20.30.40/24 interface=br2
+
 /ip/address/add address=10.0.0.1/24 interface=bridge
 
 /ip/pool/add name=pool0 ranges=10.0.0.10-10.0.0.200
@@ -96,6 +97,7 @@ Client <------------ACK------------< Server
 /ip/dhcp-server/add name dhcp0 disabled=no interface=bridge
 
 /ip/pool/add name=pool1 ranges=10.20.30.10-10.20.30.200
+
 /ip/dhcp-server/network/add address=10.20.30.0/24 gateway=10.20.30.40 dns-server=10.20.30.40
 
-
+/ip/dhcp-server/add name dhcp1 disabled=no interface=br2
