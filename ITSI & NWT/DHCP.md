@@ -102,4 +102,7 @@ Client <------------ACK------------< Server
 
 /ip/dhcp-server/add name dhcp1 disabled=no interface=br2
 
-/ip/dn
+# ich hasse den fischi der lasst die commands nicht am bildschirm
+/ip/dns/set allow-remote
+
+/interface/wireless/
