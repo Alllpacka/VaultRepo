@@ -29,6 +29,10 @@ apt install xfce4
 + Cinnamon
 + lxat
 
+### grafische Oberflächen
+
+
+
 ## generelle linux commands
 apt update -> sucht nach Updates
 apt install \[package name]
