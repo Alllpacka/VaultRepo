@@ -75,3 +75,7 @@ Client <------------ACK------------< Server
 /ip/dhcp-server/network/add address=10.0.0.128/25 gateway=10.0.0.1 
 /ip/dhcp-server/add address-pool=dangl interface=ether1
 ~~~
+
+~~~
+/interface/brige/add name=brige
+/interface
