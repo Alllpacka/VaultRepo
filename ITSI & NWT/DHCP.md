@@ -88,4 +88,8 @@ Client <------------ACK------------< Server
 
 /ip/address/add address=10.20.30.40/24 interface=br2
 
+/ip/pool/add name=pool0 ranges=10.0.0.10-10.0.0.200
 
+/ip/dhcp-server/network/add address=10.0.0.0/24 gateway=10.0.0.1 dns-server=10.0.0.1
+
+/ip/dhcp-server/add name dhcp0 disabled=no interface 
