@@ -76,7 +76,7 @@ Client <------------ACK------------< Server
 /ip/dhcp-server/add address-pool=dangl interface=ether1
 ~~~
 
-~~~
+~~~microtik
 /interface/bridge/add name=bridge
 /interface/bridge/add name=br2
 
@@ -85,3 +85,7 @@ Client <------------ACK------------< Server
 /interface/bridge/port/add bridge=br2 interface=ether3
 /interface/bridge/port/add bridge=br2 interface=ether4
 /interface/bridge/port/add bridge=br2 interface=ether5
+
+/ip/address/add address=10.20.30.40/24 interface=br2
+
+
