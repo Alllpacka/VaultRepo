@@ -77,5 +77,11 @@ Client <------------ACK------------< Server
 ~~~
 
 ~~~
-/interface/brige/add name=brige
-/interface
+/interface/bridge/add name=bridge
+/interface/bridge/add name=br2
+
+/interface/bridge/port/add bridge=bridge interface=ether1
+/interface/bridge/port/add bridge=bridge interface=ether2
+/interface/bridge/port/add bridge=br2 interface=ether3
+/interface/bridge/port/add bridge=br2 interface=ether4
+/interface/bridge/port/add bridge=br2 interface=ether5
