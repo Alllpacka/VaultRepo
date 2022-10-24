@@ -22,16 +22,15 @@ apt install xfce4
 8. scp id_rsa.pub root@\[ip addr]:
 11. ssh root@\[ip addr]
 
-#### weitere oberflächen
-+ xfce4
-+ Gnome
-+ Plasma (KDE) (mit Kubuntu)
-+ Cinnamon
-+ lxat
-
 ### grafische Oberflächen
 
-
+Display Manager (Login Screen) (lightdm, gdm3, kdm)
+	-> GUI
+		->Gnome
+		->Plasma (KDE) (mit Kubuntu)
+		->xcfe4
+		->cinnamon
+		->lxqt
 
 ## generelle linux commands
 apt update -> sucht nach Updates
