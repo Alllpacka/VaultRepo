@@ -19,7 +19,7 @@ template String mit \`\`
 
 ![[regex-cheatsheet.jpg]]
 
-### [mein bester freund](regex101.com)
+### [mein bester freund](https:\\regex101.com)
 
 # Übungen
 name\@domain.tld
