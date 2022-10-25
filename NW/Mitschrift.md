@@ -189,9 +189,15 @@ Ethanol / Methanol => Vorderergehirnlappen
 
 Methanol wirkt schneller weil es kleiner Moleküle hat => wenn man zu viel trinkt und man lichtblitze sieht dann hat man eine Methanol vergiftung => kann erblinden
 
-### Ether:
+# Ether:
+
+## Ethoxyethan:
 
 * Startmittel
 * Beteubungsmittel
 * Übelkeit nach Narkose
-* 
+* Extraktionsmittel
+* Droge
+* Brandbeschleuniger
+
+* Wird in Starthilfesprays gefunden
