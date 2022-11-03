@@ -464,9 +464,11 @@ revision nach osterferien?? 28.4.
 
 # Multicultural workplace
 
-| positive                                     | negative                              |
-| -------------------------------------------- | ------------------------------------- |
-| different work ethics                        | -´´-                                  |
-| different ways of problem solving            | cultural clash (different traditions) |
-| additional skills due to different education | language barrier                      | 
-| different world views                        |                                       |
+| positive                                     | negative                                    |
+| -------------------------------------------- | ------------------------------------------- |
+| different work ethics                        | -´´-                                        |
+| different ways of problem solving            | cultural clash (different traditions)       |
+| additional skills due to different education | language barrier (english as lingua franca) |
+| different world views                        | -´´-                                        |
+
+
