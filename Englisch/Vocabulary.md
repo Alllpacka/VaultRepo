@@ -474,4 +474,7 @@ revision nach osterferien?? 28.4.
 
 
 He was persecuted 
+He was reluctant to go this way
+To come to face the inevetable
+He established a very profitable buisness
 
