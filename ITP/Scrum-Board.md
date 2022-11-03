@@ -3,7 +3,7 @@
 | Story | Tasks |       |      |
 
 Rollen
-	Kunden -  Auswählen -> Warenkorb
+	Kunden - Produktübersicht + Preis -> Auswählen -> Warenkorb
 	Kassier
 	Administrator
 	Koch
