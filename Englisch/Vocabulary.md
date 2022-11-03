@@ -480,6 +480,6 @@ He established a very profitable buisness
 You are so vounarable
 A few students feel very alienated with the rest of the class
 suspiction
-His peer group 
+He is out of touch with his peer group
 He's unfamiliar with this area
 Most people are very gatefull if you help them 
