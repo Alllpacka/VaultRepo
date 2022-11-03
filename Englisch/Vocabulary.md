@@ -462,3 +462,10 @@ group 2: 5 - 8
 revision nach osterferien?? 28.4.
 
 
+# Multicultural workplace
+
+| positive                           | negative |
+| ---------------------------------- | -------- |
+| different work ethics              | -´´-     |
+| diffferent ways of problem solving |          |
+| addito                                   |          |
