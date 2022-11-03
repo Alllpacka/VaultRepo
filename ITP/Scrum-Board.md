@@ -3,7 +3,7 @@
 | Story | Tasks |       |      |
 
 Rollen
-	Kunden - Produktübersicht + Preis -> Auswählen -> Warenkorb
+	Kunden - Produktübersicht + Preis -> Auswählen -> Warenkorb -> Bezahlen (unbar)
 	Kassier
 	Administrator
 	Koch
