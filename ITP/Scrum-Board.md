@@ -7,6 +7,5 @@
 	**Kassier + DriveIn** - Barbezahlung -> Tablett zusammenstellen
 	**Administrator**
 	**Koch** - Essensbestellungen
-	**Logistiker** - Bestand
-	
+	**Logistiker** - Bestand -> Bestellung (soll - ist) 	
 
