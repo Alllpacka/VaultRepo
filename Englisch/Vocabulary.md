@@ -480,6 +480,6 @@ He established a very profitable buisness
 You are so vounarable
 A few students feel very alienated with the rest of the class
 suspiction
-The project is being worked on by a peer group
-This area was unfamiliar to him
+His peer group 
+He's unfamiliar with this area
 Most people are very gatefull if you help them 
