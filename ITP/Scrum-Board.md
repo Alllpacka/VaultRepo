@@ -2,5 +2,10 @@
 | ----- | ----- | ----- | ---- |
 | Story | Tasks |       |      |
 
-
+Rollen
+	Kunden
+	Kassier
+	Administrator
+	Koch
+	
 
