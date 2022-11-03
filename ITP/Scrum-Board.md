@@ -4,7 +4,7 @@
 
 Rollen
 	Kunden - Produktübersicht + Preis -> Auswählen -> Warenkorb -> Bezahlen (unbar) -> Ausgabe
-	Kassier + - 
+	Kassier + DriveIn - 
 	Administrator
 	Koch
 	Logistiker
