@@ -4,7 +4,7 @@
 
 Rollen
 	Kunden - Produktübersicht + Preis -> Auswählen -> Warenkorb -> Bezahlen (unbar) -> Ausgabe
-	Kassier + DriveIn - Barbezahlung 
+	Kassier + DriveIn - Barbezahlung -> Tablett zusammenstellen
 	Administrator
 	Koch
 	Logistiker
