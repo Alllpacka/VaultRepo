@@ -7,5 +7,6 @@ Rollen
 	Kassier
 	Administrator
 	Koch
+	Logistiker
 	
 
