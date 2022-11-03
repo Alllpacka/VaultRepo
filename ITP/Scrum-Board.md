@@ -3,8 +3,8 @@
 | Story | Tasks |       |      |
 
 Rollen
-	Kunden - Produktübersicht + Preis -> Auswählen -> Warenkorb -> Bezahlen (unbar)
-	Kassier
+	Kunden - Produktübersicht + Preis -> Auswählen -> Warenkorb -> Bezahlen (unbar) -> Ausgabe
+	Kassier - 
 	Administrator
 	Koch
 	Logistiker
