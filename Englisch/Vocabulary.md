@@ -475,7 +475,7 @@ revision nach osterferien?? 28.4.
 
 He was persecuted 
 He was reluctant to go this way
-To come to face the inevetable
+To come to face the inevitable / Every great empire inevitably crumbles
 He established a very profitable buisness
 You are so vounarable
 A few students feel very alienated with the rest of the class
