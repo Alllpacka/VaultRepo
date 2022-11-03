@@ -472,3 +472,6 @@ revision nach osterferien?? 28.4.
 | different world views                        | -´´-                                        |
 
 
+
+He was persecuted 
+
