@@ -2,11 +2,11 @@
 | ----- | ----- | ----- | ---- |
 | Story | Tasks |       |      |
 
-Rollen
+**Rollen
 	Kunden - Produktübersicht + Preis -> Auswählen -> Warenkorb -> Bezahlen (unbar) -> Ausgabe
 	Kassier + DriveIn - Barbezahlung -> Tablett zusammenstellen
 	Administrator
-	Koch
+	Koch - 
 	Logistiker
 	
 
