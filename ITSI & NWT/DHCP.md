@@ -94,7 +94,7 @@ Client <------------ACK------------< Server
 
 /ip/dhcp-server/network/add address=10.0.0.0/24 gateway=10.0.0.1 dns-server=10.0.0.1
 
-/ip/dhcp-server/add name dhcp0 disabled=no interface=bridge
+/ip/dhcp-server/add name=dhcp0 disabled=no interface=bridge
 
 /ip/pool/add name=pool1 ranges=10.20.30.10-10.20.30.200
 
