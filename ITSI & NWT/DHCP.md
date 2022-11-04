@@ -107,7 +107,7 @@ Client <------------ACK------------< Server
 
 /ip/dhcp-server/lease/make-static numbers=[nummern]
 
-/ip/dhcp-server/lease/set address=[address des host-PCs] 
+/ip/dhcp-server/lease/set address=[address des host-PCs] numbers=[nummern]
 ~~~
 
 
