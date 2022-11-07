@@ -52,4 +52,4 @@ Im Server:
 neue statische IP-Adresse -> ls -lh /etc/network/interfaces -> nano /etc/network/interfaces -> man interfaces -> bei netwerk-karte auf static umstellen adresse und gateway einstellen -> systemcontrol restart
 
 In Powershell:
-ssh -p [angegebener ]
+ssh -p [angegebener Hostport]
