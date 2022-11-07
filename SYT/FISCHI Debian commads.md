@@ -43,6 +43,8 @@ apt dist-upgrade (upgraded den kerner)
 
 str3ngGehe1m!
 
+(die stimmen)
+
 # NAT Network
 
 In VBox:
