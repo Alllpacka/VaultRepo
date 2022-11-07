@@ -112,3 +112,5 @@ Client <------------ACK------------< Server
 
 
 ### DHCP Relay
+
+Router kann zum DHCP Relay werden um DHCP-Discovery weiterzuleiten
