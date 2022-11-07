@@ -69,7 +69,8 @@ range 10.0.30.10 10.0.30.126;
 }
 \[Ctr + o] \[Ctr + x] 
 
-restart
+reboot
+
 
 Im Client:
 
