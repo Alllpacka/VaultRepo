@@ -123,4 +123,5 @@ Router kann zum DHCP Relay werden um DHCP-Discovery weiterzuleiten
 /interface/bridge/port/add interface=ether5
 
 /ip/address/add interface=ether1 address=10.0.30.1/25
-/ip/address/add interface=br addre
+/ip/address/add interface=br address=10.0.40.1/24
+
