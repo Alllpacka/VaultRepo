@@ -63,7 +63,7 @@ nano /etc/default/isc-dhcp-server
 nano /etc/dhcp/dhcp.conf
 option domain-name ".3ahits"
 option domain-name-servers 10.0.30.1;
-
+subnet 10.0.30.0 netmask 255.255.255.
 
 
 
