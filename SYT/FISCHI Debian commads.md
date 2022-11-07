@@ -57,6 +57,7 @@ In Powershell:
 ssh -p \[angegebener Hostport] / root@localhost
 
 nano /etc/default/isc-dhcp-server
-\[interfaces]
+\[interfaces] v6 auskommentieren / v4 network-karte umändern
+nano /etc/dhcp/dhcp.conf
 apt install isc-dhcp-server
 
