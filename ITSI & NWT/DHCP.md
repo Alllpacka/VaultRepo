@@ -130,4 +130,8 @@ Router kann zum DHCP Relay werden um DHCP-Discovery weiterzuleiten
 
 ~~~shell
 nano /etc/dhcp/dhcpd.conf
+
+subnet 10.0.40.0 netmask 255.255.255.0 {
+
+}
 ~~~
