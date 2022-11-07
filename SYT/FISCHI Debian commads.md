@@ -56,8 +56,14 @@ neue statische IP-Adresse -> ls -lh /etc/network/interfaces -> nano /etc/network
 In Powershell:
 ssh -p \[angegebener Hostport] / root@localhost
 
+apt install isc-dhcp-server
+
 nano /etc/default/isc-dhcp-server
 \[interfaces] v6 auskommentieren / v4 network-karte umändern
 nano /etc/dhcp/dhcp.conf
-apt install isc-dhcp-server
+option domain-name ".3ahits"
+option domain-name-servers 10.0.30.1;
+
+
+
 
