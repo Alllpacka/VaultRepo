@@ -49,7 +49,7 @@ In VBox:
 Server -> Network -> NAT Network -> Name/Adresse -> DHCP aus -> Port Forwarding -> Regel hinzufügen -> Name -> TCP -> Host IP: 127.0.0.1 -> Host Port: 22 -> Guest IP: 10.0.30.5 -> Guest Port: 22
 
 Im Server:
-neue statische IP-Adresse -> ls -lh /etc/network/interfaces -> nano /etc/network/interfaces -> man interfaces -> bei netwerk-karte auf static umstellen adresse und gateway einstellen -> systemcontrol restart
+neue statische IP-Adresse -> ls -lh /etc/network/interfaces -> nano /etc/network/interfaces -> man interfaces -> bei netwerk-karte auf static umstellen adresse und gateway einstellen -> restart
 
 In Powershell:
 ssh -p [angegebener Hostport]
