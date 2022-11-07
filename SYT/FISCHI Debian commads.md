@@ -52,4 +52,7 @@ Im Server:
 neue statische IP-Adresse -> ls -lh /etc/network/interfaces -> nano /etc/network/interfaces -> man interfaces -> bei netwerk-karte auf static umstellen adresse und gateway einstellen -> restart
 
 In Powershell:
-ssh -p [angegebener Hostport]
+ssh -p [angegebener Hostport] / root@localhost
+
+apt install isc-dhcp-server
+
