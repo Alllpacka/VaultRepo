@@ -116,4 +116,11 @@ Client <------------ACK------------< Server
 Router kann zum DHCP Relay werden um DHCP-Discovery weiterzuleiten
 
 ~~~microtik
-/interface/bridge/add name
+/interface/bridge/add name=br
+/interface/bridge/port/add interface=ether2
+/interface/bridge/port/add interface=ether3
+/interface/bridge/port/add interface=ether4
+/interface/bridge/port/add interface=ether5
+
+/ip/address/add interface=ether1 address=10.0.30.1/25
+/ip/address/add interface=br addre
