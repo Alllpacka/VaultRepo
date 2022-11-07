@@ -60,7 +60,7 @@ apt install isc-dhcp-server
 
 nano /etc/default/isc-dhcp-server
 \[interfaces] v6 auskommentieren / v4 network-karte umändern
-nano /etc/dhcp/dhcp.conf
+nano /etc/dhcp/dhcpd.conf
 option domain-name ".3ahits"
 option domain-name-servers 10.0.30.1;
 subnet 10.0.30.0 netmask 255.255.255.128 {
