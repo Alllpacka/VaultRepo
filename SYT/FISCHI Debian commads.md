@@ -43,4 +43,7 @@ apt dist-upgrade (upgraded den kerner)
 
 str3ngGehe1m!
 
-# 
+# NAT Network
+
+In VBox:
+Server -> Network -> NAT Network -> Name/Address -> DHCP aus -> Port Forwarding -> 
