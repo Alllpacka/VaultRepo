@@ -125,3 +125,6 @@ Router kann zum DHCP Relay werden um DHCP-Discovery weiterzuleiten
 /ip/address/add interface=ether1 address=10.0.30.1/25
 /ip/address/add interface=br address=10.0.40.1/24
 
+/ip/dhcp-relay/add dhcp-server=10.0.30.5 name=relay1 interface=br disabled=no
+
+
