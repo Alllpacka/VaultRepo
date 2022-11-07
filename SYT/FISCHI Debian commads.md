@@ -46,4 +46,4 @@ str3ngGehe1m!
 # NAT Network
 
 In VBox:
-Server -> Network -> NAT Network -> Name/Address -> DHCP aus -> Port Forwarding -> 
+Server -> Network -> NAT Network -> Name/Address -> DHCP aus -> Port Forwarding -> Regel hinzufügen -> Name -> TCP -> Host IP: 127.0.0.1 -> Host Port:  ->
