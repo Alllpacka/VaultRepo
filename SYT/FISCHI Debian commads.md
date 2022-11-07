@@ -46,5 +46,7 @@ str3ngGehe1m!
 # NAT Network
 
 In VBox:
-Server -> Network -> NAT Network -> Name/Address -> DHCP aus -> Port Forwarding -> Regel hinzufügen -> Name -> TCP -> Host IP: 127.0.0.1 -> Host Port:  -> Guest IP: 10.0.30.5 -> Guest Port: 22
+Server -> Network -> NAT Network -> Name/Adresse -> DHCP aus -> Port Forwarding -> Regel hinzufügen -> Name -> TCP -> Host IP: 127.0.0.1 -> Host Port:  -> Guest IP: 10.0.30.5 -> Guest Port: 22
 
+Im Server:
+neue statische IP-Adresse -> ls -lh 
