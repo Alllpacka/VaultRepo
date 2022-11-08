@@ -214,3 +214,9 @@ Methanol wirkt schneller weil es kleiner Moleküle hat => wenn man zu viel trink
 * terzierer Butanol mit Methanol verethern => MTBE
 
 
+# Linolensäure
+
+![[Pasted image 20221108120417.png]]
+
+Sehr gut für Gehirn :)
+
