@@ -212,3 +212,5 @@ Methanol wirkt schneller weil es kleiner Moleküle hat => wenn man zu viel trink
 * Treibstoffzusatz
 * Militärdronen
 * terzierer Butanol mit Methanol verethern => MTBE
+
+
