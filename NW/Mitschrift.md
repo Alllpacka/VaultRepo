@@ -220,3 +220,6 @@ Methanol wirkt schneller weil es kleiner Moleküle hat => wenn man zu viel trink
 
 Sehr gut für Gehirn :)
 
+
+
+Konzentrierte Lauge = SEHR SCHLECHT, weil man das zersetzen nicht spürt
