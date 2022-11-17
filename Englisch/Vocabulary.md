@@ -483,3 +483,5 @@ suspiction
 He is out of touch with his peer group
 He's unfamiliar with this area
 Most people are very gatefull if you help them 
+
+
