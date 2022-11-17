@@ -27,3 +27,5 @@ name\@domain.tld
 ~~~regex
 /^[a-z0-9]+@[a-z0-9]+\.[a-z]{2,}$/i
 ~~~
+
+sass ist zu sus (wie aus amogus) - Grüner 2022
