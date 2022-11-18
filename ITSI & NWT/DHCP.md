@@ -102,7 +102,6 @@ Client <------------ACK------------< Server
 
 /ip/dhcp-server/add name dhcp1 disabled=no interface=br2
 
-# ich hasse den fischi der lasst die commands nicht am bildschirm
 /ip/dns/set allow-remote
 
 /ip/dhcp-server/lease/make-static numbers=[nummern]
@@ -127,6 +126,7 @@ Router kann zum DHCP Relay werden um DHCP-Discovery weiterzuleiten
 
 /ip/dhcp-relay/add dhcp-server=10.0.30.5 name=relay1 interface=br disabled=no
 ~~~
+
 
 ~~~shell
 nano /etc/dhcp/dhcpd.conf

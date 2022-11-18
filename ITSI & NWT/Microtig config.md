@@ -105,6 +105,61 @@ ses=192.168.8.42 protocol=tcp
 
 ~~~
 
+~~~microtik
+/interface bridge
+add name=br
+/interface wireless
+set [ find default-name=wlan1 ] ssid=MikroTik
+set [ find default-name=wlan2 ] ssid=MikroTik
+/interface wireless security-profiles
+set [ find default=yes ] supplicant-identity=MikroTik
+/routing rip instance
+add disabled=no name=rip1 redistribute=connected,rip
+/interface bridge port
+add bridge=br interface=ether1
+add bridge=br interface=ether3
+add bridge=br interface=ether4
+add bridge=br interface=ether5
+add bridge=br interface=ether2
+/ip address
+add address=192.168.20.2/24 interface=br network=192.168.20.0
+/routing rip interface-template
+add instance=rip1 interfaces=br
+/system identity
+set name=Router3
+~~~
+
+~~~microtik
+/interface bridge
+add name=br
+/interface wireless
+set [ find default-name=wlan1 ] ssid=MikroTik
+set [ find default-name=wlan2 ] ssid=MikroTik
+/interface wireless security-profiles
+set [ find default=yes ] supplicant-identity=MikroTik
+/ip hotspot profile
+set [ find default=yes ] html-directory=hotspot
+/routing rip instance
+add name=rip redistribute=connected,rip
+/interface bridge port
+add bridge=br interface=ether3
+add bridge=br interface=ether4
+add bridge=br interface=ether5
+/ip address
+add address=10.0.30.1/24 interface=br network=10.0.30.0
+add address=192.168.10.1/24 interface=ether1 network=192.168.10.0
+add address=192.168.20.1/24 interface=ether2 network=192.168.20.0
+/ip dhcp-relay
+add dhcp-server=10.0.30.5 disabled=no interface=ether1 name=relay
+add dhcp-server=10.0.30.5 disabled=no interface=ether2 name=relay2
+/routing rip interface-template
+add instance=rip interfaces=br,ether1,ether2
+/system identity
+set name=Router1
+~~~
+
+~~~microtik
+~~~
 ## Am Ende
 ~~~Reset
 /system/reset-configuration no-defaults=yes
