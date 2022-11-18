@@ -22,3 +22,5 @@ FQDM -> Fully Qualified Domain Name
 BGP ->Border Gateway Protocol
 
 <u>Verwaltung einer Domain</u>
+
+haha dig und nat
