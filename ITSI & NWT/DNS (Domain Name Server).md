@@ -23,4 +23,4 @@ BGP ->Border Gateway Protocol
 
 <u>Verwaltung einer Domain</u>
 
-haha dig und nat
+haha er had dig und nat gesagd
