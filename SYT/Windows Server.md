@@ -21,3 +21,11 @@ Installation Serverrollen
 		+ UserA dar auf Drucker Z nicht drucken
 
 
+Domain Forest
+
+Forest
++ Teilen sich einen globalen Katalog
++ Kommunikation zwischen Forests durch Forest-Level-Trust
+
+Domain
++ Gruooe von Netzwerkobjekte (computer, Us)
