@@ -28,4 +28,10 @@ Forest
 + Kommunikation zwischen Forests durch Forest-Level-Trust
 
 Domain
-+ Gruooe von Netzwerkobjekte (computer, Us)
++ Gruooe von Netzwerkobjekte (computer, User, Geräte) die dasselbe Active Directory verwenden
++ Kommunikation zwischen Domains durch Domain-Level-Trust
+
+Domain-Controller (Domänencontroller)
++ Serer zur zentralen Authentifizierung von Computern bzw. Benutzern
++ In einem Netztwerk mit DC werden Computer zu einer Domain (Domäne)
++ Oft kommen mehrere DC zum Einst
