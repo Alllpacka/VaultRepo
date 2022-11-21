@@ -5,3 +5,8 @@
 | Geriner Speicherplatzbedarf (7.1GB) |     |                        |
 | Kleiner Angriffsfläche              |     |                        |
 
+Installation Serverrollen
+
++ DNS - Domain Name Service
+	+ Beantwortung von anfragen zur Namensauflösung
+	+ Bsp. Server kennt windowsclient1.hthl.at und kann bei Anfragen dei zugeh
