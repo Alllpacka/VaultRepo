@@ -11,3 +11,4 @@ Installation Serverrollen
 	+ Beantwortung von anfragen zur Namensauflösung
 	+ Bsp. Server kennt windowsclient1.hthl.at und kann bei Anfragen dei zugehörige IP-Adresse liefern
 	+ Administrative Tools - "DNS" zur Verwaltung der DNS-Einträge
++ A
