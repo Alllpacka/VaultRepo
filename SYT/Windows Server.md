@@ -34,4 +34,5 @@ Domain
 Domain-Controller (Domänencontroller)
 + Serer zur zentralen Authentifizierung von Computern bzw. Benutzern
 + In einem Netztwerk mit DC werden Computer zu einer Domain (Domäne)
-+ Oft kommen mehrere DC zum Einst
++ Oft kommen mehrere DC zum Einsatz
+
