@@ -43,7 +43,7 @@ apt dist-upgrade (upgraded den kerner)
 
 str3ngGehe1m!
 
-(die stimmen)
+(die stimmen) (sie werden lauter)
 
 # NAT Network
 
