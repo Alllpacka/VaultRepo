@@ -485,3 +485,8 @@ He's unfamiliar with this area
 Most people are very gatefull if you help them 
 
 
+## Linking Words
+
+during + noune phrase
+
+while + verb phrase 
