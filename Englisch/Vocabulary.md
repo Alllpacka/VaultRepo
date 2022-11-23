@@ -487,6 +487,6 @@ Most people are very gatefull if you help them
 
 ## Linking Words
 
-during + noune phrase
+during + noune phrase      while I was sleeping
 
-while + verb phrase 
+while + verb phrase            during the break
