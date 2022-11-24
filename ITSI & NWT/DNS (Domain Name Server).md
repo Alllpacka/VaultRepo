@@ -23,4 +23,6 @@ BGP ->Border Gateway Protocol
 
 <u>Verwaltung einer Domain</u>
 
+
+
 haha er had dig und nat gesagd
