@@ -23,6 +23,9 @@ BGP ->Border Gateway Protocol
 
 <u>Verwaltung einer Domain</u>
 
-
+Record-Typen
+| Code | Name | Dienst |
+| ---- | ---- | ------ |
+	| A     |      |        |
 
 haha er had dig und nat gesagd
