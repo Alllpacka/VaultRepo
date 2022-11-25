@@ -34,3 +34,7 @@ Record-Typen
 | NS    | "Name Server"  | Name       |
 
 SPF (Sender Policy Framework)
+
+mailgw.htl-hl.ac.at
+
+193.170.204.29
