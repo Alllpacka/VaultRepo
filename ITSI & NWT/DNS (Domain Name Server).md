@@ -38,3 +38,5 @@ SPF (Sender Policy Framework)
 mailgw.htl-hl.ac.at
 
 193.170.204.29
+  ||
+  29.204.170.193.in-addr.arpa
