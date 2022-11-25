@@ -34,5 +34,3 @@ Record-Typen
 | NS    | "Name Server"  | Name       |
 
 SPF (Sender Policy Framework)
-jfjffjjfjfjffjfjfjfjfjfjffjfjfjfjjffjfjjffjjfjfjfjfjfjfjffjjfjfjfjfjfjfjffjfj
-haha er had dig und nat gesagd
