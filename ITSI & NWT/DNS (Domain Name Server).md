@@ -33,5 +33,5 @@ Record-Typen
 | TXT   | Name           | Text       |
 | NS    | "Name Server"  | Name       |
 
-
+SPF (Sender P)
 haha er had dig und nat gesagd
