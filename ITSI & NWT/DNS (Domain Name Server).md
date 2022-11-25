@@ -33,5 +33,6 @@ Record-Typen
 | TXT   | Name           | Text       |
 | NS    | "Name Server"  | Name       |
 
-SPF (Sender P)
+SPF (Sender Policy Framework)
+jfjffjjfjfjffjfjfjfjfjfjffjfjfjfjjffjfjjffjjfjfjfjfjfjfjffjjfjfjfjfjfjfjffjfj
 haha er had dig und nat gesagd
