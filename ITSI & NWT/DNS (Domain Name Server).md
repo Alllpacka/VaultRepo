@@ -24,14 +24,15 @@ BGP ->Border Gateway Protocol
 <u>Verwaltung einer Domain</u>
 
 Record-Typen
-| Code  | Name           | Dienst     |
-| ----- | -------------- | ---------- |
-| A     | Name           | IPv4       |
-| AAAA  | Name           | IPv6       |
-| CNAME | Name           | Name       |
-| MX    | "Mail Excange" | Mailserver |
-| TXT   | Name           | Text       |
-| NS    | "Name Server"  | Name       |
+| Code  | Name             | Dienst     |
+| ----- | ---------------- | ---------- |
+| A     | Name             | IPv4       |
+| AAAA  | Name             | IPv6       |
+| CNAME | Name             | Name       |
+| MX    | "Mail Excange"   | Mailserver |
+| TXT   | Name             | Text       |
+| NS    | "Name Server"    | Name       |
+| PTR   | "Pointer Record" | Name       | 
 
 SPF (Sender Policy Framework)
 
