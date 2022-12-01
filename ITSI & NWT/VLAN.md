@@ -26,5 +26,6 @@ accsess-list 100 permit ip 192.168.0.0 0.0.0.255 any
 int fa0/0
 ip access-group 100 in
 
+	access-list 101 permit tcp 
 ~~~
 
