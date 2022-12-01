@@ -25,9 +25,13 @@ accsess-list 100 permit udp 192.168.100.0 0.0.0.255 gt 1023 any eq 53
 accsess-list 100 permit ip 192.168.0.0 0.0.0.255 any
 int fa0/0
 ip access-group 100 in
+exit
 
+?conf t
 access-list 101 permit tcp any eq 80 192.168.100.0 0.0.0.255 gt 1023
 access-list 101 permit udp any eq 53 192.168.100.0 0.0.0.255 gt 1023
-
+access-list 101 permit ip any 192.168.100.0 0.0.0.255
+int fa0/0
+ip access-group 101 out
 ~~~
 
