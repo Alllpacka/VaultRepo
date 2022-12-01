@@ -22,6 +22,7 @@ exit
 access-list 1 permit any
 accsess-list 100 permit tcp 192.168.100.0 0.0.0.255 gt 1023 any eq 80
 accsess-list 100 permit udp 192.168.100.0 0.0.0.255 gt 1023 any eq 53
-accsess-list 100 permit
+accsess-list 100 permit ip 192.168.0.0 0.0.0.255 any
+
 ~~~
 
