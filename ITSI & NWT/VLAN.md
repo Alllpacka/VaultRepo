@@ -11,5 +11,11 @@ Egress-Liste:
 
 
 ~~~cisco
+ena
+conf t
+int fa0/0
+desc zum LAN
+no shut
+ip addr 192.168.0.1 255.255.255.0
 
 ~~~
