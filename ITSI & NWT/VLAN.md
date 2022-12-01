@@ -18,6 +18,7 @@ desc zum LAN
 no shut
 ip addr 192.168.0.1 255.255.255.0
 ip addr 192.168.100.1 255.255.255.0 secondary
-
+exit
+access-list 1 permit any
 
 ~~~
