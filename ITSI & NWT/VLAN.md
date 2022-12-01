@@ -21,6 +21,7 @@ ip addr 192.168.100.1 255.255.255.0 secondary
 exit
 access-list 1 permit any
 accsess-list 100 permit tcp 192.168.100.0 0.0.0.255 gt 1023 any eq 80
-accsess-list 100 permit udp 192.168.100.0 0.0.0.255 gt 1023 any eq 83
+accsess-list 100 permit udp 192.168.100.0 0.0.0.255 gt 1023 any eq 53
+accsess-list 100 permit
 ~~~
 
