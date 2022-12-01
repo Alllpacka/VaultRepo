@@ -23,6 +23,3 @@ access-list 1 permit any
 accsess-list 100 
 ~~~
 
-haher er hat nat und dig gesagt
-
-heher ich werde in seinen kaffee naten
