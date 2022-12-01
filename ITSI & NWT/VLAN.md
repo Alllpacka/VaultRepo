@@ -20,6 +20,6 @@ ip addr 192.168.0.1 255.255.255.0
 ip addr 192.168.100.1 255.255.255.0 secondary
 exit
 access-list 1 permit any
-accsess-list 100 permit 
+accsess-list 100 permit tcp 192.168.100.0 0.0.0.255 
 ~~~
 
