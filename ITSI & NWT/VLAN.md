@@ -54,7 +54,9 @@ switch# do show run (no vlan config???? where has it gone??)
 switch# dir
 switch# conf t
 switch(config)# int fa0/1
-switch(config)# switchport mode access
-switch(config)# switchport access vlan 20
+switch(config-if)# switchport mode access
+switch(config-if)# switchport access vlan 20
+switch(config-if)# int Gig0/1
+switch(config-if)# switchport mode t
 ~~~
 
