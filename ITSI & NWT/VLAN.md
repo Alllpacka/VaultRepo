@@ -9,6 +9,7 @@ Egress-Liste:
 | 100 | Gig0/1, Gig0/3 | Gig0/24 |
 | 200 | Gig0/2         | Gig0/24 |
 
+tagged => mit VLAN info weiterschicken
 
 ~~~cisco
 ena
