@@ -42,3 +42,8 @@ access-list 101 permit udp any eq domain 192.168.100.0 0.0.0.255 gt 1023
 access-list 101 permit ip any 192.168.100.0 0.0.0.255
 ~~~
 
+~~~cisco
+switch
+switch(config)#
+~~~
+
