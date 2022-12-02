@@ -1,6 +1,6 @@
 802.1Q
 
-VLAN IDs -> 2-4095
+VLAN IDs -> 0-4095 (12 bit lang)
 Client hat nichts mit VLAN IDs zu tun
 
 Egress-Liste:
