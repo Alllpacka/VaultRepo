@@ -57,6 +57,6 @@ switch(config)# int fa0/1
 switch(config-if)# switchport mode access
 switch(config-if)# switchport access vlan 20
 switch(config-if)# int Gig0/1
-switch(config-if)# switchport mode t
+switch(config-if)# switchport mode trunk
 ~~~
 
