@@ -49,5 +49,8 @@ switch(config)# vlan 10
 switch(config-vlan)# name server
 switch(config-vlan)# exit
 switch(config)# do show vlan
+switch(config-vlan)# do show run (no vlan???? where has it gone??)
+switch(config-vlan)# dir
+switch(config-vlan)# 
 ~~~
 
