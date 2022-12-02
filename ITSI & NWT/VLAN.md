@@ -55,5 +55,6 @@ switch# dir
 switch# conf t
 switch(config)# int fa0/1
 switch(config)# switchport mode access
+switch(config)# switchport access vlan 20
 ~~~
 
