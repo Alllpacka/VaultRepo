@@ -50,9 +50,10 @@ switch(config-vlan)# name server
 switch(config-vlan)# exit
 switch(config)# exit
 switch# do show vlan
-switch# do show run (no vlan???? where has it gone??)
+switch# do show run (no vlan config???? where has it gone??)
 switch# dir
 switch# conf t
-switch(config)# 
+switch(config)# int fa0/1
+switch(config)# switchport mode access
 ~~~
 
