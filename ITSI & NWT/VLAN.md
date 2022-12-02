@@ -43,7 +43,11 @@ access-list 101 permit ip any 192.168.100.0 0.0.0.255
 ~~~
 
 ~~~cisco
-switch
-switch(config)#
+switch> ena
+switch# conf t
+switch(config)# vlan 10
+switch(config-vlan)# name server
+switch(config-vlan)# exit
+switch(config)# do show vlan
 ~~~
 
