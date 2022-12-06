@@ -27,6 +27,7 @@ Kinder wurden vor Minenarbeiten und Ausbeutung geschützt
 bis zum 1. Weltkrieg keine große Rolle
 
 ## Ernährung
+Bauern ernähren sich von Brot oder Mehlsuppen, nach Region noch Erdäpfel und Mehlspeisen
 # Familie in 1930er
 # Familie in 1950er
 # Familie in 1970er
