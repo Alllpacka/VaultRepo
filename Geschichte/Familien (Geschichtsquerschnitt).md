@@ -15,6 +15,7 @@ allgemeine Schulpflicht
 wachsende Zahl an Bürgerschulen
 
 ## Scheidung
+nicht wirklich
 
 ## Rechte
 ### Frauen
@@ -24,6 +25,8 @@ keine Bestimmungsfreiheit  im politischen Leben
 ### Kinder
 Kinder wurden vor Minenarbeiten und Ausbeutung geschützt
 bis zum 1. Weltkrieg keine große Rolle
+
+## Ernährung
 # Familie in 1930er
 # Familie in 1950er
 # Familie in 1970er
