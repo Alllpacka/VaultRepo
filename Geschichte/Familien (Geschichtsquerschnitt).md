@@ -16,6 +16,12 @@ wachsende Zahl an Bürgerschulen
 
 ## Scheidung
 
+## Rechte
+### Frauen
+Rechtelosigkeit
+keine Bestimmungsfreiheit  im politischen Leben
+
+### Kinder
 # Familie in 1930er
 # Familie in 1950er
 # Familie in 1970er
