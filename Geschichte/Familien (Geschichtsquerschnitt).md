@@ -12,6 +12,9 @@ Frau war für die "Innenwelt" zuständig (Kinder, Kochen, Putzen, ...)
 
 ## Schule
 allgemeine Schulpflicht
+wachsende Zahl an Bürgerschulen
+
+## 
 # Familie in 1930er
 # Familie in 1950er
 # Familie in 1970er
