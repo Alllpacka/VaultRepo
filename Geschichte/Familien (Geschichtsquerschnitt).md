@@ -7,8 +7,10 @@ Strenge Trennung zwischen dienstlichem und privatem
 Häuser galten als Zufluchtsstätte
 
 ## Stellung der Frau
-Mann galt als Ernährer
-Frau war für die Innenwelt zuständig (Kinder, Kochen, )
+Mann galt als Ernährer und war für die "Außenwert" zuständig
+Frau war für die "Innenwelt" zuständig (Kinder, Kochen, Putzen, ...)
+
+
 # Familie in 1930er
 # Familie in 1950er
 # Familie in 1970er
