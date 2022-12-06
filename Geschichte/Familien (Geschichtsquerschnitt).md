@@ -3,7 +3,10 @@
 # Familie im 19. Jh
 ## wohnen
 Wohn- und Arbeitsstätten sind seprat
-strenge Trennung zwischen dienstlichem und privaten
+Strenge Trennung zwischen dienstlichem und privatem
+Häuser galten als Zufluchtsstätte
+
+## 
 # Familie in 1930er
 # Familie in 1950er
 # Familie in 1970er
