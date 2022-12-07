@@ -1,0 +1,12 @@
+﻿
+1) Welches ist das teuerste Buch in der Datenbank?
+select titel, verkaufspreis from buecher where verkaufspreis = (select max(verkaufspreis) from buecher);
+2) Welches ist das billigste Buch in der Datenbank?
+select titel, verkaufspreis from buecher where verkaufspreis = (select min(verkaufspreis) from buecher);
+3) Lassen Sie sich alle Bücher ausgeben, deren Einkaufspreis über dem durchschnittlichen Einkaufspreis aller Bücher in der Datenbank liegt.          
+select titel from buecher where einkaufspreis > (select avg(einkaufspreis) from buecher);
+4) Lassen Sie sich alle Bücher ausgeben, deren Einkaufspreis über dem durchschnittlichen Einkaufspreis der Thriller liegt.
+
+5) Lassen Sie sich alle Thriller ausgeben, deren Einkaufspreis über dem durchschnittlichen Einkaufspreis der Thriller liegt.
+
+6) Lassen Sie sich alle Bücher ausgeben, bei denen der Gewinn überdurchschnittlich ist; bei der Berechnung des Gewinndurchschnitts berücksichtigen Sie NICHT das Buch mit der id 22.
