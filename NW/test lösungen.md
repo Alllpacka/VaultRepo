@@ -1,8 +1,6 @@
-# test lösungen
-
 ## 1. zu den fossilen Energieträgern gehören 
     Steinkohle
-    Siefergas
+    Shiefergas
 
 ## 2. aus vier Tonnen Braunkohle (Energiegehalt 25MJ/kg) können bei einer überführung in elektrische Energie mit einem Gesamtwirkungsgrad von 60%
     16.300 kWh (+/- 1000 kWh)
@@ -44,7 +42,7 @@
 
 ## 12. Aldehyde sind
     Oxidationprodukte von Alkoholen
-    Reaktionsprodukte von Carbonsäuren
+    Reduktionsprodukte von Carbonsäuren
 
 ## 13. Benzen
     ist krebserregend
@@ -57,7 +55,7 @@
 
 ## 15. Fluorchlorkohlenwasserstoffe (FCKW)
     sind wegen ihrer Umweltgefährdung weitergehend verboten
-    zerstören die Ozonschutzschicht in der Straosphäre
+    zerstören die Ozonschutzschicht in der Strathosphäre
     einigen sich technisch als Kältemittel in Kühlanlagen
 
 ## 16. Glockenböden werden bei folgenden Verfahren verwendet

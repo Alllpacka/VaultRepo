@@ -36,3 +36,7 @@ delete from Wetterstation where datum like "2020%";
 select standort, geoBreite from Wetterstation order by dec;
 
 select standort, betreiber, concat(geoBreite, '/', geoLaenge) "Geo-Daten" from Wetterstation where standort like "%Wien%" or betreiber like "%Siemens%";
+
+
+
+select vorname, nachname from Person where gehalt > avg(gehalt);
