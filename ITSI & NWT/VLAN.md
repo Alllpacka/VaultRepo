@@ -73,3 +73,7 @@ ether2: 300
 ether3: 100
 ether4: 200
 ether5: 1
+
+~~~mikgrodig
+/system/identity/set name="switch1"
+/interface/bridge/add name=bridge
