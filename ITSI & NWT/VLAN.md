@@ -75,5 +75,14 @@ ether4: 200
 ether5: 1
 
 ~~~mikgrodig
-/system/identity/set name="switch1"
-/interface/bridge/add name=bridge
+/system/identity/set name=switch1
+/interface/bridge/add name=bridge1
+/interface/bridge/vlan/add bridge=bridge1 vlan-ids=100
+/interface/bridge/vlan/add bridge=bridge1 vlan-ids=200
+/interface/bridge/vlan/add bridge=bridge1 vlan-ids=300
+
+for from=1 to=5 do={
+for i from=1 to=5 do={
+/interface/bridge/port/add
+}
+}
