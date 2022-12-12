@@ -44,4 +44,6 @@ Add-Computer -DomainName "Nachname.at"
 	Passwort
 
 
-Get-Service
+Get-Service -Name sshd
+
+Get-Service | Where-Object { $\_.name -like "ssh" }
