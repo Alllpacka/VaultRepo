@@ -94,5 +94,7 @@ for i from=1 to=5 do={
 /interface/bridge/port/set pvid=100 numbers=[ /interface/bridge/port/find where interface=ether2 ]
 
 /interface/bridge/vlan/set tagged=ether1,ether5 untagged=ether3 numbers=[ /interface/bridge/port/find where vlan-ids=100 ]
-/interface/bridge/vlan/set tagged=ether1,ether5 untagged=ether numbers=[ /interface/bridge/port/find where vlan-ids=100 ]
-/interface/bridge/vlan/set tagged=ether1,ether5 untagged=ether3 numbers=[ /interface/bridge/port/find where vlan-ids=100 ]
+/interface/bridge/vlan/set tagged=ether1,ether5 untagged=ether4 numbers=[ /interface/bridge/port/find where vlan-ids=200 ]
+/interface/bridge/vlan/set tagged=ether1,ether5 untagged=ether2 numbers=[ /interface/bridge/port/find where vlan-ids=300 ]
+
+
