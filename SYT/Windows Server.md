@@ -42,7 +42,3 @@ PS als Admin öffnen
 Add-Computer -DomainName "Nachname.at"
 	Domain\\Administrator
 	Passwort
-
-
-
-get 
