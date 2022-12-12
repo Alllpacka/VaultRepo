@@ -89,5 +89,7 @@ for i from=1 to=5 do={
 
 /interface/bridge/port/set pvid=300 numbers=1
 /interface/bridge/port/set pvid=100 numbers=2
-/interface/bridge/port/set pvid=300 numbers=3
+/interface/bridge/port/set pvid=200 numbers=3
+
+/interface/bridge/port/set pvid=300 numbers=[/interface/bridge/port/find where interface=ether2 ]
 
