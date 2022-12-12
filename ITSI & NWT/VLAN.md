@@ -68,4 +68,9 @@ switch(config-if)# switchport mode trunk
 | 300     | ether1,ether5 | ether2   |
 
 ### Port-VLAN:
-| 
+ether1: 1
+ether2: 300
+ether3: 100
+ether4: 200
+ether5: 
+
