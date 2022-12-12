@@ -60,3 +60,9 @@ switch(config-if)# int Gig0/1
 switch(config-if)# switchport mode trunk
 ~~~
 
+Egress-List: 
+| VLAN-ID | tagged | untagged |
+| ------- | ------ | -------- |
+| 100     | ether1 |          |
+| 200     | ether1 |          |
+| 300     | ether1 |          |
