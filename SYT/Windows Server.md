@@ -36,3 +36,8 @@ Domain-Controller (Domänencontroller)
 + In einem Netztwerk mit DC werden Computer zu einer Domain (Domäne)
 + Oft kommen mehrere DC zum Einsatz
 
+
+
+PS als Admin öffnen
+Add-Computer -DomainName "Nachname.at"
+	
