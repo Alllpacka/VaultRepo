@@ -83,6 +83,11 @@ ether5: 1
 
 for from=1 to=5 do={
 for i from=1 to=5 do={
-/interface/bridge/port/add
+/interface/bridge/port/add bridge=bridge1 interface={"ether".$i}
+	}
 }
-}
+
+/interface/bridge/port/set pvid=300 numbers=1
+/interface/bridge/port/set pvid=100 numbers=2
+/interface/bridge/port/set pvid=300 numbers=3
+
