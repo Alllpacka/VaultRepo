@@ -224,3 +224,8 @@ Sehr gut für Gehirn :)
 
 Konzentrierte Lauge = SEHR SCHLECHT, weil man das zersetzen nicht spürt
 
+
+
+Atrxopa Belladonna
+
+Alkalaide: basisch reagierende
