@@ -161,3 +161,10 @@ for i from=1 to=5 do={
 ~~~mikrotig
 interface/vlan/
 ~~~
+
+nicht das selbe wie:
+
+~~~mikrotik
+interface/bridge/vlan
+~~~
+
