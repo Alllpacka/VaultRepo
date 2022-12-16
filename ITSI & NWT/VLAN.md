@@ -67,12 +67,7 @@ switch(config-if)# switchport mode trunk
 | 200     | ether1,ether5 | ether4   |
 | 300     | ether1,ether5 | ether2   |
 
-### Port-VLAN:
-ether1: 1
-ether2: 300
-ether3: 100
-ether4: 200
-ether5: 1
+
 
 
 
@@ -129,3 +124,35 @@ description trunk zum nachbarswitch
 switchport mode trunk
 ~~~
 
+## mikrotic
+
+### Port-VLAN:
+ether1: 1
+ether2: 300
+ether3: 100
+ether4: 200
+ether5: 1
+
+~~~mikgrodig
+/system/identity/set name=switch1
+/interface/bridge/add name=bridge1
+/interface/bridge/vlan/add bridge=bridge1 vlan-ids=100
+/interface/bridge/vlan/add bridge=bridge1 vlan-ids=200
+/interface/bridge/vlan/add bridge=bridge1 vlan-ids=300
+
+for from=1 to=5 do={
+for i from=1 to=5 do={
+/interface/bridge/port/add bridge=bridge1 interface={"ether".$i}
+	}
+}
+
+/interface/bridge/port/set pvid=300 numbers=1
+/interface/bridge/port/set pvid=100 numbers=2
+/interface/bridge/port/set pvid=200 numbers=3
+
+/interface/bridge/port/set pvid=100 numbers=[ /interface/bridge/port/find where interface=ether2 ]
+
+/interface/bridge/vlan/set tagged=ether1,ether5 untagged=ether3 numbers=[ /interface/bridge/port/find where vlan-ids=100 ]
+/interface/bridge/vlan/set tagged=ether1,ether5 untagged=ether4 numbers=[ /interface/bridge/port/find where vlan-ids=200 ]
+/interface/bridge/vlan/set tagged=ether1,ether5 untagged=ether2 numbers=[ /interface/bridge/port/find where vlan-ids=300 ]
+~~~
