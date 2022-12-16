@@ -67,6 +67,65 @@ switch(config-if)# switchport mode trunk
 | 200     | ether1,ether5 | ether4   |
 | 300     | ether1,ether5 | ether2   |
 
+
+
+
+
+# config 
+## switch1:
+~~~cisco
+ena
+conf t
+
+int fa0/24
+desc trunk zum nachbarswitch
+switchport mode trunk
+
+int fa0/23
+desc trunk zum nachbarswitch
+switchport mode trunk
+
+int fa0/1
+switchport mode access
+sw ac vlan 100
+desc access port vlan 100
+
+int fa0/2
+desc access port vlan 200
+sw mo ac
+sw ac vlan 200
+
+int fa0/3
+desc access port vlan 300
+sw mo ac
+sw ac vlan 300
+~~~
+### switch1 conf (von show run)
+~~~cisco
+interface FastEthernet0/1
+description access port vlan 100
+switchport access vlan 100
+switchport mode access
+
+interface FastEthernet0/2
+description access port vlan 300
+switchport access vlan 200
+
+interface FastEthernet0/3
+description ac port vlan 300
+switchport access vlan 300
+
+interface FastEthernet0/23
+description trunk zum nachbarswitch
+switchport mode trunk
+
+interface FastEthernet0/24
+description trunk zum nachbarswitch
+switchport mode trunk
+~~~
+
+## mikrotic
+
 ### Port-VLAN:
 ether1: 1
 ether2: 300
@@ -97,3 +156,15 @@ for i from=1 to=5 do={
 /interface/bridge/vlan/set tagged=ether1,ether5 untagged=ether4 numbers=[ /interface/bridge/port/find where vlan-ids=200 ]
 /interface/bridge/vlan/set tagged=ether1,ether5 untagged=ether2 numbers=[ /interface/bridge/port/find where vlan-ids=300 ]
 ~~~
+
+### virtuele router ports
+~~~mikrotig
+interface/vlan/
+~~~
+
+nicht das selbe wie:
+
+~~~mikrotik
+interface/bridge/vlan
+~~~
+
