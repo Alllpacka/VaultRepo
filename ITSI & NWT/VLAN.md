@@ -74,34 +74,11 @@ ether3: 100
 ether4: 200
 ether5: 1
 
-~~~mikgrodig
-/system/identity/set name=switch1
-/interface/bridge/add name=bridge1
-/interface/bridge/vlan/add bridge=bridge1 vlan-ids=100
-/interface/bridge/vlan/add bridge=bridge1 vlan-ids=200
-/interface/bridge/vlan/add bridge=bridge1 vlan-ids=300
-
-for from=1 to=5 do={
-for i from=1 to=5 do={
-/interface/bridge/port/add bridge=bridge1 interface={"ether".$i}
-	}
-}
-
-/interface/bridge/port/set pvid=300 numbers=1
-/interface/bridge/port/set pvid=100 numbers=2
-/interface/bridge/port/set pvid=200 numbers=3
-
-/interface/bridge/port/set pvid=100 numbers=[ /interface/bridge/port/find where interface=ether2 ]
-
-/interface/bridge/vlan/set tagged=ether1,ether5 untagged=ether3 numbers=[ /interface/bridge/port/find where vlan-ids=100 ]
-/interface/bridge/vlan/set tagged=ether1,ether5 untagged=ether4 numbers=[ /interface/bridge/port/find where vlan-ids=200 ]
-/interface/bridge/vlan/set tagged=ether1,ether5 untagged=ether2 numbers=[ /interface/bridge/port/find where vlan-ids=300 ]
-~~~
 
 
+# config 
+## switch1:
 ~~~cisco
-# switch1:
-
 ena
 conf t
 
@@ -127,9 +104,9 @@ int fa0/3
 desc access port vlan 300
 sw mo ac
 sw ac vlan 300
-
-## switch1 conf
-
+~~~
+### switch1 conf (von show run)
+~~~cisco
 interface FastEthernet0/1
 description access port vlan 100
 switchport access vlan 100
