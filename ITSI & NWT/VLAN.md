@@ -151,3 +151,4 @@ interface FastEthernet0/24
 description trunk zum nachbarswitch
 switchport mode trunk
 ~~~
+
