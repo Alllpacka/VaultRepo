@@ -161,7 +161,10 @@ for i from=1 to=5 do={
 /system/identity/set name=SW-1
 /interface/bridge/add name=bridsch
 /interface/bridge/port/add bridge=bridsch interface=ether1 pvid=100
-
+/interface/bridge/port/add bridge=bridsch interface=ether2 pvid=100
+/interface/bridge/port/add bridge=bridsch interface=ether3 pvid=300
+/interface/bridge/port/add bridge=bridsch interface=ether4 pvid=200
+/interface/bridge/port/add bridge=bridsch interface=ether5
 ~~~
 ### virtuele router ports
 ~~~mikrotig
