@@ -172,9 +172,12 @@ for i from=1 to=5 do={
 /interface/vlan/add name=VL200 vlan-ids=200 interface=bridsch
 /interface/vlan/add name=VL300 vlan-ids=300 interface=bridsch
 /ip/address/add address=10.0.0.1/24 interface=VL100
-/ip/address/add address=10.0.0.1/24 interface=VL200
-/ip/address/add address=10.0.0.1/24 interface=VL300
-
+/ip/address/add address=10.10.0.1/24 interface=VL200
+/ip/address/add address=10.20.0.1/24 interface=VL300
+/ip/pool/add ranges=10.0.0.10-10.0.0.100 name=pool100
+/ip/pool/add ranges=10.10.0.10-10.10.0.100 name=pool200
+/ip/pool/add ranges=10.20.0.10-10.20.0.100 name=pool300
+/ip/dhcp-server/network/add address
 ~~~
 ### virtuele router ports
 ~~~mikrotig
