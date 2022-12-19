@@ -192,5 +192,3 @@ nicht das selbe wie:
 ~~~mikrotik
 interface/bridge/vlan
 ~~~
-
-gaming
