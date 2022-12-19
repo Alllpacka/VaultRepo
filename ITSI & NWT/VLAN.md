@@ -157,6 +157,12 @@ for i from=1 to=5 do={
 /interface/bridge/vlan/set tagged=ether1,ether5 untagged=ether2 numbers=[ /interface/bridge/port/find where vlan-ids=300 ]
 ~~~
 
+~~~micgordis
+/system/identity/set name=SW-1
+/interface/bridge/add name=bridsch
+/interface/bridge/port/add bridge=bridsch interface=ether1 pvid=100
+
+~~~
 ### virtuele router ports
 ~~~mikrotig
 interface/vlan/
