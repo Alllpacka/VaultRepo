@@ -177,8 +177,8 @@ for i from=1 to=5 do={
 /ip/pool/add ranges=10.0.0.10-10.0.0.100 name=pool100
 /ip/pool/add ranges=10.10.0.10-10.10.0.100 name=pool200
 /ip/pool/add ranges=10.20.0.10-10.20.0.100 name=pool300
-/ip/dhcp-server/network/add address=10.0.0.0/24 gateway=10.0.0.1 dns-server=10.0.0.1 name=dhcp1
-/ip/dhcp-server/network/add address=10.10.0.0/24 gateway=10.10.0.1 dns-server=10.10.0.1 name=dhcp2
+/ip/dhcp-server/network/add address=10.0.0.0/24 gateway=10.0.0.1 dns-server=10.0.0.1 name=dhcp100
+/ip/dhcp-server/network/add address=10.10.0.0/24 gateway=10.10.0.1 dns-server=10.10.0.1 name=dhcp200
 /ip/dhcp-server/network/add address=10.20.0.0/24 gateway=10.20.0.1 dns-server=10.20.0.1 name=dhcp300
 /ip/dhcp-server/add address-pool=pool100
 ~~~
