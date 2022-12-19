@@ -165,7 +165,10 @@ for i from=1 to=5 do={
 /interface/bridge/port/add bridge=bridsch interface=ether3 pvid=300
 /interface/bridge/port/add bridge=bridsch interface=ether4 pvid=200
 /interface/bridge/port/add bridge=bridsch interface=ether5
-/interface/bridge/vlan/add vlan-ids=100 tagged=bridsch,ether5 untagged
+/interface/bridge/vlan/add vlan-ids=100 tagged=bridsch,ether5 untagged=ether1,ether2 bridge=bridsch
+/interface/bridge/vlan/add vlan-ids=200 tagged=bridsch,ether5 untagged=ether4 bridge=bridsch
+/interface/bridge/vlan/add vlan-ids=300 tagged=bridsch,ether5 untagged=ether3 bridge=bridsch
+/interface/vlan/add name=VL100 interface=bridsch
 ~~~
 ### virtuele router ports
 ~~~mikrotig
