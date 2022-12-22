@@ -182,6 +182,7 @@ for i from=1 to=5 do={
 /ip/dhcp-server/network/add address=10.20.0.0/24 gateway=10.20.0.1 dns-server=10.20.0.1 name=dhcp300
 /ip/dhcp-server/add address-pool=pool100
 ~~~
+
 ### virtuele router ports
 ~~~mikrotig
 interface/vlan/
