@@ -217,7 +217,7 @@ add address=10.0.10.0/24 dns-server=10.0.10.1 gateway=10.0.10.1
 add address=10.0.20.0/24 dns-server=10.0.20.1 gateway=10.0.20.1
 add address=10.0.30.0/24 dns-server=10.0.30.1 gateway=10.0.30.1
 /system identity
-set name=SW-1
+set name=SW-2
 ~~~
 
 
