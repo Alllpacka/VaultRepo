@@ -183,6 +183,45 @@ for i from=1 to=5 do={
 /ip/dhcp-server/add address-pool=pool100
 ~~~
 
+~~~migrodig
+/interface bridge
+add name=br1
+/interface vlan
+add interface=br1 name=VL100 vlan-id=100
+add interface=br1 name=VL200 vlan-id=200
+add interface=br1 name=VL300 vlan-id=300
+/ip pool
+add name=pool100 ranges=10.0.10.10-10.0.10.100
+add name=pool200 ranges=10.0.20.10-10.0.20.100
+add name=pool300 ranges=10.0.30.10-10.0.30.100
+/ip dhcp-server
+add address-pool=pool100 interface=br1 name=dhcp1
+add address-pool=pool100 interface=VL100 name=dhcp2
+add address-pool=pool200 interface=VL200 name=dhcp3
+add address-pool=pool300 interface=VL300 name=dhcp4
+/interface bridge port
+add bridge=br1 interface=ether1 pvid=300
+add bridge=br1 interface=ether3 pvid=200
+add bridge=br1 interface=ether4 pvid=100
+add bridge=br1 interface=ether5
+add bridge=br1 interface=ether2 pvid=300
+/interface bridge vlan
+add bridge=br1 tagged=br1,ether5 untagged=ether4 vlan-ids=100
+add bridge=br1 tagged=br1,ether5 untagged=ether3 vlan-ids=200
+add bridge=br1 tagged=br1,ether5 untagged=ether1,ether2 vlan-ids=300
+/ip address
+add address=10.0.10.1/24 interface=VL100 network=10.0.10.0
+add address=10.0.20.1/24 interface=VL200 network=10.0.20.0
+add address=10.0.30.1/24 interface=VL300 network=10.0.30.0
+/ip dhcp-server network
+add address=10.0.10.0/24 dns-server=10.0.10.1 gateway=10.0.10.1
+add address=10.0.20.0/24 dns-server=10.0.20.1 gateway=10.0.20.1
+add address=10.0.30.0/24 dns-server=10.0.30.1 gateway=10.0.30.1
+/system identity
+set name=SW-1
+~~~
+
+
 ### virtuele router ports
 ~~~mikrotig
 interface/vlan/
