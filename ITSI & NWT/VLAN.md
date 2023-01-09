@@ -220,6 +220,51 @@ add address=10.0.30.0/24 dns-server=10.0.30.1 gateway=10.0.30.1
 set name=SW-2
 ~~~
 
+~~~migrodisc
+/interface bridge
+add name=br vlan-filtering=yes
+/interface wireless
+set [ find default-name=wlan1 ] ssid=MikroTik
+set [ find default-name=wlan2 ] ssid=MikroTik
+/interface vlan
+add interface=br name=VL10 vlan-id=10
+add interface=br name=VL20 vlan-id=20
+add interface=br name=VL30 vlan-id=30
+/interface wireless security-profiles
+set [ find default=yes ] supplicant-identity=MikroTik
+/ip hotspot profile
+set [ find default=yes ] html-directory=hotspot
+/ip pool
+add name=pool10 ranges=10.0.10.10-10.0.10.100
+add name=pool20 ranges=10.0.20.10-10.0.20.100
+add name=pool30 ranges=10.0.30.10-10.0.30.100
+/ip dhcp-server
+add address-pool=pool10 interface=VL10 name=dhcp10
+add address-pool=pool20 interface=VL20 name=dhcp20
+add address-pool=pool30 interface=VL30 name=dhcp30
+/interface bridge port
+add bridge=br interface=ether1 pvid=10
+add bridge=br interface=ether5 pvid=10
+add bridge=br interface=ether3 pvid=30
+add bridge=br interface=ether4 pvid=30
+add bridge=br interface=ether2 pvid=20
+/interface bridge vlan
+add bridge=br tagged=br untagged=ether1,ether5 vlan-ids=10
+add bridge=br tagged=br untagged=ether3,ether4 vlan-ids=30
+add bridge=br tagged=br untagged=ether2 vlan-ids=20
+/ip address
+add address=10.0.10.1/24 interface=VL10 network=10.0.10.0
+add address=10.0.20.1/24 interface=VL20 network=10.0.20.0
+add address=10.0.30.1/24 interface=VL30 network=10.0.30.0
+/ip dhcp-relay
+add dhcp-server=10.0.10.5 disabled=no interface=br name=relay1
+/ip dhcp-server network
+add address=10.0.10.0/24 dns-server=10.0.10.1 gateway=10.0.10.1
+add address=10.0.20.0/24 dns-server=10.0.20.1 gateway=10.0.20.1
+add address=10.0.30.0/24 dns-server=10.0.30.1 gateway=10.0.30.1
+/system identity
+set name=router1
+~~~
 
 ### virtuele router ports
 ~~~mikrotig
