@@ -223,17 +223,10 @@ set name=SW-2
 ~~~migrodisc
 /interface bridge
 add name=br vlan-filtering=yes
-/interface wireless
-set [ find default-name=wlan1 ] ssid=MikroTik
-set [ find default-name=wlan2 ] ssid=MikroTik
 /interface vlan
 add interface=br name=VL10 vlan-id=10
 add interface=br name=VL20 vlan-id=20
 add interface=br name=VL30 vlan-id=30
-/interface wireless security-profiles
-set [ find default=yes ] supplicant-identity=MikroTik
-/ip hotspot profile
-set [ find default=yes ] html-directory=hotspot
 /ip pool
 add name=pool10 ranges=10.0.10.10-10.0.10.100
 add name=pool20 ranges=10.0.20.10-10.0.20.100
