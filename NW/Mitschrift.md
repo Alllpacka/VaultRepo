@@ -229,3 +229,7 @@ Konzentrierte Lauge = SEHR SCHLECHT, weil man das zersetzen nicht spürt
 Atrxopa Belladonna
 
 Alkalaide: basisch reagierende
+
+# Sprengstoffe
+
+>3000m/s : hochbeisen, Detonation: TNT, C4, Semtex, 
