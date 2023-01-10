@@ -232,4 +232,5 @@ Alkalaide: basisch reagierende
 
 # Sprengstoffe
 
->3000m/s : hochbeisen, Detonation: TNT, C4, Semtex, 
+\>3000m/s : hochbeisen, Detonation: TNT, C4, Semtex, Hexagen
+3000m/s<
