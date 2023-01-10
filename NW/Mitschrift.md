@@ -233,4 +233,5 @@ Alkalaide: basisch reagierende
 # Sprengstoffe
 
 \>3000m/s : hochbrisant, Detonation: TNT, C4, Semtex, Hexagen
-3000m/s<,>300m/s : brisant, Explosion : (Dynamit), donarit, Lawint, Gelatnit 
+3000m/s<,>300m/s : brisant, Explosion : (Dynamit), donarit, Lawint, Gelatnid
+<3000m/s : Deflagration : 
