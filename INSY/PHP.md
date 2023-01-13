@@ -4,9 +4,15 @@ eine Serverseitige, in HTML eingebundene, Scriptsprache
 <HTML>
 <head>
 ....
+
+#ent
 <?php>
 
 <?>
+
+<script src=>
+
+</script>
 </head>
 ...
 </HTML>
