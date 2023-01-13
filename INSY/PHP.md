@@ -5,12 +5,12 @@ eine Serverseitige, in HTML eingebundene, Scriptsprache
 <head>
 ....
 
-#ent
+<!--entweder-->
 <?php>
 
 <?>
-
-<script src=>
+<!--oder-->
+<script type="PHP">
 
 </script>
 </head>
