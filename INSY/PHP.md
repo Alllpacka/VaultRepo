@@ -7,11 +7,12 @@ eine Serverseitige, in HTML eingebundene, Scriptsprache
 
 <!--entweder-->
 <?php>
-
+....
 <?>
-<!--oder-->
-<script type="PHP">
 
+<!--oder (beser)-->
+<script type="PHP">
+....
 </script>
 </head>
 ...
