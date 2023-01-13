@@ -7,7 +7,7 @@ eine Serverseitige, in HTML eingebundene, Scriptsprache
 
 <!--entweder-->
 <?php>
-....
+....  = liefert HTML-Code
 <?>
 
 <!--oder (beser)-->
