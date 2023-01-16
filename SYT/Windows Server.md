@@ -53,6 +53,7 @@ Get-WindowsCapability -Online -Name
 + rsat.servermanager* | Add-WindowsCapability -Online
 + rsat.activedir* | Add-WindowsCapability -Online
 + rsat.dhcp* | Add-WindowsCapability -Online
++ rsat.dns* | Add-WindowsCapability -Online
 
 ## Ohne gui
 
