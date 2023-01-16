@@ -11,7 +11,8 @@ a,b,g,n = Basis-Standarts
 | b        | 11Mbit/s                    | 2.4GHz        |                |
 | g        | 54Mbit/s                    | 2.4GHz        |                |
 | n        | Mbit/s                      | 2.4GHz & 5GHz | Kanalbündelung |
-| ac       | Mbit/s                      |               |                |
+| ac       | Mbit/s                      | 5GHz          |                |
+| ax       | Mbit/s                      |               |                |
 
 
 # gaming
