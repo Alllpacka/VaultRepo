@@ -49,9 +49,10 @@ Get-Service -Name sshd
 Get-Service | Where-Object { $\_.name -like "ssh" }
 
 
-Get-WindowsCapability -Online -Name rsat.servermanager* | Add-
-rsat.activedir*
-rsat.dhcp*
+Get-WindowsCapability -Online -Name 
++ rsat.servermanager* | Add-WindowsCapability -Online
++ rsat.activedir* | Add-WindowsCapability -Online
++ rsat.dhcp* | Add-WindowsCapability -Online
 
 ## Ohne gui
 
