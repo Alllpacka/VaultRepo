@@ -47,3 +47,7 @@ Add-Computer -DomainName "Nachname.at"
 Get-Service -Name sshd
 
 Get-Service | Where-Object { $\_.name -like "ssh" }
+
+## Ohne gui
+
+zum hauptmenü: SConfig
