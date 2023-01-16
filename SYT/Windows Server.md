@@ -48,6 +48,11 @@ Get-Service -Name sshd
 
 Get-Service | Where-Object { $\_.name -like "ssh" }
 
+
+Get-WindowsCapability -Online -Name rsat.servermanager* | Add-
+rsat.activedir*
+rsat.dhcp*
+
 ## Ohne gui
 
 zum hauptmenü: SConfig
