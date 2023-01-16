@@ -235,3 +235,8 @@ Alkalaide: basisch reagierende
 \>3000m/s : hochbrisant, Detonation: TNT, C4, Semtex, Hexagen
 3000m/s<,>300m/s : brisant, Explosion : (Dynamit), donarit, Lawint, Gelatnid
 <300m/s : Deflagration : Schwartzpulver, Treibladung, 
+
+
+Pyr = N
+Thio = S
+Oxin, Twan = O
