@@ -23,3 +23,5 @@ Der Landeshauptmann nimmt besonders folgende Aufgaben wahr:
 + Angelobung der Mitglieder der Landesregierung.
 ## Aufbau des Landtag und Bundesrates?
 ### Landtag
+### Bundesrat
+Jedes Land ist durch Mitglieder seiner Landesregierung im Bundesrat vertreten. Abhängig von der Bevölkerungsgröße hat jedes Land drei bis sechs Stimmen, die Gesamtzahl beträgt 69 Stimmen. Auf diese Weise werden die Interessen der Länder bei der politischen Willensbildung des Gesamtstaates berücksichtigt.
