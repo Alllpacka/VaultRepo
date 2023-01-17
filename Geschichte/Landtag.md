@@ -4,8 +4,10 @@ Franz Schnabl - SPÖ
 Udo Landbauer - FPÖ
 Helga Krismer - GRÜNE
 Indra Collini - NEOS
+
 ## Was ist der Landtag?
 Die Landtage sind die Parlamente der einzelnen Bundesländer. Sie beschließen die österreichischen Landesgesetze.
+
 ## Aufgaben des Landtags?
 Die Schwerpunkte der Arbeit des Landtages sind vor allem:
 
@@ -26,5 +28,6 @@ Der Landeshauptmann nimmt besonders folgende Aufgaben wahr:
 ## Aufbau des Landtag und Bundesrates?
 ### Landtag
 Der niederösterreichische Landtag setzt sich aus 56 Abgeordneten zusammen. Die Wahlperiode dauert fünf Jahre. Gewählt wird nach der NÖ Landtagswahlordnung 1992. In Niederösterreich gibt es 21 Wahlkreise, die den politischen Bezirken entsprechen.
+
 ### Bundesrat
 Jedes Land ist durch Mitglieder seiner Landesregierung im Bundesrat vertreten. Abhängig von der Bevölkerungsgröße hat jedes Land drei bis sechs Stimmen, die Gesamtzahl beträgt 69 Stimmen. Auf diese Weise werden die Interessen der Länder bei der politischen Willensbildung des Gesamtstaates berücksichtigt.
