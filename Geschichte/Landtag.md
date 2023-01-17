@@ -18,5 +18,8 @@ Die Schwerpunkte der Arbeit des Landtages sind vor allem:
 ## Aufgaben des LHM/LHF?
 Der Landeshauptmann nimmt besonders folgende Aufgaben wahr: 
 + Vertretung des Landes
-+ Weiterleitung der Gesetzesbeschlüsse des Landtags an die Bundesregierung, Kundmachung dieser Gesetzesbeschlüsse im Landesgesetzblatt, Angelobung der Mitglieder der Landesregierung.
++ Weiterleitung der Gesetzesbeschlüsse des Landtags an die Bundesregierung
++ Kundmachung dieser Gesetzesbeschlüsse im Landesgesetzblatt
++ Angelobung der Mitglieder der Landesregierung.
 ## Aufbau des Landtag und Bundesrates?
+### Landtag
