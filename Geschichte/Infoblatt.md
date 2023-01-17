@@ -11,6 +11,9 @@ Franz Nöhrer
 Wolfgang Mohorn
 Christoph Schuh
 Christne Kurz
+Gerald Marangoni
+Edmund Tauchner
+Stephan Lackner
 ## Was ist der Landtag?
 ## Warum gibt es diese Wahl? Aufgaben des Landtags?
 ## Aufgaben des LHM/LHF?
