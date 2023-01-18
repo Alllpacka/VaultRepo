@@ -6,6 +6,6 @@
     <body>
         <?php
         echo "Bodymass-Index"
-        >
+        ?>
     </body>
 </html>
