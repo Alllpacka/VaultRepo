@@ -1,14 +1,14 @@
 eine Serverseitige, in HTML eingebundene, Scriptsprache
 
-~~~html
+~~~php
 <HTML>
 <head>
 ....
 
 <!--entweder-->
-<?php>
+<?php
 ....  = liefert HTML-Code
-<?>
+?>
 
 <!--oder (beser)-->
 <script type="PHP">
