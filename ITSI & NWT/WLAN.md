@@ -5,7 +5,7 @@ CSMACA = Carrier Sends Multiple Access (with) Collission Avoidence
 
 einer der ersten IEEE 802.11b
 
-a,b,g,n = Basis-Standarts
+a, b, g, n = Basis-Standarts
 
 | Standart | Übertragungsgeschwindigkeit | Frequenz      | Infos                   | Verkauft unter |
 | -------- | --------------------------- | ------------- | ----------------------- | -------------- |
