@@ -12,7 +12,7 @@ a,b,g,n = Basis-Standarts
 | a        | Mbit/s                      | 5GHz          |                         |                |
 | b        | 11Mbit/s                    | 2.4GHz        |                         |                |
 | g        | 54Mbit/s                    | 2.4GHz        |                         |                |
-| n        | Mbit/s                      | 2.4GHz & 5GHz | Kanalbündelung          | WiFi4          |
+| n        | 72Mbit/s                      | 2.4GHz & 5GHz | Kanalbündelung          | WiFi4          |
 | ac       | Mbit/s                      | 5GHz          |                         | WiFi5          |
 | ax       | Mbit/s                      |               | andere Verfahren als ac | WiFi6          |
 |          |                             | 6GHz          |                         | WiFi6E         |
