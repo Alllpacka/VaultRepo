@@ -18,5 +18,5 @@ a, b, g, n = Basis-Standarts
 | ax       |                             | 6GHz          |                         | WiFi6E         |
 
 
-# gaming
+ssid = Name vom WLAN
 
