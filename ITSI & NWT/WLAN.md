@@ -14,8 +14,8 @@ a,b,g,n = Basis-Standarts
 | g        | 54Mbit/s                    | 2.4GHz        |                         |                |
 | n        | 72Mbit/s                    | 2.4GHz & 5GHz | Kanalbündelung / MiMo   | WiFi4          |
 | ac       | 1.1Gbit/s                   | 5GHz          |                         | WiFi5          |
-| ax       | 1.1Gbit/s                   | 2.4GHz 5GHz  | andere Verfahren als ac | WiFi6          |
-|          |                             | 6GHz          |                         | WiFi6E         |
+| ax       | 1.1Gbit/s                   | 2.4GHz & 5GHz | andere Verfahren als ac | WiFi6          |
+| ax       |                             | 6GHz          |                         | WiFi6E         |
 
 
 # gaming
