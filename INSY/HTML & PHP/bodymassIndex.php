@@ -4,19 +4,11 @@
         <title>Bodymass-Index</title>
     </head>
     <body>
-        <?php
-        $alt = 16;
-        $gro = 170;
-        $gew = 75;
-
-        $bmi = ($alt+$gew)/exp($gro);
-        
-        echo "<h1>Bodymass-Index</h1>";
-        echo "<br><br>";
-        echo "Alter: $alt<br>";
-        echo "Größe: $gro cm<br>";
-        echo "Gewicht: $gew kg<br>";
-        echo "BMI: $bmi"
-        ?>
+        <form action="bmi.php">
+            <label for="falter">Alter</label><br>
+            <input type="text" id="falter" name="falter"><br>
+            <label for="fgroese">Größe in m</label><br>
+            <input type="text" id="fgroese" name="fgroese"><br>
+        </form>
     </body>
 </html>
