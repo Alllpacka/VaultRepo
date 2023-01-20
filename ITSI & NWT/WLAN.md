@@ -1,6 +1,8 @@
 verschiedene Frequenzbereiche (~2.4/~5GHz) 
 IEEE 802.11
 
+CSMACA = Carrier Sends Multiple Access (with) Collission Avoidence
+
 einer der ersten IEEE 802.11b
 
 a,b,g,n = Basis-Standarts
@@ -13,7 +15,7 @@ a,b,g,n = Basis-Standarts
 | n        | Mbit/s                      | 2.4GHz & 5GHz | Kanalbündelung          | WiFi4          |
 | ac       | Mbit/s                      | 5GHz          |                         | WiFi5          |
 | ax       | Mbit/s                      |               | andere Verfahren als ac | WiFi6          |
-|          |                             | 6GHz          |                         | WiFi6E         | 
+|          |                             | 6GHz          |                         | WiFi6E         |
 
 
 # gaming
