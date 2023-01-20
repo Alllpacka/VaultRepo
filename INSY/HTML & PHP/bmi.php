@@ -12,8 +12,8 @@
         $bmi = $gew/pow(($gro/100), 2);
 
         $bmi = round($bmi);
-
-        
         ?>
+
+        Dein Alter ist <?php echo $alt?> und du hast einen BMI von <?php echo $bmi?>
     </body>
 </html>
