@@ -58,3 +58,6 @@ Get-WindowsCapability -Online -Name
 ## Ohne gui
 
 zum hauptmenü: SConfig
+
+Get-WindowsFeature -Name \*AD*
+Get-WindowsFeature -Name Active
