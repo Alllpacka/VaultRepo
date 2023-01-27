@@ -30,7 +30,8 @@ Password ist pre-shared -> privat nutzen
 Verschlüsselte Daten können mit dem Passwort aufgelöst werden
 
 WPA Enterprise
-
+zertifikate oder benutzer und passwort
+IEEE 802.1X oder 1X Auth
 
 802.1X
 
