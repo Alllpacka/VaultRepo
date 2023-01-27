@@ -23,6 +23,7 @@ ssid = Name vom WLAN
 ## Verschlüsselung
 
 WPA (WiFi Protected Accsess)
+WPA2 ist am populärsten
 
 
 802.1X
