@@ -24,6 +24,6 @@ ssid = Name vom WLAN
 
 WPA (WiFi Protected Accsess)
 WPA2 ist am populärsten
-
+WPA3 ist 
 
 802.1X
