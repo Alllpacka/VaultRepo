@@ -4,6 +4,7 @@
         <title>Bodymass-Index</title>
     </head>
     <body>
+        <h1>Bodymass Index Calculator</h1>
         <form action="bmi.php">
             <label for="falter">Alter</label><br>
             <input type="text" id="falter" name="falter"><br>

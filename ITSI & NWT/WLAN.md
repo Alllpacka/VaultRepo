@@ -20,3 +20,5 @@ a, b, g, n = Basis-Standarts
 
 ssid = Name vom WLAN
 
+## Verschlüsselung
+
