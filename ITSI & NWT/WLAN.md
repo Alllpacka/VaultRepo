@@ -22,16 +22,16 @@ ssid = Name vom WLAN
 
 ## Verschlüsselung
 
-WPA (WiFi Protected Accsess)
-WPA2 ist am populärsten
-WPA3 ist als ersetzung gedacht
+[WPA](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access#EAP_extensions_under_WPA_and_WPA2_Enterprise#WPA) (WiFi Protected Accsess)
+[WPA2](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access#EAP_extensions_under_WPA_and_WPA2_Enterprise#WPA2) ist am populärsten
+[WPA3](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access#EAP_extensions_under_WPA_and_WPA2_Enterprise#WPA3) ist als ersetzung gedacht
 
 Password ist pre-shared -> privat nutzen
 Verschlüsselte Daten können mit dem Passwort aufgelöst werden
 
-WPA Enterprise
+WPA Enterprise (WPA-802.1X mode)
 zertifikate oder benutzer und passwort
-IEEE 802.1X oder 1X Auth
+IEEE 802.1X oder 1x Auth
 
 802.1X
 
