@@ -31,4 +31,6 @@ Verschlüsselte Daten können mit dem Passwort aufgelöst werden
 
 802.1X
 
-Computer ->
+Computer -- 802.1X --> Access Point -- Radius --> Radius Server -- ldap --> eDirectory
+
+PEAP ()
