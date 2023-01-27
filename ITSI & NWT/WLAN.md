@@ -26,7 +26,7 @@ ssid = Name vom WLAN
 [WPA2](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access#EAP_extensions_under_WPA_and_WPA2_Enterprise#WPA2) ist am populärsten
 [WPA3](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access#EAP_extensions_under_WPA_and_WPA2_Enterprise#WPA3) ist als ersetzung gedacht
 
-Password ist pre-shared -> privat nutzen
+[Password](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access#Security_issues) ist pre-shared -> privat nutzen
 Verschlüsselte Daten können mit dem Passwort aufgelöst werden
 
 [WPA Enterprise](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access#Target_users_(authentication_key_distribution)) (WPA-802.1X mode)
@@ -36,7 +36,7 @@ IEEE 802.1X oder 1x Auth
 
 Computer -- 802.1X --> Access Point -- Radius --> Radius Server -- ldap --> eDirectory
 
-PEAP (Protected Extensible Authentication Protocol)
+[PEAP](https://en.wikipedia.org/wiki/Protected_Extensible_Authentication_Protocol) (Protected Extensible Authentication Protocol)
 [MS-CHAPv2](https://en.wikipedia.org/wiki/MS-CHAP) (Microsoft Protected Extensible Authentication Protocol)
 (EAP-TLS)
 (EAP-TTLS)
