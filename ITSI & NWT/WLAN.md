@@ -22,3 +22,7 @@ ssid = Name vom WLAN
 
 ## Verschlüsselung
 
+WPA (WiFi Protected Accsess)
+
+
+802.1X
