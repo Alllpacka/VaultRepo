@@ -29,15 +29,14 @@ ssid = Name vom WLAN
 Password ist pre-shared -> privat nutzen
 Verschlüsselte Daten können mit dem Passwort aufgelöst werden
 
-WPA Enterprise (WPA-802.1X mode)
+[WPA Enterprise](https://en.wikipedia.org/wiki/Wi-Fi_Protected_Access#Target_users_(authentication_key_distribution)) (WPA-802.1X mode)
 zertifikate oder benutzer und passwort
 IEEE 802.1X oder 1x Auth
 
-802.1X
 
 Computer -- 802.1X --> Access Point -- Radius --> Radius Server -- ldap --> eDirectory
 
 PEAP (Protected Extensible Authentication Protocol)
-MS-CHAPv2 (Microsoft Protected Extensible Authentication Protocol)
+[MS-CHAPv2](https://en.wikipedia.org/wiki/MS-CHAP) (Microsoft Protected Extensible Authentication Protocol)
 (EAP-TLS)
 (EAP-TTLS)
