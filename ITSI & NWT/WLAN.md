@@ -26,8 +26,11 @@ WPA (WiFi Protected Accsess)
 WPA2 ist am populärsten
 WPA3 ist als ersetzung gedacht
 
-Password ist pre-shared
+Password ist pre-shared -> privat nutzen
 Verschlüsselte Daten können mit dem Passwort aufgelöst werden
+
+WPA Enterprise
+
 
 802.1X
 
