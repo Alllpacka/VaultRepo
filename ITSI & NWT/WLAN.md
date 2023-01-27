@@ -33,4 +33,7 @@ Verschlüsselte Daten können mit dem Passwort aufgelöst werden
 
 Computer -- 802.1X --> Access Point -- Radius --> Radius Server -- ldap --> eDirectory
 
-PEAP ()
+PEAP (Protected Extensible Authentication Protocol)
+MS-CHAPv2 (Microsoft Protected Extensible Authentication Protocol)
+(EAP-TLS)
+(EAP-TTLS)
