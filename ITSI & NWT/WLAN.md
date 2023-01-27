@@ -1,7 +1,8 @@
+[Wikipedia](https://en.wikipedia.org/wiki/Wireless_LAN)
 verschiedene Frequenzbereiche (~2.4/~5GHz) 
 IEEE 802.11
 
-CSMACA = Carrier Sends Multiple Access (with) Collission Avoidence
+[CSMACA](https://en.wikipedia.org/wiki/Carrier-sense_multiple_access_with_collision_avoidance) = Carrier Sends Multiple Access (with) Collission Avoidence
 
 einer der ersten IEEE 802.11b
 

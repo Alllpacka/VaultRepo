@@ -1,4 +1,4 @@
-802.1Q
+[802.1Q](https://en.wikipedia.org/wiki/VLAN)
 
 VLAN IDs -> 0-4095 (12 bit lang)
 Client hat nichts mit VLAN IDs zu tun
