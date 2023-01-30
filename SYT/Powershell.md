@@ -9,4 +9,4 @@ ldapsearch
 ldapsearch -x -? ldaps://ngfs.intra ("objectClass-Person")
 																ou-3BHITS
 
-Für alle namen
+Für alle Namen -> AD anlegen
