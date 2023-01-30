@@ -41,3 +41,15 @@ Computer -- 802.1X --> Access Point -- Radius --> Radius Server -- ldap --> eDir
 [MS-CHAPv2](https://en.wikipedia.org/wiki/MS-CHAP) (Microsoft Protected Extensible Authentication Protocol)
 (EAP-TLS)
 (EAP-TTLS)
+
+
+
+### microtik
+wlan1: 2,4GHz
+wlan2: 5GHz
+
+ap bridge: AccessPoint
+station: WLAN-Client
+
++ security-profile
++ SSID
