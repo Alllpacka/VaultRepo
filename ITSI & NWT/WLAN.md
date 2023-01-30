@@ -55,6 +55,22 @@ station: WLAN-Client
 + SSID
 
 ~~~microtik
-/interface/wireless/security-profiles/add name=mySecurity mode=dynamic-keys atuthentication-types=wpa2
-
+/interface wireless security-profiles
+add authentication-types=wpa2-psk mode=dynamic-keys name=mySecurity supplicant-identity=MikroTik
+add authentication-types=wpa2-eap eap-methods=peap mode=dynamic-keys mschapv2-username=[deine id] name=htlhl supplicant-identity=fimi tls-mode=dont-verify-certificate
+/interface wireless
+set [ find default-name=wlan1 ] disabled=no security-profile=htlhl ssid=HTLHL
+set [ find default-name=wlan2 ] disabled=no mode=ap-bridge security-profile=mySecurity ssid=VLAN
+/ip pool
+add name=pool10 ranges=192.168.10.10-192.168.10.50
+/ip dhcp-server
+add address-pool=pool10 interface=wlan2 name=dhcp1
+/ip address
+add address=192.168.10.1/24 interface=wlan2 network=192.168.10.0
+/ip dhcp-client
+add interface=wlan1
+/ip dhcp-server network
+add address=192.168.10.0/24 dns-server=172.16.1.1 gateway=192.168.10.1
+/ip firewall nat
+add action=masquerade chain=srcnat out-interface=wlan1
 ~~~
