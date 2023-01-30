@@ -56,4 +56,5 @@ station: WLAN-Client
 
 ~~~microtik
 /interface/wireless/security-profiles/add name=mySecurity mode=dynamic-keys atuthentication-types=wpa2
+
 ~~~
