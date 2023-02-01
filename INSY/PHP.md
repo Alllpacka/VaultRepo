@@ -28,7 +28,7 @@ $u = "root";
 $pw = "";
 $dbname = "...";
 
-mysqli_connect($h, $u, $pw[, $dbname]);
+$con = mysqli_connect($h, $u, $pw[, $dbname]);
 mysqli_select_db($dbname);
 
 $sql = "select * from person";
@@ -42,4 +42,5 @@ echo $a["NA"];
 
 echo $a[2];
 
+mysqli_close($con);
 ~~~
