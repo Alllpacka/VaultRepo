@@ -32,6 +32,6 @@ mysqli_connect($h, $u, $pw[, $dbname]);
 mysqli_select_db($dbname);
 
 $sql = "select * from person";
-mysqli_query($sql);
+$erg = mysqli_query($sql);
 
 ~~~
