@@ -26,6 +26,7 @@ mysqli:
 $h = "localhost";
 $u = "root";
 $pw = "";
+[$dbname = "..."];
 
-mysqli_connect($h, $u, $pw);
+mysqli_connect($h, $u, $pw[, $dbname]);
 ~~~
