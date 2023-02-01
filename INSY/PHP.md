@@ -36,4 +36,6 @@ $erg = mysqli_query($sql);
 
 $a = mysqli_fetch_assoc($erg);
 
+echo $a["NA"]; 
+
 ~~~
