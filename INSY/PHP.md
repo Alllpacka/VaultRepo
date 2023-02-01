@@ -34,4 +34,6 @@ mysqli_select_db($dbname);
 $sql = "select * from person";
 $erg = mysqli_query($sql);
 
+$a = mysqli_fetch_assoc($erg);
+
 ~~~
