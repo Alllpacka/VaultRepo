@@ -22,4 +22,10 @@ eine Serverseitige, in HTML eingebundene, Scriptsprache
 ## Datenbankverbindungen
 
 mysqli:
+~~~php
+$h = 'localhost';
+$u = 'root';
+$pw = '';
+
+mysqli_connect($h, $u, $pw);
 ~~~
