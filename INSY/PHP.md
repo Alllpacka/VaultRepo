@@ -30,5 +30,8 @@ $dbname = "...";
 
 mysqli_connect($h, $u, $pw[, $dbname]);
 mysqli_select_db($dbname);
-mysqli_query
+
+$sql = "select * from person";
+mysqli_query($sql);
+
 ~~~
