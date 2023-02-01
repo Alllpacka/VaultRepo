@@ -23,9 +23,9 @@ eine Serverseitige, in HTML eingebundene, Scriptsprache
 
 mysqli:
 ~~~php
-$h = 'localhost';
-$u = 'root';
-$pw = '';
+$h = "localhost";
+$u = "root";
+$pw = "";
 
 mysqli_connect($h, $u, $pw);
 ~~~
