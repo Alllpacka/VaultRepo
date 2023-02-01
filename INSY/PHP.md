@@ -36,6 +36,10 @@ $erg = mysqli_query($sql);
 
 $a = mysqli_fetch_assoc($erg);
 
-echo $a["NA"]; 
+echo $a["NA"];
+
+//oder
+
+echo $a[2];
 
 ~~~
