@@ -99,9 +99,9 @@ add action=masquerade chain=srcnat out-interface=wlan1
 ~~~
 
 5GHz netz 
-name: 3AHITS_200065
+name: 3AHITS_8
 WPA2-PSK: 3AHITS3AHITS3AHITS
 ins HTLHL netz verbindung
-192.168.XX.0/24
+192.168.8.0/24
 DHCP
 Kanal: durch scan
