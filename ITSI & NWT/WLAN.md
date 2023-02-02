@@ -104,4 +104,4 @@ WPA2-PSK: 3AHITS3AHITS3AHITS
 ins HTLHL netz verbindung
 192.168.XX.0/24
 DHCP
-Kanal: 
+Kanal: durch scan
