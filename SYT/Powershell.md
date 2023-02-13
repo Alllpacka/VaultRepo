@@ -15,7 +15,7 @@ Für alle Namen -> AD anlegen
 #!/bin/bash
 
 while read line; do
-  ldapdata="$( ldapsearch -b$line -x -Hldaps://ngfs.intra -oTLS_REQCERT=never givenName sn ou )"   givenName="$( echo "$ldapdata" | grep "givenName:" )"
+  ldapdata="$( ldapsearch -b $line -x -H ldaps://ngfs.intra -o TLS_REQCERT=never givenName sn ou )"   givenName="$( echo "$ldapdata" | grep "givenName:" )"
   if [[ "$givenName" =~ ^givenName:: ]]; then
     givenName="$( echo "$givenName" | sed "s/givenName:: //g" | base64 -d )"
   else
