@@ -37,8 +37,8 @@ IEEE 802.1X oder 1x Auth
 
 Computer -- 802.1X --> Access Point -- Radius --> Radius Server -- ldap --> eDirectory
 
-[PEAP](https://en.wikipedia.org/wiki/Protected_Extensible_Authentication_Protocol) (Protected Extensible Authentication Protocol)
-[MS-CHAPv2](https://en.wikipedia.org/wiki/MS-CHAP) (Microsoft Protected Extensible Authentication Protocol)
+[PEAP](https://en.wikipedia.org/wiki/Protected_Extensible_Authentication_Protocol) (Protected [Extensible Authentication Protocol](https://en.wikipedia.org/wiki/Extensible_Authentication_Protocol "Extensible Authentication Protocol"))
+[MS-CHAPv2](https://en.wikipedia.org/wiki/MS-CHAP) (Microsoft [Challenge-Handshake Authentication Protocol](https://en.wikipedia.org/wiki/Challenge-Handshake_Authentication_Protocol "Challenge-Handshake Authentication Protocol"))
 (EAP-TLS)
 (EAP-TTLS)
 
