@@ -80,7 +80,7 @@ add action=masquerade chain=srcnat out-interface=wlan1
 ~~~microtik
 /interface wireless security-profiles
 add authentication-types=wpa2-psk mode=dynamic-keys name=mySecurity supplicant-identity=MikroTik
-add authentication-types=wpa2-eap eap-methods=peap mode=dynamic-keys mschapv2-username=fimi name=htlhl supplicant-identity=fimi tls-mode=dont-verify-certificate
+add authentication-types=wpa2-eap eap-methods=peap mode=dynamic-keys mschapv2-username=[name] mschapv2-password=[password] name=htlhl supplicant-identity=[name] tls-mode=dont-verify-certificate
 /interface wireless
 set [ find default-name=wlan1 ] disabled=no security-profile=htlhl ssid=HTLHL
 set [ find default-name=wlan2 ] disabled=no mode=ap-bridge security-profile=mySecurity ssid=VLAN band=5ghz-n/ac channel-width=20/40/80mhz-Ceee
