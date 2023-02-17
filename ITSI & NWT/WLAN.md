@@ -83,7 +83,7 @@ add authentication-types=wpa2-psk mode=dynamic-keys name=mySecurity supplicant-i
 add authentication-types=wpa2-eap eap-methods=peap mode=dynamic-keys mschapv2-username=[name] mschapv2-password=[password] name=htlhl supplicant-identity=[name] tls-mode=dont-verify-certificate
 /interface wireless
 set [ find default-name=wlan1 ] disabled=no security-profile=htlhl ssid=HTLHL
-set [ find default-name=wlan2 ] disabled=no mode=ap-bridge security-profile=mySecurity ssid=[SSID] band=5ghz-n/ac channel-width=20/40/80mhz-Ceee frequency=[unbelegte Frequenz]
+set [ find default-name=wlan2 ] disabled=no mode=ap-bridge security-profile=mySecurity ssid=[SSID] band=5ghz-n/ac channel-width=20/40/80mhz-Ceee frequency=[unbelegte Frequenz] country=[Länderkürzel]
 /ip pool
 add name=pool10 ranges=192.168.10.10-192.168.10.50
 /ip dhcp-server
