@@ -120,3 +120,8 @@ set [ find default-name=wlan2 ] band=5ghz-n/ac disabled=no frequency=[einen frei
 /ip dhcp-server network add address=192.168.[deine laufende nummer].0/24 dns-server=172.16.1.1 gateway=192.168.[deine laufende nummer].1 
 /ip firewall nat add action=masquerade chain=srcnat out-interface=wlan1
 ~~~
+
+~~~migtroti
+/interface/bridge/add name=bridge1 vlan-filtering=yes
+/interface/bridge/p
+~~~
