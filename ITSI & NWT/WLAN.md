@@ -122,6 +122,5 @@ set [ find default-name=wlan2 ] band=5ghz-n/ac disabled=no frequency=[einen frei
 ~~~
 
 ~~~migtroti
-/interface/bridge/add name=bridge1 vlan-filtering=yes
-/interface/bridge/p
+
 ~~~
