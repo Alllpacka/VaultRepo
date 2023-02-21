@@ -246,4 +246,8 @@ Oxin, Twan = O
 n C_H_12O_6 -> \[C_6H_10O_5]\_n + n H_2O
 
 
+# Wasch- und Reinigung
+
+lipophil ^= hydrophob
+lipophob ^= hydrophil
 
