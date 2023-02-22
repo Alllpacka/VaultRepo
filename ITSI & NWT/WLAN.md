@@ -145,5 +145,7 @@ set [ find default-name=wlan2 ] band=5ghz-n/ac disabled=no frequency=[einen frei
 /ip/dhcp-server/add name=dhcp30 address-pool=pool30 disabled=no interface=VL30
 interface/wireless/security-profiles/add authentication-types=wpa2-psk mode=dynamic-keys name=mySecurity supplicant-identity=MikroTik pre-shared-key=1234567890
 /interface/wireless/set wlan2 ssid=[irgendeine ssid] security-profile=mysecurtity band=5gHz-n/ac channel-width=20/40/80mHz-xxxx disabled=no country=austria tx-power=1 tx-power-mode=all-rates-fixed
-/interface/wireless/set wlan2 
+/interface/wireless/set wlan2 vlan-mode=use-tag vlan-id=10
+/interface/wireless/set wlan2 vlan-mode=use-tag vlan-id=20
+/interface/wireless/add name=Gast5GHz vlan-mode=use-tag security-profile=default disabled=no vlan-id=30 maseter
 ~~~
