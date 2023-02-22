@@ -147,5 +147,7 @@ interface/wireless/security-profiles/add authentication-types=wpa2-psk mode=dyna
 /interface/wireless/set wlan2 ssid=[irgendeine ssid] security-profile=mysecurtity band=5gHz-n/ac channel-width=20/40/80mHz-xxxx disabled=no country=austria tx-power=1 tx-power-mode=all-rates-fixed
 /interface/wireless/set wlan2 vlan-mode=use-tag vlan-id=10
 /interface/wireless/set wlan2 vlan-mode=use-tag vlan-id=20
-/interface/wireless/add name=Gast5GHz vlan-mode=use-tag security-profile=default disabled=no vlan-id=30 maseter
+/interface/wireless/add name=Gast5GHz vlan-mode=use-tag security-profile=default disabled=no vlan-id=30 maseter-interface=wlan2 mode=ap-bridge
+/interface/bridge/port/add bridge=br interface=Gast5GHz
+
 ~~~
