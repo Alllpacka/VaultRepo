@@ -124,13 +124,13 @@ set [ find default-name=wlan2 ] band=5ghz-n/ac disabled=no frequency=[einen frei
 ~~~migtroti
 /interface/bridge/add name=br
 /interface/bridge/port/add interface=ether1 pvid=10
-/interface/bridge/port/add interface=ether3
-/interface/bridge/port/add interface=ether4
-/interface/bridge/port/add interface=ether5
-/interface/bridge/port/add interface=wlan2
+/interface/bridge/port/add interface=ether3 pvid=10
+/interface/bridge/port/add interface=ether4 pvid=20
+/interface/bridge/port/add interface=ether5 pvid=30
+/interface/bridge/port/add interface=wlan2 pvid=
 /interface/bridge/vlan/add vlan-ids=10 tagged=br untagged=ether1,ether3 bridge=br
 /interface/bridge/vlan/add vlan-ids=20 tagged=br untagged=ether4 bridge=br
-/interface/bridge/vlan/add vlan-ids=30 tagged=br untagged=ether3 bridge=br
+/interface/bridge/vlan/add vlan-ids=30 tagged=br untagged=ether5 bridge=br
 /interface/vlan/add interface=br name=VL10 vlan-id=10
 /interface/vlan/add interface=br name=VL20 vlan-id=20
 /interface/vlan/add interface=br name=VL30 vlan-id=30
@@ -145,5 +145,5 @@ set [ find default-name=wlan2 ] band=5ghz-n/ac disabled=no frequency=[einen frei
 /ip/dhcp-server/add name=dhcp30 address-pool=pool30 disabled=no interface=VL30
 interface/wireless/security-profiles/add authentication-types=wpa2-psk mode=dynamic-keys name=mySecurity supplicant-identity=MikroTik pre-shared-key=1234567890
 /interface/wireless/set wlan2 ssid=[irgendeine ssid] security-profile=mysecurtity band=5gHz-n/ac channel-width=20/40/80mHz-xxxx disabled=no country=austria tx-power=1 tx-power-mode=all-rates-fixed
-
+/interface/wireless/set wlan2 
 ~~~
