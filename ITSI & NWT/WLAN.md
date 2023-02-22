@@ -136,5 +136,9 @@ set [ find default-name=wlan2 ] band=5ghz-n/ac disabled=no frequency=[einen frei
 /ip/pool/add name=pool10 ranges=192.168.10.10-192.168.10.100
 /ip/pool/add name=pool20 ranges=192.168.20.10-192.168.20.100
 /ip/pool/add name=pool30 ranges=192.168.30.10-192.168.30.100
-/ip/
+/ip/dhcp-server/add name=dhcp10 address-pool=pool10 disabled=no interface=VL10
+/ip/dhcp-server/add name=dhcp20 address-pool=pool20 disabled=no interface=VL20
+/ip/dhcp-server/add name=dhcp30 address-pool=pool30 disabled=no interface=VL30
+interface/wireless/security-profiles/add name=mysecurity
+
 ~~~
