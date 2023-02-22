@@ -128,9 +128,9 @@ set [ find default-name=wlan2 ] band=5ghz-n/ac disabled=no frequency=[einen frei
 /interface/bridge/port/add interface=ether4 pvid=20
 /interface/bridge/port/add interface=ether5 pvid=30
 /interface/bridge/port/add interface=wlan2 pvid=
-/interface/bridge/vlan/add vlan-ids=10 tagged=br untagged=ether1,ether3 bridge=br
-/interface/bridge/vlan/add vlan-ids=20 tagged=br untagged=ether4 bridge=br
-/interface/bridge/vlan/add vlan-ids=30 tagged=br untagged=ether5 bridge=br
+/interface/bridge/vlan/add vlan-ids=10 tagged=br,wlan2 untagged=ether1,ether3 bridge=br
+/interface/bridge/vlan/add vlan-ids=20 tagged=br,wlan2 untagged=ether4 bridge=br
+/interface/bridge/vlan/add vlan-ids=30 tagged=br,wlan2 untagged=ether5 bridge=br
 /interface/vlan/add interface=br name=VL10 vlan-id=10
 /interface/vlan/add interface=br name=VL20 vlan-id=20
 /interface/vlan/add interface=br name=VL30 vlan-id=30
