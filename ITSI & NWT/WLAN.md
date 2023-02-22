@@ -139,6 +139,7 @@ set [ find default-name=wlan2 ] band=5ghz-n/ac disabled=no frequency=[einen frei
 /ip/dhcp-server/add name=dhcp10 address-pool=pool10 disabled=no interface=VL10
 /ip/dhcp-server/add name=dhcp20 address-pool=pool20 disabled=no interface=VL20
 /ip/dhcp-server/add name=dhcp30 address-pool=pool30 disabled=no interface=VL30
-interface/wireless/security-profiles/add authentication-types=wpa2-psk mode=dynamic-keys name=mySecurity supplicant-identity=MikroTik pre-shared
+interface/wireless/security-profiles/add authentication-types=wpa2-psk mode=dynamic-keys name=mySecurity supplicant-identity=MikroTik pre-shared-key=1234567890
+/interface/wireless/set wlan2 ssid=[irgendeine ssid] security-profile=mysecurtity band=5gHz-n/ac
 
 ~~~
