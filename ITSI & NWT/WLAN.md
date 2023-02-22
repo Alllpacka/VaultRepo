@@ -128,6 +128,13 @@ set [ find default-name=wlan2 ] band=5ghz-n/ac disabled=no frequency=[einen frei
 /interface/bridge/vlan/add vlan-ids=20 tagged=br untagged=ether4 bridge=br
 /interface/bridge/vlan/add vlan-ids=30 tagged=br untagged=ether3 bridge=br
 /interface/vlan/add interface=br name=VL10 vlan-id=10
-/interface/vlan/add interface=br name=VL20 vlan-id=10
-/interface/vlan/add interface=br name=VL30 vlan-id=10
+/interface/vlan/add interface=br name=VL20 vlan-id=20
+/interface/vlan/add interface=br name=VL30 vlan-id=30
+/ip/address/add address=192.168.10.1/24 interface=VL10
+/ip/address/add address=192.168.20.1/24 interface=VL20
+/ip/address/add address=192.168.30.1/24 interface=VL30
+/ip/pool/add name=pool10 ranges=192.168.10.10-192.168.10.100
+/ip/pool/add name=pool20 ranges=192.168.20.10-192.168.20.100
+/ip/pool/add name=pool30 ranges=192.168.30.10-192.168.30.100
+/ip/
 ~~~
