@@ -153,6 +153,6 @@ interface/wireless/security-profiles/add authentication-types=wpa2-psk mode=dyna
 ^ist nicht fertig weil fischi zu schnell
 
 
-~~~route
-/interface/wireless/add ssid="Gast" securtiy-profile="open" master-interface=wlan2
+~~~migtodig
+/interface/wireless/add ssid="Gast" securtiy-profile="open" master-interface=wlan2 
 ~~~
