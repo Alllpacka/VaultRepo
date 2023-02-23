@@ -154,7 +154,10 @@ interface/wireless/security-profiles/add authentication-types=wpa2-psk mode=dyna
 
 
 ~~~migtodig
-/interface/wireless/add ssid="Gast" securtiy-profile="open" master-interface=wlan2 name="6"
+/interface/wireless/add ssid="Gast" securtiy-profile="open" master-interface=wlan2 name="GastWLAN"
+/interface/wireless/set wlan2 vlan-mode=use-tag vlan-id=100
+
+/interface/wireless/access-list/add/ mac-address="12.34.56.78.90.AB" vlan-mode=use-tag vlan-id
 ~~~
 
 VL 100: Mitarbeiter
