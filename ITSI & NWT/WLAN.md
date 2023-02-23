@@ -13,7 +13,7 @@ a, b, g, n = Basis-Standarts
 | a        | Mbit/s                      | 5GHz          |                         |                |
 | b        | 11Mbit/s                    | 2.4GHz        |                         |                |
 | g        | 54Mbit/s                    | 2.4GHz        |                         |                |
-| n        | 72Mbit/s                    | 2.4GHz & 5GHz | Kanalbündelung / MiMo   | WiFi4          |
+| n        | 72Mbit/s                    | 2.4GHz & 5GHz | Kanalbündelung / [MiMo](https://en.wikipedia.org/wiki/MIMO)   | WiFi4          |
 | ac       | 1.1Gbit/s                   | 5GHz          |                         | WiFi5          |
 | ax       | 1.1Gbit/s                   | 2.4GHz & 5GHz | andere Verfahren als ac | WiFi6          |
 | ax       |                             | 6GHz          |                         | WiFi6E         |
@@ -150,4 +150,4 @@ interface/wireless/security-profiles/add authentication-types=wpa2-psk mode=dyna
 /interface/wireless/add name=Gast5GHz vlan-mode=use-tag security-profile=default disabled=no vlan-id=30 maseter-interface=wlan2 mode=ap-bridge
 /interface/bridge/port/add bridge=br interface=Gast5GHz
 ~~~
-^ist nicht fertig aber fischi hat zu schnell getippt
+^ist nicht fertig weil fischi hat zu schnell getippt
