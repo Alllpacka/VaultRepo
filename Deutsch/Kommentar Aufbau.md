@@ -11,4 +11,4 @@
 |                                                                                              |                                                                                                                    |
 | Allgemein zu beachten:                                                                       | Ironie, Sarkasmus, viele Beispiele, Stilmittel, Fragen, Zynismus, Metaphern, förmlich schreiben, große Wortvarianz | 
 
-[Word]()
+[Word](ExtraFiles/Kommentar.docx)
