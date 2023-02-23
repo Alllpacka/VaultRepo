@@ -169,9 +169,4 @@ VL 200: Gast
 200: tagged: ether5,wlan2
 	   untagged: ether3,G
 
-![[Pasted image 20230223155532.png]]
-
-~~~migjdsjro
-/interface/bridge/add name=br
-/
-~~~
+![[Pasted image 20230223160703.png]]
