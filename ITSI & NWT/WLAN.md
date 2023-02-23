@@ -156,4 +156,9 @@ interface/wireless/security-profiles/add authentication-types=wpa2-psk mode=dyna
 ~~~migtodig
 /interface/wireless/add ssid="Gast" securtiy-profile="open" master-interface=wlan2 name="6"
 
+VL 100: Mitarbeiter
+VL 200: Gast
+
+100: tagged: ether5
+	untagged: ether1,ether2,wlan
 ~~~
