@@ -150,4 +150,4 @@ interface/wireless/security-profiles/add authentication-types=wpa2-psk mode=dyna
 /interface/wireless/add name=Gast5GHz vlan-mode=use-tag security-profile=default disabled=no vlan-id=30 maseter-interface=wlan2 mode=ap-bridge
 /interface/bridge/port/add bridge=br interface=Gast5GHz
 ~~~
-^ist nicht fertig weil fischi hat zu schnell getippt
+^ist nicht fertig weil fischi zu schnell
