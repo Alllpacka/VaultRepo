@@ -154,5 +154,6 @@ interface/wireless/security-profiles/add authentication-types=wpa2-psk mode=dyna
 
 
 ~~~migtodig
-/interface/wireless/add ssid="Gast" securtiy-profile="open" master-interface=wlan2 
+/interface/wireless/add ssid="Gast" securtiy-profile="open" master-interface=wlan2 name="6"
+
 ~~~
