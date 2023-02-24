@@ -175,5 +175,33 @@ VL 200: Gast
 ~~~migrodti
 /interface wireless 
 set [ find default-name=wlan1 ] ssid=MikroTik 
-set [ find default-name=wlan2 ] disabled=no mode=ap-bridge ssid=MA vlan-id=100 vlan-mode=use-tag /interface vlan add interface=br name=vlan100 vlan-id=100 add interface=br name=vlan200 vlan-id=200 /interface wireless add disabled=no mac-address=0A:55:31:9D:03:8F master-interface=wlan2 name=gast ssid=gast vlan-id=200 vlan-mode=\ use-tag /interface wireless security-profiles set [ find default=yes ] supplicant-identity=MikroTik /ip pool add name=pool100 ranges=10.0.100.10-10.0.100.50 add name=pool200 ranges=10.0.200.10-10.0.200.50 /ip dhcp-server add address-pool=pool100 interface=vlan100 name=dhcp100 add address-pool=pool200 interface=vlan200 name=dhcp200 /interface bridge port add bridge=br interface=ether1 pvid=100 add bridge=br interface=ether2 pvid=100 add bridge=br interface=ether3 pvid=200 add bridge=br interface=ether5 add bridge=br interface=wlan2 add bridge=br interface=gast /interface bridge vlan add bridge=br tagged=ether5,wlan2,gast,br untagged=ether1,ether2 vlan-ids=100 add bridge=br tagged=ether5,wlan2,gast,br untagged=ether3 vlan-ids=200 /interface wireless access-list add interface=wlan2 mac-address=70:66:55:4D:E2:6D vlan-id=200 vlan-mode=use-tag /ip address add address=10.0.100.1/24 interface=vlan100 network=10.0.100.0 add address=10.0.200.1/24 interface=vlan200 network=10.0.200.0
+set [ find default-name=wlan2 ] disabled=no mode=ap-bridge ssid=MA vlan-id=100 vlan-mode=use-tag /interface vlan add
+interface=br name=vlan100 vlan-id=100 add
+interface=br name=vlan200 vlan-id=200 
+/interface wireless 
+add disabled=no mac-address=0A:55:31:9D:03:8F master-interface=wlan2 name=gast ssid=gast vlan-id=200 vlan-mode=\ use-tag 
+/interface wireless security-profiles 
+set [ find default=yes ] supplicant-identity=MikroTik 
+
+/ip pool 
+add name=pool100 ranges=10.0.100.10-10.0.100.50 
+add name=pool200 ranges=10.0.200.10-10.0.200.50 
+
+/ip dhcp-server 
+add address-pool=pool100 interface=vlan100 name=dhcp100 add address-pool=pool200 interface=vlan200 name=dhcp200 
+
+/interface bridge port 
+add bridge=br interface=ether1 pvid=100 
+add bridge=br interface=ether2 pvid=100 
+add bridge=br interface=ether3 pvid=200 
+add bridge=br interface=ether5 
+add bridge=br interface=wlan2 
+add bridge=br interface=gast /interface bridge vlan add bridge=br tagged=ether5,wlan2,gast,br untagged=ether1,ether2 vlan-ids=100 
+add bridge=br tagged=ether5,wlan2,gast,br untagged=ether3 vlan-ids=200 
+
+/interface wireless access-list 
+add interface=wlan2 mac-address=70:66:55:4D:E2:6D vlan-id=200 vlan-mode=use-tag 
+/ip address 
+add address=10.0.100.1/24 interface=vlan100 network=10.0.100.0 
+add address=10.0.200.1/24 interface=vlan200 network=10.0.200.0
 ~~~
