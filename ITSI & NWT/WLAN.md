@@ -155,6 +155,7 @@ interface/wireless/security-profiles/add authentication-types=wpa2-psk mode=dyna
 
 ~~~migtodig
 /interface/wireless/add ssid=Gast securtiy-profile=open master-interface=wlan2 name=GastWLAN
+
 /interface/wireless/set wlan2 vlan-mode=use-tag vlan-id=100 ssid=MA
 
 /interface/wireless/access-list/add/ mac-address=12.34.56.78.90.AB vlan-mode=use-tag vlan-id=200
@@ -175,11 +176,15 @@ VL 200: Gast
 ~~~migrodti
 /interface wireless 
 set [ find default-name=wlan1 ] ssid=MikroTik 
-set [ find default-name=wlan2 ] disabled=no mode=ap-bridge ssid=MA vlan-id=100 vlan-mode=use-tag /interface vlan add
+set [ find default-name=wlan2 ] disabled=no mode=ap-bridge ssid=MA vlan-id=100 vlan-mode=use-tag 
+
+/interface vlan add
 interface=br name=vlan100 vlan-id=100 add
 interface=br name=vlan200 vlan-id=200 
+
 /interface wireless 
 add disabled=no mac-address=0A:55:31:9D:03:8F master-interface=wlan2 name=gast ssid=gast vlan-id=200 vlan-mode=\ use-tag 
+
 /interface wireless security-profiles 
 set [ find default=yes ] supplicant-identity=MikroTik 
 
@@ -201,6 +206,7 @@ add bridge=br tagged=ether5,wlan2,gast,br untagged=ether3 vlan-ids=200
 
 /interface wireless access-list 
 add interface=wlan2 mac-address=70:66:55:4D:E2:6D vlan-id=200 vlan-mode=use-tag 
+
 /ip address 
 add address=10.0.100.1/24 interface=vlan100 network=10.0.100.0 
 add address=10.0.200.1/24 interface=vlan200 network=10.0.200.0
