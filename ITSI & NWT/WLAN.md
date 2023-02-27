@@ -217,5 +217,11 @@ add address=10.0.200.1/24 interface=vlan200 network=10.0.200.0
 /interfac/bridge/add name=br
 /interface/bridge/port/
 add interface=ether1 bridge=br
-add interface=ether2 bridge=br pvid=
+add interface=ether2 bridge=br pvid=20
+add interface=etehr3 bridge=br pvid=30
+add interface=ether4 bridge=br pvid=10
+add interface=ether5 bridge=br
+/interface/bridge/vlan/
+add vlan-ids=10 tagged=br,ether1,ether5 untagged=ether4
+add vlan-ids=20 tagged
 ~~~
