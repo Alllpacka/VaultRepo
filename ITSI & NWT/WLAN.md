@@ -252,5 +252,8 @@ add interface=ether1
 add interface=ether3 pvid=20
 add interface=ether4 pvid=20
 add interface=ether5 pvid=30
-/interfac/wireless/
+/interface/wireless/security-profile/
+add name=SecMitarbeiter mode=dynamic-keys authentication-types=wpa2-psk wpa2-pre-shared-key=1234567890
+/interface/wireless
+set mode=ap-bridge security-profile=SecMitarbeiter
 ~~~
