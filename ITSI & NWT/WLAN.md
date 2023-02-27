@@ -193,7 +193,8 @@ add name=pool100 ranges=10.0.100.10-10.0.100.50
 add name=pool200 ranges=10.0.200.10-10.0.200.50 
 
 /ip dhcp-server 
-add address-pool=pool100 interface=vlan100 name=dhcp100 add address-pool=pool200 interface=vlan200 name=dhcp200 
+add address-pool=pool100 interface=vlan100 name=dhcp100 
+add address-pool=pool200 interface=vlan200 name=dhcp200 
 
 /interface bridge port 
 add bridge=br interface=ether1 pvid=100 
@@ -230,5 +231,11 @@ add address=192.168.10.1/24 interface=vl10
 add address=192.168.20.1/24 interface=vl20
 add address=192.168.30.1/24 interface=vl30
 /ip/pool/
-add 
+add ranges=192.168.10.10-192.168.10.50 name=pool10
+add ranges=192.168.20.10-192.168.20.50 name=pool20
+add ranges=192.168.30.10-192.168.30.50 name=pool30
+/ip/dhcp-server/
+add disabled=no interface=vl10 name=dhcp10 address-pool=pool10
+add disabled=no interface=vl10 name=dhcp10 address-pool=pool10
+add disabled=no interface=vl10 name=dhcp10 address-pool=pool10
 ~~~
