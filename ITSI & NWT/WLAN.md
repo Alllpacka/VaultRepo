@@ -240,13 +240,17 @@ add disabled=no interface=vl20 name=dhcp20 address-pool=pool20
 add disabled=no interface=vl30 name=dhcp30 address-pool=pool30
 ~~~
 
+
+#### probably bullshit
 ~~~mighrtlero
 /system/identity/
 set name=AP1
 /interface/bridge/
 add name=br
 /interface/bridge/vlan/
-add vlan-ids=10 tagged=ether1,wlan2,wlan1 untagged=ether5 bridge=br
+add vlan-ids=10 tagged=ether1,wlan2,wlan1,Gast24,Gast5 untagged=ether5 bridge=br
+add vlan-ids=20 tagged=ether1,wlan2,wlan1,Gast24,Gast5 untagged=ether5 bridge=br
+add vlan-ids=30 tagged=ether1,wlan2,wlan1,Gast24,Gast5 untagged=ether5 bridge=br
 /interface/bridge/port/
 add interface=ether1
 add interface=ether3 pvid=20
