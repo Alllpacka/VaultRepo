@@ -6,11 +6,15 @@
 |     |       |
 
 ~~~ps1
-$myTable = @{}
+$myTable=@{}
 
 $myTable.add("key","value")
 
 $myTable["key"]
 
-$myTable
+$myTable["key"]="newValue"
+
+foreach($key in $myTable.Keys) {
+	echo $myTable[$key]
+}
 ~~~
