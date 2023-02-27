@@ -255,5 +255,6 @@ add interface=ether5 pvid=30
 /interface/wireless/security-profile/
 add name=SecMitarbeiter mode=dynamic-keys authentication-types=wpa2-psk wpa2-pre-shared-key=1234567890
 /interface/wireless
-set mode=ap-bridge security-profile=SecMitarbeiter
+set mode=ap-bridge security-profile=SecMitarbeiter band=2ghz-g/n disabled0no vlan-mode=use-tag vlan-id=20 ssid=Mitarbeiter wlan2
+set mode=ap-bridge security-profile=Gast band=2ghz-g/n disabled=no vlan-mode=use-tag vlan-id=10 ssid=Gast wlan1
 ~~~
