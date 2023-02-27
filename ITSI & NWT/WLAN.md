@@ -211,3 +211,8 @@ add interface=wlan2 mac-address=70:66:55:4D:E2:6D vlan-id=200 vlan-mode=use-tag
 add address=10.0.100.1/24 interface=vlan100 network=10.0.100.0 
 add address=10.0.200.1/24 interface=vlan200 network=10.0.200.0
 ~~~
+
+~~~mighald
+/system/identity/set name=Router1
+
+~~~
