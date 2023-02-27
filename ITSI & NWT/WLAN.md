@@ -214,5 +214,8 @@ add address=10.0.200.1/24 interface=vlan200 network=10.0.200.0
 
 ~~~mighald
 /system/identity/set name=Router1
-
+/interfac/bridge/add name=br
+/interface/bridge/port/
+add interface=ether1 bridge=br
+add interface=ether2 bridge=br pvid=
 ~~~
