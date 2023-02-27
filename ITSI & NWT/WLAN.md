@@ -239,3 +239,14 @@ add disabled=no interface=vl10 name=dhcp10 address-pool=pool10
 add disabled=no interface=vl20 name=dhcp20 address-pool=pool20
 add disabled=no interface=vl30 name=dhcp30 address-pool=pool30
 ~~~
+
+~~~mighrtlero
+/system/identity/
+set name=AP1
+/interface/bridge/
+add name=br
+/interface/bridge/vlan/
+add vlan-ids=10 tagged=ether1,wlan2,wlan1 untagged=ether5 bridge=br
+/interface/bridge/port/
+add interface=ether
+~~~
