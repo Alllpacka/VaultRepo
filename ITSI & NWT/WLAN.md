@@ -213,7 +213,7 @@ add address=10.0.100.1/24 interface=vlan100 network=10.0.100.0
 add address=10.0.200.1/24 interface=vlan200 network=10.0.200.0
 ~~~
 
-~~~mighald
+~~~migrgoda
 /system/identity/set name=Router1
 /interfac/bridge/add name=br
 /interface/bridge/port/
@@ -236,6 +236,6 @@ add ranges=192.168.20.10-192.168.20.50 name=pool20
 add ranges=192.168.30.10-192.168.30.50 name=pool30
 /ip/dhcp-server/
 add disabled=no interface=vl10 name=dhcp10 address-pool=pool10
-add disabled=no interface=vl10 name=dhcp10 address-pool=pool10
-add disabled=no interface=vl10 name=dhcp10 address-pool=pool10
+add disabled=no interface=vl20 name=dhcp20 address-pool=pool20
+add disabled=no interface=vl30 name=dhcp30 address-pool=pool30
 ~~~
