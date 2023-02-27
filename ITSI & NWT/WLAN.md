@@ -223,5 +223,12 @@ add interface=ether4 bridge=br pvid=10
 add interface=ether5 bridge=br
 /interface/bridge/vlan/
 add vlan-ids=10 tagged=br,ether1,ether5 untagged=ether4
-add vlan-ids=20 tagged
+add vlan-ids=20 tagged=br,ether1,ether5 untagged=ether2
+add vlan-ids=30 tagged=br,ether1,ether5 untagged=ether3
+/ip/address/
+add address=192.168.10.1/24 interface=vl10
+add address=192.168.20.1/24 interface=vl20
+add address=192.168.30.1/24 interface=vl30
+/ip/pool/
+add 
 ~~~
