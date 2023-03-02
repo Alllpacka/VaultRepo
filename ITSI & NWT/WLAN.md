@@ -285,19 +285,22 @@ add address-pool=pool30 interface=VL30 name=dhcp30
 
 /interface bridge port
 add bridge=br interface=ether1
+add bridge=br interface=ether2 pvid=20
 add bridge=br interface=ether3 pvid=30
 add bridge=br interface=ether4 pvid=10
 add bridge=br interface=ether5
-add bridge=br interface=ether2 pvid=20
+
 
 /interface bridge vlan
 add bridge=br tagged=br,ether1,ether5 untagged=ether4 vlan-ids=10
 add bridge=br tagged=br,ether1,ether5 untagged=ether3 vlan-ids=30
 add bridge=br tagged=br,ether1,ether5 untagged=ether2 vlan-ids=20
+
 /ip address
 add address=192.168.10.1/24 interface=VL10 network=192.168.10.0
 add address=192.168.20.1/24 interface=VL20 network=192.168.20.0
 add address=192.168.30.1/24 interface=VL30 network=192.168.30.0
+
 /system identity
 set name=Router1
 ~~~
