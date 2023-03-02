@@ -263,3 +263,41 @@ add mode=ap-bridge security-profile=SecMitarbeiter band=2ghz-g/n disabled0no vla
 add mode=ap-bridge security-profile=Gast band=5ghz-g/n disabled=no vlan-mode=use-tag vlan-id=20 ssid=Gast5 master-interface=wlan1
 add mode=ap-bridge security-profile=Gast band=2.4ghz-g/n disabled=no vlan-mode=use-tag vlan-id=20 ssid=Gast24 master-interface=wlan1
 ~~~
+
+~~~migroti
+/interface bridge
+add name=br vlan-filtering=yes
+
+/interface vlan
+add interface=br name=VL10 vlan-id=10
+add interface=br name=VL20 vlan-id=20
+add interface=br name=VL30 vlan-id=30
+
+/ip pool
+add name=pool10 ranges=192.168.10.10-192.168.10.50
+add name=pool20 ranges=192.168.20.10-192.168.20.50
+add name=pool30 ranges=192.168.30.10-192.168.30.50
+
+/ip dhcp-server
+add address-pool=pool10 interface=VL10 name=dhcp10
+add address-pool=pool20 interface=VL20 name=dhcp20
+add address-pool=pool30 interface=VL30 name=dhcp30
+
+/interface bridge port
+add bridge=br interface=ether1
+add bridge=br interface=ether3 pvid=30
+add bridge=br interface=ether4 pvid=10
+add bridge=br interface=ether5
+add bridge=br interface=ether2 pvid=20
+
+/interface bridge vlan
+add bridge=br tagged=br,ether1,ether5 untagged=ether4 vlan-ids=10
+add bridge=br tagged=br,ether1,ether5 untagged=ether3 vlan-ids=30
+add bridge=br tagged=br,ether1,ether5 untagged=ether2 vlan-ids=20
+/ip address
+add address=192.168.10.1/24 interface=VL10 network=192.168.10.0
+add address=192.168.20.1/24 interface=VL20 network=192.168.20.0
+add address=192.168.30.1/24 interface=VL30 network=192.168.30.0
+/system identity
+set name=Router1
+~~~
