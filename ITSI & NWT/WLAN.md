@@ -241,7 +241,7 @@ add disabled=no interface=vl30 name=dhcp30 address-pool=pool30
 ~~~
 
 
-#### probably bullshit
+#### bullshit
 ~~~mighrtlero
 /system/identity/
 set name=AP1
