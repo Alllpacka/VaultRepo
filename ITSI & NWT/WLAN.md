@@ -304,3 +304,7 @@ add address=192.168.30.1/24 interface=VL30 network=192.168.30.0
 /system identity
 set name=Router1
 ~~~
+
+## VLAN-Zuweisung
++ Port-VLAN
++ Dynamische 
