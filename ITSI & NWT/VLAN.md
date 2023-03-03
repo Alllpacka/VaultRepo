@@ -269,3 +269,10 @@ nicht das selbe wie:
 ~~~mikrotik
 interface/bridge/vlan
 ~~~
+
+## VLAN-Zuweisung
++ Port-VLAN
++ Dynamisch
+	+ MAC-Adresse
+	+ Benutzerabhängig
+	+ ...

@@ -305,10 +305,5 @@ add address=192.168.30.1/24 interface=VL30 network=192.168.30.0
 set name=Router1
 ~~~
 
-## VLAN-Zuweisung
-+ Port-VLAN
-+ Dynamisch
-	+ MAC-Adresse
-	+ Benutzerabhängig
-	+ ...
-+ 
+
+
