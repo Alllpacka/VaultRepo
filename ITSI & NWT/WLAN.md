@@ -307,4 +307,8 @@ set name=Router1
 
 ## VLAN-Zuweisung
 + Port-VLAN
-+ Dynamische 
++ Dynamisch
+	+ MAC-Adresse
+	+ Benutzerabhängig
+	+ ...
++ 
