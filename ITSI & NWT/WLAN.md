@@ -318,6 +318,7 @@ Router 1:
 	+ Security-Profile
 	+ WLAN-Interface Einstellungen
 	+ DHCP-Client
+	+ Masqerade-Regeln
 
 AP 1:
 + Bridge
