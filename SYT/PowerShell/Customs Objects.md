@@ -11,3 +11,7 @@ $scores[$fullName].countOfScores++
 Get-Member (gm) listet alle Eigenschaften und Methoden auf
 
 ~~~ps1
+$myObject = [PSCustom]
+
+Get-Member -InputObject $myObject
+~~~
