@@ -29,5 +29,7 @@ Get-Member -InputObject $myObject
 
 Add-Member -InputObject $myObject $myMethod
 
+"Durchschnitt" + $myObject.getAverage
+
 Get-Member -InputObject $myObject
 ~~~
