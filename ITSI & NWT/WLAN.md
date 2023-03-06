@@ -305,4 +305,5 @@ set name=Router1
 ~~~
 
 
-
+Router 1:
++ Bridge (802.1Q akitvier)
