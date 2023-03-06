@@ -306,4 +306,10 @@ set name=Router1
 
 
 Router 1:
-+ Bridge (802.1Q akitvier)
++ Bridge (802.1Q akitvieren)
+	+ Ports hinzugfügen (interface, Port-Vlan)
+	+ VLANS hinzufügen (ID, tagged, untagged)
++ DHCP-Server (für jedes Subnet) (Interface)
+	+ IP-Pools
+	+ DHCP-Optionen
++ VLAN-Router-Interfaces
