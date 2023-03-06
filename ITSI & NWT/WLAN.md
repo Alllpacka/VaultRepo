@@ -313,3 +313,14 @@ Router 1:
 	+ IP-Pools
 	+ DHCP-Optionen
 + VLAN-Router-Interfaces
++ IP-Adressen
++ WLAN Verbindung zu HTLHL
+	+ Security-Profile
+	+ WLAN-Interface Einstellungen
+	+ DHCP-Client
+
+AP 1:
++ Bridge
++ WLAN-Einstellungen
+	+ Security-Profiles (Mode, Authentication)
+	+ Interface-Einstellungen (Mode, SSID, Kanäle)
