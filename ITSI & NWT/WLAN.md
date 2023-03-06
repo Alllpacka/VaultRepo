@@ -290,7 +290,6 @@ add bridge=br interface=ether3 pvid=30
 add bridge=br interface=ether4 pvid=10
 add bridge=br interface=ether5
 
-
 /interface bridge vlan
 add bridge=br tagged=br,ether1,ether5 untagged=ether4 vlan-ids=10
 add bridge=br tagged=br,ether1,ether5 untagged=ether3 vlan-ids=30
