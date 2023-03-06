@@ -5,4 +5,5 @@ $scores.Add($fullName,[PSCustomObject]@{`
 })
 
 $scores[$fullName].somOfScores += $entry.score
+$scores[$fullName].countOfScores++
 ~~~
