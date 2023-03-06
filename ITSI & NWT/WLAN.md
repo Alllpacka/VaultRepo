@@ -323,4 +323,4 @@ AP 1:
 + Bridge
 + WLAN-Einstellungen
 	+ Security-Profiles (Mode, Authentication)
-	+ Interface-Einstellungen (Mode, SSID, Kanäle)
+	+ Interface-Einstellungen (Mode, SSID, Kanäle, Land, Security-Profile, VLAN)
