@@ -11,7 +11,17 @@ $scores[$fullName].countOfScores++
 Get-Member (gm) listet alle Eigenschaften und Methoden auf
 
 ~~~ps1
-$myObject = [PSCustom]
+$myMethod = {`
+	MemberType = "ScriptMethod"`
+	Name = "getAverage"`
+	Value =
+}
+
+
+$myObject = [PSCustomObject]@{`
+	sumOfScores = 20`
+	countOfScores = 5`
+}
 
 Get-Member -InputObject $myObject
 ~~~
