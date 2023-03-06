@@ -14,7 +14,9 @@ Get-Member (gm) listet alle Eigenschaften und Methoden auf
 $myMethod = {`
 	MemberType = "ScriptMethod"`
 	Name = "getAverage"`
-	Value =
+	Value = {`
+		return ($this.sumOfScores / $this.countOfScores)`
+	}`
 }
 
 
@@ -22,6 +24,10 @@ $myObject = [PSCustomObject]@{`
 	sumOfScores = 20`
 	countOfScores = 5`
 }
+
+Get-Member -InputObject $myObject
+
+Add-Member -InputObject $myObject $myMethod
 
 Get-Member -InputObject $myObject
 ~~~
