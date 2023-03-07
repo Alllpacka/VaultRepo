@@ -251,3 +251,8 @@ n C_H_12O_6 -> \[C_6H_10O_5]\_n + n H_2O
 lipophil ^= hydrophob
 lipophob ^= hydrophil
 
+
+# Penicilin
+Nosokomiale Infektion
+Hospitalsmuskeime
+MRSA (Methicillin-resistenter Staphylococcus aureus**)
