@@ -290,7 +290,6 @@ add bridge=br interface=ether3 pvid=30
 add bridge=br interface=ether4 pvid=10
 add bridge=br interface=ether5
 
-
 /interface bridge vlan
 add bridge=br tagged=br,ether1,ether5 untagged=ether4 vlan-ids=10
 add bridge=br tagged=br,ether1,ether5 untagged=ether3 vlan-ids=30
@@ -306,4 +305,23 @@ set name=Router1
 ~~~
 
 
+Router 1:
++ Bridge (802.1Q akitvieren)
+	+ Ports hinzugfügen (interface, Port-Vlan)
+	+ VLANS hinzufügen (ID, tagged, untagged)
++ DHCP-Server (für jedes Subnet) (Interface)
+	+ IP-Pools
+	+ DHCP-Optionen
++ VLAN-Router-Interfaces
++ IP-Adressen
++ WLAN Verbindung zu HTLHL
+	+ Security-Profile
+	+ WLAN-Interface Einstellungen
+	+ DHCP-Client
+	+ Masqerade-Regeln
 
+AP 1:
++ Bridge
++ WLAN-Einstellungen
+	+ Security-Profiles (Mode, Authentication)
+	+ Interface-Einstellungen (Mode, SSID, Kanäle, Land, Security-Profile, VLAN)
