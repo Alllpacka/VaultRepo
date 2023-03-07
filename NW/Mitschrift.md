@@ -255,4 +255,4 @@ lipophob ^= hydrophil
 # Penicilin
 Nosokomiale Infektion
 Hospitalsmuskeime
-MRSA (Methicillin-resistenter Staphylococcus aureus**)
+MRSA (Methicillin-resistenter Staphylococcus aureus)
