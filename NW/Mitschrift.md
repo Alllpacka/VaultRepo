@@ -261,3 +261,9 @@ MRSA (Methicillin-resistenter Staphylococcus aureus)
 Metastasen (stufe 3)
 
 Sezernieren
+
+# Herz- und Kreisauferkrankung
+
+Transfette
+Rauchen
+Infektionen
