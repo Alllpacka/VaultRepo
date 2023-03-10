@@ -305,7 +305,7 @@ set name=Router1
 ~~~
 
 
-Router 1:
+Router 1: 
 + Bridge (802.1Q akitvieren)
 	+ Ports hinzugfügen (interface, Port-Vlan)
 	+ VLANS hinzufügen (ID, tagged, untagged)
