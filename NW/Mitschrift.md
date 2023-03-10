@@ -256,3 +256,8 @@ lipophob ^= hydrophil
 Nosokomiale Infektion
 Hospitalsmuskeime
 MRSA (Methicillin-resistenter Staphylococcus aureus)
+
+# Krebs
+Metastasen (stufe 3)
+
+Sezernieren
