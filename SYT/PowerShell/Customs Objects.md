@@ -52,5 +52,12 @@ $method = @{
 
 AddMember -InputObject $a @method
 
+$a.getFlaeche()
+~~~
 
+~~~ps1
+class Recheck {
+[float] laenge
+[float] breite
+}
 ~~~
