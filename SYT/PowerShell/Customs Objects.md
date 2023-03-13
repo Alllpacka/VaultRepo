@@ -40,5 +40,5 @@ laenge = 3
 breite = 5
 }
 
-$b = @(3,5) #[C]:Länge
+$b = @(3,5) #[0]: Länge;[1]: Breite
 ~~~
