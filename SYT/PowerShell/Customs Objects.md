@@ -59,5 +59,12 @@ $a.getFlaeche()
 class Recheck {
 [float] laenge
 [float] breite
+
+Rechteck([float] laenge, [float] breite) {
+	$this.laenge = $laenge
+	$this.breite = $breite
+	}
+
+[fl]
 }
 ~~~
