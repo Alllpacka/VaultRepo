@@ -65,6 +65,10 @@ Rechteck([float] laenge, [float] breite) {
 	$this.breite = $breite
 	}
 
-[fl]
+[float] getFlaeche() {
+		return ($this.laenge * $this.breite)
+	}
 }
+
+[Rechteck] :: nee(3,5)
 ~~~
