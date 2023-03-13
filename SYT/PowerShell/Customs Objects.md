@@ -33,3 +33,10 @@ Add-Member -InputObject $myObject $myMethod
 
 Get-Member -InputObject $myObject
 ~~~
+
+~~~ps1
+$a[PSCustomObject]@{
+laenge = 3
+breite = 5
+}
+~~~
