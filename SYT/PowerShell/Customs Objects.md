@@ -35,8 +35,10 @@ Get-Member -InputObject $myObject
 ~~~
 
 ~~~ps1
-$a[PSCustomObject]@{
+$a = [PSCustomObject]@{
 laenge = 3
 breite = 5
 }
+
+$b = @(3,5) #[C]:Länge
 ~~~
