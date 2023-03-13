@@ -41,4 +41,12 @@ breite = 5
 }
 
 $b = @(3,5) #[0]: Länge;[1]: Breite
+
+$method = @{
+	MemberType = "ScriptMethod"
+	Name = "getFlaeche"
+	Value = {
+		return 
+	}
+}
 ~~~
