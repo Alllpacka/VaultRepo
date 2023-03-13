@@ -57,10 +57,10 @@ $a.getFlaeche()
 
 ~~~ps1
 class Recheck {
-[float] laenge
-[float] breite
+[float] $laenge
+[float] $breite
 
-Rechteck([float] laenge, [float] breite) {
+Rechteck([float] $laenge, [float] $breite) {
 	$this.laenge = $laenge
 	$this.breite = $breite
 	}
@@ -70,5 +70,5 @@ Rechteck([float] laenge, [float] breite) {
 	}
 }
 
-[Rechteck] :: nee(3,5)
+[Rechteck] :: new(3,5)
 ~~~
