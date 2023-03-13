@@ -46,7 +46,11 @@ $method = @{
 	MemberType = "ScriptMethod"
 	Name = "getFlaeche"
 	Value = {
-		return 
+		return ($this.laenge * $this.breite)
 	}
 }
+
+AddMember -InputObject $a @method
+
+
 ~~~
