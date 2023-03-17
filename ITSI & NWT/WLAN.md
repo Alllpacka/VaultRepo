@@ -327,3 +327,6 @@ AP 1:
 	+ Interface-Einstellungen (Mode, SSID, Kanäle, Land, Security-Profile, VLAN)
 
 
+### kanalbreiten
+![[Unlicensed-Spectrum-Compared-89235061.png]]
+
