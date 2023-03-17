@@ -330,3 +330,6 @@ AP 1:
 ### kanalbreiten
 ![[Unlicensed-Spectrum-Compared-89235061.png]]
 
+
+
+### 
