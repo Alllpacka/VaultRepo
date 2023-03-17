@@ -335,3 +335,4 @@ AP 1:
 ### WLAN Controller
 #### CAPsMAN (Controlled Accsess Point System Manager)
 
+![[Pasted image 20230317084131.png]]
