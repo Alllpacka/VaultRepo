@@ -19,7 +19,7 @@ FQDN -> Fully Qualified Domain Name
 <u>Resolver</u> z.B.: 172.16.1.1
 [13 Root-NS (Name Server)](https://root-servers.org/)
 
-BGP ->Border Gateway Protocol
+BGP -> Border Gateway Protocol
 
 <u>Verwaltung einer Domain</u>
 
