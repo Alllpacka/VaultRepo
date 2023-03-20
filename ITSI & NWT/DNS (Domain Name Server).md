@@ -42,4 +42,4 @@ mailgw.htl-hl.ac.at
   ||
   29.204.170.193.in-addr.arpa
 
-![08-dns.pdf]
+![DNS PDF](08-dns.pdf)
