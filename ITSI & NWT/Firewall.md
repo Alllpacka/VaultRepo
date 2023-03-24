@@ -1,0 +1,4 @@
+- personal FW ("software FW") 
+	- oft Teil des OS
+	- durch User selbst verwaltbar
+	- 
