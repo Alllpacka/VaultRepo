@@ -4,5 +4,5 @@
 	- schützt auch gegenüber anderen Hosts im selben Netz
 	- läuft am eigenen Host
 		- Rechenleistung
-		- andere Prozesse
-		- 
+		- andere Prozesse können Einfluss nehmen
+- dedicated FW ("hardware/network/corprate/... FW")
