@@ -18,4 +18,5 @@ Firewalls filtern nach
 + adressen des Netwerk (Internet) Layers (IP)
 + adressen + Protokolle des Transport Layers (TCP, UDP, Protnummern)
 + "deep packet inspection"
++ statefull inspection
 + 
