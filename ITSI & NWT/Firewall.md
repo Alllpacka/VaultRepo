@@ -15,4 +15,7 @@
 *!***canceln sich nicht aus****!*
 
 Firewalls filtern nach
-+ adressen des Netz
++ adressen des Netwerk (Internet) Layers (IP)
++ adressen + Protokolle des Transport Layers (TCP, UDP, Protnummern)
++ "deep packet inspection"
++ 
