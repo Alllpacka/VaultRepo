@@ -8,4 +8,8 @@
 - dedicated FW ("hardware/network/corprate/... FW")
 	- eigene Hardware, oft ein Router
 	- nur durch speziellen Zugriff verwaltbar
-	- zentrale 
+	- zentrale durchnetzbarkeit von Regeln
+	- eigene Hardware -> eigene Rechenleistung
+	- mehr Sicherheit
+
+!***canceln 
