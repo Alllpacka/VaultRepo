@@ -3,5 +3,6 @@
 	- durch User selbst verwaltbar
 	- schützt auch gegenüber anderen Hosts im selben Netz
 	- läuft am eigenen Host
-		- leistung
+		- Rechenleistung
+		- andere Prozesse
 		- 
