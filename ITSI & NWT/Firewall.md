@@ -6,3 +6,6 @@
 		- Rechenleistung
 		- andere Prozesse können Einfluss nehmen
 - dedicated FW ("hardware/network/corprate/... FW")
+	- eigene Hardware, oft ein Router
+	- nur durch speziellen Zugriff verwaltbar
+	- zentrale 
