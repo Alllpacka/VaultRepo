@@ -19,4 +19,3 @@ Firewalls filtern nach
 + adressen + Protokolle des Transport Layers (TCP, UDP, Protnummern)
 + "deep packet inspection"
 + statefull inspection
-+ 
