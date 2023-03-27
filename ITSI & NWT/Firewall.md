@@ -20,7 +20,9 @@ Firewalls filtern nach
 + "deep packet inspection"
 + statefull inspection
 
+## DMZ
 
+**D**e**m**ilitarisierte **Z**one
 
 
 
