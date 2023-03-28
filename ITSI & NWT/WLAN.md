@@ -325,3 +325,14 @@ AP 1:
 + WLAN-Einstellungen
 	+ Security-Profiles (Mode, Authentication)
 	+ Interface-Einstellungen (Mode, SSID, Kanäle, Land, Security-Profile, VLAN)
+
+
+### kanalbreiten
+![[Unlicensed-Spectrum-Compared-89235061.png]]
+
+
+
+### WLAN Controller
+#### CAPsMAN (Controlled Accsess Point System Manager)
+
+![[Pasted image 20230317084131.png]]

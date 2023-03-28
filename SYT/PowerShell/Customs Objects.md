@@ -33,3 +33,42 @@ Add-Member -InputObject $myObject $myMethod
 
 Get-Member -InputObject $myObject
 ~~~
+
+~~~ps1
+$a = [PSCustomObject]@{
+laenge = 3
+breite = 5
+}
+
+$b = @(3,5) #[0]: Länge;[1]: Breite
+
+$method = @{
+	MemberType = "ScriptMethod"
+	Name = "getFlaeche"
+	Value = {
+		return ($this.laenge * $this.breite)
+	}
+}
+
+AddMember -InputObject $a @method
+
+$a.getFlaeche()
+~~~
+
+~~~ps1
+class Recheck {
+[float] $laenge
+[float] $breite
+
+Rechteck([float] $laenge, [float] $breite) {
+	$this.laenge = $laenge
+	$this.breite = $breite
+	}
+
+[float] getFlaeche() {
+		return ($this.laenge * $this.breite)
+	}
+}
+
+[Rechteck] :: new(3,5)
+~~~
