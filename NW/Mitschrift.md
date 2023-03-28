@@ -267,3 +267,10 @@ Sezernieren
 Transfette
 Rauchen
 Infektionen
+
+
+# Diabetes
+
+Insolin -> Glucose
+Glucose: 100mgGlucose/dlBlut
+
