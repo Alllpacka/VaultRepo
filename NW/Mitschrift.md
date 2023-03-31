@@ -274,3 +274,7 @@ Infektionen
 Insolin -> Glucose
 Glucose: 100mgGlucose/dlBlut
 
+# Vitamine
+
+Rhodopsin
+Aus Karotten und Orangen => Vitamin A gewinnen
