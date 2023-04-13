@@ -8,5 +8,6 @@ Grün:
 
 ~~~migrids
 /caps-man/manager/set enabled=yes
-/caps-man/manager/interface
+/caps-man/manager/security/add authentication-types=wpa2-psk encryption=aes-ccm name=SecMitarbeiter passphrase=Mitarbeiter1234
+
 ~~~
