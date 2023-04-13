@@ -1,1 +1,2 @@
-gaming 
+CAPsMAN
+Controle Accesspoint System Manager
