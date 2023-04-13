@@ -7,5 +7,6 @@ Grün:
 
 
 ~~~migrids
-
+/caps-man/manager/set enabled=yes
+/caps-man/manager/interface
 ~~~
