@@ -9,8 +9,10 @@ Grün: local breakout
 ~~~migrids
 /caps-man/manager/set enabled=yes
 /caps-man/manager/security/add authentication-types=wpa2-psk encryption=aes-ccm name=SecMitarbeiter passphrase=Mitarbeiter1234
-/caps-man/datapath/add name=DPMitarbeiter local-forwarding=yes (expliziet setzen auch wenn no) 
-
+local breakout:
+/caps-man/datapath/add name=DPMitarbeiter local-forwarding=yes vlan-mode=use-tag vlan-id=10 
+tunnel bis controller:
+/caps-man/datapath/add name=DPMitarbeiter local-forwarding=no vlan-mode=use-tag vlan-id=10 bridge=[bridge ]
 ~~~
 
 ~~~migwalkejsa
