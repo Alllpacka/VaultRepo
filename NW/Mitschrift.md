@@ -278,3 +278,6 @@ Glucose: 100mgGlucose/dlBlut
 
 Rhodopsin
 Aus Karotten und Orangen => Vitamin A gewinnen
+
+E    Tocopherol
+K    Phyllochivoa x ASS
