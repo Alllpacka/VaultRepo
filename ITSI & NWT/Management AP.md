@@ -15,7 +15,8 @@ local breakout:
 tunnel bis controller:
 /caps-man/datapath/add name=DPMitarbeiter local-forwarding=no vlan-mode=use-tag vlan-id=10 bridge=[bridge für verbindung ins lan]
 -----------------------------------------------
-/caps-man/channel/add band=5ghz-n-ac frequency=5180 extention-channel=Ceee name=42 controll-channel-width=20mhz tx-power=10
+/caps-man/channel/add band=5ghz-n-ac frequency=5180.5260 extention-channel=Ceee name=5Ghz80width controll-channel-width=20mhz tx-power=10
+
 ~~~
 
 ~~~migwalkejsa
