@@ -1,4 +1,4 @@
-Read-Host
-StartsWith
-Split
+Read-Host = read
+StartsWith 
+Split 
 Write-Host = echo
