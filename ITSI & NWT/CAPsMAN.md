@@ -20,6 +20,8 @@ tunnel bis controller:
 /caps-man/channel/add band=5ghz-n-ac frequency=5180.5260 extention-channel=Ceee name=5Ghz80width controll-channel-width=20mhz tx-power=10
 /caps-man/configuration/add name=ConfMitarbeiter security=SecMitarbeiter channel=5Ghz80width country=austria datapath=DPMitarbeiter installation=indoor mode=ap ssid=Mitarbeiter
 -----------------------------------------------
+/caps-man/provisioning/add hw-suppored-modes=ac master-configuration=ConfMitarbeiter action=create-disabled
+-----------------------------------------------
 CAP:
 /interface/bridge/add name=br
 /interface/bridge/port/add bridge=br interface=ether1
