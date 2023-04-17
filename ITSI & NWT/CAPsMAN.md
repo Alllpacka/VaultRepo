@@ -22,7 +22,8 @@ tunnel bis controller:
 -----------------------------------------------
 CAP:
 /interface/bridge/add name=br
-/interface/wireless/cap/set enabled=yes bridge=br interfaces=wlan1,wlan2 
+/interface/bridge/port/add bridge=br interface=ether1
+/interface/wireless/cap/set enabled=yes bridge=br interfaces=wlan1,wlan2 discovery-interface=br
 ~~~
 
 ~~~migwalkejsa
