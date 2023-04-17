@@ -8,7 +8,7 @@ wird gleich ins Lan abgegeben
 
 
 ~~~migrids
-CAPS
+CAPsMAN:
 /caps-man/manager/set enabled=yes
 /caps-man/manager/security/add authentication-types=wpa2-psk encryption=aes-ccm name=SecMitarbeiter passphrase=Mitarbeiter1234
 -----------------------------------------------
@@ -21,7 +21,8 @@ tunnel bis controller:
 /caps-man/configuration/add name=ConfMitarbeiter security=SecMitarbeiter channel=5Ghz80width country=austria datapath=DPMitarbeiter installation=indoor mode=ap ssid=Mitarbeiter
 -----------------------------------------------
 CAP:
-
+/interface/bridge/add name=br
+/interface/wireless/cap/set enabled=yes bridge=br interfaces=wlan1,wlan2 
 ~~~
 
 ~~~migwalkejsa
