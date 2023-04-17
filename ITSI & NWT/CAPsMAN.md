@@ -1,10 +1,11 @@
-CAPsMAN
 Controle Accesspoint System Manager
 
 ![[Pasted image 20230413124240.png]]
-Blau: Central Breakout: Von Accespoint zu Capsman und dann ins Lan
-Grün: Local breakout
-		wird gleich ins Lan abgegeben
+Blau: 
+Centralized breakout: Von Accespoint zu Capsman und dann ins Lan
+
+Grün: 
+Local breakout: wird gleich ins Lan abgegeben
 
 
 ~~~migrids
