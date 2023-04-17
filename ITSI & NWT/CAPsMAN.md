@@ -8,6 +8,7 @@ wird gleich ins Lan abgegeben
 
 
 ~~~migrids
+CAPS
 /caps-man/manager/set enabled=yes
 /caps-man/manager/security/add authentication-types=wpa2-psk encryption=aes-ccm name=SecMitarbeiter passphrase=Mitarbeiter1234
 -----------------------------------------------
@@ -19,6 +20,7 @@ tunnel bis controller:
 /caps-man/channel/add band=5ghz-n-ac frequency=5180.5260 extention-channel=Ceee name=5Ghz80width controll-channel-width=20mhz tx-power=10
 /caps-man/configuration/add name=ConfMitarbeiter security=SecMitarbeiter channel=5Ghz80width country=austria datapath=DPMitarbeiter installation=indoor mode=ap ssid=Mitarbeiter
 -----------------------------------------------
+CAP:
 
 ~~~
 
