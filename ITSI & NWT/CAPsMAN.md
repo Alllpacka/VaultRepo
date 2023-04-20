@@ -97,14 +97,9 @@ set name=router1
 
 ~~~migir
 /caps-man channel
+add band=5ghz-n/ac control-channel-width=20mhz extension-channel=Ceee frequency=5180,5260 name=5GHz80width save-selected=yes tx-power=10
 
-add band=5ghz-n/ac control-channel-width=20mhz extension-channel=Ceee \
-
-    frequency=5180,5260 name=5GHz80width save-selected=yes tx-power=10
-
-add band=2ghz-g/n control-channel-width=20mhz frequency=2412 name=2.4 \
-
-    save-selected=yes tx-power=5
+add band=2ghz-g/n control-channel-width=20mhz frequency=2412 name=2.4 save-selected=yes tx-power=5
 
 /caps-man datapath
 add local-forwarding=yes name=DPMitarbeiter vlan-id=10 vlan-mode=use-tag
