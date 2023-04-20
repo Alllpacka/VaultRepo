@@ -94,3 +94,63 @@ add action=masquerade chain=srcnat out-interface=wlan1
 /system identity
 set name=router1
 ~~~
+
+~~~migir
+/caps-man channel
+
+add band=5ghz-n/ac control-channel-width=20mhz extension-channel=Ceee \
+
+    frequency=5180,5260 name=5GHz80width save-selected=yes tx-power=10
+
+add band=2ghz-g/n control-channel-width=20mhz frequency=2412 name=2.4 \
+
+    save-selected=yes tx-power=5
+
+/caps-man datapath
+
+add local-forwarding=yes name=DPMitarbeiter vlan-id=10 vlan-mode=use-tag
+
+/caps-man security
+
+add authentication-types=wpa2-psk encryption=aes-ccm name=SecMitarbeiter
+
+/caps-man configuration
+
+add channel=5GHz80width country=austria datapath=DPMitarbeiter \
+
+    installation=indoor mode=ap name=ConfMitarbeiter security=\
+
+    SecMitarbeiter ssid=Mitarbeiter
+
+add channel=2.4 country=austria datapath=DPMitarbeiter installation=indoor \
+
+    name=2.4ConfMitarbeiter security=SecMitarbeiter ssid=Mitarbeiter
+
+/caps-man interface
+
+add channel.frequency=2412 configuration=2.4ConfMitarbeiter disabled=no \
+
+    l2mtu=1600 mac-address=08:55:31:9D:03:80 master-interface=none name=\
+
+    2.4ghz-cap1-1 radio-mac=08:55:31:9D:03:80 radio-name=0855319D0380
+
+add channel.frequency=5180,5260 configuration=ConfMitarbeiter disabled=no \
+
+    l2mtu=1600 mac-address=08:55:31:9D:03:81 master-interface=none name=\
+
+    5ghz-cap1-1 radio-mac=08:55:31:9D:03:81 radio-name=0855319D0381
+
+/caps-man manager
+
+set enabled=yes
+
+/caps-man provisioning
+
+add action=create-disabled hw-supported-modes=ac master-configuration=\
+
+    ConfMitarbeiter name-format=prefix-identity name-prefix=5ghz
+
+add action=create-disabled hw-supported-modes=g master-configuration=\
+
+    2.4ConfMitarbeiter name-format=prefix-identity name-prefix=2.4ghz
+~~~
