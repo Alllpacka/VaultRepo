@@ -6,6 +6,8 @@ von Accesspoint zu Capsman und dann ins Lan
 **Grün:** local breakout
 wird gleich ins Lan abgegeben
 
+![[5ghz-channels.jpg]]
+
 
 ~~~migrids
 CAPsMAN:
