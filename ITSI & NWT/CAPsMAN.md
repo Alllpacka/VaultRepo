@@ -126,3 +126,4 @@ add action=create-disabled hw-supported-modes=ac master-configuration=ConfMitarb
 
 add action=create-disabled hw-supported-modes=g master-configuration=2.4ConfMitarbeiter name-format=prefix-identity name-prefix=2.4ghz
 ~~~
+
