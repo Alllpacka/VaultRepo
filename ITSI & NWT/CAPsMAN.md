@@ -8,7 +8,6 @@ wird gleich ins Lan abgegeben
 
 ![[5ghz-channels.jpg]]
 
-
 ~~~migrids
 CAPsMAN:
 /caps-man/manager/set enabled=yes
