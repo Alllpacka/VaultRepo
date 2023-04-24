@@ -55,6 +55,11 @@ apt upgrade
 
 cd /etc/bind
 
-nano /etc/bind# named.config.options/local/default-zones
+/etc/bind# nano named.config.options/local/default-zones
 
 cp named.conf.default-zones named.conf.my-zones
+
+db.empty
+
+SOA = Start of Authority
+
