@@ -63,3 +63,4 @@ db.empty
 
 SOA = Start of Authority
 
+Ende von Zonen Name ein "." oder nur "ns" schreiben dann wird der vorher ausgewählt name verwendet
