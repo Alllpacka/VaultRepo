@@ -55,7 +55,7 @@ apt upgrade
 
 cd /etc/bind
 
-/etc/bind# nano named.config.options/local/default-zones
+nano named.conf.options/local/default-zones
 
 cp named.conf.default-zones named.conf.my-zones
 
