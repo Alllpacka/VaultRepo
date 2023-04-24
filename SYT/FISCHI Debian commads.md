@@ -27,7 +27,7 @@ apt install xfce4
 Display Manager (Login Screen) (lightdm, gdm3, kdm)
 	-> GUI
 		->Gnome
-		->Plasma (KDE) (mit Kubuntu)
+		->Plasma
 		->xcfe4
 		->cinnamon
 		->lxqt
