@@ -43,3 +43,18 @@ mailgw.htl-hl.ac.at
   29.204.170.193.in-addr.arpa
 
 ![DNS PDF](09-DNS.pdf)
+
+
+# Linux beep beep bup
+
+apt install bind9
+
+apt update
+
+apt upgrade
+
+cd /etc/bind
+
+nano /etc/bind# named.config.options/local/default-zones
+
+cp named.conf.default-zones named.conf.my-zones
