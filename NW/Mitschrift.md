@@ -281,3 +281,11 @@ Aus Karotten und Orangen => Vitamin A gewinnen
 
 E    Tocopherol
 K    Phyllochivoa x ASS
+
+
+1g Proteinriegel
+	+ c * H2SO4
+HOOC - AS - NHL -> NH3 + As -COO
+										+ H2O
+										+ OH
+NH4 + HCl + OH -> NH4 + Cl + H2O
