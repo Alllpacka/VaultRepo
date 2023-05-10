@@ -13,3 +13,10 @@ read and write
 ...
 
 # DB Rechtssysteme
+## DBS
+rechte auf DBS
+	rechte auf einzelne DBs
+		rechte auf einzelne Tables
+			rechte auf einzelne Spalten in einer Tabelle
+
+
