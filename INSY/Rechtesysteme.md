@@ -13,7 +13,7 @@ read and write
 ...
 
 # DB Rechtssysteme
-## DBS
+## DBS (DatenBankSystem)
 rechte auf DBS
 	rechte auf einzelne DBs
 		rechte auf einzelne Tables
