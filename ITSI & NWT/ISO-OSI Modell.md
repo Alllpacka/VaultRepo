@@ -16,3 +16,4 @@
 
 ![[osimodel-3-2163171581.gif]]
 
+![[NWTK M2 - Schichtenmodelle.pdf]]
