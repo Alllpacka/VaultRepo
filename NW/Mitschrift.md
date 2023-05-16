@@ -291,3 +291,5 @@ HOOC - AS - NHL -> NH3 + As -COO
 NH4 + HCl + OH -> NH4 + Cl + H2O
 
 Proteine: 17kJ/g
+
+1100-1300 nm
