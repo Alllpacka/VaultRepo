@@ -2,8 +2,6 @@
 
 G ... Graph
 V … Vertices
-G=(V,E)
-G_gew = (V,E,w) w: E -> |R
 
 $$
 G=(V,E)
@@ -15,5 +13,5 @@ $$
 G_{gew} = (V,E,\omega) 
 $$
 $$
-\omega: E \to \
+\omega: E \to \mathbb{R}
 $$
