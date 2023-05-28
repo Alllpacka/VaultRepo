@@ -50,7 +50,11 @@ USA und UdSSR erkannten gefährliche militärische Konfrontationen zu vermeiden
 begannen Kommunikationswege zu öffnen um künfitge konflikte zu deeskalieren
 
 # SALT Verhandlungen
+#
+Stragegic Arms Limitation Talks
 ## Generelle Verhandlungen
+
+
 ## Thema Atomwaffen
 
 # Sowjets in Afghanistan
