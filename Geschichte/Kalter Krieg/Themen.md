@@ -38,7 +38,9 @@ raketen haten nukleares potenzial -> direkte bedrohung der USA
 USA endekte Raketen durch aufklärungsflüge
 
 ## krise
-16\. Oktober '62 veröffentlicht John
+16\. Oktober '62 veröffentlicht John F. Kennedy die existenz der raketen
+USA kündigte eine Seeblockade an
+USA droht mit militärischen mittel wenn UdSSR die raketen 
 
 # SALT Verhandlungen
 ## Generelle Verhandlungen
