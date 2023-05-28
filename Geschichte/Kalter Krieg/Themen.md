@@ -37,8 +37,8 @@ gescheiterte Invasion -> UdSSR stationiert raketen auf kuba
 raketen haten nukleares potenzial -> direkte bedrohung der USA
 USA endekte Raketen durch aufklärungsflüge
 
-## kriese
-
+## krise
+16\. Oktober '62 veröffentlicht John
 
 # SALT Verhandlungen
 ## Generelle Verhandlungen
