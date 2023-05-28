@@ -46,7 +46,8 @@ Kennedy und Nikita Chruschtschow einigen sich auf kompromiss:
 	USA versprach keine Invasion auf Kuba zu versuchen und stationiere Raketen in der Türkei zurückzurufen
 
 ## Folgen
-
+USA und UdSSR erkannten gefährliche militärische Konfrontationen zu vermeiden
+begannen Kommunikationswege zu öffnen um künfitge konflikt
 
 # SALT Verhandlungen
 ## Generelle Verhandlungen
