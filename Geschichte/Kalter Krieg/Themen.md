@@ -25,6 +25,10 @@ fast 30 Jahre getrenntes deutschland
 9\. November 1989 verkündung der freien passage
 
 # Kubakrise 
+
+## vorgeschichte
+nach kubanischer revulution 
+
 # SALT Verhandlungen
 ## Generelle Verhandlungen
 ## Thema Atomwaffen
