@@ -30,7 +30,8 @@ fast 30 Jahre getrenntes deutschland
 kubanische revulution (1959) -> kommunistisches kuba
 hatte enge beziehungen zu UdSSR
 USA unterstützte Invasion von kuba mit kubanischen exilanten
-1961 angriff auf die schweinebucht 
+1961 scheiternder angriff auf die schweinebucht um fidel castro zu stürzen
+
 
 # SALT Verhandlungen
 ## Generelle Verhandlungen
