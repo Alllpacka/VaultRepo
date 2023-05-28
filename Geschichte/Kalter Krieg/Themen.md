@@ -27,7 +27,9 @@ fast 30 Jahre getrenntes deutschland
 # Kubakrise 
 
 ## vorgeschichte
-nach kubanischer revulution 
+kubanische revulution (1959) -> kommunistisches kuba
+hatte enge beziehungen zu UdSSR
+USA unterstützte 
 
 # SALT Verhandlungen
 ## Generelle Verhandlungen
