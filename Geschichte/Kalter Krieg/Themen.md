@@ -59,6 +59,14 @@ wichtigste abkommen sind SALT I und SALT II
 
 ### SALT I
 26\. Mai 1972
+zwei wichtige verträge
+
+#### ABM-Vertrag
+Anti-Ballistic Missile Treaty
+begrenzte die anzahl an abwehrraketen die ein 
+
+#### Interim Agreement on the Limitation of Stragegic Offensive Arms
+
 
 ## Thema Atomwaffen
 
