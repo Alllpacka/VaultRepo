@@ -80,4 +80,10 @@ bewaffneter konflikt zwichen UdSSR und Widerstandskämpfern (Mudschaheddin)
 1979 maschierte die UdSSR in Afbghanistan ein um Kabul zu unterstützen
 
 ## verlauf
-Mudschaheddin wrden von USA, Saudi-Arabien und Pakistan unterstützt (Waffen, GEld)
+
+Mudschaheddin wrden von USA, Saudi-Arabien und Pakistan unterstützt (Waffen, Geld, Ausbildung)
+obwohl Sowjetunion überlegen war schafften Widerstandskämpfer den krieg in die länge zu ziehen
+
+## auswirkungen
+
+agh
