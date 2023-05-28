@@ -47,7 +47,7 @@ Kennedy und Nikita Chruschtschow einigen sich auf kompromiss:
 
 ## Folgen
 USA und UdSSR erkannten gefährliche militärische Konfrontationen zu vermeiden
-begannen Kommunikationswege zu öffnen um künfitge konflikt
+begannen Kommunikationswege zu öffnen um künfitge konflikte zu deeskalieren
 
 # SALT Verhandlungen
 ## Generelle Verhandlungen
