@@ -50,10 +50,11 @@ USA und UdSSR erkannten gefährliche militärische Konfrontationen zu vermeiden
 begannen Kommunikationswege zu öffnen um künfitge konflikte zu deeskalieren
 
 # SALT Verhandlungen
-#
-Stragegic Arms Limitation Talks
-## Generelle Verhandlungen
+## vorgeschichte
+Stragegic Arms Limitation Talks sind zur begrenzung und kontrolle Atomwaffen berufen worden
 
+## Generelle Verhandlungen
+mehrere Runden von 1969 bis 
 
 ## Thema Atomwaffen
 
