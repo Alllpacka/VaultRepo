@@ -43,7 +43,10 @@ USA kündigte eine Seeblockade an
 USA droht mit militärischen mittel wenn UdSSR die raketen nicht abzieht
 Kennedy und Nikita Chruschtschow einigen sich auf kompromiss:
 	UdSSR zieht Raketen ab
-	
+	USA versprach keine Invasion auf Kuba zu versuchen und stationiere Raketen in der Türkei zurückzurufen
+
+## Folgen
+
 
 # SALT Verhandlungen
 ## Generelle Verhandlungen
