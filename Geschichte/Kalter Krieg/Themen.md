@@ -63,11 +63,15 @@ zwei wichtige verträge
 
 #### ABM-Vertrag
 Anti-Ballistic Missile Treaty
-begrenzte die anzahl an abwehrraketen die ein 
+begrenzte die anzahl an abwehrraketen die ein land besitzen durfte
 
 #### Interim Agreement on the Limitation of Stragegic Offensive Arms
+legte eine vorläufige begrenzung der stategischen ballistischen raketen fest und schafte wichte grundlagen für weitere Verhandlungen
+
+### SALT II
 
 
 ## Thema Atomwaffen
+
 
 # Sowjets in Afghanistan
