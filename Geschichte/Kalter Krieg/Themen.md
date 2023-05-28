@@ -21,7 +21,8 @@ fluchtversuch -> starke gewalt
 
 ## mauerfall
 fast 30 Jahre getrenntes deutschland
-1980er UdSSR und DDR wirtschaftliche und politische kri
+1980er UdSSR und DDR wirtschaftliche und politische kriesen
+9\. November 1989
 
 # Kubakrise 
 # SALT Verhandlungen
