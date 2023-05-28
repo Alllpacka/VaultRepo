@@ -29,7 +29,8 @@ fast 30 Jahre getrenntes deutschland
 ## vorgeschichte
 kubanische revulution (1959) -> kommunistisches kuba
 hatte enge beziehungen zu UdSSR
-USA unterstützte 
+USA unterstützte Invasion von kuba mit kubanischen exilanten
+1961 angriff auf die 
 
 # SALT Verhandlungen
 ## Generelle Verhandlungen
