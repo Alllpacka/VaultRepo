@@ -33,9 +33,11 @@ USA unterstützte Invasion von kuba mit kubanischen exilanten
 1961 scheiternder angriff auf die schweinebucht um fidel castro zu stürzen
 
 ## reaktion von UdSSR
-gescheiterte Invasion -> Ud
+gescheiterte Invasion -> UdSSR stationiert raketen auf kuba
+raketen haten nukleare
 
 # SALT Verhandlungen
 ## Generelle Verhandlungen
 ## Thema Atomwaffen
+
 # Sowjets in Afghanistan
