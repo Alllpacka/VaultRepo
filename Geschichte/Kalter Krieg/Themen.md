@@ -69,6 +69,7 @@ begrenzte die anzahl an abwehrraketen die ein land besitzen durfte
 legte eine vorläufige begrenzung der stategischen ballistischen raketen fest und schafte wichte grundlagen für weitere Verhandlungen
 
 ### SALT II
+zweites Abkommen wurde 1979 unterzeichnet aber nie vom US-Senat in Kraft gesetzt
 
 
 ## Thema Atomwaffen
