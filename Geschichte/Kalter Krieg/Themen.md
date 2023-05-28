@@ -10,7 +10,12 @@ westliche onen Bundesrepublik
 ## mauer
 DDR wirtschaftliche not
 immer mehr leute von DDR nach westen -> bevölkerungsverlust
-13. August bau einer grenz
+13\. August bau einer grenze
+wurde immer bewachter von provisorisch zu beton, Stacheldraht, wachtürmen und minenfeld
+mauer schrenkte alltag sehr ein
+getrente familien
+fluchtversuch -> starke gewalt
+>100 todes
 
 # Kubakrise 
 # SALT Verhandlungen
