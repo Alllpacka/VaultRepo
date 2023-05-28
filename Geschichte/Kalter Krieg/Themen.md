@@ -70,9 +70,11 @@ legte eine vorläufige begrenzung der stategischen ballistischen raketen fest un
 
 ### SALT II
 zweites Abkommen wurde 1979 unterzeichnet aber nie vom US-Senat in Kraft gesetzt
-
+sollte die anzahl an Waffensystemen weiter begrenzen und verifikationsmaßnahmen verstärken
+die anzahl der nuklearen sprenköpfe und ihre trägersysteme wurden hier auch weiter beschrenkt
 
 ## Thema Atomwaffen
+
 
 
 # Sowjets in Afghanistan
