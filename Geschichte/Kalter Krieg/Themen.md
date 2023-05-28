@@ -41,7 +41,9 @@ USA endekte Raketen durch aufklärungsflüge
 16\. Oktober '62 veröffentlicht John F. Kennedy die existenz der raketen
 USA kündigte eine Seeblockade an
 USA droht mit militärischen mittel wenn UdSSR die raketen nicht abzieht
-
+Kennedy und Nikita Chruschtschow einigen sich auf kompromiss:
+	UdSSR zieht Raketen ab
+	
 
 # SALT Verhandlungen
 ## Generelle Verhandlungen
