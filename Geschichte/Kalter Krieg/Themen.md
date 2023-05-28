@@ -7,7 +7,7 @@ Berlin wurde nochmal in vier zonen aufgeteilt
 USA und UdSSR spannung weil eigene Pläne für Deutschland
 im kalten krieg deutschland zum symbol des konfilks
 sowjetische besatung -> DDR
-westliche onen Bundesrepublik
+westliche zonen -> Bundesrepublik
 
 ## mauer
 
