@@ -90,4 +90,4 @@ afghanistan wurde zum Schauplatz des Kalten kriegs
 verrstärkte spannungen
 teuer für UdSSR
 stärkung der Anti-Sowjet Bewegung in Afghanistan
-starker faktor zum zerfall 
+starker faktor zum zerfall der UdSSR
