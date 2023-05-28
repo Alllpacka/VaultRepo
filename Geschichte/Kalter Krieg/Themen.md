@@ -50,6 +50,7 @@ USA und UdSSR erkannten gefährliche militärische Konfrontationen zu vermeiden
 begannen Kommunikationswege zu öffnen um künfitge konflikte zu deeskalieren
 
 # SALT Verhandlungen
+
 ## vorgeschichte
 Stragegic Arms Limitation Talks sind zur begrenzung und kontrolle Atomwaffen berufen worden
 
@@ -73,8 +74,5 @@ zweites Abkommen wurde 1979 unterzeichnet aber nie vom US-Senat in Kraft gesetzt
 sollte die anzahl an Waffensystemen weiter begrenzen und verifikationsmaßnahmen verstärken
 die anzahl der nuklearen sprenköpfe und ihre trägersysteme wurden hier auch weiter beschrenkt
 
-## Thema Atomwaffen
-Hauptthema der SALT-Verhandlungen
-hauptziehl war die anzahl der sprenköpfe und trägersysteme zu begrenzen um einen nuklearen krieg zu verhindern
-
 # Sowjets in Afghanistan
+
