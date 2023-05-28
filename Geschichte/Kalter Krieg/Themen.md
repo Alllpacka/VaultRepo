@@ -74,7 +74,7 @@ sollte die anzahl an Waffensystemen weiter begrenzen und verifikationsmaßnahmen
 die anzahl der nuklearen sprenköpfe und ihre trägersysteme wurden hier auch weiter beschrenkt
 
 ## Thema Atomwaffen
-Hauptthema a
-
+Hauptthema der SALT-Verhandlungen
+hauptziehl war die anzahl der sprenköpfe und trägersysteme zu begrenzen um einen nuklearen krieg zu verhindern
 
 # Sowjets in Afghanistan
