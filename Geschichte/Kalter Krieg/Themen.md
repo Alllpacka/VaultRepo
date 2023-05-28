@@ -1,4 +1,5 @@
 # Berliner Mauer 
+
 ## vorgeschichte
 errichtet um ost- (DDR) von west-berlin zu trennen
 ende 2. WK vier besatungszonen (USA,Großbritannien,Frankreich,Sowjetunion)
@@ -7,6 +8,7 @@ USA und UdSSR spannung weil eigene Pläne für Deutschland
 im kalten krieg deutschland zum symbol des konfilks
 sowjetische besatung -> DDR
 westliche onen Bundesrepublik
+
 ## mauer
 DDR wirtschaftliche not
 immer mehr leute von DDR nach westen -> bevölkerungsverlust
@@ -15,7 +17,11 @@ wurde immer bewachter von provisorisch zu beton, Stacheldraht, wachtürmen und m
 mauer schrenkte alltag sehr ein
 getrente familien
 fluchtversuch -> starke gewalt
->100 todes
+\>100 todesopfer
+
+## mauerfall
+fast 30 Jahre getrenntes deutschland
+1980er UdSSR und DDR wirtschaftliche und politische kri
 
 # Kubakrise 
 # SALT Verhandlungen
