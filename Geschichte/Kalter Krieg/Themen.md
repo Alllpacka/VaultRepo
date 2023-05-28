@@ -54,7 +54,11 @@ begannen Kommunikationswege zu öffnen um künfitge konflikte zu deeskalieren
 Stragegic Arms Limitation Talks sind zur begrenzung und kontrolle Atomwaffen berufen worden
 
 ## Generelle Verhandlungen
-mehrere Runden von 1969 bis 
+mehrere Runden von 1969 bis 1979
+wichtigste abkommen sind SALT I und SALT II
+
+### SALT I
+26\. Mai 1972
 
 ## Thema Atomwaffen
 
