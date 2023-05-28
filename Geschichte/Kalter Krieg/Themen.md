@@ -32,6 +32,8 @@ hatte enge beziehungen zu UdSSR
 USA unterstützte Invasion von kuba mit kubanischen exilanten
 1961 scheiternder angriff auf die schweinebucht um fidel castro zu stürzen
 
+## reaktion von UdSSR
+gescheiterte Invasion -> Ud
 
 # SALT Verhandlungen
 ## Generelle Verhandlungen
