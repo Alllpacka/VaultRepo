@@ -40,7 +40,8 @@ USA endekte Raketen durch aufklärungsflüge
 ## krise
 16\. Oktober '62 veröffentlicht John F. Kennedy die existenz der raketen
 USA kündigte eine Seeblockade an
-USA droht mit militärischen mittel wenn UdSSR die raketen 
+USA droht mit militärischen mittel wenn UdSSR die raketen nicht abzieht
+
 
 # SALT Verhandlungen
 ## Generelle Verhandlungen
