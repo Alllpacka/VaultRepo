@@ -34,7 +34,11 @@ USA unterstützte Invasion von kuba mit kubanischen exilanten
 
 ## reaktion von UdSSR
 gescheiterte Invasion -> UdSSR stationiert raketen auf kuba
-raketen haten nukleare
+raketen haten nukleares potenzial -> direkte bedrohung der USA
+USA endekte Raketen durch aufklärungsflüge
+
+## kriese
+
 
 # SALT Verhandlungen
 ## Generelle Verhandlungen
