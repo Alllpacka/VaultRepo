@@ -77,6 +77,7 @@ die anzahl der nuklearen sprenköpfe und ihre trägersysteme wurden hier auch we
 # Krieg in Afghanistan (1979–1989)
 
 bewaffneter konflikt zwichen UdSSR und Widerstandskämpfern (Mudschaheddin)
-1979 maschierte die UdSSR in Afghanistan ein um Kabul zu unterstützen
+1979 maschierte die UdSSR in Afbghanistan ein um Kabul zu unterstützen
 
 ## verlauf
+Mudschaheddin wrden von USA, Saudi-Arabien und Pakistan unterstützt (Waffen, GEld)
