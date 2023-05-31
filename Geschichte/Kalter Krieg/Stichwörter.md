@@ -116,22 +116,21 @@ die Anzahl der nuklearen Sprengköpfe und ihre Trägersysteme wurden hier auch w
 
 bewaffneter konflikt zwichen UdSSR und Widerstandskämpfern (Mudschaheddin)
 1979 maschierte die UdSSR in Afbghanistan ein um Kabul zu unterstützen
-bewaffneter Konflikt zwischen UdSSR und Widerstandskämpfern (Mudschaheddin)
 
 ## verlauf
-
-
-
-25. Dezember 1979 marschierte die UdSSR in Afghanistan ein um Kabul zu unterstützen
+25\. Dezember 1979 marschierte die UdSSR in Afghanistan ein um Kabul zu unterstützen
 
 Mudschaheddin wurden von USA, Saudi-Arabien und Pakistan unterstützt (Waffen, Geld, Ausbildung)
 
 obwohl Sowjetunion überlegen war schafften Widerstandskämpfer den krieg in die länge zu ziehen -> Stellvertreterkrieg USA und UdSSR
 
 ## auswirkungen
+Afghanistan wurde zum Schauplatz des Kalten Krieges
 
-afghanistan wurde zum Schauplatz des Kalten kriegs
-verrstärkte spannungen
+verstärkte Spannungen
+
 teuer für UdSSR
-stärkung der Anti-Sowjet Bewegung in Afghanistan
-starker faktor zum zerfall der UdSSR
+
+Stärkung der Anti-Sowjet Bewegung in Afghanistan
+
+starker Faktor zum Zerfall der UdSSR
