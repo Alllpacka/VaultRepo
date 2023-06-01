@@ -1,4 +1,4 @@
-| Nr  | Name  |   |   |
+| Nr.  | Name  |  Amtszeit | Partei  |
 |---|---|---|---|
 |1|George Washington|1789 – 1797|ohne Partei|
 |2|John Adams|1797 – 1801|Föderalisten|
@@ -18,9 +18,8 @@
 
 **Vom Bürgerkrieg bis zum Zweiten Weltkrieg (1861 – 1945)**
 
-|   |   |   |   |
+| Nr.  | Name  |  Amtszeit | Partei  |
 |---|---|---|---|
-|**Nr.**|**Name**|**Amtszeit**|**Partei**|
 |16|Abraham Lincoln|1861 – 1865|Republikaner|
 |17|Andrew Johnson|1865 – 1869|Demokraten|
 |18|Ulysses Simpson Grant|1869 – 1877|Republikaner|
@@ -41,20 +40,21 @@
 
 **Vom Zweiten Weltkrieg bis heute (seit 1945)**
 
-|   |   |   |   |
-|---|---|---|---|
-|**Nr.**|**Name**|**Amtszeit**|**Partei**|
-|33|Harry S. Truman|1945 – 1953|Demokraten|
-|34|Dwight David Eisenhower|1953 – 1961|Republikaner|
-|35|John Fitzgerald Kennedy|1961 – 1963|Demokraten|
-|36|Lyndon Baines Johnson|1963 – 1969|Demokraten|
-|37|Richard Milhous Nixon|1969 – 1974|Republikaner|
-|38|Gerald Rudolph Ford|1974 – 1977|Republikaner|
-|39|James Earl (Jimmy) Carter Jr.|1977 – 1981|Demokraten|
-|40|Ronald Wilson Reagan|1981 – 1989|Republikaner|
-|41|George Herbert Walker Bush|1989 – 1993|Republikaner|
-|42|William (Bill) Jefferson Clinton|1993 – 2001|Demokraten|
-|43|George Walker Bush|2001 – 2009|Republikaner|
-|44|Barack Hussein Obama Jr.|2009 – 2017|Demokraten|
-|45|Donald John Trump|2017 – 2021|Republikaner|
-|46|Joseph (Joe) Robinette Biden Jr.|seit 2021|Demokraten|
+| Nr. | Name                             | Amtszeit    | Partei       |
+| --- | -------------------------------- | ----------- | ------------ |
+| 33  | Harry S. Truman                  | 1945 – 1953 | Demokraten   |
+| 34  | Dwight David Eisenhower          | 1953 – 1961 | Republikaner |
+| 35  | John Fitzgerald Kennedy          | 1961 – 1963 | Demokraten   |
+| 36  | Lyndon Baines Johnson            | 1963 – 1969 | Demokraten   |
+| 37  | Richard Milhous Nixon            | 1969 – 1974 | Republikaner |
+| 38  | Gerald Rudolph Ford              | 1974 – 1977 | Republikaner |
+| 39  | James Earl (Jimmy) Carter Jr.    | 1977 – 1981 | Demokraten   |
+| 40  | Ronald Wilson Reagan             | 1981 – 1989 | Republikaner |
+| 41  | George Herbert Walker Bush       | 1989 – 1993 | Republikaner |
+| 42  | William (Bill) Jefferson Clinton | 1993 – 2001 | Demokraten   |
+| 43  | George Walker Bush               | 2001 – 2009 | Republikaner |
+| 44  | Barack Hussein Obama Jr.         | 2009 – 2017 | Demokraten   |
+| 45  | Donald John Trump                | 2017 – 2021 | Republikaner |
+| 46  | Joseph (Joe) Robinette Biden Jr. | seit 2021   | Demokraten   |
+ 
+
