@@ -25,8 +25,13 @@ $$
 3. Solange E´ != {}:
 		Kante e mit minimalen Gewicht wählen
 		Wenn e u Es Kreisfrei ist:
-			Es = Es u e
-		E´ = E´ - e
+
+$$
+E_{s} = E_{s} \cup e
+$$
+$$
+E' = E' - e
+$$
 
 
 
