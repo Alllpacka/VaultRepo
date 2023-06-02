@@ -27,9 +27,9 @@ $$
 		Wenn e u Es Kreisfrei ist:
 
 $$
-E_{s} = E_{s} u e
+E_{s} = E_{s} \cup e
 $$
-
-Es = Es u e
-E´ = E´ - e
+$$
+E' = E' - e
+$$
 
