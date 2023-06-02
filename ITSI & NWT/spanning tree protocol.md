@@ -16,3 +16,4 @@ $$
 \omega: E \to \mathbb{R}
 $$
 ![[Pasted image 20230526083920.png]]
+
