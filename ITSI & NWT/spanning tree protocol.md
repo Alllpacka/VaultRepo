@@ -17,6 +17,7 @@ $$
 $$
 ![[Pasted image 20230526083920.png]]
 
+
 # Kruskal
 
 1. Kanten nach Gewicht sortieren -> E´
@@ -26,3 +27,4 @@ $$
 		Wenn e u Es Kreisfrei ist:
 			Es = Es u e
 		E´ = E´ - e
+
