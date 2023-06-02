@@ -16,3 +16,13 @@ $$
 \omega: E \to \mathbb{R}
 $$
 ![[Pasted image 20230526083920.png]]
+
+# Kruskal
+
+1. Kanten nach Gewicht sortieren -> E´
+2. Neuer Graph S={V,Es = {}} (Alle Kanten weg nur noch die Knoten)
+3. Solange E´ != {}:
+		Kante e mit minimalen Gewicht wählen
+		Wenn e u Es Kreisfrei ist:
+			Es = Es u e
+		E´ = E´ - e
