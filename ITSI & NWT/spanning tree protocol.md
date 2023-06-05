@@ -1,3 +1,5 @@
+
+
 ![[Pasted image 20230526082556.png]]
 
 G ... Graph
