@@ -1,4 +1,5 @@
-
+1. Root-Bridge bestimmen (kleinste Priority-ID)
+2. 
 
 ![[Pasted image 20230526082556.png]]
 
