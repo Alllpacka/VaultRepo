@@ -38,6 +38,8 @@ $$
 
 ![[Pasted image 20230602084051.png]]
 
+![[Pasted image 20230612111821.png]]
+
 ~~~micgroddig
 /interface/bridge/add name=br priority=4069
 
