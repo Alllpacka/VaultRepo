@@ -38,5 +38,10 @@ $$
 
 ![[Pasted image 20230602084051.png]]
 
-~~~micgro
+~~~micgroddig
+/interface/bridge/add name=br priority=4069
+
+for i form=1 to=5 do={
+interface/bridge/port/add bridge=br interface={"ether" + $i}
+}
 
