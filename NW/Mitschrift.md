@@ -308,4 +308,6 @@ RNA (DNA) + ATP
 | ------ | --------------------- |
 | 0.1 um | Gram+                 |
 | 0.1 um | Gram-                 |
-| 0       |                       |
+| 0.1 um | Archäen               |
+| 0.1 um | Cyanobackterien       | 
+
