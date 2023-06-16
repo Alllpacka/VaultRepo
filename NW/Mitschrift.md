@@ -293,3 +293,10 @@ NH4 + HCl + OH -> NH4 + Cl + H2O
 Proteine: 17kJ/g
 
 1100-1300 nm
+
+
+# Leben
+
+Abgrenzung (Zelle mit Wand)
+Stoffwechsel
+Vermehrung/Vererbung
