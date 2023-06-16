@@ -304,5 +304,8 @@ Vermehrung/Vererbung
 Protobionten -> erste Lebensformen
 RNA (DNA) + ATP
 
-| Größe | Name | 
-| ----- | ---- |
+| Größe  | Name der Protobionten |
+| ------ | --------------------- |
+| 0.1 um | Gram+                 |
+| 0.1 um | Gram-                 |
+| 0       |                       |
