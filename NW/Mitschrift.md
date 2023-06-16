@@ -300,3 +300,5 @@ Proteine: 17kJ/g
 Abgrenzung (Zelle mit Wand)
 Stoffwechsel
 Vermehrung/Vererbung
+
+Protobionten -> erste Lebensformen
