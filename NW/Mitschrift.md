@@ -302,3 +302,7 @@ Stoffwechsel
 Vermehrung/Vererbung
 
 Protobionten -> erste Lebensformen
+RNA (DNA) + ATP
+
+| Größe | Name | 
+| ----- | ---- |
