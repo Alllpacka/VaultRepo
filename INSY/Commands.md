@@ -1,5 +1,5 @@
 # SQL  
-##### SQL = structure quary language   (SQL != select)
+##### SQL = structure query language   (SQL != select)
 ## Commands
 
 mysql -u root
