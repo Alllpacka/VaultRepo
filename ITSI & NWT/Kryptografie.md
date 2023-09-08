@@ -23,7 +23,7 @@ $$
 a = K_{PriA} \in \{1,2,\dots,p-2\}
 $$
 $$
-A = K_{PubA}
+A = K_{PubA} \equiv g^a  p 
 $$
 
 $$
