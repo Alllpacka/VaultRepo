@@ -493,13 +493,16 @@ while + verb phrase            during the break
 
 # job interview
 
-| dos                            | don'ts          |
-| ------------------------------ | --------------- |
-| research company               | late            |
-| formal                         | rude / impolite |
-| appropriate clothes            | show tattoos    |
-| wait for seat offering         | wear piercings  |
-| have your documents proofread  | interrupt       |
-| prepare for standard questions |                 |
-| knock before entering          |                 |
-| introduce yourself             |                 |
+| dos                               | don'ts                    |
+| --------------------------------- | ------------------------- |
+| research company                  | late                      |
+| formal                            | rude / impolite           |
+| appropriate clothes               | show tattoos              |
+| wait for seat offering            | wear piercings            |
+| have your documents proofread     | interrupt the interviewer |
+| prepare for standard questions    |                           |
+| knock before entering             |                           |
+| introduce yourself                |                           |
+| prepare an elevator pitch         |                           |
+| prepare questions for the company |                           |
+
