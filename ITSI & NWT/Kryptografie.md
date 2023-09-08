@@ -16,5 +16,4 @@ Ist **nur** für den key exchange **nicht** zur verschlüsselung
 
 ![[Pasted image 20230908091630.png]]
 
-$$
-\öffentliche \p
+öffentliche Parameter: p  ... Primzahl
