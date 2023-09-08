@@ -500,7 +500,7 @@ while + verb phrase            during the break
 | appropriate clothes               | show tattoos              |
 | wait for seat offering            | wear piercings            |
 | have your documents proofread     | interrupt the interviewer |
-| prepare for standard questions    |                           |
+| prepare for standard questions    | brag about ac                          |
 | knock before entering             |                           |
 | introduce yourself                |                           |
 | prepare an elevator pitch         |                           |
