@@ -23,12 +23,12 @@ $$
 a = K_{PriA} \in \{1,2,\dots,p-2\}
 $$
 $$
-A = K_{PubA} \equiv g^a  p 
+A = K_{PubA} \equiv g^a \mod{p}
 $$
 
 $$
 b = K_{PriB} \in \{1,2,\dots,p-2\}
 $$
 $$
-B = K_{PubB}
+B = K_{PubB}  \equiv g^b mod p
 $$
