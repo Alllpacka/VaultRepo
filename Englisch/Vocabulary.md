@@ -520,5 +520,6 @@ while + verb phrase            during the break
 | to offshore sth          | outsourceing / auslagern       |
 | labour laws              | Arbeitsrecht                   |
 | to relocate              | umziehen                       |
-| collective bargaining    | Kollektivvertragsverhandlungen | 
+| collective bargaining    | Kollektivvertragsverhandlungen |
+| glass ceiling            | gläs                               |
 
