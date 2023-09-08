@@ -493,9 +493,10 @@ while + verb phrase            during the break
 
 # job interview
 
-| dos                    | don'ts      |
-| ---------------------- | ----------- |
-| research company       | late        |
-| formal                 | rude        |
-| appropriate clothes    | show tatoos | 
-| wait for seat offering |             |
+| dos                    | don'ts          |
+| ---------------------- | --------------- |
+| research company       | late            |
+| formal                 | rude / impolite |
+| appropriate clothes    | show tattoos    | 
+| wait for seat offering | wear piercings  |
+|                        |                 |
