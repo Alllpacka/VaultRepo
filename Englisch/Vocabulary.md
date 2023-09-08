@@ -517,13 +517,8 @@ while + verb phrase            during the break
 | to be / stay competitive | konkurrenzfähig sein / bleiben |
 | competitor               | konkurrent                     |
 | to raise productivity    | Produktivität steigern         |
-| to offshore sth          | outsourceing / auslagern       | 
-| labour laws              |                                |
-| to relocate              |                                |
+| to offshore sth          | outsourceing / auslagern       |
+| labour laws              | Arbeitsrecht                   |
+| to relocate              | umziehen                       |
+| collective bargaining    | Kollektivvertragsverhandlungen | 
 
-to work part-time
-			 full-time 
-			 flexitime
-core hours
-to be / stay competetive
-competitor
