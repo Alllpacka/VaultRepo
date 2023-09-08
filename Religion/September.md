@@ -49,4 +49,5 @@ einkommen (moneten)
 
 
 **Kann man Ihrer Meinung nach Glück kaufen**
-Temporär ja, aber es ist egal wie viele neue dinge man sie
+Temporär ja, aber es ist egal wie viele neue dinge man sich kauft alles was mal neu und spannend war wird nach der zeit für den menschen uninterresant und "bietet" für ihn nicht mehr glück an.
+Permanent Glück zu haben kann nicht 
