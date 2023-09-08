@@ -20,5 +20,6 @@ Ist **nur** für den key exchange **nicht** zur verschlüsselung
 									g  ... {1,2,...}
 
 $$
-a = K_{PriA} \
+a = K_{PriA} \in \{1,2,\dots\}
 $$
+A = K_{PubA}
