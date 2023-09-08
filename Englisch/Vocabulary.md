@@ -500,9 +500,15 @@ while + verb phrase            during the break
 | appropriate clothes               | show tattoos              |
 | wait for seat offering            | wear piercings            |
 | have your documents proofread     | interrupt the interviewer |
-| prepare for standard questions    | brag about ac                          |
+| prepare for standard questions    | brag about achievements   | 
 | knock before entering             |                           |
 | introduce yourself                |                           |
 | prepare an elevator pitch         |                           |
 | prepare questions for the company |                           |
 
+# vocab unit 1 
+
+to work part-time
+			 full-time 
+			 flexitime
+core hours
