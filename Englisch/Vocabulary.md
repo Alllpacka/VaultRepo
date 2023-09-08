@@ -491,3 +491,10 @@ during + noune phrase      while I was sleeping
 
 while + verb phrase            during the break
 
+# job interview
+
+| does                | don'ts |
+| ------------------- | ------ |
+| research company    |        |
+| formal              |        |
+| appropriate clothes |        |
