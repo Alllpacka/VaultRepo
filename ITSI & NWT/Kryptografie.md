@@ -17,3 +17,8 @@ Ist **nur** für den key exchange **nicht** zur verschlüsselung
 ![[Pasted image 20230908091630.png]]
 
 öffentliche Parameter: p  ... Primzahl
+									g  ... {1,2,...}
+
+$$
+a = K_{PriA} \
+$$
