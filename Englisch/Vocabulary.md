@@ -508,7 +508,15 @@ while + verb phrase            during the break
 
 # vocab unit 1 
 
+| Englisch          | German |
+| ----------------- | ------ |
+| to work part time |        |
+| to work full time |        |
+|                   |        |
+
 to work part-time
 			 full-time 
 			 flexitime
 core hours
+to be / stay competetive
+competitor
