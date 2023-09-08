@@ -14,7 +14,7 @@ farben
 Freiheit
 Status
 ### Mittel
-
+modern
 
 ## Unterwäsche
 ### Sehnsüchte
@@ -24,8 +24,10 @@ bekannte persönlichkeiten
 
 ## Parfüm
 ### Sehnsüchte
-### Mittel
+gut riechen
 
+### Mittel
+bekannte personlichkeiten
 
 ## Bacardi
 ### Sehnsüchte
