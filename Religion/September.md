@@ -5,4 +5,20 @@
 ### Mittel
 
 ## Auto
-### Seh
+### Sehnsüchte
+Freiheit
+Status
+
+### Mittel
+
+## Unterwäsche
+### Sehnsüchte
+### Mittel
+
+## Parfüm
+### Sehnsüchte
+### Mittel
+
+## Bacardi
+### Sehnsüchte
+### Mittel
