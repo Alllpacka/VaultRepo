@@ -508,11 +508,18 @@ while + verb phrase            during the break
 
 # vocab unit 1 
 
-| Englisch          | German |
-| ----------------- | ------ |
-| to work part time |        |
-| to work full time |        |
-|                   |        |
+| Englisch                 | German                         |
+| ------------------------ | ------------------------------ |
+| to work part time        |                                |
+| to work full time        |                                |
+| to work flexitime        |                                |
+| core hours               |                                |
+| to be / stay competitive | konkurrenzfähig sein / bleiben |
+| competitor               | konkurrent                     |
+| to raise productivity    | Produktivität steigern         |
+| to offshore sth          | outsourceing / auslagern       | 
+| labour laws              |                                |
+| to relocate              |                                |
 
 to work part-time
 			 full-time 
