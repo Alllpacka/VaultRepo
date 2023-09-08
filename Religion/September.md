@@ -7,7 +7,7 @@ status
 
 ### Mittel
 design
-selfie
+farben
 
 ## Auto
 ### Sehnsüchte
@@ -18,9 +18,9 @@ Status
 
 ## Unterwäsche
 ### Sehnsüchte
-
+gut aussehen
 ### Mittel
-
+bekannte persönlichkeiten
 
 ## Parfüm
 ### Sehnsüchte
