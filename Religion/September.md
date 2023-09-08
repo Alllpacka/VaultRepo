@@ -2,13 +2,16 @@
 
 ## Handy
 ### Sehnsüchte
-### Mittel
+connection
+status
 
+### Mittel
+edles design
+selfie
 ## Auto
 ### Sehnsüchte
 Freiheit
 Status
-
 ### Mittel
 
 ## Unterwäsche
