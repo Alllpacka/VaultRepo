@@ -493,8 +493,9 @@ while + verb phrase            during the break
 
 # job interview
 
-| does                | don'ts |
-| ------------------- | ------ |
-| research company    |        |
-| formal              |        |
-| appropriate clothes |        |
+| dos                    | don'ts      |
+| ---------------------- | ----------- |
+| research company       | late        |
+| formal                 | rude        |
+| appropriate clothes    | show tatoos | 
+| wait for seat offering |             |
