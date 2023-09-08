@@ -1,5 +1,7 @@
 # Konsumgüter
 
+**Bist du, was du hast**
+Analysierren Sie, welche Sehensüchte des Menschen in den Bildern angesprochen werden und mit welchen Mitteln die beworbenen Güter als attraktiv dargestellt werden.
 ## Handy
 ### Sehnsüchte
 connection
@@ -41,3 +43,4 @@ bild von party
 
 
 
+Entfalten Sie, was Ihrer Meinfung nach heutzutage für eine glückliche Existenz notwendig ist.
