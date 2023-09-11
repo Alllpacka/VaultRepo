@@ -1,4 +1,11 @@
+Jambus (unbetont-betont)
+Trochäus (betont-unbetont)
+Daktylus (betont-unbetont-unbetont)
+Anapäst (unbetont)
+
 ~~~
+Mondnacht - Eichendorff
+
 Es war, als hätt’ der Himmel  
 Die Erde still geküßt,  
 Daß sie im Blütenschimmer  
