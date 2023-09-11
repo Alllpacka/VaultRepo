@@ -1,5 +1,3 @@
-# Konsumgüter
-
 ***Bist du, was du hast***
 **Analysierren Sie, welche Sehensüchte des Menschen in den Bildern angesprochen werden und mit welchen Mitteln die beworbenen Güter als attraktiv dargestellt werden.**
 ## Handy
