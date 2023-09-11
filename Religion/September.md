@@ -40,11 +40,7 @@ spaß
 bild von party
 
 
-
-
-
-
-**Entfalten Sie, was Ihrer Meinfung nach heutzutage für eine glückliche Existenz notwendig ist.**
+## **Entfalten Sie, was Ihrer Meinfung nach heutzutage für eine glückliche Existenz notwendig ist.**
 einkommen (moneten)
 
 
