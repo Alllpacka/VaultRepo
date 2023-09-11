@@ -1,5 +1,4 @@
-*Mondnacht*
-
+~~~
 Es war, als hätt’ der Himmel  
 Die Erde still geküßt,  
 Daß sie im Blütenschimmer  
@@ -14,8 +13,12 @@ Und meine Seele spannte
 Weit ihre Flügel aus,  
 Flog durch die stillen Lande,  
 Als flöge sie nach Haus.
+~~~
 
 3 Strophen é 4 Verse
 	gesamt 12 Verse
 
 Kreuzreim
+	abab cdcd efef
+
+
