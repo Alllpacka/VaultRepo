@@ -529,5 +529,6 @@ while + verb phrase            during the break
 | to remain employable        | einstellungsfähig bleiben                  |
 | to become employable        | einstellungsfähig werden                   |
 | employability               | einstellungsfähigkeit                      |
-|                             |                                            |
+| unprecedented               | noch nie zuvor dagewesen                   |
+| work remotely               | im HomeOffice arbeiten                     | 
  
