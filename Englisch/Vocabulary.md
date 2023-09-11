@@ -521,5 +521,8 @@ while + verb phrase            during the break
 | labour laws              | Arbeitsrecht                   |
 | to relocate              | umziehen                       |
 | collective bargaining    | Kollektivvertragsverhandlungen |
-| glass ceiling            | gläs                               |
+| glass ceiling            | gläserne decke                 |
+| parental leave           | Elternkarenz                   |
+ 
+
 
