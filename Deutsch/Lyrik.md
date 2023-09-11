@@ -32,4 +32,5 @@ Wechsel 2W. männlich und weiblich
 
 Jambus (unbetont-betont)
 
-übriggebliebene Silbe muss zum vorigen Jambus hinzugefügt werden --> 3-hebiger-Jambus (unb.-bet.-unb´.) 
+übriggebliebene Silbe muss zum vorigen Jambus hinzugefügt werden --> 3-hebiger-Jambus (unb.-bet.-unb´.)
+
