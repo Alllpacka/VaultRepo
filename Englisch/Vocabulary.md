@@ -533,5 +533,6 @@ while + verb phrase            during the break
 | work remotely               | im HomeOffice arbeiten                     |
 | work from home              | -''-                                       |
 | open-plan office            | Großraumbüro                               |
-| time off in lien            |                                            |
+| time off in lieu            | Zeitausgleich                              |
+
  
