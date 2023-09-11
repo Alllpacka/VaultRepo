@@ -1,7 +1,7 @@
 Jambus (unbetont-betont)
 Trochäus (betont-unbetont)
 Daktylus (betont-unbetont-unbetont)
-Anapäst (unbetont)
+Anapäst (unbetont-unbetont-betont)
 
 ~~~
 Mondnacht - Eichendorff
