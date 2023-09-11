@@ -530,5 +530,8 @@ while + verb phrase            during the break
 | to become employable        | einstellungsfähig werden                   |
 | employability               | einstellungsfähigkeit                      |
 | unprecedented               | noch nie zuvor dagewesen                   |
-| work remotely               | im HomeOffice arbeiten                     | 
+| work remotely               | im HomeOffice arbeiten                     |
+| work from home              | -''-                                       |
+| open-plan office            | Großraumbüro                               |
+| time off in lien            |                                            |
  
