@@ -508,22 +508,26 @@ while + verb phrase            during the break
 
 # vocab unit 1 
 
-| Englisch                    | German                         |
-| --------------------------- | ------------------------------ |
-| to work part time           |                                |
-| to work full time           |                                |
-| to work flexitime           |                                |
-| core hours                  |                                |
-| to be / stay competitive    | konkurrenzfähig sein / bleiben |
-| competitor                  | konkurrent                     |
-| to raise productivity       | Produktivität steigern         |
-| to offshore sth             | outsourceing / auslagern       |
-| labour laws                 | Arbeitsrecht                   |
-| to relocate                 | umziehen                       |
-| collective bargaining       | Kollektivvertragsverhandlungen |
-| glass ceiling               | gläserne decke                 |
-| parental leave              | Elternkarenz                   |
-| to climb a career ladder    | Karriereleiter erklimmen       |
-| to climb a corporate ladder | -''-                           |
-| in-service training         |                                |
+| Englisch                    | German                                     |
+| --------------------------- | ------------------------------------------ |
+| to work part time           |                                            |
+| to work full time           |                                            |
+| to work flexitime           |                                            |
+| core hours                  |                                            |
+| to be / stay competitive    | konkurrenzfähig sein / bleiben             |
+| competitor                  | konkurrent                                 |
+| to raise productivity       | Produktivität steigern                     |
+| to offshore sth             | outsourceing / auslagern                   |
+| labour laws                 | Arbeitsrecht                               |
+| to relocate                 | umziehen                                   |
+| collective bargaining       | Kollektivvertragsverhandlungen             |
+| glass ceiling               | gläserne decke                             |
+| parental leave              | Elternkarenz                               |
+| to climb a career ladder    | Karriereleiter erklimmen                   |
+| to climb a corporate ladder | -''-                                       |
+| in-service training         | betriebliche Fortbildung (am Arbeitsplatz) |
+| to remain employable        | einstellungsfähig bleiben                  |
+| to become employable        | einstellungsfähig werden                   |
+| employability               | einstellungsfähigkeit                      |
+|                             |                                            |
  
