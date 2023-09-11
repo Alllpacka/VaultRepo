@@ -21,3 +21,7 @@ Als flöge sie nach Haus.
 Kreuzreim
 	abab cdcd efef
 
+Wechsel 2W. männlich und weiblich
+
+Jambus (unbetont-betont)
+
