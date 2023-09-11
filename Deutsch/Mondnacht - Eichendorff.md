@@ -21,4 +21,3 @@ Als flöge sie nach Haus.
 Kreuzreim
 	abab cdcd efef
 
-
