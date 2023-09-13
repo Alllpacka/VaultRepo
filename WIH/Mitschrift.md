@@ -46,6 +46,20 @@ Staat entscheidet über:
 	+ Verteilung der Güter
 	+ Preise der Güter
 
+
+Vorteile:
+	+ Angebot richtet sich an der Wichtigkeit der Bedürfnisse aus
+	+ Arbeit für alle garantiert.
+
+Nachteile:
+	+ Zentrale Planung
+	+ Angebot entspricht oft nicht den Bedürfnissen bzw. der Nachfrage
+	+ Wenig Leistungsanreize
+
+
+Beispiel:
+	Nordkorea
+
 ### Freie Marktwirtschaft
 
 Freie entscheidung über:
@@ -53,3 +67,25 @@ Freie entscheidung über:
 	+ Ausbildung und Beruf
 	+ Konsum
 	+ Preisbildung durch Angebot und Nachfrage
+
+
+Vorteile:
+	+ Entfaltung in der Produktion
+	+ Förderung des Unternehmergeistes
+	+ Viele Leistungsanreize
+
+Nachteile:
+	+ Oft nur profitable Güter werden angeboten
+
+
+Beispiel:
+	USA
+
+
+## Soziale Marktwirtschaft
+#### So viel Markt wie möglich so viel Staat wie möglich
+
++ Staat unterstützt die Wirtschaft durch Fördermaßnahmen
++ Wirtschaftlich und sozial schwächere Menschen werden unterstützt 
++ Staat versucht Grund- und wichtige Kulturbedürfnisse zu erfüllen
++ Gesamtwirtschaftliche Ziele (also die Ziele aller) stehen im Fokus
