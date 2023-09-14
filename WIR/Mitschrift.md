@@ -97,3 +97,9 @@ Beispiel:
 
 
 14.9.2023
+
+## Wirtschaftspolotik
+### Ziele:
+
+![[Pasted image 20230914100704.png]]
+
