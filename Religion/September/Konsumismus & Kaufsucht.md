@@ -27,3 +27,8 @@ bleibt lange unerkannt
 
 entwickelt sich langsam
 
++ drang etwas zu kaufen
++ abhängigkeit -> verlust der selbstkontrolle
++ dosissteigerung -> mehr und teurer
++ entzugserscheinungen -> unruhe, unwohl, ...
+
