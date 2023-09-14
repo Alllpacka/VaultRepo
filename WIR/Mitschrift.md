@@ -96,4 +96,3 @@ Beispiel:
 ### Soziale Wirtschaft + Umweltschutz
 
 
-14.9.2023
