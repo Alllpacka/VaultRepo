@@ -96,6 +96,7 @@ Beispiel:
 ### Soziale Wirtschaft + Umweltschutz
 
 
+<<<<<<< HEAD
 14.9.2023
 
 ## Wirtschaftspolotik
@@ -103,3 +104,8 @@ Beispiel:
 
 ![[Pasted image 20230914100704.png]]
 
+=======
+# Wirtschaftskreislauf
+
+![[Pasted image 20230914101359.png]]
+>>>>>>> f70eb94276afdb2d6c9b9aaf7ff293b835647d1d
