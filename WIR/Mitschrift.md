@@ -110,9 +110,6 @@ Beispiel:
 
 ## Wirtschaftssektoren
 
-<<<<<<< HEAD
-![[Pasted image 20230914102629.png]]
-=======
 ![[Pasted image 20230914102629.png]]
 
 ![[Pasted image 20230914103227.png]]
