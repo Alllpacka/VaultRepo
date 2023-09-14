@@ -32,3 +32,9 @@ entwickelt sich langsam
 + dosissteigerung -> mehr und teurer
 + entzugserscheinungen -> unruhe, unwohl, ...
 
+Hohenheimer Kaufsuchtindikator 
+	16 Fragen
+	1 - 4 (trift nicht zu -> trift zu)
+	summenscore
+	kaufsuchtgefährdung
+
