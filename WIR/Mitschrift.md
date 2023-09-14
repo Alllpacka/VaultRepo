@@ -96,4 +96,6 @@ Beispiel:
 ### Soziale Wirtschaft + Umweltschutz
 
 
-# Wirtschafts
+# Wirtschaftskreislauf
+
+![[Pasted image 20230914101359.png]]
