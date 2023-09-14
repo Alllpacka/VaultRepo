@@ -4,7 +4,7 @@ aktiviert dopamin -> Gehirn wird mehr --> sucht
 
 ## Warum ist der Mensch gut darin, Dinge anzuhäufen?
 
-überlebensinstinkt
+Jäger und Sammler -> lieber mehr haben als es zu brauchen
 
 ## Was macht das Shoppen heutzutage besonders einfach?
 
