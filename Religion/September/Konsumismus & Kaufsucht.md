@@ -12,4 +12,4 @@ kreditkarte macht es schwerer einen blick auf dein geld zu haben
 
 ## Warum ist online Einfkaufen "gefährlicher" als mit Bargeld im Geschäft?
 
-weniger direkten einbick auf finanzen, viele produkte auf einen blick, 
+weniger direkten einbick auf finanzen, viele produkte auf einen blick
