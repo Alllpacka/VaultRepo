@@ -1,4 +1,5 @@
 
+13.9.2023
 # Bedürfnisse / Wünsche
 
 
@@ -89,3 +90,10 @@ Beispiel:
 + Wirtschaftlich und sozial schwächere Menschen werden unterstützt 
 + Staat versucht Grund- und wichtige Kulturbedürfnisse zu erfüllen
 + Gesamtwirtschaftliche Ziele (also die Ziele aller) stehen im Fokus
+
+
+## Ökosoziale Marktwirtschaft
+### Soziale Wirtschaft + Umweltschutz
+
+
+14.9.2023
