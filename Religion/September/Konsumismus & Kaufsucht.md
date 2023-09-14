@@ -23,3 +23,5 @@ Emil Kraeplin schrieb 1909 darüber (Oniomanie (grie. onios = kaufen, mani = zwa
 
 meist in anfällen -> impulsiv und exzessiv
 
+bleibt lange unerkannt
+
