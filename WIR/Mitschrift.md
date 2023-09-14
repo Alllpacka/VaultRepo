@@ -104,7 +104,11 @@ Beispiel:
 ![[Pasted image 20230914100704.png]]
 
 
-# Wirtschaftskreislauf
+## Wirtschaftskreislauf
 
 ![[Pasted image 20230914101359.png]]
+
+## Wirtschaftssektoren
+
+![[Pasted image 20230914102629.png]]
 
