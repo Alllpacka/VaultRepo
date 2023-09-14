@@ -111,4 +111,3 @@ Beispiel:
 ## Wirtschaftssektoren
 
 ![[Pasted image 20230914102629.png]]
-
