@@ -37,4 +37,6 @@ Hohenheimer Kaufsuchtindikator
 	1 - 4 (trift nicht zu -> trift zu)
 	summenscore
 	kaufsuchtgefährdung
+	durchschnitt bei 45
+
 
