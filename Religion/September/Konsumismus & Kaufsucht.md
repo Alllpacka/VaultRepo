@@ -25,3 +25,5 @@ meist in anfällen -> impulsiv und exzessiv
 
 bleibt lange unerkannt
 
+entwickelt sich langsam
+
