@@ -18,3 +18,8 @@ weniger direkten einbick auf finanzen, viele produkte auf einen blick
 # Kaufsucht
 
 ## Seite 3
+
+Emil Kraeplin schrieb 1909 darüber (Oniomanie (grie. onios = kaufen, mani = zwang))
+
+meist in anfällen -> impulsiv und exzessiv
+
