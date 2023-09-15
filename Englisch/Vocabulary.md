@@ -537,6 +537,6 @@ while + verb phrase            during the break
 | to conmpartmentalize        | aufteilen                                  |
 | seamless                    | nahtloser übergang                         |
 | to marshal sth.             | ordenen, aufstellen                        |
-| to tap into sth.            |                                            |
+| to tap into sth.            | etwas anzapfen, etwas nutzen               | 
 
  
