@@ -534,5 +534,9 @@ while + verb phrase            during the break
 | work from home              | -''-                                       |
 | open-plan office            | Großraumbüro                               |
 | time off in lieu            | Zeitausgleich                              |
+| to conmpartmentalize        | aufteilen                                  |
+| seamless                    | nahtloser übergang                         |
+| to marshal sth.             | ordenen, aufstellen                        |
+| to tap into sth.            |                                            |
 
  
