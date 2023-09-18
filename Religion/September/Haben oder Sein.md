@@ -1,15 +1,15 @@
 ## haben
-westliche gesellschaft
-streben nach besitz
+westliche Gesellschaft
+streben nach Besitz
 konsum- und marktorientiert
-macht den menschen zum diener des wirtschaftssystems
-macht kreank und unglücklich
-erzeugt neid und krieg
+macht den Menschen zum Diener des Wirtschaftssystems
+macht krank und unglücklich
+erzeugt Neid und Krieg
 
 ## sein
 seelische haltung
 besitz spielt keine rolle
-philospphie und religionsorientiert
-macht den menschen zum erleben
-bringt den wesenskern des menschen hervor
-erzeugt frieden
+philosophie und Religionsorientiert
+macht den Menschen zum erleben
+bringt den Wesenskern des menschen hervor
+erzeugt Frieden
