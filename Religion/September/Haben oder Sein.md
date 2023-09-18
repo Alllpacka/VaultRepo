@@ -27,6 +27,7 @@ erzeugt Frieden
 | vorübergehend                          | selbst erneuern               |
 | Identität durch eigentum               | erleben                       |
 | macht aus objekten und personen ziehen | durch "loslassen" -> freiheit |
+| nicht dauerhaft                        |                               |
  
 
 
