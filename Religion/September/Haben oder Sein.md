@@ -31,7 +31,8 @@ erzeugt Frieden
 | illusion                               | interessieren, lauschen, geben |
 |                                        |                                |
 | Meterialistisch                        | frei von materiellem           |
-| konsumi                                       |                                |
+| konsumorientiert                       | religionsorientiert            |
+| egozentrisch                           | gesellschaftsorientiert        | 
  
 
 
