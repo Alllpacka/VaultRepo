@@ -33,6 +33,5 @@ erzeugt Frieden
 | Meterialistisch                        | frei von materiellem           |
 | konsumorientiert                       | religionsorientiert            |
 | egozentrisch                           | gesellschaftsorientiert        | 
- 
 
-
+omg krieg führen schlecht?????ßßß"!!
