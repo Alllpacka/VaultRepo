@@ -24,10 +24,10 @@ erzeugt Frieden
 | -------------------------------------- | ----------------------------- |
 | besitzen                               | Unabhängigkeit                |
 | beherschen                             | Freiheit                      |
-| vorübergehend                          | selbst erneuern               |
+| vorübergehend                          | erneuern wachsen leben        | 
 | Identität durch eigentum               | erleben                       |
 | macht aus objekten und personen ziehen | durch "loslassen" -> freiheit |
-| nicht dauerhaft                        |                               |
+| nicht dauerhaft                        | selbst entfaltung             |
  
 
 
