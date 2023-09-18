@@ -18,3 +18,11 @@ erzeugt Frieden
 ## haben oder sein ausschnitt
 
 ![[4_AB_Haben_oder_Sein.pdf]]
+
+
+| Haben         | Sein |
+| ------------- | ---- |
+| besitzen      |      |
+| beherschen    |      |
+| vorübergehend |      |
+|               |      |
