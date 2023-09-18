@@ -20,9 +20,10 @@ erzeugt Frieden
 ![[4_AB_Haben_oder_Sein.pdf]]
 
 
-| Haben         | Sein |
-| ------------- | ---- |
-| besitzen      |      |
-| beherschen    |      |
-| vorübergehend |      |
-|               |      |
+| Haben                    | Sein           |
+| ------------------------ | -------------- |
+| besitzen                 | Unabhängigkeit |
+| beherschen               | Freiheit       | 
+| vorübergehend            |                |
+| Identität durch eigentum |                |
+|                          |                |
