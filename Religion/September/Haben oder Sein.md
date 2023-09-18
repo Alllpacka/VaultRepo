@@ -35,3 +35,5 @@ erzeugt Frieden
 | egozentrisch                           | gesellschaftsorientiert        | 
 
 omg krieg führen schlecht?????ßßß"!!
+basic human compassion???ßßßß!!!"!111"
+
