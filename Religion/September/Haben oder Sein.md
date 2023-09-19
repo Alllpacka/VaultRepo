@@ -37,3 +37,4 @@ erzeugt Frieden
 omg krieg führen schlecht?????ßßß"!!
 basic human compassion???ßßßß!!!"!111"
 
+man ist glückliche, gemeinschaftsorientierter, strebt nicht immer nur nach besitztstümern
