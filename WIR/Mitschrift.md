@@ -113,3 +113,23 @@ Beispiel:
 ![[Pasted image 20230914102629.png]]
 
 ![[Pasted image 20230914103227.png]]
+
+
+
+## Was ist ein Unternehmen?
+
+
+### Merkmale:
+
++ Dauer
+	+ längerer Zeitraum
+	+ regelmäßigkeit
+	
++ Organisation
+	+ Mitteleinsatz (z.B.: Gebäude, Mitarbeiter)
+	
++ Sebstständigkeit
+	+ auf eigene Rechnung und eigenes Risiko
+	
++ Wirtschatlichkeit
+	+ Leistung wird für Dritte erbracht (andere Unternehmen, Privathaushalte)
