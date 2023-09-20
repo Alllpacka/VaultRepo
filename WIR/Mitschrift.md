@@ -133,3 +133,5 @@ Beispiel:
 	
 + Wirtschatlichkeit
 	+ Leistung wird für Dritte erbracht (andere Unternehmen, Privathaushalte)
+
+
