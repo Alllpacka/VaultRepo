@@ -61,3 +61,10 @@ staat besitzt alles
 gesamtplan legt fest was und wie viel man kaufen kann
 enteignung von privatunternehmen
 wirtschaftsplan
+	ressourcen optimal nutzen
+
+5 Jahresplan
+
+alle sind gleichbehandelt
+gerechte verteilung
+klassen exestier
