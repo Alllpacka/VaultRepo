@@ -27,3 +27,17 @@ expanion->boom->rezession->depression
 
 ## soziale marktwirtschaft
 
+basiert auf freie marktwirtschaft (ist aber nicht ganz basiert)
+leistungsfähigkeit
+angebot und nachfrage
+freie preisbildung
+freie berufswahl
+produktionsmittel sind privateigentum
+privateigentum ist geschützt
+
+staat ->
+rechtsystem
+sicherheit
+infrastru
+zahlungsmittel
+persönliche freiheitsrechte
