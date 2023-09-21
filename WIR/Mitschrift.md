@@ -167,3 +167,5 @@ klare Zielformolierung mittels *SMART* Formel
 
 ## Wertschöpfungskette
 
+![[Pasted image 20230921102006.png]]
+
