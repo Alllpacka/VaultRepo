@@ -53,3 +53,5 @@ wirtschaftswachstunm vermehren
 soziale absicherung
 soziale gerechtigkeit
 
+## zentrale Planwirtschaft
+
