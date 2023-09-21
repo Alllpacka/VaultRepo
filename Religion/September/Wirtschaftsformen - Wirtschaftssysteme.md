@@ -35,9 +35,14 @@ freie berufswahl
 produktionsmittel sind privateigentum
 privateigentum ist geschützt
 
-staat ->
+**staat**
 rechtsystem
 sicherheit
-infrastru
+infrastruktur
 zahlungsmittel
-persönliche freiheitsrechte
+persönliche freiheitsrechte 
+wettbewerbspolitik
+konjunkturpolitik
+einkommens vermögenspolitik
+sozialpolitk
+
