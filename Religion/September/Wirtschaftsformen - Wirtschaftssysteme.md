@@ -4,3 +4,4 @@
 	+ soziale
 + Zentrale Planwirtschaft
 
+## freihe
