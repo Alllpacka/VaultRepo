@@ -67,4 +67,15 @@ wirtschaftsplan
 
 alle sind gleichbehandelt
 gerechte verteilung
-klassen exestier
+klassen exestieren nicht mehr
+faire preise
+keine arbeitslosigkeit
+wirtschaftsstabilität
+
+einschrenkung
+waren nur beschrenkt verfügbar
+keine eigeninitiative
+kaum fortschritt
+planung nicht flexiebel
+planungsfehler und probleme
+	versorgungsengpässe der bevölkerung
