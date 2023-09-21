@@ -23,4 +23,4 @@ steuern
 beschrenkungen zölle
 wettbewerbskontrolle
 
-boom 
+expanion->boom->rezession->depression
