@@ -146,10 +146,10 @@ Hierachisch:
 	-> Corporate Communication
 	-> Corporate Design
 -> top Management
-### **Strategische Planung**
+## **Strategische Planung**
 -> Mittelfristige Pläne (3 Jahre)
 -> middle Management
-#### **Operative Planung**
+## **Operative Planung**
 -> kurzfristige Pläne (1-3 Jahre)
 -> lower Management
 
@@ -163,3 +163,7 @@ klare Zielformolierung mittels *SMART* Formel
 "Das Umsatzziel beträgt für das Model \[Model Name] für das 2. Quatal \[Anzahl] Einheiten"
 
 "Die variablen Fertigstellungskosten für das Model \[Model Name] sollen bis zum Jahresende auf € \[Betrag] gesenkt werden. Dabei sind Sonderbauten nicht zu berücksichtigen."
+
+
+## Wertschöpfungskette
+
