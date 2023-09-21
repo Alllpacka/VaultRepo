@@ -14,11 +14,13 @@ selbst verantwortlich
 freier wetbewerb
 produktionsmittel sind privateigentum
 
-staat -> nachtwächterstaat
+**staat -> nachtwächterstaat**
 rechtssystem
 sicherheit (aber nicht in amerika)
 infrastruktur (nur autos in amerika)
 zahlungsmittel
 steuern
 beschrenkungen zölle
-wettbew
+wettbewerbskontrolle
+
+boom 
