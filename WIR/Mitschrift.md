@@ -162,3 +162,4 @@ klare Zielformolierung mittels *SMART* Formel
 
 "Das Umsatzziel beträgt für das Model \[Model Name] für das 2. Quatal \[Anzahl] Einheiten"
 
+"Die variablen Fertigstellungskosten für das Model \[Model Name] sollen bis zum Jahresende auf € \[Betrag] gesenkt werden. Dabei sind Sonderbauten nicht zu berücksichtigen."
