@@ -55,3 +55,5 @@ soziale gerechtigkeit
 
 ## zentrale Planwirtschaft
 
+staat plant was produziert wird
+kein wettbewerb
