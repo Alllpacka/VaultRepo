@@ -138,16 +138,19 @@ Beispiel:
 # Unternehmensplanung
 
 Hierachisch:
-**Normative Planung**
+## **Normative Planung**
 -> Firmenchef
 -> Vision / Langfristiger Plan
 -> Corporate Identity
 	-> Corporate Behaviour
 	-> Corporate Communication
 	-> Corporate Design
-**Strategische Planung**
+-> top Management
+### **Strategische Planung**
 -> Mittelfristige Pläne (3 Jahre)
--> Management
-**Operative Planung**
--> 
+-> middle Management
+#### **Operative Planung**
+-> kurzfristige Pläne (1-3 Jahre)
+-> lower Management
+
 
