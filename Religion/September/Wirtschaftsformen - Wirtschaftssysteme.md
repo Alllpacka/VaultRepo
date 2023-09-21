@@ -57,3 +57,7 @@ soziale gerechtigkeit
 
 staat plant was produziert wird
 kein wettbewerb
+staat besitzt alles
+gesamtplan legt fest was und wie viel man kaufen kann
+enteignung von privatunternehmen
+wirtschaftsplan
