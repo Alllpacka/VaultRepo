@@ -24,3 +24,6 @@ beschrenkungen zölle
 wettbewerbskontrolle
 
 expanion->boom->rezession->depression
+
+## soziale marktwirtschaft
+
