@@ -30,7 +30,7 @@ erzeugt Frieden
 | nicht dauerhaft                        | selbst entfaltung              |
 | illusion                               | interessieren, lauschen, geben |
 |                                        |                                |
-| Meterialistisch                        | frei von materiellem           |
+| Materialistisch                        | frei von materiellem           |
 | konsumorientiert                       | religionsorientiert            |
 | egozentrisch                           | gesellschaftsorientiert        | 
 
