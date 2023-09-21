@@ -46,3 +46,9 @@ konjunkturpolitik
 einkommens vermögenspolitik
 sozialpolitk
 
+selbstbestimmung 
+wohlstand für bevölkerung
+wirtschaftswachstunm vermehren
+soziale absicherung
+soziale gerechtigkeit
+
