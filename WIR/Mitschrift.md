@@ -160,3 +160,5 @@ klare Zielformolierung mittels *SMART* Formel
 + Realistisch
 + Terminiert
 
+"Das Umsatzziel beträgt für das Model \[Model Name] für das 2. Quatal \[Anzahl] Einheiten"
+
