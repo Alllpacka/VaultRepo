@@ -17,4 +17,6 @@ User der Datenbanken anlegen, befüllen und auslesen kann:
 
 ![[Pasted image 20230921090808.png]]
 
+User der nur in einer Datenbank Daten auslesen kann
 
+![[Pasted image 20230921091629.png]]
