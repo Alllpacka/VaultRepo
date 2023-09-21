@@ -153,4 +153,10 @@ Hierachisch:
 -> kurzfristige Pläne (1-3 Jahre)
 -> lower Management
 
+klare Zielformolierung mittels *SMART* Formel
++ Spezifisch
++ Messbar
++ Ausführbar / Attraktiv
++ Realistisch
++ Terminiert
 
