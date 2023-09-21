@@ -55,7 +55,7 @@ soziale gerechtigkeit
 
 ## zentrale Planwirtschaft
 
-staat plant was produziert wird
+**staat plant was produziert wird**
 kein wettbewerb
 staat besitzt alles
 gesamtplan legt fest was und wie viel man kaufen kann
@@ -72,7 +72,7 @@ faire preise
 keine arbeitslosigkeit
 wirtschaftsstabilität
 
-einschrenkung
+einschrenkung des individuums
 waren nur beschrenkt verfügbar
 keine eigeninitiative
 kaum fortschritt
