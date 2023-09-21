@@ -135,3 +135,6 @@ Beispiel:
 	+ Leistung wird für Dritte erbracht (andere Unternehmen, Privathaushalte)
 
 
+# Unternehmensplanung
+
+Normati
