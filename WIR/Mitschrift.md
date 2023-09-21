@@ -140,11 +140,14 @@ Beispiel:
 Hierachisch:
 **Normative Planung**
 -> Firmenchef
--> Vision
+-> Vision / Langfristiger Plan
 -> Corporate Identity
 	-> Corporate Behaviour
 	-> Corporate Communication
 	-> Corporate Design
 **Strategische Planung**
+-> Mittelfristige Pläne (3 Jahre)
+-> Management
 **Operative Planung**
+-> 
 
