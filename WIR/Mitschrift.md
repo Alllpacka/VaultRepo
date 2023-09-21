@@ -137,4 +137,11 @@ Beispiel:
 
 # Unternehmensplanung
 
-Normati
+Hierachisch:
+Normative Planung
+-> Firmenchef
+-> Vision
+-> Corporate Identity
+Strategische Planung
+Operative Planung
+
