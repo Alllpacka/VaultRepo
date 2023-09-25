@@ -15,3 +15,8 @@ Der Human development Index, abgekürzt auch HDI gennant, bedeutet übersetzt "I
 
 Es ist ein Messwert, der den menschlichen Entwicklungsstand der Bevölkerung in verschiedenen Ländern veranschaulicht. Die Bewertungsskala befindet sich im Bereich von 0-1, wobei 1 der höchste Wert ist.
 
+
+Beispiel:
+
+Österreich: 
+Papua New Guinea: HD1 0.556
