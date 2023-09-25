@@ -18,5 +18,5 @@ Es ist ein Messwert, der den menschlichen Entwicklungsstand der Bevölkerung in 
 
 Beispiel:
 
-Österreich: 
-Papua New Guinea: HD1 0.556
+Österreich: HDI 0.916
+Papua New Guinea: HD1 0.558
