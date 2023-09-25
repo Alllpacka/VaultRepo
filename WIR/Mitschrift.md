@@ -135,3 +135,37 @@ Beispiel:
 	+ Leistung wird für Dritte erbracht (andere Unternehmen, Privathaushalte)
 
 
+# Unternehmensplanung
+
+Hierachisch:
+## **Normative Planung**
+-> Firmenchef
+-> Vision / Langfristiger Plan
+-> Corporate Identity
+	-> Corporate Behaviour
+	-> Corporate Communication
+	-> Corporate Design
+-> top Management
+## **Strategische Planung**
+-> Mittelfristige Pläne (3 Jahre)
+-> middle Management
+## **Operative Planung**
+-> kurzfristige Pläne (1-3 Jahre)
+-> lower Management
+
+klare Zielformolierung mittels *SMART* Formel
++ Spezifisch
++ Messbar
++ Ausführbar / Attraktiv
++ Realistisch
++ Terminiert
+
+"Das Umsatzziel beträgt für das Model \[Model Name] für das 2. Quatal \[Anzahl] Einheiten"
+
+"Die variablen Fertigstellungskosten für das Model \[Model Name] sollen bis zum Jahresende auf € \[Betrag] gesenkt werden. Dabei sind Sonderbauten nicht zu berücksichtigen."
+
+
+## Wertschöpfungskette
+
+![[Pasted image 20230921102006.png]]
+
