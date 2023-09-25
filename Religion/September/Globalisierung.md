@@ -1,0 +1,1 @@
+Globalisierung ist der Prozess der zunehmenden weltweiten Vernetzung des Menschen und der Gesellschaft. Aufgrund von Fortschritten wird Zugang zu Informationen und zum Markt immer einfacher 
