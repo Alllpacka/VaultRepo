@@ -40,7 +40,7 @@ psql -h 172.18.10.177 -p 5432 -U jakob -d testDB
 **Vorbereitung in Windows:**
 ![[Pasted image 20230926154937.png]]
 die Zeile für IPv4 im pg_hba.conf ändern 
-(liegt in C:\\Program Files\PostgreSQL\15\data)
+(liegt in C:\\Program Files\\PostgreSQL\\15\\data)
 
 
 
