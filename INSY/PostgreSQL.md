@@ -26,7 +26,8 @@ psql -h <LinuxServerIP> -p <PostgreSQLPort> -U <Username> -d <DatabaseName>;
 
 Windows IP: 172.18.9.39
 Linux IP: 10.0.2.15
-Port: 
+Port Linux: 5432
+Database Name: testDB
 
 -) Zugriff von Linux auf Windows mit psql 
 psql -h <WindowsServerIP> -p <PostgreSQLPort> -U <Username> -d <DatabaseName>
