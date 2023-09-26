@@ -27,7 +27,10 @@ create testing für den testUser
 **Zugriff von Windows auf Linux mit psql** 
 Vorbereitung:
 ![[Pasted image 20230926152719.png]]
-die Zeile für IPv4 im pg_hba.conf ändern
+die Zeile für IPv4 im *pg_hba.conf* ändern
+
+![[Pasted image 20230926153340.png]]
+die Zeile für die listen_addressen in *postgresql.conf* ändern
 
 
 psql -h <LinuxServerIP> -p <PostgreSQLPort> -U <Username> -d <DatabaseName>; 
