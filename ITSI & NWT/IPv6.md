@@ -12,3 +12,6 @@ führende nuller können weggekürzt werden
 der erste nuller block kann mit :: ersetzt werden
 
 ![[ipv6_cheat_sheet.pdf]]
+
+# interface id
+EUI-64
