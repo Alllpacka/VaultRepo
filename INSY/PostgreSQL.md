@@ -40,9 +40,13 @@ psql -h 172.18.10.177 -p 5432 -U jakob -d testDB
 ![[Pasted image 20230926154640.png]]
 
 **Vorbereitung in Windows:**
-
+![[Pasted image 20230926160330.png]]
 die Zeile für IPv4 im pg_hba.conf ändern 
 (liegt in C:\\Program Files\\PostgreSQL\\15\\data)
+
+![[Pasted image 20230926160416.png]]
+![[Pasted image 20230926160402.png]]
+eine neue Firewall-Regel einrichten
 
 **Verbindung von Linux auf Windows:**
 ~~~sh
