@@ -38,6 +38,11 @@ psql -h 172.18.10.177 -p 5432 -U jakob -d testDB
 ![[Pasted image 20230926154640.png]]
 
 **Vorbereitung in Windows:**
+![[Pasted image 20230926154937.png]]
+die Zeile für IPv4 im pg_hba.conf ändern 
+(liegt in C:\\Program Files\PostgreSQL\15\data)
+
+
 
 Windows IP: 172.18.9.39
 Linux IP: 172.18.10.177
