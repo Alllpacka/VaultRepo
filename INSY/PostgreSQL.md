@@ -25,7 +25,7 @@ User der nur in einer Datenbank Daten auslesen kann
 psql -h <LinuxServerIP> -p <PostgreSQLPort> -U <Username> -d <DatabaseName>; 
 
 Windows IP: 172.18.9.39
-Linux IP: 10.0.2.15
+Linux IP: 172.18.10.177
 Port Linux: 5432
 Database Name: testDB
 
