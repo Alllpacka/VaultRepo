@@ -33,7 +33,9 @@ die Zeile für IPv4 im *pg_hba.conf* ändern
 die Zeile für die listen_addressen in *postgresql.conf* ändern
 
 **Verbindung auf Linux:**
+~~~sh
 psql -h 172.18.10.177 -p 5432 -U jakob -d testDB
+~~~
 
 ![[Pasted image 20230926154640.png]]
 
@@ -42,12 +44,9 @@ psql -h 172.18.10.177 -p 5432 -U jakob -d testDB
 die Zeile für IPv4 im pg_hba.conf ändern 
 (liegt in C:\\Program Files\\PostgreSQL\\15\\data)
 
+**Verbindung von Linux auf Windows:**
+~~~sh
+psql -h 172.18.9.39 -p 5432 -d jakob -U jakob
+~~~
 
-
-Windows IP: 172.18.9.39
-Linux IP: 172.18.10.177
-Port Linux: 5432
-Database Name: testDB
-
--) Zugriff von Linux auf Windows mit psql 
-psql -h <WindowsServerIP> -p <PostgreSQLPort> -U <Username> -d <DatabaseName>
+![[Pasted image 20230926155911.png]]
