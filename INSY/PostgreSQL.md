@@ -23,5 +23,8 @@ User der nur in einer Datenbank Daten auslesen kann
 
 -) Zugriff von Windows auf Linux mit psql 
 psql -h <LinuxServerIP> -p <PostgreSQLPort> -U <Username> -d <DatabaseName>; 
+
+
+
 -) Zugriff von Linux auf Windows mit psql 
 psql -h <WindowsServerIP> -p <PostgreSQLPort> -U <Username> -d <DatabaseName>
