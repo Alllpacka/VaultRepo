@@ -32,8 +32,10 @@ die Zeile für IPv4 im *pg_hba.conf* ändern
 ![[Pasted image 20230926153340.png]]
 die Zeile für die listen_addressen in *postgresql.conf* ändern
 
+**Verbindung:**
+psql -h 172.18.10.177 -p 5432 -U jakob -d testDB
 
-psql -h <LinuxServerIP> -p <PostgreSQLPort> -U <Username> -d <DatabaseName>; 
+
 
 Windows IP: 172.18.9.39
 Linux IP: 172.18.10.177
