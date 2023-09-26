@@ -35,6 +35,8 @@ die Zeile für die listen_addressen in *postgresql.conf* ändern
 **Verbindung:**
 psql -h 172.18.10.177 -p 5432 -U jakob -d testDB
 
+![[Pasted image 20230926154640.png]]
+
 
 
 Windows IP: 172.18.9.39
