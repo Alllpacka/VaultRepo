@@ -24,20 +24,20 @@ create testing für den testUser
 
 ![[Pasted image 20230921091629.png]]
 
-**Zugriff von Windows auf Linux mit psql** 
-Vorbereitung:
+# Zugriff von Windows auf Linux mit psql
+**Vorbereitung in Linux:**
 ![[Pasted image 20230926152719.png]]
 die Zeile für IPv4 im *pg_hba.conf* ändern
 
 ![[Pasted image 20230926153340.png]]
 die Zeile für die listen_addressen in *postgresql.conf* ändern
 
-**Verbindung:**
+**Verbindung auf Linux:**
 psql -h 172.18.10.177 -p 5432 -U jakob -d testDB
 
 ![[Pasted image 20230926154640.png]]
 
-
+**Vorbereitung in Windows:**
 
 Windows IP: 172.18.9.39
 Linux IP: 172.18.10.177
