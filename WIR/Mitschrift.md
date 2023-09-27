@@ -169,3 +169,5 @@ klare Zielformolierung mittels *SMART* Formel
 
 ![[Pasted image 20230921102006.png]]
 
+# Gewinnermittlung
+## Einleitung des Rechnungswesen
