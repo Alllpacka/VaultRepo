@@ -87,7 +87,7 @@ Beispiel:
 #### So viel Markt wie möglich so viel Staat wie möglich
 
 + Staat unterstützt die Wirtschaft durch Fördermaßnahmen
-+ Wirtschaftlich und sozial schwächere Menschen werden unterstützt 
++ Wirtschaftlich und sozial schwächere Menschen werden unterstützt
 + Staat versucht Grund- und wichtige Kulturbedürfnisse zu erfüllen
 + Gesamtwirtschaftliche Ziele (also die Ziele aller) stehen im Fokus
 
@@ -124,13 +124,13 @@ Beispiel:
 + Dauer
 	+ längerer Zeitraum
 	+ regelmäßigkeit
-	
+
 + Organisation
 	+ Mitteleinsatz (z.B.: Gebäude, Mitarbeiter)
-	
+
 + Sebstständigkeit
 	+ auf eigene Rechnung und eigenes Risiko
-	
+
 + Wirtschatlichkeit
 	+ Leistung wird für Dritte erbracht (andere Unternehmen, Privathaushalte)
 
@@ -173,3 +173,11 @@ klare Zielformolierung mittels *SMART* Formel
 ## Einleitung des Rechnungswesen
 
 ![[Pasted image 20230927121020.png]]
+
+**Aufzeichnungen**
+
+| Pauschalierung                                                                                     | Einnahmen u. Ausgaben                                                                                                                                               | doppelte Buchhaltung        |
+| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| darf verwendet werden von Einzelunternehmen und Personengesellschaften bis €220.000,- Jahresumsatz | darf verwendet werden von Einzelunternehemen und Personengesellschaften, die 1) einen freien Beruf ausüben: immer 2) ein Gewerbe ausüben: bis €7.000,- Jahresumsatz | darf immer verwendet werden |
+
+test
