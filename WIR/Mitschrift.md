@@ -176,6 +176,7 @@ klare Zielformolierung mittels *SMART* Formel
 
 **Aufzeichnungen**
 
-| Pauschalierung                                                                                     | Einnahmen u. Ausgaben | doppelte Buchhaltung |
-| -------------------------------------------------------------------------------------------------- | --------------------- | -------------------- |
-| darf verwendet werden von Einzelunternehmen und Personengesellschaften bis €220.000,- Jahresumsatz | darf verwendet werden von Einzelunternehemen und Personengesellschaften, die 1) einen freien Beruf ausüben                       |                      |
+| Pauschalierung                                                                                     | Einnahmen u. Ausgaben                                                                                                                                               | doppelte Buchhaltung        |
+| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| darf verwendet werden von Einzelunternehmen und Personengesellschaften bis €220.000,- Jahresumsatz | darf verwendet werden von Einzelunternehemen und Personengesellschaften, die 1) einen freien Beruf ausüben: immer 2) ein Gewerbe ausüben: bis €7.000,- Jahresumsatz | darf immer verwendet werden | 
+
