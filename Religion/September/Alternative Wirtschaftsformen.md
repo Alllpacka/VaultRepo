@@ -14,3 +14,8 @@ Knappheit & Exklusion
 
 Wachstum ohne Ende
 
+![[Pasted image 20230928083609.png]]
+
+Grenzenloser Konsum
+
+![[Pasted image 20230928083637.png]]
