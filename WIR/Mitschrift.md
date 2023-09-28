@@ -183,7 +183,10 @@ klare Zielformolierung mittels *SMART* Formel
 
 | Einzelunternehmen | Personengesellschaft     | Kapitalgesellschaft                   |
 | ----------------- | ------------------------ | ------------------------------------- |
-| e.U               | OG (offene Gesellschaft) | GesmbH                                |
-|                   | KG (Kommanditges.)       | GmbH                                  |
-|                   | Kommanditist             | Gesellschaft mit beschränkter Haftung | 
-|                   |                          |                                       |
+| e.U               | OG (offene Gesellschaft) | **GesmbH**                            |
+|                   | KG (Kommanditges.)       | **GmbH**                              |
+|                   | Kommanditist             | Gesellschaft mit beschränkter Haftung |
+|                   | Komplementär             | **AG**                                |
+|                   |                          | Aktionengesellschaft                  |
+
+
