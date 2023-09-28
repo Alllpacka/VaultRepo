@@ -6,3 +6,11 @@ Reparieren
 alternative Händler wie refurbed/refurbished
 etc.
 
+**Drei wesentliche Probleme bestehen:**
+
+Knappheit & Exklusion
+
+![[Pasted image 20230928083513.png]]
+
+Wachstum ohne Ende
+
