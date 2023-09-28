@@ -3,3 +3,5 @@ Immer mehr Menschen sind der Überzeugung, dass eine Gesellschaft deren Exkpfeil
 **Alternativen:**
 Tauschhandel
 Reparieren
+alternative Händler wie refurbed/refurbished
+etc.
