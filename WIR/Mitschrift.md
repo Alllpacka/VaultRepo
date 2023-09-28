@@ -173,4 +173,3 @@ klare Zielformolierung mittels *SMART* Formel
 ## Einleitung des Rechnungswesen
 
 ![[Pasted image 20230927121020.png]]
-
