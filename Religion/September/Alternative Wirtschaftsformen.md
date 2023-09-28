@@ -7,3 +7,16 @@ alternative Händler wie refurbed/refurbished
 etc.
 
 
+**Drei wesentliche Probleme bestehen:**
+
+Knappheit & Exklusion
+
+![[Pasted image 20230928083513.png]]
+
+Wachstum ohne Ende
+
+![[Pasted image 20230928083609.png]]
+
+Grenzenloser Konsum
+
+![[Pasted image 20230928083637.png]]
