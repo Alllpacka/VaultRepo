@@ -1,0 +1,1 @@
+Immer mehr Menschen sind der Überzeugung, dass eine Gesellschaft deren Exkpfeiler Wachstum, Beschleuni
