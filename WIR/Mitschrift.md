@@ -174,3 +174,7 @@ klare Zielformolierung mittels *SMART* Formel
 
 ![[Pasted image 20230927121020.png]]
 
+**Aufzeichnungen**
+
+| Paus    | 
+| --- |
