@@ -5,3 +5,4 @@ Tauschhandel
 Reparieren
 alternative Händler wie refurbed/refurbished
 etc.
+
