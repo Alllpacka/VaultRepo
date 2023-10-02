@@ -6,3 +6,4 @@ beschreibt Ethik im Hinblick auf eine eigene Lebensführung: wie gelingt mir ein
 # Sozialethik
 ist gerichtet auf die Gerechtigkeit im Gemeinschaftsleben. Wie gelingt zwischenmenschliches Zusammenleben?
 
+# Pluralismus in Österreich
