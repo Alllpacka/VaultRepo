@@ -11,3 +11,6 @@ verschiedene religionen
 verschiedene politische meinungen  (auch die falschen)
 ethnische minderheiten
 unterschiedlichste wertvorstellungen
+
+# individualismus
+der einzelne versucht, eigene wege zu gehen
