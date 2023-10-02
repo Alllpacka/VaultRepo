@@ -9,3 +9,5 @@ ist gerichtet auf die Gerechtigkeit im Gemeinschaftsleben. Wie gelingt zwischenm
 # Pluralismus in Österreich
 verschiedene religionen
 verschiedene politische meinungen  (auch die falschen)
+ethnische minderheiten
+unterschiedlichste wertvorstellungen
