@@ -14,3 +14,5 @@ unterschiedlichste wertvorstellungen
 
 # individualismus
 der einzelne versucht, eigene wege zu gehen
+
+# mein leben in der gesellschaft
