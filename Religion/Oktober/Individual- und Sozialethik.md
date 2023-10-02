@@ -16,3 +16,5 @@ unterschiedlichste wertvorstellungen
 der einzelne versucht, eigene wege zu gehen
 
 # mein leben in der gesellschaft / als individuum
+einbettung in der gesellschaft durch netzwerke, soziale und politische systeme, schulsystem
+alleinstellung durch krankheit, behinderung, arbeitslosigkeit, etc.
