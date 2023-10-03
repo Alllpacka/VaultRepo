@@ -34,4 +34,4 @@ bg:
 - nice hosts and members
 - an agreeable price
 ---
-# Thanks for your
+# Thanks for your attention
