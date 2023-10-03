@@ -55,7 +55,7 @@ NS <------------------------ fe:00ff
 # SLAAC:
 1. DAD
 2. Activate Link Local Address
-3. RS --> mulitcast 
+3. RS --> mulitcast group
 4.    <-- RA
 	1. Payload
 	2. network prefix
