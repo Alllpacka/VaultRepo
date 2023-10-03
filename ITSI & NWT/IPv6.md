@@ -66,3 +66,5 @@ NS <------------------------ fe:00ff
 
 ~~~microdic (hahahahhaha)
 /ipv6/nd/prefix/add autonomous=yes prefix=ether[nummer] 
+~~~
+
