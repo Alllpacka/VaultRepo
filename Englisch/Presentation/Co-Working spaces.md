@@ -18,5 +18,10 @@
 ![[Pasted image 20231003124444.png]]
 ---
 # dislikes (worldwide)
-- 
+- 25% disliked the noise
+- 20% disliked the lack of interaction
+- almost 20% disliked the lack of privacy
+- almost 10% think the price is to high
 ![[Pasted image 20231003124806.png]]
+---
+# important features
