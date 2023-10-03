@@ -20,6 +20,8 @@ durch **Neighbor Solicitation**:
 es wird eine "zufällige" zahl gewählt und durch einen multicast nachgefragt ob diese adresse schon vergeben wurde
 
 -> fe80::4a5:0:0:1fb4
-NS: (srcIP: ::   dstIP: ff02::1:ff00:0000/104
-          00:1fb4
-      payload: fe80::4a5:0:0:
+NS: (srcIP: ::
+	 dstIP: ff02::1:ff00:0000/104
+                      00:1fb4
+	payload:
+fe80::4a5:0:0:1fb4 Angefragte IP
