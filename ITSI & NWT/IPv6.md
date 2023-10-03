@@ -19,4 +19,4 @@ EUI-64
 durch **Node Solicitation**:
 es wird eine "zufällige" zahl gewählt und durch einen multicast nachgefragt ob diese adresse schon vergeben wurde
 
-
+fe80:
