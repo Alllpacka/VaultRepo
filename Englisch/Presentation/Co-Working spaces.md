@@ -1,4 +1,4 @@
-<!-- slide bg="https://www.synergysuites.com/wp-content/uploads/Startup-Diaries-1.jpg" -->
+<!-- slide bg="https://www.synergysuites.com/wp-content/uploads/Startup-Diaries-1.jpg" timeForPresentation="" -->
 # Co-Working 
 ---
 ## Co-Working in Austria
