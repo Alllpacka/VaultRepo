@@ -52,3 +52,7 @@ NS --> Payload (DstIPv6) --> fe:00ff
 NS <------------------------ fe:00ff
 	   NA Payload (MAC Addr)
 
+# SLAAC:
+1. DAD
+2. Activate Link Local Address
+3. 
