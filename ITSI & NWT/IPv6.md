@@ -38,8 +38,9 @@ NA: Inhalt link layer address für Angefragte IP
 | ­          |                             |             |
 | ­          |                             |             |
 | ­          |                             |             |
-|            | srcIP \| dstIP HTTP Request |             |
+|            | srcMAC \| destMAC \| srcIP \| dstIP HTTP Request |             |
 
-srcIP von NW Interface
+srcMAC aus NW Interface (NW-Karte)
+srcIP aus Routing Table
 dstIP in Browser eingegeben
 
