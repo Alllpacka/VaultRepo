@@ -3,8 +3,7 @@ timeForPresentation: "300"
 bg:
 ---
 
-
-<!-- slide bg="https://www.synergysuites.com/wp-content/uploads/Startup-Diaries-1.jpg" timeForPresentation="5*60" -->
+<!-- slide bg="https://www.synergysuites.com/wp-content/uploads/Startup-Diaries-1.jpg" -->
 # Co-Working 
 ---
 ## Co-Working in Austria
@@ -35,4 +34,4 @@ bg:
 - nice hosts and members
 - an agreeable price
 ---
-# 
+# Thanks for your
