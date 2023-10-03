@@ -27,4 +27,15 @@ NS:  srcIP: ::
 fe80::4a5:0:0:1fb4 Angefragte IP
 
 
-NA: Inhalt link layer address für Ange IP
+NA: Inhalt link layer address für Angefragte IP
+
+
+| Webbrowser |     | HTTP Server |
+| ---------- | --- | ----------- |
+|            |     |             |
+|            |     |             |
+|            |     |             |
+|            |     |             |
+|            |     |             |
+|            |     |             |
+|            |     |             |
