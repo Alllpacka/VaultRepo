@@ -47,4 +47,6 @@ dstIP in Browser eingegeben
 
 
 \*:       ICMPv6(NS)
-NS --> Payload (DstIPv6) -->
+	   DstIPv6 Addr: ff02::1:ff
+NS --> Payload (DstIPv6) --> fe:00ff
+NS 
