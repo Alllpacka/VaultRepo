@@ -11,7 +11,12 @@
 ---
 # Likes (worldwide)
 - 70% liked the location
-- 
+- over 60% liked their coworkers
+- over 50% liked the hosts
+- only 30% agreed with the price
 
 ![[Pasted image 20231003124444.png]]
-
+---
+# dislikes (worldwide)
+- 
+![[Pasted image 20231003124806.png]]
