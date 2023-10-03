@@ -49,4 +49,6 @@ dstIP in Browser eingegeben
 \*:       ICMPv6(NS)
 	   DstIPv6 Addr: ff02::1:ff
 NS --> Payload (DstIPv6) --> fe:00ff
-NS 
+NS <------------------------ fe:00ff
+	   NA Payload (MAC Addr)
+
