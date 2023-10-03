@@ -25,3 +25,7 @@
 ![[Pasted image 20231003124806.png]]
 ---
 # important features
+- a good location
+- decent internet connection
+- nice hosts and members
+- an agreeable price
