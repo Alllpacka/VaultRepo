@@ -40,3 +40,6 @@ NA: Inhalt link layer address für Angefragte IP
 | ­          |                             |             |
 |            | srcIP \| dstIP HTTP Request |             |
 
+srcIP von NW Interface
+dstIP in Browser eingegeben
+
