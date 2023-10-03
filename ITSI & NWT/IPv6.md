@@ -56,3 +56,10 @@ NS <------------------------ fe:00ff
 1. DAD
 2. Activate Link Local Address
 3. RS --> mulitcast 
+4.    <-- RA
+	1. Payload
+	2. network prefix
+	3. default gateway
+5. Form a Address for each prefix
+	1. repeat until done
+6. DAD for each Address
