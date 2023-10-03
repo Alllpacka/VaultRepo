@@ -41,6 +41,10 @@ NA: Inhalt link layer address für Angefragte IP
 |            | srcMAC \| destMAC \| srcIP \| dstIP HTTP Request |             |
 
 srcMAC aus NW Interface (NW-Karte)
+dstMAC *
 srcIP aus Routing Table
 dstIP in Browser eingegeben
 
+
+\*:       ICMPv6(NS)
+NS --> Payload (DstIPv6) -->
