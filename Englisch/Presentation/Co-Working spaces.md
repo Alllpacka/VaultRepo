@@ -1,5 +1,5 @@
 <!-- slide bg="https://www.synergysuites.com/wp-content/uploads/Startup-Diaries-1.jpg" -->
-## Co-Working
+# Co-Working
 ---
 ## Co-Working in Austria
 - most spaces located in Vienna (almost 230 in 2019)
@@ -15,7 +15,7 @@
 - only 30% agreed with the price
 
 ![[Pasted image 20231003124444.png]]
----
+--
 ## dislikes (worldwide)
 - 25% disliked the noise
 - 20% disliked the lack of interaction
