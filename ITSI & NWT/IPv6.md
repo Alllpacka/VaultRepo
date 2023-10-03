@@ -16,5 +16,7 @@ der erste nuller block kann mit :: ersetzt werden
 EUI-64
 
 # duplicate address detection
-durch node solisidation:
-es wird eine 
+durch **Node Solicitation**:
+es wird eine "zufällige" zahl gewählt und durch einen multicast nachgefragt ob diese adresse schon vergeben wurde
+
+
