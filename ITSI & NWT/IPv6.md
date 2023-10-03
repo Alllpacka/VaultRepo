@@ -14,3 +14,7 @@ der erste nuller block kann mit :: ersetzt werden
 
 # interface id
 EUI-64
+
+# duplicate address detection
+durch node solisidation:
+es wird eine 
