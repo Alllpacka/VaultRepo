@@ -16,8 +16,9 @@ der erste nuller block kann mit :: ersetzt werden
 EUI-64
 
 # duplicate address detection
-durch **Neighbour Solicitation**:
+durch **Neighbor Solicitation**:
 es wird eine "zufällige" zahl gewählt und durch einen multicast nachgefragt ob diese adresse schon vergeben wurde
 
 -> fe80::4a5:0:0:1fb4
-NS: (srcIP:)
+NS: (srcIP: ::   dstIP: ff02::1:ff00:0/104
+											fb:4
