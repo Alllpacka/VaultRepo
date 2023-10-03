@@ -64,3 +64,5 @@ NS <------------------------ fe:00ff
 	1. repeat until done
 6. DAD for each Address
 
+~~~micgrodis
+/ipv6/nd/prefix/add autonomous=yes prefix=ether[nummer] 
