@@ -55,4 +55,4 @@ NS <------------------------ fe:00ff
 # SLAAC:
 1. DAD
 2. Activate Link Local Address
-3. 
+3. RS --> mulitcast 
