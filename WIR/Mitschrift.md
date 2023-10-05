@@ -208,13 +208,17 @@ klare Zielformolierung mittels *SMART* Formel
 \< 1 Jahr
 Handelswaren
 
+---
+
 lineare Afa: AW = Annschaffungswert
 			 NW = Nutzungswert
 
 AW, NW sind pro Jahr
 
----
+$$
+\frac{100000}{10} = 10000 \text{,- jährliche Afa}
+$$
 
-$$
-\frac{100000}{10} = 10000,- && \text{}
-$$
+degressive Afa: 30%
+
+geringwertige Wirtschats
