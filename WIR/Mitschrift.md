@@ -189,4 +189,6 @@ klare Zielformolierung mittels *SMART* Formel
 |                   | Komplementär             | **AG**                                |
 |                   |                          | Aktionengesellschaft                  |
 
-
+# anlagevermögen
+> länger als 1 Jahr
+> 	EDV, Maschienen, miete, gebäude, lkw, büro ausstattu
