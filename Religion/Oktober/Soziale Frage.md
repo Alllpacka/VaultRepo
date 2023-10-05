@@ -3,3 +3,9 @@ Der Begriff "Soziale Frage" steht im Zusammenhang mit den negativen Folgen der I
 # Soziale Problemfelder in Ö heute
 
 inflation
+arbeitslosigkeit
+wohnungsnot
+diskriminierung
+ausgrenzung
+altersarmut
+frauenarmut (alleinerzieher, geringfügig angestellte)
