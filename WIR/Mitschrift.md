@@ -198,6 +198,8 @@ klare Zielformolierung mittels *SMART* Formel
 | Gebäude             | Grundstück       |
 | Betriebsausstattung | Kunstgegenstände |
 |                     | Wertgegenstände  | 
+		\|\|
+	Abschreibung
 
 
 # umlaufvermögen
