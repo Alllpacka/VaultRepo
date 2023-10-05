@@ -198,8 +198,8 @@ klare Zielformolierung mittels *SMART* Formel
 | Gebäude             | Grundstück       |
 | Betriebsausstattung | Kunstgegenstände |
 |                     | Wertgegenstände  | 
-		\|\|
-	Abschreibung
+		\|\|               \|\|
+	Abschreibung     nicht Abschreibbar
 	= Betriebsausgabe
 	= Afa = Absetzung f. Abnützung
 
