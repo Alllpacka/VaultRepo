@@ -192,6 +192,10 @@ klare Zielformolierung mittels *SMART* Formel
 # anlagevermögen
 \> 1 Jahr
 	EDV, Maschienen, miete, gebäude, lkw, büroausstattung, ...
+| abnutzbar     | nicht abnutzbar |
+| ------------- | --------------- |
+| verliert wert |                 |
+
 
 # umlaufvermögen
 \< 1 Jahr
