@@ -189,9 +189,9 @@ klare Zielformolierung mittels *SMART* Formel
 |                   | Komplementär             | **AG**                                |
 |                   |                          | Aktionengesellschaft                  |
 
-# anlagevermögen
-\> 1 Jahr
-	EDV, Maschienen, miete, gebäude, lkw, büroausstattung, ...
+# Anlagevermögen
+\> 1 Jahr (5-10 Jahre)
+	EDV (2-5 Jahre), Maschienen, Miete, Gebäude, LKW, Büroausstattung, ...
 	
 | abnutzbar           | nicht abnutzbar  |
 | ------------------- | ---------------- |
@@ -204,11 +204,16 @@ klare Zielformolierung mittels *SMART* Formel
 	= Afa = Absetzung f. Abnützung
 
 
-# umlaufvermögen
+# Umlaufvermögen
 \< 1 Jahr
 Handelswaren
 
 lineare Afa: AW = Annschaffungswert
 			 NW = Nutzungswert
 
-AW
+AW, NW sind pro Jahr
+
+---
+
+$$
+$$
