@@ -4,9 +4,11 @@ Der Begriff "Soziale Frage" steht im Zusammenhang mit den negativen Folgen der I
 - karl marx
 	- gerechte kapitalverteilung (was unerhört)
 - adolf kolping
-	- 
+	- beschwert sich (über fehlende reformen)
 - freiherr von ketteler
+	- will die reform machen
 - leo XIII
+	- 
 
 # Soziale Problemfelder in Ö heute
 
