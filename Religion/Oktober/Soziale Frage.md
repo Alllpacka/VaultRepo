@@ -2,8 +2,9 @@ Der Begriff "Soziale Frage" steht im Zusammenhang mit den negativen Folgen der I
 
 ## reaktionen auf die soziale frage
 - karl marx
-	- gerechte  (was unerhört)
+	- gerechte kapitalverteilung (was unerhört)
 - adolf kolping
+	- 
 - freiherr von ketteler
 - leo XIII
 
