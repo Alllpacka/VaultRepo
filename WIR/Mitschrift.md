@@ -190,5 +190,10 @@ klare Zielformolierung mittels *SMART* Formel
 |                   |                          | Aktionengesellschaft                  |
 
 # anlagevermögen
-> länger als 1 Jahr
-> 	EDV, Maschienen, miete, gebäude, lkw, büro ausstattu
+\> 1 Jahr
+	EDV, Maschienen, miete, gebäude, lkw, büroausstattung, ...
+
+# umlaufvermögen
+\< 1 Jahr
+Handelswaren
+
