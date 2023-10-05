@@ -200,9 +200,15 @@ klare Zielformolierung mittels *SMART* Formel
 |                     | Wertgegenstände  | 
 		\|\|
 	Abschreibung
+	= Betriebsausgabe
+	= Afa = Absetzung f. Abnützung
 
 
 # umlaufvermögen
 \< 1 Jahr
 Handelswaren
 
+lineare Afa: AW = Annschaffungswert
+			 NW = Nutzungswert
+
+AW
