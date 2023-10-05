@@ -6,10 +6,14 @@ Der Begriff "Soziale Frage" steht im Zusammenhang mit den negativen Folgen der I
 	- ruft zur revolution
 - adolf kolping
 	- beschwert sich (über fehlende reformen)
+	- wohltätigkeit (selbsthilfe, soziale unterstützung, bildungsgeschichte)
 - freiherr von ketteler
 	- will die reform machen
+	- arbeiterInnenschutz
+	- gewerkschaften
 - leo XIII
 	- reformen
+	- stellt menschen in den mittelpunkt
 
 # Soziale Problemfelder in Ö heute
 
