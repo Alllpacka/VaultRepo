@@ -1,0 +1,1 @@
+Der Begriff "Soziale Frage" steht im Zusammenhang mit den negativen Folgen der Indu
