@@ -218,7 +218,9 @@ AW, NW sind pro Jahr
 $$
 \frac{100000}{10} = 10000 \text{,- jährliche Afa}
 $$
-
+	
 degressive Afa: 30%
 
-geringwertige Wirtschats
+geringwertige Wirtschatsgüter: €1000,- 
+					= Betriebsausgabe
+					= Abschreibung
