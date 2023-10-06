@@ -19,6 +19,7 @@ bg:
 - least spaces locate in Burgenland
 
 ![[Pasted image 20231003122952.png]]
+
 ---
 ## Likes (worldwide)
 - 70% liked the location
@@ -45,6 +46,6 @@ bg:
 - good for teambuilding
 - prices need work
 - more privacy
-- 
+- equal number of Co-Working places 
 ---
 # Thanks for your attention
