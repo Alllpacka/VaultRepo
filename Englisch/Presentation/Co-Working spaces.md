@@ -10,7 +10,8 @@ bg:
 - Co-Working in Austria
 - Likes
 - Dislikes
-- 
+- important features
+- conclusion
 ---
 ## Co-Working in Austria
 - most spaces located in Vienna (almost 230 in 2019)
@@ -41,5 +42,9 @@ bg:
 - an agreeable price
 ---
 ## Conclusion
+- good for teambuilding
+- prices need work
+- more privacy
+- 
 ---
 # Thanks for your attention
