@@ -230,9 +230,6 @@
   
 
 ## Aufgaben und Grundlagen des Verfassungsrechts
-
-  
-
 ### Verfassung
 
 - Wichtigsten Grundregeln in einem Staat, die bestimmen, wie der Staat funktionieren soll.
