@@ -146,8 +146,7 @@
 
 ![[Pasted image 20231007123413.png]]
 
-![[Pasted image 20231007123456.png]]#
-
+![[Pasted image 20231007123456.png]]
   
 
 - Sachverhalt: Konkreter Fall, der sich real ereignet hat und dessen rechtliche Folgen zu bestimmen sind.
