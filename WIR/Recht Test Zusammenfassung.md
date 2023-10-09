@@ -457,4 +457,3 @@
 
 - Macht im Staat auf mehrere Organe aufgeteilt
 
-![[Pasted image 20231009111352.png]]
