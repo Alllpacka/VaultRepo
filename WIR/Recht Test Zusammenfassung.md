@@ -411,7 +411,7 @@
 
 ### Rechtsstaatliches Prinzip
 
-- gibt eile allgemein kundgemachte Rechtsordnung
+- gibt eine allgemein kundgemachte Rechtsordnung
 
 - Jede Person, soll sich von dieser Kenntnis verschaffen und ihr Recht auch durchsetzen können.
 
