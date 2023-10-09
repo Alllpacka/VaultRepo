@@ -32,11 +32,10 @@ frauenarmut (alleinerzieher, geringfügig angestellte)
 30$ pro Monat (Indien)
 6 Köpfige Familie
 1 selbstgebautes Haus aus Blättern
-
+	 
 2.) Die größten Unterschiede für mich
 
 Der generelle Unterschied zwischen Arm und Reich, man kann gut erkennen welche Länder ausgebeutet wurden.
-
 3.) Das hat mich überrascht
 
 Nichts, mir ist bewusst das es Arme Menschen gibt.
