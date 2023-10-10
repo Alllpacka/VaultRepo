@@ -94,7 +94,7 @@
 
 - Abänderbarkeit
 
-![[Pasted image 20231006162803.png]]
+![[Pasted image 20231010170000.png]]
 
 ![[Pasted image 20231010165530.png]]
 
@@ -144,9 +144,9 @@
 
 - Gesetzliche Bestimmungen normalerweise nach folgendem Schema gegliedert:
 
-![[Pasted image 20231007123413.png]]
+![[Pasted image 20231010170031.png]]
 
-![[Pasted image 20231007123456.png]]
+![[Pasted image 20231010170056.png]]
   
 
 - Sachverhalt: Konkreter Fall, der sich real ereignet hat und dessen rechtliche Folgen zu bestimmen sind.
@@ -317,7 +317,7 @@
 
 - republikanisches Prinzip
 
-![[Pasted image 20231009083805.png]]
+![[Pasted image 20231010170134.png]]
 
   
 
