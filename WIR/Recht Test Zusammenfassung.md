@@ -167,7 +167,7 @@
 - Rechtsvorschriften: Setzen sich aus Tatbestand und Rechtsfolge zusammen.
 
   
-
+---
 ### Stufenbau der Rechtsordnung
 
 - Zusammenfassung der unterschiedlichen Ränge der Rechtsnormen
@@ -204,7 +204,7 @@
 - Strafgesetzbuch, Straßenverkehrsordnung, Bauordnung
 
   
-
+---
 #### Generelle und individuelle Rechtsnormen
 
 **Generelle Rechtsnormen:**
@@ -226,7 +226,7 @@
 - Wird Frist nicht genutzt, tritt Rechtskraft ein (nicht mehr anfechtbar).
 
   
-
+---
 ## Aufgaben und Grundlagen des Verfassungsrechts
 ### Verfassung
 
@@ -247,7 +247,7 @@
 - die Grundrechte
 
   
-
+---
 ### Rechtsquellen der österreichischen Verfassung
 
 - Ist auf viele Vorschriften verteilt
@@ -255,7 +255,7 @@
 - Wichtigste Rechtquelle: Bundesverfassungsgesetz
 
   
-
+---
 ### Staatszielbestimmungen
 
 - Gibt der Politik positive Ziele vor.
@@ -275,7 +275,7 @@
   - Wahrung der immerwährenden Neutralität
 
   
-
+---
 #### Rechte der alteingesessenen Volksgruppen
 
 - Gebrauch der Muttersprache as Amtssprache in Ämtern und Behörden
@@ -293,7 +293,7 @@
   - fremde Truppen nicht auf eigenem Staatsgebiet stationieren zu lassen.
 
   
-
+---
 ### Grundprinzipien der Verfassung
 
 - Gibt eine Hierarchie (Stufenbau der Rechtsordnung)
@@ -319,7 +319,7 @@
 ![[Pasted image 20231010170134.png]]
 
   
-
+---
 ### Demokratisches Prinzip
 
 - Wort "Demokratie", bedeutet "Volksherrschaft"
@@ -337,7 +337,7 @@
 - Charakteristisch ist auch, dass Grund- und Menschenrechte systematisch eingeschränkt und verletzt werden.
 
   
-
+---
 #### Direkte und indirekte Demokratie
 
 **Direkte Demokratie**
@@ -359,7 +359,7 @@
   Nationalratswahl
 
   
-
+---
 ### Republikanisches Prinzip
 
 - Regierende werden für eine bestimmte Zeit vom Volk gewählt.
@@ -383,7 +383,7 @@
 - Auf Lebenszeit
 
   
-
+---
 ### Bundesstaatliches Prinzip
 
 - Staat kann zentralistisch oder föderalistisch organisiert sein
@@ -403,7 +403,7 @@
 - Mehrere Ebenen die auf die Staatsfunktionen verteilt werden (Österreich)
 
   
-
+---
 ### Rechtsstaatliches Prinzip
 
 - gibt eine allgemein kundgemachte Rechtsordnung
@@ -439,7 +439,7 @@
 - Bindet die Verwaltung und Gerichte in ihrem handeln an die Gesetze
 
   
-
+---
 ### Liberales Prinzip
 
 - Gewährt den Menschen im Staat Freiheiten, indem es ihnen einen gewissen staatsfreien Raum garantiert.
@@ -447,7 +447,7 @@
 - Zeigt seine Auswirkungen vor allem in den Grund- und Freiheitsrechten deutlich.
 
   
-
+---
 ### Gewaltentrennendes Prinzip
 
 - Macht im Staat auf mehrere Organe aufgeteilt
