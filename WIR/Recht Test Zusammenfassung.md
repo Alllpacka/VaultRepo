@@ -36,7 +36,7 @@
 
 - Jemand, dem die Rechtsordnung Rechte zuerkennt und meistens auch Pflichten auferlegt, wird als Person oder Rechtssubjekt bezeichnet.
 
-  
+---
 
 **Rechtssubjekte**
 
@@ -45,8 +45,7 @@
 - Juristische Personen: Sind Künstliche Konstruktionen die von der Rechtsordnung wie Personen behandelt werden. Kann ein Vertragspartner sein, Vermögen haben und Klägerin oder Beklagte eines Zivil- oder Strafprozesses sein. Benötigt zu diesem Zweck Organe, also Menschen, die rechtliche Handlungen für sie vornehmen.
 
   Beispiele für Juristische Personen: der Bund, Gemeinden, Vereine, AGs
-
-  
+---  
 
 **Staatliche Organe**
 
@@ -83,7 +82,7 @@
 - Judikatur: Zu häufig auftretende Rechtsprobleme entwickeln sich zu einer ständigen Rechtsprechung
 
   
-
+---
 ### Arten des Rechts
 
 **Abgrenzungen:**
@@ -111,7 +110,7 @@
   - z.B. Erbrechtsangelegenheiten, Streitigkeiten zwischen Nachbarn
 
   
-
+---
 ### Zugang zum Recht
 
 **Mögliche Quellen:**
@@ -139,7 +138,7 @@
 - Verschiedene Stellen bieten kostenlose Rechtsauskünfte zum Zivilrecht an
 
   
-
+---
 ### Rechtsanwendung
 
 - Gesetzliche Bestimmungen normalerweise nach folgendem Schema gegliedert:
