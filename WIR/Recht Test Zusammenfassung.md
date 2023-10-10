@@ -96,7 +96,7 @@
 
 ![[Pasted image 20231006162803.png]]
 
-![[Pasted image 20231007122229.png]]
+![[Pasted image 20231010165530.png]]
 
 #### Abgrenzung zwischen Zivil- und Strafrecht
 
