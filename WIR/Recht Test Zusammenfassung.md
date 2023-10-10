@@ -161,7 +161,7 @@
 
 - Passt Sachverhalt zum Tatbestand so wird er diesem untergeordnet.
 
-![[Pasted image 20231007123955.png]]
+![[Pasted image 20231010165605.png]]
 
   
 
@@ -179,8 +179,7 @@
 
   - Darf nicht gegen ranghöhere Normen verstoßen.
 
-![[Pasted image 20231008094843.png]]
-
+![[Pasted image 20231010165656.png]]
   
 
 **Verfassungsgrundsätze:**
