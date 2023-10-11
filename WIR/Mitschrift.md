@@ -262,10 +262,8 @@ geringwertige Wirtschatsgüter: €1000,-
 - Sozialversicherungsbeitrag vom laufenden Bezug und von Sonderzalungen bzw. sonstigen Bezügen (Dienstnehmeranteil)
 - Lohnsteuer vom laufenden Bezug und von Sonderzahlungen bzw. sonstigen Bezügen
 
-### 
-
 ## Fahrtenbuch
-Unternehmer kann 42c pro km (mit max. 30.000km pro )
+Unternehmer kann 42c pro km (mit max. 30.000km pro Jahr) verrechnen, soll folgendes decken:
 - Teibstoffkosten
 - Versicherung
 - Parkgebühren
