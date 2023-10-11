@@ -254,4 +254,7 @@ geringwertige Wirtschatsgüter: €1000,-
 - Wohnsitz
 - Versicherungsnummer
 - Name und Versicherungsnummer des (Ehe-) Partners, wenn der Allleinverdienerabsetzbetrag berücksichtigt wurde
-- Name und Versicherungsnummer des (jüngsen) Ki
+- Name und Versicherungsnummer des (jüngsen) Kindes, wenn der Alleinerzieherabsetzbetrag berücksichtigt wurde
+- der für den Arbeitnehmer zuständige Sozialversicherungsträger
+- Bemessungsgrundlage für Dienstgeberbeitrag und Zuschlag zum Dienstgeberbeitrag
+- monatlicher laufender Bruttobezug inkl. Sachbezüge, Mehrarbeit, Überstunden, 
