@@ -239,7 +239,7 @@ geringwertige Wirtschatsgüter: €1000,-
 - Name (Firma) und Anschrift des Lieferanten
 - Bezeichung der Ware
 - Preis der Ware
-- Hinweis auf die da
+- Hinweis auf die dazugehörigen Belege (Belegnummer)
 
 ## Anlagenverzeichnis
 - Anschaffungstag
@@ -248,3 +248,10 @@ geringwertige Wirtschatsgüter: €1000,-
 - Nutzungsdauer
 - Betrag der jährlichen Absetzung für Abnutzung
 - den noch absetzbaren Betrag (Restbuchwert, Wert am Jahresende)
+
+## Lohnkonto
+- Name des Arbeitnehmers
+- Wohnsitz
+- Versicherungsnummer
+- Name und Versicherungsnummer des (Ehe-) Partners, wenn der Allleinverdienerabsetzbetrag berücksichtigt wurde
+- Name und Versicherungsnummer des (jüngsen) Ki
