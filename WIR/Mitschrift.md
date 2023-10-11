@@ -224,3 +224,13 @@ degressive Afa: 30%
 geringwertige Wirtschatsgüter: €1000,- 
 					= Betriebsausgabe
 					= Abschreibung
+
+
+# Aufzeichnungen der Einnahmen/Ausgaben RG
+
+## Einnamen/Ausgabenjournal
+- Bar/Kassa
+- Bank
+"Geld fließt zu oder ab"
+
+## Wareneigangsbuch
