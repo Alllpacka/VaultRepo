@@ -234,3 +234,8 @@ geringwertige Wirtschatsgüter: €1000,-
 "Geld fließt zu oder ab"
 
 ## Wareneigangsbuch
+
+## Anlagenverzeichnis
+- Anschaffungstag
+- Anschaffungs oder Herstellungskosten
+- Name und Anschrift des Liefer
