@@ -257,4 +257,10 @@ geringwertige Wirtschatsgüter: €1000,-
 - Name und Versicherungsnummer des (jüngsen) Kindes, wenn der Alleinerzieherabsetzbetrag berücksichtigt wurde
 - der für den Arbeitnehmer zuständige Sozialversicherungsträger
 - Bemessungsgrundlage für Dienstgeberbeitrag und Zuschlag zum Dienstgeberbeitrag
-- monatlicher laufender Bruttobezug inkl. Sachbezüge, Mehrarbeit, Überstunden, 
+- monatlicher laufender Bruttobezug inkl. Sachbezüge, Mehrarbeit, Überstunden, Zuschläge und Zulagen
+- Sonderzahlungen bzw. sonstige Bezüge
+- Sozialversicherungsbeitrag vom laufenden Bezug und von Sonderzalungen bzw. sonstigen Bezügen (Dienstnehmeranteil)
+- Lohnsteuer vom laufenden Bezug und von Sonderzahlungen bzw. sonstigen Bezügen
+
+## Fahrtenbuch
+- 
