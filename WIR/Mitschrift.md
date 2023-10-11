@@ -263,4 +263,16 @@ geringwertige Wirtschatsgüter: €1000,-
 - Lohnsteuer vom laufenden Bezug und von Sonderzahlungen bzw. sonstigen Bezügen
 
 ## Fahrtenbuch
-- 
+- Teibstoffkosten
+- Versicherung
+- Parkgebühren
+- Autobahnvignette
+- Anschaffungskosten bzw. Abschreibung
+- Service- und Reperaturkosten
+
+- Datum
+- Ausgangsort und Ziel der Fahrt
+- Zeit und Kilometerstand am Anfang sowie am Ende der beruflichen Fahrt
+- Dauer der beruflichen Fahrt
+- Zweck der beruflichen Fahrt
+- gefahrene Kilometer, getrennt nach beruc
