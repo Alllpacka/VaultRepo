@@ -234,8 +234,17 @@ geringwertige Wirtschatsgüter: €1000,-
 "Geld fließt zu oder ab"
 
 ## Wareneigangsbuch
+- fortlaufende Nummer
+- Tag des Wareneingangs oder der Rechnungslegung
+- Name (Firma) und Anschrift des Lieferanten
+- Bezeichung der Ware
+- Preis der Ware
+- Hinweis auf die da
 
 ## Anlagenverzeichnis
 - Anschaffungstag
 - Anschaffungs oder Herstellungskosten
-- Name und Anschrift des Liefer
+- Name und Anschrift des Lieferanten
+- Nutzungsdauer
+- Betrag der jährlichen Absetzung für Abnutzung
+- den noch absetzbaren Betrag (Restbuchwert, Wert am Jahresende)
