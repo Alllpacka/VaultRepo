@@ -262,7 +262,10 @@ geringwertige Wirtschatsgüter: €1000,-
 - Sozialversicherungsbeitrag vom laufenden Bezug und von Sonderzalungen bzw. sonstigen Bezügen (Dienstnehmeranteil)
 - Lohnsteuer vom laufenden Bezug und von Sonderzahlungen bzw. sonstigen Bezügen
 
+### 
+
 ## Fahrtenbuch
+Unternehmer kann 42c pro km (mit max. 30.000km pro )
 - Teibstoffkosten
 - Versicherung
 - Parkgebühren
@@ -270,9 +273,10 @@ geringwertige Wirtschatsgüter: €1000,-
 - Anschaffungskosten bzw. Abschreibung
 - Service- und Reperaturkosten
 
+### muss aufgezeichnet werden
 - Datum
 - Ausgangsort und Ziel der Fahrt
 - Zeit und Kilometerstand am Anfang sowie am Ende der beruflichen Fahrt
 - Dauer der beruflichen Fahrt
 - Zweck der beruflichen Fahrt
-- gefahrene Kilometer, getrennt nach beruc
+- gefahrene Kilometer, getrennt nach beruflichen und privaten Fahrten
