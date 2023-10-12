@@ -40,5 +40,8 @@ Der generelle Unterschied zwischen Arm und Reich, man kann gut erkennen welche L
 
 Nichts, mir ist bewusst das es Arme Menschen gibt.
 
+# Katholische Soziallehre
+-> leitet sich aus der Auseinandersetzung mit den sozialen Problemen und Nöten her
+Sie nimmt Stellung zu Fragen menschlichen Zusammenlebens, beruht sie auf Erkenntnissen der **Sozialethik**
 
-![[Pasted image 20231012091737.png]]
+![[79898a4068cf11ee973bab140f0c249b.map.png]]
