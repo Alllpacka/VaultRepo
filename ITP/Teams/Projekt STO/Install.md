@@ -3,3 +3,6 @@
 ![[Pasted image 20231012151811.png]]
 
 in VBox hinzufügen
+![[Pasted image 20231012151922.png]]
+![[Pasted image 20231012152013.png]]
+
