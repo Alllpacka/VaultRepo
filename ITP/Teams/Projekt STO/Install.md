@@ -12,3 +12,7 @@ und starten
 # Metasploitable
 [Metasploitable](https://sourceforge.net/projects/metasploitable/) von SourceForge runterladen
 ![[Pasted image 20231012152309.png]]
+
+eine neue Virtual Machine in VBox mit dem Metasploitable-Disk File anlegen
+
+![[Pasted image 20231012152641.png]]
