@@ -39,3 +39,6 @@ Der generelle Unterschied zwischen Arm und Reich, man kann gut erkennen welche L
 3.) Das hat mich überrascht
 
 Nichts, mir ist bewusst das es Arme Menschen gibt.
+
+
+![[Pasted image 20231012091737.png]]
