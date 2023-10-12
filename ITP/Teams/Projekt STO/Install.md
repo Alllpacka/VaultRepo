@@ -11,4 +11,4 @@ und starten
 
 # Metasploitable
 [Metasploitable](https://sourceforge.net/projects/metasploitable/) von SourceForge runterladen
-
+![[Pasted image 20231012152309.png]]
