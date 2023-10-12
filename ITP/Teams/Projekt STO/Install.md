@@ -14,5 +14,7 @@ und starten
 ![[Pasted image 20231012152309.png]]
 
 eine neue Virtual Machine in VBox mit dem Metasploitable-Disk File anlegen
-
+![[Pasted image 20231012152707.png]]
 ![[Pasted image 20231012152641.png]]
+
+# OWASP Juice Shop
