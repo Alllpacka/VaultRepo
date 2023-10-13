@@ -12,7 +12,7 @@ SSH
 
 # Diffie Hellman Key Exchange
 
-Ist **nur** für den key exchange **nicht** zur verschlüsselung
+Ist **nur** für den key exchange **nicht** zur Verschlüsselung
 
 ![[Pasted image 20230908091630.png]]
 
