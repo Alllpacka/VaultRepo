@@ -42,7 +42,7 @@ Nichts, mir ist bewusst das es Arme Menschen gibt.
 
 # Katholische Soziallehre
 -> leitet sich aus der Auseinandersetzung mit den sozialen Problemen und Nöten her
-Sie nimmt Stellung zu Fragen menschlichen Zusammenlebens, beruht sie auf Erkenntnissen der **Sozialethik**, der **heiligen Schrift** und der christlichen **Nächstenliebe**
+Sie nimmt Stellung zu Fragen menschlichen Zusammenlebens, beruht sie auf Erkenntnissen der   **Sozialethik**, der **heiligen Schrift** und der christlichen **Nächstenliebe**
 
 ![[79898a4068cf11ee973bab140f0c249b.map.png]]
 
