@@ -10,4 +10,6 @@ Although the math problem initially seemed tricky, with some guidance, it turned
 
 It's always better to be honest, as dishonesty can lead to serious consequences.
 
-It's essential to tell 
+It's essential to tell the truth rather than to lie, especially in important situations.
+
+He claimed to have found the lost wallet, but later he denied having it in his possession.
