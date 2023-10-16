@@ -8,3 +8,6 @@ The team managed to come together and prevent the project from falling apart.
 
 Although the math problem initially seemed tricky, with some guidance, it turned out to be quite straightforward.
 
+It's always better to be honest, as dishonesty can lead to serious consequences.
+
+It's essential to tell 
