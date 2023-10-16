@@ -41,6 +41,8 @@ Der generelle Unterschied zwischen Arm und Reich, man kann gut erkennen welche L
 Nichts, mir ist bewusst das es Arme Menschen gibt.
 
 # Katholische Soziallehre
+Leo XIII "Arbeiterpapst"
+Rerum Novarum ("Geist der Neuerung")
 -> leitet sich aus der Auseinandersetzung mit den sozialen Problemen und Nöten her
 Sie nimmt Stellung zu Fragen menschlichen Zusammenlebens, beruht sie auf Erkenntnissen der   **Sozialethik**, der **heiligen Schrift** und der christlichen **Nächstenliebe**
 
@@ -52,3 +54,4 @@ Sie nimmt Stellung zu Fragen menschlichen Zusammenlebens, beruht sie auf Erkennt
 Man übernimmt dabei Verantwortung für den anderen und somit für das Gelingen der Gesellschaft
 
 ![[5_Prinzipien.png]]
+
