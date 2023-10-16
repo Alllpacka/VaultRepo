@@ -50,3 +50,5 @@ Sie nimmt Stellung zu Fragen menschlichen Zusammenlebens, beruht sie auf Erkennt
 **Jeder Mensch ist zu sozialem Handeln und zur Nächstenliebe aufgefordert**
 "Du sollst deinen Nächsten lieben wei dich selbst" (Mi 22,39)
 Man übernimmt dabei Verantwortung für den anderen und somit für das Gelingen der Gesellschaft
+
+![[5_Prinzipien.png]]
