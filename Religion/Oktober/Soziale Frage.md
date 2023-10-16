@@ -55,3 +55,4 @@ Man übernimmt dabei Verantwortung für den anderen und somit für das Gelingen 
 
 ![[5_Prinzipien.png]]
 
+Die christliche Soziallehre vereint: Glaube und Gesellschaft, Mensch und Gemeinschaft und bringt gewissermaßen einen Ausgleich zwischen Kapitalismus und Sozialismus.
