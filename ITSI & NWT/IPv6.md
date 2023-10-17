@@ -66,6 +66,7 @@ NS <------------------------ fe:00ff
 
 ~~~microdic (hahahahhaha)
 /ipv6/address/add address=fd08::1 interface=ether1 advertise=yes
-/ipv6/address/add address=fd08 interface
+/ipv6/address/add address=fd08 interface=ether2 advertise=yes
+
 ~~~
 
