@@ -1,0 +1,22 @@
+galleries {
+    name varchar pk null
+    exhibitions varchar null > exhibitions.title
+}
+
+exhibitions {
+    title varchar pk null
+    startDate date null
+    endDate date null
+    artPieces integer null > artPieces.id
+}
+
+artPieces {
+    id integer pk null
+    name varchar null
+    type enum null
+    artist varchar null > artist.name
+}
+
+artist {
+    name varchar pk null
+}
