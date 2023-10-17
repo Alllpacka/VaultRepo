@@ -65,6 +65,7 @@ NS <------------------------ fe:00ff
 6. DAD for each Address
 
 ~~~microdic (hahahahhaha)
-/ipv6/nd/prefix/add autonomous=yes prefix=ether[nummer] 
+/ipv6/address/add address=fd08::1 interface=ether1 advertise=yes
+/ipv6/address/add address=fd08 interface
 ~~~
 
