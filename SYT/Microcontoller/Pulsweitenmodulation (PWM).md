@@ -1,4 +1,4 @@
-
+![[Pasted image 20231018101714.png]]
 $$
 T = 20ms 
 $$
@@ -9,4 +9,3 @@ $$
 $$
 \frac{Pulszeit}{Pulspause} = \text{duty cycle}
 $$
-
