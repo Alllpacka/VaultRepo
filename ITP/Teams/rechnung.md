@@ -5,4 +5,4 @@ $$
 Stunden sind falsch:
 5-6 Wochen Urlaub
 2 Wochen Krankenstand
-Schulungen
+1 Wochen Schulungen
