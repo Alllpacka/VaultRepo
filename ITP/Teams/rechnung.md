@@ -1,8 +1,8 @@
 $$
-3000\text{€} : 150\text{h} = 20\text{€/h}
+3000\text{€} : 150\text{h} = 20\text{€/h}\to \text{x4} \to 80\text{€/h} 
 $$
 $$
-\to 80\text{€/h} \to \text{+Gewinn}
+\to \text{+Gewinn} \to 100\text{€/h}
 $$
 
 Stunden sind falsch:
