@@ -2,7 +2,7 @@ $$
 3000\text{€} : 150\text{h} = 20\text{€/h}
 $$
 $$
-\to 80\text{€/h}
+\to 80\text{€/h} \to \text{+Gewinn}
 $$
 
 Stunden sind falsch:
