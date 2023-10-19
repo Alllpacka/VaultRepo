@@ -1,5 +1,5 @@
 # Aufgabenstellung
-
+Ein Netzwerk mit 3 Linux Clients aufbauen und mit Kali-Linux versuchen 
 
 # Kali
 [Kali-OVA](https://www.kali.org/get-kali/#kali-installer-images) runterladen
