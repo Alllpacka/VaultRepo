@@ -22,6 +22,8 @@ Lösung:
 Username: admin
 Password: ' OR '1'='1
 
+![[Pasted image 20231019145654.png]]
+
 Erklärung:
 Da bei dem Passwort vergleich mit den Daten in der Datenbank fest gecoded wurde das das eingegeben Passwort in einzelnen Hochkomma geschrieben wird, kann man dies ausnutzen und eine OR Vergleich überschreiben.
 
@@ -41,4 +43,6 @@ Wie Aufgabe 1 wird hier ebenfalls im Code festgelegt das das eingegeben Passwort
 # Aufgabe 3
 
 ![[Pasted image 20231019145315.png]]
+
+
 
