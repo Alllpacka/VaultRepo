@@ -1,7 +1,7 @@
 # Aufgabenstellung
 Ein Netzwerk mit 3 Linux Clients aufbauen und mit Kali-Linux versuchen durch nmap Informationen über diese Systeme zu bekommen
 
-
+![[Untitled.png]]
 
 # Kali
 [Kali-OVA](https://www.kali.org/get-kali/#kali-installer-images) runterladen
@@ -23,3 +23,6 @@ eine neue Virtual Machine in VBox mit dem Metasploitable-Disk File anlegen
 ![[Pasted image 20231012152641.png]]
 
 # OWASP Juice Shop
+
+[OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) in einem speraten Client installieren
+
