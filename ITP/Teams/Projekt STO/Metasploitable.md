@@ -45,4 +45,3 @@ Wie Aufgabe 1 wird hier ebenfalls im Code festgelegt das das eingegeben Passwort
 ![[Pasted image 20231019145315.png]]
 
 
-
