@@ -33,9 +33,12 @@ Lösung:
 Username: admin
 Password: ' OR '1'='1
 
+![[Pasted image 20231019145401.png]]
+
 Erklärung:
 Wie Aufgabe 1 wird hier ebenfalls im Code festgelegt das das eingegeben Passwort in einzelnen Hochkomma steht
 
 # Aufgabe 3
 
 ![[Pasted image 20231019145315.png]]
+
