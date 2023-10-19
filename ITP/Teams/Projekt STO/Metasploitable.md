@@ -23,7 +23,7 @@ Username: admin
 Password: ' OR '1'='1
 
 Erklärung:
-Da bei dem Passwort vergleich mit den Daten in der Datenbank fest gecoded wurde das das eingegeben Passwort in einzelnem Hochkomma geschrieben wird, kann man dies ausnutzen und eine OR Vergleich überschreiben.
+Da bei dem Passwort vergleich mit den Daten in der Datenbank fest gecoded wurde das das eingegeben Passwort in einzelnen Hochkomma geschrieben wird, kann man dies ausnutzen und eine OR Vergleich überschreiben.
 
 ## Aufgabe 2
 
@@ -34,4 +34,8 @@ Username: admin
 Password: ' OR '1'='1
 
 Erklärung:
-Wie Au
+Wie Aufgabe 1 wird hier ebenfalls im Code festgelegt das das eingegeben Passwort in einzelnen Hochkomma steht
+
+# Aufgabe 3
+
+![[Pasted image 20231019145315.png]]
