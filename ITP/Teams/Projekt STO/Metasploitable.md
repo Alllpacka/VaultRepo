@@ -23,4 +23,4 @@ Username: admin
 Password: ' OR '1'='1
 
 Erklärung:
-Da bei dem Passwort vergleich mit den Daten in der Datenbank fest gecoded wurde dass 
+Da bei dem Passwort vergleich mit den Daten in der Datenbank fest gecoded wurde das das eingegeben Passwort in einzelnem Hochkomma geschrieben wird, kann man dies ausnutzen und eine OR 
