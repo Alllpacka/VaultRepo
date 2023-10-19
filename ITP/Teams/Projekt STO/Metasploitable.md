@@ -23,4 +23,15 @@ Username: admin
 Password: ' OR '1'='1
 
 Erklärung:
-Da bei dem Passwort vergleich mit den Daten in der Datenbank fest gecoded wurde das das eingegeben Passwort in einzelnem Hochkomma geschrieben wird, kann man dies ausnutzen und eine OR 
+Da bei dem Passwort vergleich mit den Daten in der Datenbank fest gecoded wurde das das eingegeben Passwort in einzelnem Hochkomma geschrieben wird, kann man dies ausnutzen und eine OR Vergleich überschreiben.
+
+## Aufgabe 2
+
+![[Pasted image 20231019145043.png]]
+
+Lösung:
+Username: admin
+Password: ' OR '1'='1
+
+Erklärung:
+Wie Au
