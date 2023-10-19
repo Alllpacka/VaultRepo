@@ -1,5 +1,7 @@
 # Aufgabenstellung
-Ein Netzwerk mit 3 Linux Clients aufbauen und mit Kali-Linux versuchen 
+Ein Netzwerk mit 3 Linux Clients aufbauen und mit Kali-Linux versuchen durch nmap Informationen über diese Systeme zu bekommen
+
+
 
 # Kali
 [Kali-OVA](https://www.kali.org/get-kali/#kali-installer-images) runterladen
