@@ -24,6 +24,7 @@ eine neue Virtual Machine in VBox mit dem Metasploitable-Disk File anlegen
 
 # OWASP Juice Shop
 
-[OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) in einem speraten Client installieren und über nodejs ausführen
+[OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) auf KALI installieren und über nodejs ausführen
+
 
 # nmap
