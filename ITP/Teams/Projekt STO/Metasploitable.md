@@ -15,5 +15,12 @@ Zurück zu Metasploitable wechseln und in der config.inc Datei 'metasploitable' 
 ![[Pasted image 20231019144017.png]]
 
 ## Aufgabe 1
-![[Pasted image 20231019144511.png]]
 
+![[Pasted image 20231019144535.png]]
+
+Lösung:
+Username: admin
+Password: ' OR '1'='1
+
+Erklärung:
+Da bei dem Passwort vergleich mit den Daten in der Datenbank fest gecoded wurde dass 
