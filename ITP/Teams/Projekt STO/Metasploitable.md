@@ -1,7 +1,11 @@
+# Aufgabenstellung
+Mit Metasploitable 
+
 Metasploitable und Kali starten und die IP Addresse von Metasploitable aufrufen.
 
 ![[Pasted image 20231019144125.png]]
 
+Auf Mutillidae clicken und die erste Aufgabe aufmachen
 
 
 In Metasploitable in der config.inc Datei 'metasploitable' zu 'owasp10' ändern
