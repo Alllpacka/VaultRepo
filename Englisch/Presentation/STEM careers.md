@@ -30,7 +30,9 @@
 	- very high demand
 	- diverse applications
 	- good salary
-- 
+- machine learning engineer
+	- cutting-edge technologie
+	- 
 --
 # cons
 - information and communication technologies
