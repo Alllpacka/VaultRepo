@@ -33,7 +33,7 @@
 - machine learning engineer
 	- cutting-edge technologies
 	- many fields to chose
-	- explosion in demand
+	- impactful work
 --
 # cons
 - information and communication technologies
@@ -47,5 +47,8 @@
 - machine learning engineer
 	- complex learning
 	- cleaning large data models
-	- 
+	- saturated market
 ---
+# conclusion
+- working in STEM -> job security
+- many field
