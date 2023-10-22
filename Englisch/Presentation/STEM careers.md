@@ -6,3 +6,5 @@
 - pros and cons
 ---
 ## popularity of STEM careers
+![[Pasted image 20231022201102.png]]
+- social 
