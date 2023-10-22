@@ -29,12 +29,16 @@
 - statistics
 	- very high demand
 	- diverse applications
-	- good 
+	- good salary
+- 
 --
 # cons
 - information and communication technologies
 	- long days
 	- repetitive
 	- stressful environment
-- 
+- statistics
+	- complex pre-processing
+	- isolation
+	- deep mathematical understanding
 ---
