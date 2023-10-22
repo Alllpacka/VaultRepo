@@ -31,8 +31,9 @@
 	- diverse applications
 	- good salary
 - machine learning engineer
-	- cutting-edge technologie
-	- 
+	- cutting-edge technologies
+	- many fields to chose
+	- explosion in demand
 --
 # cons
 - information and communication technologies
@@ -43,4 +44,8 @@
 	- complex pre-processing
 	- isolation
 	- deep mathematical understanding
+- machine learning engineer
+	- complex learning
+	- cleaning large data models
+	- 
 ---
