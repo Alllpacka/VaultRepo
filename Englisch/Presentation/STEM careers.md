@@ -25,8 +25,13 @@
 - information and communication technologies
 	- needed everywhere
 	- good earnings
-	- many advancemts 
+	- many options for remote work
+- 
 --
 # cons
-
+- information and communication technologies
+	- long days
+	- repetitive
+	- stressful environment
+- 
 ---
