@@ -5,7 +5,7 @@
 - career prospects of STEM graduates
 - pros and cons
 ---
-# popularity of STEM careers
+## popularity of STEM careers
 - social sciences dominates
 	- most students are female
 - second place: engineering
@@ -19,4 +19,11 @@
 - constant advancements
 - continuous learning
 ---
-# pros
+# pros and cons for career options open to me
+---
+# pros 
+
+--
+# cons
+
+---
