@@ -26,7 +26,10 @@
 	- needed everywhere
 	- good earnings
 	- many options for remote work
-- 
+- statistics
+	- very high demand
+	- diverse applications
+	- good 
 --
 # cons
 - information and communication technologies
