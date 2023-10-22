@@ -1,11 +1,11 @@
 # my top three career options
 ---
-## Table of content
+# Table of content
 - popularity of STEM careers
 - career prospects of STEM graduates
 - pros and cons
 ---
-## popularity of STEM careers
+# popularity of STEM careers
 - social sciences dominates
 	- most students are female
 - second place: engineering
@@ -13,6 +13,10 @@
 - agriculture lowest percentages
 ![[Pasted image 20231022201800.png]]
 ---
-## career prospects
+# career prospects
 - high demand for STEM students
-- 
+- -> job security
+- constant advancements
+- continuous learning
+---
+# pros
