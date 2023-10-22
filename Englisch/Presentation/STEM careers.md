@@ -22,7 +22,10 @@
 # pros and cons for career options open to me
 ---
 # pros 
-
+- information and communication technologies
+	- needed everywhere
+	- good earnings
+	- many advancemts 
 --
 # cons
 
