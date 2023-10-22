@@ -51,4 +51,8 @@
 ---
 # conclusion
 - working in STEM -> job security
-- many field
+- many fields oversaturated
+- stressful through long hours
+- mostly good pay
+---
+# Thanks for your attention
