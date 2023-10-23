@@ -30,3 +30,10 @@ Mutter: 34.000
 Vater: ?
 Hast du einen guten Lebensstandard:
 
+Was machst du in den Ferien:
+
+Hast du ein Haustier:
+nein
+Was machst dich froh:
+
+Wovor hast du Angst:
