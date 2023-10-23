@@ -29,7 +29,7 @@ Vater: ?
 Mutter: 34.000
 Vater: ?
 #### Hast du einen guten Lebensstandard:
-
+nicht ganz, überleben halt
 #### Was machst du in den Ferien:
 
 #### Hast du ein Haustier:
