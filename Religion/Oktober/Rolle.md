@@ -22,7 +22,11 @@ Wer sind deine Freunde:
 
 Was sind deine Hobbies:
 
-
+Was arbeiten deine Eltern:
 Mutter: Sekretärin
 Vater: ?
-34.000 in Wien
+Wie viel verdieben sie im Monat:
+Mutter: 34.000
+Vater: ?
+Hast du einen guten Lebensstandard:
+
