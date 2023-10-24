@@ -278,3 +278,5 @@ Unternehmer kann 42c pro km (mit max. 30.000km pro Jahr) verrechnen, soll folgen
 - Dauer der beruflichen Fahrt
 - Zweck der beruflichen Fahrt
 - gefahrene Kilometer, getrennt nach beruflichen und privaten Fahrten
+
+
