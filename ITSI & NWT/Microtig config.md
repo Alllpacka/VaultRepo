@@ -68,7 +68,7 @@ interface/wireless/set ssid=HTLHL security-profile=HTLsec mode=station numbers=1
 ~~~
 
 
-## RIP
+## [RIP](https://en.wikipedia.org/wiki/Routing_Information_Protocol)
 + RIP-Instanz
 	+ Name
 	+ redistribute = connected
