@@ -70,3 +70,4 @@ NS <------------------------ fe:00ff
 
 ~~~
 
+# [Deijkstra](https://de.wikipedia.org/wiki/Dijkstra-Algorithmus)
