@@ -3,7 +3,7 @@
 
 ![[Pasted image 20230526082556.png]]
 
-G ... Graph
+G … Graph
 V … Vertices
 
 $$
@@ -49,6 +49,6 @@ interface/bridge/port/add bridge=br interface={"ether" . $i}
 
 ~~~
 
-# [Deijkstra](https://de.wikipedia.org/wiki/Dijkstra-Algorithmus)
+
 
 
