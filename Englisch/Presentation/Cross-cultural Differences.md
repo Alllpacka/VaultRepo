@@ -17,3 +17,5 @@
 - invading personal space -> inappropriate
 ---
 # Eye contact
+- long eye contact -> aggressive / sincerity
+- 
