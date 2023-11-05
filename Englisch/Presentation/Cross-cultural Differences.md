@@ -30,4 +30,5 @@
 - no ranking system
 ---
 # Conclusion
+- avoid misunderstandings
 - 
