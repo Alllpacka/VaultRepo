@@ -31,4 +31,4 @@
 ---
 # Conclusion
 - avoid misunderstandings
-- 
+- embrace
