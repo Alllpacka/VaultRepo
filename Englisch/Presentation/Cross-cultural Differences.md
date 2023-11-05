@@ -27,4 +27,6 @@
 - social status / rank 
 	- social manners
 	- age
-- 
+- no ranking system
+---
+# Conclusion
