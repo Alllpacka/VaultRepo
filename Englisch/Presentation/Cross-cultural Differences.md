@@ -14,4 +14,6 @@
 ---
 # Personal space
 - standing close or holding distance
-- standing 
+- invading personal space -> inappropriate
+---
+# Eye contact
