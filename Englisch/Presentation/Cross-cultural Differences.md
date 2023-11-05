@@ -24,3 +24,7 @@
 - large difference between cultures
 ---
 # Egalitarian or hierarchical
+- social status / rank 
+	- social manners
+	- age
+- 
