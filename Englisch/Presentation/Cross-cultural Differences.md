@@ -31,4 +31,4 @@
 ---
 # Conclusion
 - avoid misunderstandings
-- 
+- develop diversity and understanding
