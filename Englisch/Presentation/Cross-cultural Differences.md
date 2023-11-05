@@ -18,4 +18,9 @@
 ---
 # Eye contact
 - long eye contact -> aggressive / sincerity
-- 
+---
+# Private sphere vs public sphere
+- clear boundaries
+- large difference between cultures
+---
+# Egalitarian or hierarchical
