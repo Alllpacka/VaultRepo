@@ -8,3 +8,10 @@
 - egalitarian or hierarchical
 ---
 # Greetings
+- casual or formal
+- greeting strangers
+- gestures
+---
+# Personal space
+- standing close or holding distance
+- standing 
