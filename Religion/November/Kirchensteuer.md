@@ -10,6 +10,6 @@ Schüler/innen und Studierende ohne Einkommen, Lehrlinge, Zivil- und Grundwehrdi
 
 ## Was passiert, wenn man die Kirchensteuer nicht bezahlt?
 
-
+Wenn die Kirchensteuer länger nicht bezahlt wird, kann die Kirche den Betrag einklagen
 
 ## Wofür wird die Kirchensteuer verwendet?
