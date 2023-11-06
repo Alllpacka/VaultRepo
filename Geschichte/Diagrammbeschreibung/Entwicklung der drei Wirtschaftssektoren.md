@@ -21,4 +21,12 @@ Reduktion vom Primären Sektors
 - von Hauptweberbsbauern zu Nebenbewerbsbauern
 - wechsel vom Land in die Stadt
 - Erbfolge (älterstes Kind bekommt Hof)
-- 
+
+Zunahme und Rückgang des Sekundären Sektors
+
+Zunahme:
+- begin der Industrialisierung
+- Fliesbandproduktion
+- Höhepunkt Rüstungsindustrie
+
+Rück
