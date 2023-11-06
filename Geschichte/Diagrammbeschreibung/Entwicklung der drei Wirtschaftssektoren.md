@@ -14,5 +14,5 @@ Dominanz des Primären Sektors um 1800
 - Vor-Industrielle Zeit
 - viele Hände wegen Landwirtschaft ohne Maschienen
 - viele Kleinbauern fast keine Großbauern
-- Landwirtschaft für Selbstversorgung (Subsistenz-Wirtschaft)
+- Landwirtschaft für Selbstversorgung (**Subsistenzwirtschaft**)
 - 
