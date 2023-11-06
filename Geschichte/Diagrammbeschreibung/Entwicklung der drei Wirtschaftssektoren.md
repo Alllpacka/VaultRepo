@@ -29,4 +29,11 @@ Zunahme:
 - Fliesbandproduktion
 - Höhepunkt Rüstungsindustrie
 
-Rück
+Rückgang:
+- Automatisierung
+- Outsourcing
+
+Dominanz des Tertiären Sektors:
+
+- Digitalisierung
+- 
