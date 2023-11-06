@@ -39,4 +39,4 @@ Dominanz des Tertiären Sektors:
 - Höhere Schulische Ausbildung
 - höheres Einkommensnievau
 - keine Körperliche anstrengung
-- 
+- Steigendes Einkommen lässt den Dienstleistungsbereich noch schneller steigen
