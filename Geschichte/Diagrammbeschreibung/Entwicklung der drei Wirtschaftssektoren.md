@@ -15,4 +15,7 @@ Dominanz des Primären Sektors um 1800
 - viele Hände wegen Landwirtschaft ohne Maschienen
 - viele Kleinbauern fast keine Großbauern
 - Landwirtschaft für Selbstversorgung (**Subsistenzwirtschaft**)
-- 
+Reduktion vom Primären Sektors
+- viel Mechanisierung
+- von Hauptweberbsbauern zu Nebenbewerbsbauern
+- wechsel von land in d
