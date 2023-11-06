@@ -36,4 +36,7 @@ Rückgang:
 Dominanz des Tertiären Sektors:
 
 - Digitalisierung
+- Höhere Schulische Ausbildung
+- höheres Einkommensnievau
+- keine Körperliche anstrengung
 - 
