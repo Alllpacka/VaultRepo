@@ -7,3 +7,4 @@ Der Primäre Sektor sinkt seit 1800 von ca 80% zu ca 10% im Jahre 2100.
 
 Der Sekundäre Sektor betrug im Jahre 1800 ca 10%, hatte seinen Höhepunkt im Jahre 1950 mit ca 35% und wird im Jahre 2100 ca 10% betragen.
 
+Der Tertiäre Sektor wuchs von 1800 mit ca 10% auf ca 35% im Jahre 1950 und "explodierte" seitdem, und bis 2100 auf ca 80%
