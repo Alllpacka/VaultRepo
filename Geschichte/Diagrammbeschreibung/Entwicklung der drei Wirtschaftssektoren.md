@@ -12,4 +12,7 @@ Der Tertiäre Sektor wuchs von 1800 mit ca 10% auf ca 35% im Jahre 1950 und "exp
 
 Dominanz des Primären Sektors um 1800
 - Vor-Industrielle Zeit
-- viele Hände wegen Landwirtschaft 
+- viele Hände wegen Landwirtschaft ohne Maschienen
+- viele Kleinbauern fast keine Großbauern
+- Landwirtschaft für Selbstversorgung (Subsistenz-Wirtschaft)
+- 
