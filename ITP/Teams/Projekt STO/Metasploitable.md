@@ -46,3 +46,7 @@ Wie Aufgabe 1 wird hier ebenfalls im Code festgelegt das das eingegeben Passwort
 
 
 Ich weiß leider nicht was die Aufgabe hier ist, also keine Lösung
+
+
+# Aufgabe 4
+
