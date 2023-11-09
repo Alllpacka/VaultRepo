@@ -44,9 +44,11 @@ Wie Aufgabe 1 wird hier ebenfalls im Code festgelegt das das eingegeben Passwort
 
 ![[Pasted image 20231019145315.png]]
 
-
-Ich weiß leider nicht was die Aufgabe hier ist, also keine Lösung
-
+Lösung: x','x', (select password from )
+Username: 
+Password: -
+Confirm psw: -
+Signature: -
 
 # Aufgabe 4
 
