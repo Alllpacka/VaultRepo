@@ -14,4 +14,5 @@
 
 - Nennen sie einige Ursachen, die in Österreich zu Obdachlosigkeit führen können.
 	- plötzliche Kündigung ohne Geldreserven
-	- schwere Körperliche/psychische Probleme die einen hindern zu 
+	- schwere Körperliche/psychische Probleme die einen hindern zu Arbeiten
+	- hohe Steigerung der Miete
