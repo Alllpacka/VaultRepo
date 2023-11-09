@@ -6,6 +6,8 @@
 
 - Nennen Sie drei Ratschläge aus dem Text der Caritas und Diakonie, wie man mit Obdachlosigkeit umgehen könnte.
 	- Caritas: 
+		- bei Einrichtungen engagieren
+		- 
 
 - Recherchieren Sie die aktuellen Zahlen zu Obdachlosigkeit in Österreich.
 
