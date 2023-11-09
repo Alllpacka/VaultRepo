@@ -5,12 +5,12 @@
 		Großer evangelischer Verband zur Unterstützung und Beratung von Menschen
 
 - Nennen Sie drei Ratschläge aus dem Text der Caritas und Diakonie, wie man mit Obdachlosigkeit umgehen könnte.
-
-		- bei Einrichtungen engagieren
-		- fragen was genau Gebraucht wird
-		- mit den Menschen reden
+	- bei Einrichtungen engagieren
+	- fragen was genau Gebraucht wird
+	- zu Hilfsorganisationen spenden
 
 - Recherchieren Sie die aktuellen Zahlen zu Obdachlosigkeit in Österreich.
-
+	- 19450 Personen (2021)
 
 - Nennen sie einige Ursachen, die in Österreich zu Obdachlosigkeit führen können.
+	- 
