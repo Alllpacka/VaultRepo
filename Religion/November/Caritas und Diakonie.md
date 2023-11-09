@@ -5,12 +5,10 @@
 		Großer evangelischer Verband zur Unterstützung und Beratung von Menschen
 
 - Nennen Sie drei Ratschläge aus dem Text der Caritas und Diakonie, wie man mit Obdachlosigkeit umgehen könnte.
-	- Caritas: 
+
 		- bei Einrichtungen engagieren
 		- fragen was genau Gebraucht wird
 		- mit den Menschen reden
-	- Diakonie:
-		- 
 
 - Recherchieren Sie die aktuellen Zahlen zu Obdachlosigkeit in Österreich.
 
