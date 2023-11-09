@@ -72,4 +72,6 @@ Password: ' OR '1'='1
 ![[Pasted image 20231109150501.png]]
 
 Erklärung:
-Wie Aufgabe 1 wird hier ebenfalls im Code festgelegt das das eingegeben Passwort in einzelnen Hochkomma steht
+Wie Aufgabe 1 wird hier ebenfalls im Code festgelegt das das eingegeben Passwort in einzelnen Hochkomma steht.
+Wenn man eingeloggt 
+
