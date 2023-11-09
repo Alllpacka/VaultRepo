@@ -2,10 +2,10 @@
 	- Caritas:
 		Großer katholischer Verband zur Ünterstützung und Beratung von Menschen
 	- Diakonie
-		Großer evangelischer Verband 
+		Großer evangelischer Verband zur Unterstützung und Beratung von Menschen
 
 - Nennen Sie drei Ratschläge aus dem Text der Caritas und Diakonie, wie man mit Obdachlosigkeit umgehen könnte.
-
+	- Caritas: 
 
 - Recherchieren Sie die aktuellen Zahlen zu Obdachlosigkeit in Österreich.
 
