@@ -1,6 +1,8 @@
 - Erklären Sie die beiden Organisationen Caritas und Diakonie in wenigen Sätzen.
 	- Caritas:
-		Katholischer Verband zur Ünterstützung 
+		Großer katholischer Verband zur Ünterstützung und Beratung von Menschen
+	- Diakonie
+		Großer evangelischer Verband 
 
 - Nennen Sie drei Ratschläge aus dem Text der Caritas und Diakonie, wie man mit Obdachlosigkeit umgehen könnte.
 
