@@ -50,3 +50,16 @@ Ich weiß leider nicht was die Aufgabe hier ist, also keine Lösung
 
 # Aufgabe 4
 
+![[Pasted image 20231109150150.png]]
+
+Lösung:
+Username: admin
+Password: ' OR '1'='1
+
+![[Pasted image 20231109150256.png]]
+
+Erklärung:
+Wie Aufgabe 1 wird hier ebenfalls im Code festgelegt das das eingegeben Passwort in einzelnen Hochkomma steht
+
+# Aufgabe 5
+
