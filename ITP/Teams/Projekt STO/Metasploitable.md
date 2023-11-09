@@ -73,5 +73,9 @@ Password: ' OR '1'='1
 
 Erklärung:
 Wie Aufgabe 1 wird hier ebenfalls im Code festgelegt das das eingegeben Passwort in einzelnen Hochkomma steht.
-Wenn man eingeloggt 
+Wenn man eingeloggt ist wird einem eine Liste von allen Usern und deren Passwörtern ausgegeben
+
+# Aufgabe 6
+
+
 
