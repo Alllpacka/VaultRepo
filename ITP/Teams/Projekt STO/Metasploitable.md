@@ -63,3 +63,13 @@ Wie Aufgabe 1 wird hier ebenfalls im Code festgelegt das das eingegeben Passwort
 
 # Aufgabe 5
 
+![[Pasted image 20231109150336.png]]
+
+Lösung:
+Username: admin
+Password: ' OR '1'='1
+
+![[Pasted image 20231109150501.png]]
+
+Erklärung:
+Wie Aufgabe 1 wird hier ebenfalls im Code festgelegt das das eingegeben Passwort in einzelnen Hochkomma steht
