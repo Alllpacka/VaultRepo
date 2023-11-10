@@ -44,11 +44,14 @@ Wie Aufgabe 1 wird hier ebenfalls im Code festgelegt das das eingegeben Passwort
 
 ![[Pasted image 20231019145315.png]]
 
-Lösung: x','x', (select password from )
+Lösung: x','x', (select password from mysql.user where username = 'root') #
 Username: 
 Password: -
 Confirm psw: -
 Signature: -
+
+Erklärung:
+
 
 # Aufgabe 4
 
