@@ -32,3 +32,6 @@
 # Conclusion
 - avoid misunderstandings
 - develop diversity and understanding
+- break common misconceptions
+---
+# Thank you for your attention
