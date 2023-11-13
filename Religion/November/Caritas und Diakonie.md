@@ -1,3 +1,5 @@
+F
+
 - Erklären Sie die beiden Organisationen Caritas und Diakonie in wenigen Sätzen.
 	- Caritas:
 		Großer katholischer Verband zur Ünterstützung und Beratung von Menschen
@@ -16,3 +18,7 @@
 	- plötzliche Kündigung ohne Geldreserven
 	- schwere Körperliche/psychische Probleme die einen hindern zu Arbeiten
 	- hohe Steigerung der Miete
+
+F2)
+
+![[Pasted image 20231113081131.png]]
