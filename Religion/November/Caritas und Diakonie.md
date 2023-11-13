@@ -1,4 +1,4 @@
-F
+F1)
 
 - Erklären Sie die beiden Organisationen Caritas und Diakonie in wenigen Sätzen.
 	- Caritas:
@@ -22,3 +22,9 @@ F
 F2)
 
 ![[Pasted image 20231113081131.png]]
+
+
+F5)
+
+![[Pasted image 20231113081204.png]]
+
