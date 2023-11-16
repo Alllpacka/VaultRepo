@@ -14,4 +14,9 @@ Grundsätzlich bedeutet Armut immer einen Mangel an Ressourcen und Möglichkeite
 Bedeutet wenn Menschen aus Materiellen Gründen nicht in der Lage sind ihre Grundbedürfnisse (Unterkunft, Nahrung, Kleidung) zu befriedigen.
 # Relative Armut
 
-Bezieht sich auf die soziale Ungleichheit in einem Land und orientiert sich am sozialen Umfeld eines Menschen bzw. am Wohlstand und Lebensstandart der Gesellschaft in der die Person lebt
+Bezieht sich auf die soziale Ungleichheit in einem Land und orientiert sich am sozialen Umfeld eines Menschen bzw. am Wohlstand und Lebensstandart der Gesellschaft in der die Person lebt.
+
+# Ziele für nachhaltige Entwicklung
+
+Ziele für das bekämpfen und verringern der weltweiten Armut
+![[Pasted image 20231116091928.png]]
