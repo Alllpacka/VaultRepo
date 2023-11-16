@@ -18,5 +18,6 @@ Bezieht sich auf die soziale Ungleichheit in einem Land und orientiert sich am s
 
 # Ziele für nachhaltige Entwicklung
 
-Ziele für das bekämpfen und verringern der weltweiten Armut
+Ziele für das bekämpfen und verringern der weltweiten Armut die von der UN veröffentlicht wurden:
+
 ![[Pasted image 20231116091928.png]]
