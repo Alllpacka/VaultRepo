@@ -130,3 +130,19 @@ dictionary compleaten
 
     };
 ```
+
+## in exoplanets
+### in {id}.js
+
+dictionary compleaten
+```js
+    let operations = {
+
+        GET: getById,
+
+        PUT: /*name deiner put func*/,
+
+        DELETE: /*name deiner del*/,
+
+    };
+```
