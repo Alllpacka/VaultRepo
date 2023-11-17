@@ -142,10 +142,173 @@ dictionary compleaten
 
         PUT: /*name deiner put func*/,
 
-        DELETE: /*name deiner del*/
+        DELETE: /*name deiner delete func*/
 
     };
     
 ... //other code
+
+/*name deiner put func*/.apiDoc = {
+
+        summary: 'changes a single exoplanet by id.',
+
+        operationId: 'changeExoplanetById',
+
+        parameters: [
+
+            {
+
+                name: 'id',
+
+                in: 'path',
+
+                description: 'id of exoplanet to return.',
+
+                required: true,
+
+                schema: {
+
+                    type: 'integer',
+
+                    format: 'int64'
+
+                }
+
+            }
+
+        ],
+
+        requestBody: {
+
+            content: {
+
+                'application/json': {
+
+                    schema: {
+
+                        $ref: '#/components/schemas/exoplanet'
+
+                    }
+
+                }
+
+            }
+
+        },
+
+        responses: {
+
+            200: {
+
+                description: 'changed an exoplanet with the given id.',
+
+                content: {
+
+                    'application/json': {
+
+                        schema: {
+
+                            $ref: '#/components/schemas/exoplanet'
+
+                        }
+
+                    },
+
+                    'application/xml': {
+
+                        schema: {
+
+                            $ref: '#/components/schemas/exoplanet'
+
+                        }
+
+                    }
+
+                }
+
+            },
+
+            404: {
+
+                description: 'exoplanet with given id does not exist.'
+
+            }
+
+        }
+
+    };
+
+    /*name deiner delete func*/.apiDoc = {
+
+        summary: 'deletes a single exoplanet by id.',
+
+        operationId: 'deleteExoplanetById',
+
+        parameters: [
+
+            {
+
+                name: 'id',
+
+                in: 'path',
+
+                description: 'id of exoplanet to delete.',
+
+                required: true,
+
+                schema: {
+
+                    type: 'integer',
+
+                    format: 'int64'
+
+                }
+
+            }
+
+        ],
+
+        responses: {
+
+            200: {
+
+                description: 'deleted an exoplanet with the given id.',
+
+                content: {
+
+                    'application/json': {
+
+                        schema: {
+
+                            $ref: '#/components/schemas/exoplanet'
+
+                        }
+
+                    },
+
+                    'application/xml': {
+
+                        schema: {
+
+                            $ref: '#/components/schemas/exoplanet'
+
+                        }
+
+                    }
+
+                }
+
+            },
+
+            404: {
+
+                description: 'exoplanet with given id does not exist.'
+
+            }
+
+        }
+
+    };
+
 ```
 
