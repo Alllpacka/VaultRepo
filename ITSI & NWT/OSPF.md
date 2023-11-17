@@ -1,8 +1,6 @@
 # [Deijkstra](https://de.wikipedia.org/wiki/Dijkstra-Algorithmus)
 
 
-
-
 ![[Pasted image 20231110112500.png]]
 
 | --- | dist. R.O | 1   | 2   | 3   | 4   | 5   | Start |
