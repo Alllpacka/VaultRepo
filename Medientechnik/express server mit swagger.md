@@ -150,9 +150,9 @@ dictionary compleaten
 
 /*name deiner put func*/.apiDoc = {
 
-        summary: 'changes a single exoplanet by id.',
+        summary: /*beschreibung deiner func*/,
 
-        operationId: 'changeExoplanetById',
+        operationId: /*name deiner func*/,
 
         parameters: [
 
@@ -162,7 +162,7 @@ dictionary compleaten
 
                 in: 'path',
 
-                description: 'id of exoplanet to return.',
+                description: /*beschreibung von id*/,
 
                 required: true,
 
@@ -200,7 +200,7 @@ dictionary compleaten
 
             200: {
 
-                description: 'changed an exoplanet with the given id.',
+                description: /*beschreiben was zurückgegeben werden soll*/,
 
                 content: {
 
@@ -230,7 +230,7 @@ dictionary compleaten
 
             404: {
 
-                description: 'exoplanet with given id does not exist.'
+                description: /*kurze beschreibung des fehlers*/
 
             }
 
@@ -238,7 +238,7 @@ dictionary compleaten
 
     };
 
-    /*name deiner delete func*/.apiDoc = {
+/*name deiner delete func*/.apiDoc = {
 
         summary: /*kurze beschreibung*/,
 
