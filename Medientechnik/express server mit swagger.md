@@ -27,10 +27,23 @@ zu app.js gehen
 ```js
 import logging from './middleware/logging.js'
 
-... # other code
+... // other code
 
-# über initialize
+// über initialize
 app.use(logging);
 
 app.use(express.json());
+```
+
+# in api/v1/paths
+## in exoplanets.js
+dictionary compleaten
+```js
+    let operations = {
+
+        GET: getExoplanets,
+
+        POST: // name d
+
+    };
 ```
