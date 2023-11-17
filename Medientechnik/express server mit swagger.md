@@ -52,9 +52,9 @@ dictionary compleaten
 // swagger doc erstellen
     /*name deiner post func*/.apiDoc = {
 
-        summary: 'creates an exoplanet.',
+        summary: /*beschreibung deiner func*/,
 
-        operationId: // name deiner post func,
+        operationId: /*name deiner post func*/,
 
         parameters: [],
 
@@ -80,7 +80,7 @@ dictionary compleaten
 
             200: {
 
-                description: 'created an exoplanet.',
+                description: /*beschreiben was zurückgegeben werden soll*/,
 
                 content: {
 
@@ -122,7 +122,7 @@ dictionary compleaten
 
             default: {
 
-                description: 'An error occurred',
+                description: /*kurze beschreibung des fehlers*/,
 
             }
 
