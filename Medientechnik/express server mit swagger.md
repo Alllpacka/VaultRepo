@@ -142,7 +142,10 @@ dictionary compleaten
 
         PUT: /*name deiner put func*/,
 
-        DELETE: /*name deiner del*/,
+        DELETE: /*name deiner del*/
 
     };
+    
+... //other code
 ```
+
