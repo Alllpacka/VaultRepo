@@ -25,7 +25,10 @@ export {name, zipCode}
 ```
 ###### Default Exports
 ```js
-c
+const testExport = {
+	name: 'Eduard Müller',
+	zipCode: 2020
+}
 ```
 
 
