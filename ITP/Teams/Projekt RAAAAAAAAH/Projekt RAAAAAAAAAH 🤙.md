@@ -64,6 +64,8 @@ a = 5;
 b = 6;
 
 const mul = (a, b) => a * b;
+
+console.log(mul(a, b)); // Output: 30
 ```
 
 
