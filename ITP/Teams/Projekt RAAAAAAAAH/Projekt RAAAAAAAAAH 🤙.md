@@ -80,3 +80,5 @@ const name = 'Helmut Rahm'
 
 const sayHello = name => "Hallo " + name;
 ```
+
+In *Array Funktionen* gibt es das ***this*** Schlüsselwort nicht im kassischem Sinne 
