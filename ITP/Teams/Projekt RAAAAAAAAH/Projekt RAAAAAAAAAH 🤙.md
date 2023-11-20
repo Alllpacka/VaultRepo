@@ -13,10 +13,14 @@ Funktionen und Variablen können in externen Files gespeichert werden. Es gibt z
 **Einsatzgebiet mit Anwendungsbeispielen**
 ###### Named Exports
 ```js
-
+export const name = 'Eduard Müller';
+export const zipCode = 2020;
 ```
-
-###### Named Exports
+```js
+export const name = 'Eduard Müller';
+export const zipCode = 2020;
+```
+###### Default Exports
 ```js
 
 ```
