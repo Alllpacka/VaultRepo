@@ -81,4 +81,4 @@ const name = 'Helmut Rahm'
 const sayHello = name => "Hallo " + name;
 ```
 
-In *Array Funktionen* gibt es das ***this*** Schlüsselwort nicht im kassischem Sinne 
+In *Arrow Funktionen* gibt es das ***this*** Schlüsselwort nicht im kassischem Sinne. Im klassischem Sinne repressentiert das ***this*** Schlüsselwort das Objekt das die Funktion aufgerufen hat, in *Arrow Funktionen* representiert es den Besitzer der Funktion.
