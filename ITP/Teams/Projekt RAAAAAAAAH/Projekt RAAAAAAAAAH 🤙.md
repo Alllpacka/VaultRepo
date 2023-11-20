@@ -55,7 +55,7 @@ Imports von *Named Exports* müssen mit geschwungenen Klammern deklariert werden
 ## Arrow Funktionen
 
 **Definition**
-
+Mit *Arrow Funktionen* 
 
 
 **Einsatzgebiet mit Anwendungsbeispielen**
