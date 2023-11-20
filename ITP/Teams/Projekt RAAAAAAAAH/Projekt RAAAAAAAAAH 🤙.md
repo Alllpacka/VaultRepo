@@ -55,13 +55,15 @@ Imports von *Named Exports* müssen mit geschwungenen Klammern deklariert werden
 ## Arrow Funktionen
 
 **Definition**
-Mit *Arrow Funktionen* können mit wenig Aufwand Funktionen deklariert werden. *Arrow Funktionen* haben einen viel kürzeren Syntax als Reguläre Funktionen-Deklaration.
+Mit *Arrow Funktionen* können mit wenig Aufwand Funktionen deklariert werden. *Arrow Funktionen* haben einen viel kürzeren Syntax als Reguläre Funktionen-Deklaration. *Arrow Funktionen* können auf verschiedene, aber gleich richtige, Arten geschrieben werden.
 
 
 **Einsatzgebiet mit Anwendungsbeispielen**
 ```js
 a = 5;
 b = 6;
+
+
 
 const mul = (a, b) => a * b;
 
