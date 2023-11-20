@@ -59,7 +59,9 @@ Mit *Arrow Funktionen* können mit wenig Aufwand Funktionen deklariert werden. *
 
 
 **Einsatzgebiet mit Anwendungsbeispielen**
-
+```js
+const mul = (a, b) => a * b;
+```
 
 
 **Besonderheiten**
