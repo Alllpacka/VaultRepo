@@ -60,6 +60,9 @@ Mit *Arrow Funktionen* können mit wenig Aufwand Funktionen deklariert werden. *
 
 **Einsatzgebiet mit Anwendungsbeispielen**
 ```js
+a = 5;
+b = 6;
+
 const mul = (a, b) => a * b;
 ```
 
