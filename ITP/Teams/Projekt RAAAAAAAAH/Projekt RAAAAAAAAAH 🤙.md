@@ -53,3 +53,13 @@ Es kann nur einen *Default Export* pro File geben
 Imports von *Named Exports* müssen mit geschwungenen Klammern deklariert werden, Imports von *Default Exports* nicht
 
 ## Arrow Funktionen
+
+**Definition**
+
+
+
+**Einsatzgebiet mit Anwendungsbeispielen**
+
+
+
+**Besonderheiten**
