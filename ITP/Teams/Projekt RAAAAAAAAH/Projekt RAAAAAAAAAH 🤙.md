@@ -16,13 +16,16 @@ Funktionen und Variablen können in externen Files gespeichert werden. Es gibt z
 export const name = 'Eduard Müller';
 export const zipCode = 2020;
 ```
+
 ```js
-export const name = 'Eduard Müller';
-export const zipCode = 2020;
+const name = 'Eduard Müller';
+const zipCode = 2020;
+
+export {name, zipCode}
 ```
 ###### Default Exports
 ```js
-
+c
 ```
 
 
