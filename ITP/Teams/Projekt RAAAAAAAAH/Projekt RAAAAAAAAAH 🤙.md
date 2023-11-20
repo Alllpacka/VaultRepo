@@ -41,11 +41,13 @@ import { name, zipCode } from "./namedExport.js";
 
 ###### Import von *Default Exports*
 ```js
-import
+import testExport from "./defaultExport.js"
 ```
 
 **Besonderheiten**
 
+##### Default Exports
+Es
 
 
 ## Arrow Funktionen
