@@ -50,3 +50,6 @@ Lebensbedürfnissen hinzukommen, wie z.B.:
 
 ![[Pasted image 20231120081919.png]]
 
+## Besonders armutsgefährdet
+- Pensionist\*Innen
+- 
