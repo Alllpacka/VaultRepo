@@ -73,4 +73,10 @@ console.log(mul(a, b)); // Output: 30
 
 
 **Besonderheiten**
-Wenn nur ein Parameter gegeben ist müssen keine Klammern 
+Wenn nur ein Parameter gegeben ist müssen keine Klammern gesetzt werden
+
+```js
+const name = 'Helmut Rahm'
+
+const sayHello = name => "Hallo " + name;
+```
