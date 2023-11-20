@@ -6,14 +6,21 @@
 ##### Export
 Funktionen und Variablen können in externen Files gespeichert werden. Es gibt zwei Varianten zu Exportieren: *Named Exports* und *Default Exports*
 
-###### Named Exports
+##### Import
+
 
 
 **Einsatzgebiet mit Anwendungsbeispielen**
-
+###### Named Exports
 ```js
 
 ```
+
+###### Named Exports
+```js
+
+```
+
 
 **Besonderheiten**
 
