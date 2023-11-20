@@ -1,5 +1,6 @@
 # ES.6 Zusammenfassung
 
+#Adrian
 ## Variablen Block-Scope, let und const
 
 **Definition**
@@ -45,11 +46,9 @@ Es handelt sich um eine spezielle Art von Zeichenketten, die mit Backticks (\`) 
 
 **Einsatzgebiet mit Anwendungsbeispielen**
 
-  
+Zusammenstellung von zeichenketten, Mehrzeilige Zeichenketten, Generierung von HTML oder anderen Textformaten
 
-Zusammenstellung von zeichenketten, Mehrzeilige Zeichenketten, Generierung von HTML oder anderenTextformaten
-
-```Java
+```js
 
 const name = "Alice";
 
@@ -61,21 +60,21 @@ console.log(greeting); // Ausgabe: Hallo, mein Name ist Alice und ich bin 30 Jah
 
 ```
 
-  
+**Besonderheiten**
 
-### Besonderheiten
-
-  
-
-**Einbettung von Ausdrücken:**
+###### Einbettung von Ausdrücken:
 
 - Hat den Vorteil, dass sie die Einbettung von, z.B.: Variablen, direkt in die Zeichenkette ermöglichen.
 
-**Mehrzeilige Zeichenketten:**
+###### Mehrzeilige Zeichenketten:
 
 - Können über mehrere Zeilen gehen, ohne dass Escape-Zeichen oder Zeichenkettenverkettungen erforderlich sind.
 
 
+# Jannis
+
+
+#Jakob
 ## Export und Import
 
 **Definition**
@@ -158,3 +157,8 @@ const sayHello = name => "Hallo " + name;
 ```
 
 In *Arrow Funktionen* gibt es das ***this*** Schlüsselwort nicht im klassischem Sinne. Im klassischem Sinne repräsentiert das ***this*** Schlüsselwort das Objekt das die Funktion aufgerufen hat, in *Arrow Funktionen* repräsentiert es den Besitzer der Funktion. 
+
+#Paul
+
+
+#Julian
