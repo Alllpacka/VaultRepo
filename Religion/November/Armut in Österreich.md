@@ -22,19 +22,6 @@ Ziele für das bekämpfen und verringern der weltweiten Armut die von der UN ver
 
 ![[Pasted image 20231116091928.png]]
 
-<<<<<<< HEAD
-=======
 # Äußerung von Armut in Österreich (Armutsgefährdung):
 
 ![[Pasted image 20231120081344.png]]
-
-**Aktuell sind 13,9% der Bevölkerung
-in Österreich armutsgefährdet.
-Die Zahl der armutsgefährdeten
-Personen liegt bei ca. 1,22
-Millionen Menschen – das ist etwa
-jede 7. Person!**
-
-
-# 
->>>>>>> origin/main
