@@ -7,7 +7,7 @@
 Funktionen und Variablen können in externen Files gespeichert werden. Es gibt zwei Varianten zu Exportieren: *Named Exports* und *Default Exports*
 
 ##### Import
-Funktionen und Variablen können in zwei 
+Funktionen und Variablen können in zwei Wegen importiert werden, die Methode entscheidet ob es ein *Named Export* oder ein *Default Export* ist.
 
 
 **Einsatzgebiet mit Anwendungsbeispielen**
@@ -34,6 +34,10 @@ const testExport = {
 export default testExport;
 ```
 
+###### Import von *Named Exports*
+```js
+import { name, zipCode } from "./";
+```
 
 **Besonderheiten**
 
