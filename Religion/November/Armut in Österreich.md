@@ -46,3 +46,7 @@ Lebensbedürfnissen hinzukommen, wie z.B.:
 - es ist finanziell nicht möglich, unerwartete Ausgaben bis zu einer Höhe von 1.260 Euro zu tätigen
 - es ist finanziell nicht möglich, zumindest einmal im Monat Gäste zu sich zum Essen einzuladen
 
+## 4 Dimensionen von Armut
+
+![[Pasted image 20231120081919.png]]
+
