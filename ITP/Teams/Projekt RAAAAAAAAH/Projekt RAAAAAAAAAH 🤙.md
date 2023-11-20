@@ -47,7 +47,9 @@ import testExport from "./defaultExport.js"
 **Besonderheiten**
 
 ##### Default Exports
-Es
+Es kann nur einen *Default Export* pro File geben
 
+##### Imports
+Imports von *Named Exports* müssen mit geschwungenen Klammern deklariert werden, Imports von *Default Exports* nicht
 
 ## Arrow Funktionen
