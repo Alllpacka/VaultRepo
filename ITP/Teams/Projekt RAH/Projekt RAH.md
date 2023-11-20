@@ -70,6 +70,7 @@ console.log(greeting); // Ausgabe: Hallo, mein Name ist Alice und ich bin 30 Jah
 
 - Können über mehrere Zeilen gehen, ohne dass Escape-Zeichen oder Zeichenkettenverkettungen erforderlich sind.
 
+
 #Jannis
 ## Destructuring von Objekten und Arrays
 
@@ -255,6 +256,9 @@ const sayHello = name => "Hallo " + name;
 ```
 
 In *Arrow Funktionen* gibt es das ***this*** Schlüsselwort nicht im klassischem Sinne. Im klassischem Sinne repräsentiert das ***this*** Schlüsselwort das Objekt das die Funktion aufgerufen hat, in *Arrow Funktionen* repräsentiert es den Besitzer der Funktion. 
+
+
+
 
 #Paul
 
