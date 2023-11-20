@@ -63,8 +63,9 @@ Mit *Arrow Funktionen* können mit wenig Aufwand Funktionen deklariert werden. *
 a = 5;
 b = 6;
 
-
-
+// Varianten
+const add = (a, b) => { return a + b };
+const sub = (a, b) => { a + b }
 const mul = (a, b) => a * b;
 
 console.log(mul(a, b)); // Output: 30
@@ -72,3 +73,4 @@ console.log(mul(a, b)); // Output: 30
 
 
 **Besonderheiten**
+Wenn nur ein Parameter gegeben ist müssen keine Klammern 
