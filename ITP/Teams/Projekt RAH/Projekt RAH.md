@@ -9,11 +9,10 @@ Ab ES.6 ist es möglich, dass ganz normale Blöcke Sicherheitsbereiche aufmachen
 **Einsatzgebiet mit Anwendungsbeispielen**
 Vermeidung von Variablen-Konflikten, Sicherstellung von Variablen-Sichtbarkeit, Verbesserung der Code-Lesbarkeit,...
 
-```Java
-
+```js
 {
 
-    let b = 10;
+  let b = 10;
 
   console.log(b); // Ausgabe: 10, weil b innerhalb des Blocks existiert
 
@@ -25,40 +24,26 @@ console.log(b);
 
 ```
 
-  
-
-### Besonderheiten
-
-  
-
-**Sichtbarkeit von Variablen:**
+**Besonderheiten**
+###### Sichtbarkeit von Variablen:
 
 - Variablen die mit `let` und `const` innerhalb eines Blockes deklariert wurden, sind nur innerhalb des Blocks sichtbar. 8Sie können nicht außerhalb des Blocks aufgerufen oder verändert werden)
 
-**Vermeidung von Konflikten:**
+###### Vermeidung von Konflikten:
 
 - Es können gleichnamige Variablen in verschiedenen Blöcken deklariert werden. Jeder Block hat seinen eigenen Scope.
 
-**Temporal Dead Zone(TDZ):**
+###### Temporal Dead Zone(TDZ):
 
 - Variablen haben eine Temporal Dead Zone vor ihrer Deklaration im Code. Wenn man versucht auf solche Variablen **vor** ihrer Deklaration zuzugreifen, führen zu einem `RefferenceError`.
 
-  
-  
-
 ## Template Strings
 
-  
+**Definition**
 
-### Definition
+Es handelt sich um eine spezielle Art von Zeichenketten, die mit Backticks (\`) erstellt werden. Template Strings bieten die bequeme Möglichkeit, Zeichenketten zu erstellen, indem sie die Einbettung von Ausdrücken oder Variablen direkt in die Zeichenkette ermöglichen. Dabei wird die Platzhalter-Syntax `${}` verwendet.
 
-  
-
-Es handelt sich um eine spezielle Art von Zeichenketten, die mit Backticks (`) erstellt werden. Template Strings bieten die bequeme Möglichkeit, Zeichenketten zu erstellen, indem sie die Einbettung von Ausdrücken oder Variablen direkt in die Zeichenkette ermöglichen. Dabei wird die Platzhalter-Syntax `${}` verwendet.
-
-  
-
-### Einsatzgebiet mit Anwendungsbeispielen
+**Einsatzgebiet mit Anwendungsbeispielen**
 
   
 
