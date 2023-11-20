@@ -36,7 +36,12 @@ export default testExport;
 
 ###### Import von *Named Exports*
 ```js
-import { name, zipCode } from "./";
+import { name, zipCode } from "./namedExport.js";
+```
+
+###### Import von *Default Exports*
+```js
+import
 ```
 
 **Besonderheiten**
