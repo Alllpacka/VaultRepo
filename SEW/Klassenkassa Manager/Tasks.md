@@ -13,7 +13,7 @@
 	   - `GET /classes/{classId}/students`
 
 2. **Transactions API:**
-   - [ ] *Get Transactions:* 
+   - [x] *Get Transactions:* ✅ 2023-11-21
 	   - `GET /transactions`
    - [ ] *Get Transaction by ID:* 
 	   - `GET /transactions/{id}`
