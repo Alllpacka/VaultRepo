@@ -261,6 +261,57 @@ In *Arrow Funktionen* gibt es das ***this*** Schlüsselwort nicht im klassischem
 
 
 #Paul
+## Default Parameter
+Default Parameter erlauben es, wenn eine Funktion mit Weniger als allen Parametern ausgeführt wird, Standard werte für die ausgelassenen Parameter zu vergeben.
+```js
+function multiply(a, b = 1) {
+  return a * b;
+}
 
+console.log(multiply(5, 2));
+// Expected output: 10
+
+console.log(multiply(5));
+// Expected output: 5
+```
+
+# Rest Parameter
+Rest Parameter erlauben es einer Funktion unendlich Parameter zu übergeben, in Form eines Arrays.
+```js
+function sum(...theArgs) {
+  let total = 0;
+  for (const arg of theArgs) {
+    total += arg;
+  }
+  return total;
+}
+
+console.log(sum(1, 2, 3));
+// Expected output: 6
+
+console.log(sum(1, 2, 3, 4));
+// Expected output: 10
+
+
+function myFun(a, b, ...manyMoreArgs) {
+  console.log("a", a);
+  console.log("b", b);
+  console.log("manyMoreArgs", manyMoreArgs);
+}
+
+myFun("one", "two", "three", "four", "five", "six");
+
+// Console Output:
+// a, one
+// b, two
+// manyMoreArgs, ["three", "four", "five", "six"]
+```
+Mann kann sie nur einmal pro Funktion, und wenn dann am ende benutzen
+```js
+//FALSCH
+function wrong1(...one, ...wrong) {}
+function wrong2(...wrong, arg2, arg3) {}
+```
 
 #Julian
+
