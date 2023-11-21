@@ -17,34 +17,34 @@
 	   - `GET /transactions`
    - [ ] *Get Transaction by ID:* 
 	   - `GET /transactions/{id}`
-   - [ ] *Create Transaction:* 
+   - [x] *Create Transaction:* ✅ 2023-11-21
 	   - `POST /transactions`
-   - [] *Update Transaction:* 
+   - [ ] *Update Transaction:* 
 	   - `PATCH /transactions/{id}`
-   - [] *Delete Transaction:* 
+   - [ ] *Delete Transaction:* 
 	   - `DELETE /transactions/{id}`
 
 3. **Classes API:**
-   - [] *Get Classes:* 
+   - [ ] *Get Classes:* 
 	   - `GET /classes`
-   - [] *Get Class by ID:* 
+   - [ ] *Get Class by ID:* 
 	   - `GET /classes/{id}`
-   - [] *Create Class:* 
+   - [ ] *Create Class:* 
 	   - `POST /classes`
-   - [] *Update Class:* 
+   - [ ] *Update Class:* 
 	   - `PATCH /classes/{id}`
-   - [] *Delete Class:* 
+   - [ ] *Delete Class:* 
 	   - `DELETE /classes/{id}`
 
 4. **Transaction Students API:**
-   - [] *Get Transaction Student:* 
+   - [ ] *Get Transaction Student:* 
 	   - `GET /paymentStatus/{transactionId}/{studentId}/`
-   - [] *Update Transaction Student:*
+   - [ ] *Update Transaction Student:*
 	   - `PATCH /paymentStatus/{transactionId}/{studentId}/`
       - Request Payload: 
 	      - `{ "isPaid": true }`
-   - **Transaction Students API:**
-      - [] *Get Students for a Transaction:* 
+	
+	- [ ] *Get Students for a Transaction:* 
 	      - `GET /transactions/{transactionId}/students`
-      - [] *Get Transactions for a Student:* 
+	- [ ] *Get Transactions for a Student:* 
 	      - `GET /students/{studentId}/transactions`
