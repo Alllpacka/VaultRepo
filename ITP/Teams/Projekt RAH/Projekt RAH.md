@@ -262,7 +262,11 @@ In *Arrow Funktionen* gibt es das ***this*** Schlüsselwort nicht im klassischem
 
 #Paul
 ## Default Parameter
+
+**Definition**
 Default Parameter erlauben es, wenn eine Funktion mit Weniger als allen Parametern ausgeführt wird, Standard werte für die ausgelassenen Parameter zu vergeben.
+
+**Einsatzgebiet mit Anwendungsbeispielen**
 ```js
 function multiply(a, b = 1) {
   return a * b;
@@ -275,7 +279,9 @@ console.log(multiply(5));
 // Expected output: 5
 ```
 
-# Rest Parameter
+## Rest Parameter
+
+**
 Rest Parameter erlauben es einer Funktion unendlich Parameter zu übergeben, in Form eines Arrays.
 ```js
 function sum(...theArgs) {
