@@ -1,23 +1,23 @@
 1. **Students API:**
-   - [] *Get Students:* 
+   - [ ] *Get Students:* 
 	   - `GET /students`
-   - []*Get Student by ID:* 
+   - [ ] *Get Student by ID:* 
 	   - `GET /students/{id}`
-   - [] *Create Student:* 
+   - [ ] *Create Student:* 
 	   - `POST /students`
-   - [] *Update Student:* 
+   - [ ] *Update Student:* 
 	   - `PATCH /students/{id}`
-   - [] *Delete Student:* 
+   - [ ] *Delete Student:* 
 	   - `DELETE /students/{id}`
-   - [] *Get Students in a Class:* 
+   - [ ] *Get Students in a Class:* 
 	   - `GET /classes/{classId}/students`
 
 2. **Transactions API:**
-   - [] *Get Transactions:* 
+   - [ ] *Get Transactions:* 
 	   - `GET /transactions`
-   - [] *Get Transaction by ID:* 
+   - [ ] *Get Transaction by ID:* 
 	   - `GET /transactions/{id}`
-   - [] *Create Transaction:* 
+   - [ ] *Create Transaction:* 
 	   - `POST /transactions`
    - [] *Update Transaction:* 
 	   - `PATCH /transactions/{id}`
