@@ -326,6 +326,34 @@ function wrong2(...wrong, arg2, arg3) {}
 
 ## Spread
 
+**Definierung**
+Der Spread Operator (...)  ermöglicht es, Elemente eines Arrays auf einfache Weise zu extrahieren oder zu kombinieren. Er wird verwendet, um ein Array in seine einzelnen Elemente aufzubrechen oder um mehrere Elemente zu einem neuen Array hinzuzufügen.
+
+**Einsatzgebiet mit Anwendungsbeispielen**
+```js
+const originalArray = [1, 2, 3];
+const clonedArray = [...originalArray];
+console.log(clonedArray); // Ausgabe: [1, 2, 3]
+```
+```js
+const array1 = [1, 2, 3];
+const array2 = [4, 5, 6];
+const combinedArray = [...array1, ...array2];
+console.log(combinedArray); // Ausgabe: [1, 2, 3, 4, 5, 6]
+```
+```js
+const originalArray = [1, 2, 3];
+const newArray = [...originalArray, 4];
+console.log(newArray); // Ausgabe: [1, 2, 3, 4]
+```
+
+**Besonderheiten**
+Die meisten Objekte sind nicht unterstützt, da sie iterrierbar sein müssen
+
+```js
+const obj = { key1: "value1" };
+const array = [...obj]; // TypeError: obj is not iterable
+```
 
 #Julian
 
