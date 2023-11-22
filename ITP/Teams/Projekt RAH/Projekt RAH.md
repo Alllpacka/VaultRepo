@@ -356,4 +356,71 @@ const array = [...obj]; // TypeError: obj is not iterable
 ```
 
 #Julian
+## 9. Verwendung von Array-Funktionen in JavaScript
 
+### 9.1 forEach()
+
+**Definition**
+Die `forEach()` Funktion führt eine vorgegebene Funktion für jedes Element im Array aus.
+
+**Einsatzgebiet mit Anwendungsbeispielen**
+```js
+let numbers = [1, 3, 4, 9, 8];
+
+// Funktion, um das Quadrat jeder Zahl zu berechnen
+function computeSquare(element) {
+  console.log(element * element);
+}
+
+// Berechne das Quadrat jeder Zahl im Array
+numbers.forEach(computeSquare);
+
+/* Ausgabe:
+1
+9 
+16
+81
+64
+*/
+```
+
+### 9.2 map()
+
+**Definition**
+Die `map()` Funktion erstellt ein neues Array mit den Ergebnissen des Funktionsaufrufs für jedes Element im Array.
+
+**Einsatzgebiet mit Anwendungsbeispielen**
+```js
+let numbers = [2, 4, 6, 8, 10];
+
+// Funktion, um das Quadrat einer Zahl zu berechnen
+function square(number) {
+  return number * number;
+}
+
+// Wende die `square()` Funktion auf jedes Element in der `numbers`-Liste an
+let square_numbers = numbers.map(square);
+console.log(square_numbers);
+
+// Ausgabe: [ 4, 16, 36, 64, 100 ]
+```
+
+### 9.3 filter()
+
+**Definition**
+Die `filter()` Funktion gibt ein neues Array zurück, das alle Elemente enthält, die eine angegebene Filterfunktion bestehen.
+
+```js
+let numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+
+// Funktion zur Überprüfung, ob eine Zahl gerade ist
+function checkEven(number) {
+  return number % 2 === 0;
+}
+
+// Erstelle ein neues Array, das nur gerade Zahlen aus dem `numbers`-Array enthält
+let evenNumbers = numbers.filter(checkEven);
+console.log(evenNumbers);
+
+// Ausgabe: [ 2, 4, 6, 8, 10 ]
+```
