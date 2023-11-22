@@ -17,7 +17,7 @@
 	   - `GET /transactions`
    - [ ] *Get Transaction by ID:* 
 	   - `GET /transactions/{id}`
-   - [x] *Create Transaction:* ✅ 2023-11-21
+   - [x] *Create Transaction:* ✅ 2023-11-22
 	   - `POST /transactions`
    - [ ] *Update Transaction:* 
 	   - `PATCH /transactions/{id}`
