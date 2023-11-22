@@ -410,6 +410,7 @@ console.log(square_numbers);
 **Definition**
 Die `filter()` Funktion gibt ein neues Array zurück, das alle Elemente enthält, die eine angegebene Filterfunktion bestehen.
 
+**Einsatzgebiet mit Anwendungsbeispielen**
 ```js
 let numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
