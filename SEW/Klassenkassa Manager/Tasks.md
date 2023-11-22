@@ -15,7 +15,7 @@
 2. **Transactions API:**
    - [x] *Get Transactions:* ✅ 2023-11-21
 	   - `GET /transactions`
-   - [ ] *Get Transaction by ID:* 
+   - [x] *Get Transaction by ID:* ✅ 2023-11-22
 	   - `GET /transactions/{id}`
    - [x] *Create Transaction:* ✅ 2023-11-22
 	   - `POST /transactions`
