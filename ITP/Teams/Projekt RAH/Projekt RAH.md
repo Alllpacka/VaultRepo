@@ -356,9 +356,9 @@ const array = [...obj]; // TypeError: obj is not iterable
 ```
 
 #Julian
-## 9. Verwendung von Array-Funktionen in JavaScript
+## Verwendung von Array-Funktionen in JavaScript
 
-### 9.1 forEach()
+### forEach()
 
 **Definition**
 Die `forEach()` Funktion führt eine vorgegebene Funktion für jedes Element im Array aus.
@@ -384,7 +384,7 @@ numbers.forEach(computeSquare);
 */
 ```
 
-### 9.2 map()
+### map()
 
 **Definition**
 Die `map()` Funktion erstellt ein neues Array mit den Ergebnissen des Funktionsaufrufs für jedes Element im Array.
@@ -405,7 +405,7 @@ console.log(square_numbers);
 // Ausgabe: [ 4, 16, 36, 64, 100 ]
 ```
 
-### 9.3 filter()
+### filter()
 
 **Definition**
 Die `filter()` Funktion gibt ein neues Array zurück, das alle Elemente enthält, die eine angegebene Filterfunktion bestehen.
