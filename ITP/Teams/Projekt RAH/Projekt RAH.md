@@ -1,0 +1,164 @@
+# ES.6 Zusammenfassung
+
+#Adrian
+## Variablen Block-Scope, let und const
+
+**Definition**
+
+Ab ES.6 ist es möglich, dass ganz normale Blöcke Sicherheitsbereiche aufmachen. Es gibt dazu zwei Schlüsselwörter: `let` und `const`. Mit `let` deklarierte Variablen haben Block-Sichtbarkeiten, während `const` eine Initialisierung der Variablen erfordert und diese dazu unveränderlich macht. Eine spätere Zuweisung der Variablen würde zu einem Fehler führen.
+
+**Einsatzgebiet mit Anwendungsbeispielen**
+Vermeidung von Variablen-Konflikten, Sicherstellung von Variablen-Sichtbarkeit, Verbesserung der Code-Lesbarkeit,...
+
+```js
+{
+
+  let b = 10;
+
+  console.log(b); // Ausgabe: 10, weil b innerhalb des Blocks existiert
+
+}
+
+console.log(b);
+
+// ReferenceError: b is not defined da b außerhalb des Blocks nixht exisitert.
+
+```
+
+**Besonderheiten**
+###### Sichtbarkeit von Variablen:
+
+- Variablen die mit `let` und `const` innerhalb eines Blockes deklariert wurden, sind nur innerhalb des Blocks sichtbar. 8Sie können nicht außerhalb des Blocks aufgerufen oder verändert werden)
+
+###### Vermeidung von Konflikten:
+
+- Es können gleichnamige Variablen in verschiedenen Blöcken deklariert werden. Jeder Block hat seinen eigenen Scope.
+
+###### Temporal Dead Zone(TDZ):
+
+- Variablen haben eine Temporal Dead Zone vor ihrer Deklaration im Code. Wenn man versucht auf solche Variablen **vor** ihrer Deklaration zuzugreifen, führen zu einem `RefferenceError`.
+
+## Template Strings
+
+**Definition**
+
+Es handelt sich um eine spezielle Art von Zeichenketten, die mit Backticks (\`) erstellt werden. Template Strings bieten die bequeme Möglichkeit, Zeichenketten zu erstellen, indem sie die Einbettung von Ausdrücken oder Variablen direkt in die Zeichenkette ermöglichen. Dabei wird die Platzhalter-Syntax `${}` verwendet.
+
+**Einsatzgebiet mit Anwendungsbeispielen**
+
+Zusammenstellung von zeichenketten, Mehrzeilige Zeichenketten, Generierung von HTML oder anderen Textformaten
+
+```js
+
+const name = "Alice";
+
+const age = 30;  
+
+const greeting = `Hallo, mein Name ist ${name} und ich bin ${age} Jahre alt.`;  
+
+console.log(greeting); // Ausgabe: Hallo, mein Name ist Alice und ich bin 30 Jahre alt.
+
+```
+
+**Besonderheiten**
+
+###### Einbettung von Ausdrücken:
+
+- Hat den Vorteil, dass sie die Einbettung von, z.B.: Variablen, direkt in die Zeichenkette ermöglichen.
+
+###### Mehrzeilige Zeichenketten:
+
+- Können über mehrere Zeilen gehen, ohne dass Escape-Zeichen oder Zeichenkettenverkettungen erforderlich sind.
+
+
+# Jannis
+
+
+#Jakob
+## Export und Import
+
+**Definition**
+##### Export
+Funktionen und Variablen können in externen Files gespeichert werden. Es gibt zwei Varianten zu Exportieren: *Named Exports* und *Default Exports*
+
+##### Import
+Funktionen und Variablen können in zwei Wegen importiert werden, die Methode entscheidet ob es ein *Named Export* oder ein *Default Export* ist.
+
+
+**Einsatzgebiet mit Anwendungsbeispielen**
+###### Named Exports
+```js
+export const name = 'Eduard Müller';
+export const zipCode = 2020;
+```
+
+```js
+const name = 'Eduard Müller';
+const zipCode = 2020;
+
+export {name, zipCode}
+```
+
+###### Default Exports
+```js
+const testExport = {
+	name: 'Eduard Müller',
+	zipCode: 2020
+}
+
+export default testExport;
+```
+
+###### Import von *Named Exports*
+```js
+import { name, zipCode } from "./namedExport.js";
+```
+
+###### Import von *Default Exports*
+```js
+import testExport from "./defaultExport.js"
+```
+
+**Besonderheiten**
+
+##### Default Exports
+Es kann nur einen *Default Export* pro File geben
+
+##### Imports
+Imports von *Named Exports* müssen mit geschwungenen Klammern deklariert werden, Imports von *Default Exports* nicht
+
+## Arrow Funktionen
+
+**Definition**
+Mit *Arrow Funktionen* können mit wenig Aufwand Funktionen deklariert werden. *Arrow Funktionen* haben einen viel kürzeren Syntax als Reguläre Funktionen-Deklaration. *Arrow Funktionen* können auf verschiedene, aber gleich richtige, Arten geschrieben werden.
+
+
+**Einsatzgebiet mit Anwendungsbeispielen**
+```js
+a = 5;
+b = 6;
+
+// Varianten
+const add = (a, b) => { return a + b };
+const sub = (a, b) => { a + b }
+const mul = (a, b) => a * b;
+
+console.log(mul(a, b)); // Output: 30
+```
+
+
+**Besonderheiten**
+Wenn nur ein Parameter gegeben ist müssen keine Klammern gesetzt werden
+
+```js
+const name = 'Helmut Rahm'
+
+const sayHello = name => "Hallo " + name;
+```
+
+In *Arrow Funktionen* gibt es das ***this*** Schlüsselwort nicht im klassischem Sinne. Im klassischem Sinne repräsentiert das ***this*** Schlüsselwort das Objekt das die Funktion aufgerufen hat, in *Arrow Funktionen* repräsentiert es den Besitzer der Funktion. 
+
+#Paul
+
+
+#Julian

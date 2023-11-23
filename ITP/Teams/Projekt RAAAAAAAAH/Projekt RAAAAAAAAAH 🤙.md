@@ -3,10 +3,10 @@
 # Destructuring von Objekten und Arrays
 
 ### Definition:
-In JavaScript bezieht sich "Destructuring" auf eine spezielle Syntax, die es ermöglicht, Werte aus Objekten oder Arrays zu extrahieren und sie in separate Variablen zu destrukturieren. Diese Funktion erleichtert das Schreiben von Code und verbessert die Lesbarkeit.
+"Destructuring" ermöglicht es Werte aus Objekten oder Arrays zu extrahieren und sie in separate Variablen zu speichern.
 ## Objekte:
 ### Verwendung:
-Destructuring von Objekten in JavaScript ermöglicht es, Werte direkt aus einem Objekt zu extrahieren und in separaten Variablen zu speichern.
+Destructuring von Objekten ermöglicht es, Werte direkt aus einem Objekt zu extrahieren und in separaten Variablen zu speichern.
 
 ```javascript
 const person = { name: 'John', age: 30, city: 'New York' };
@@ -19,7 +19,7 @@ console.log(age);  // 30
 
 ## Arrays:
 ### Verwendung:
-Destructuring von Arrays in JavaScript ermöglicht es, Werte direkt aus einem Array zu extrahieren und in separaten Variablen zu speichern.
+Destructuring von Arrays ermöglicht es, Werte direkt aus einem Array zu extrahieren und in separaten Variablen zu speichern.
 
 ```javascript
 const numbers = [1, 2, 3, 4, 5];
@@ -33,11 +33,7 @@ console.log(fourth); // 4
 
 ### Besonderheiten:
 
-* Default Values: Du kannst Standardwerte für Variablen festlegen, falls der extrahierte Wert "undefined" ist.
-
-* Destructuring in Funktionen: Du kannst Destructuring auch direkt in den Parametern von Funktionen verwenden.
-
-* Destructuring von Arrays mit Überspringen: Du kannst Werte in Arrays überspringen, indem du leere Positionen in der Destructuring-Syntax lässt.
+Man kann Destructuring auch direkt in den Parametern von Funktionen verwenden. Man kann Werte in Arrays überspringen, indem du leere Positionen in der Destructuring-Syntax lässt.
 
 
 # Klassen (constructor, read-only Property, Getter)
@@ -45,9 +41,9 @@ console.log(fourth); // 4
 ## Constructor
 
 ### Definition:
-Der Konstruktor wird verwendet, um Eigenschaften zu initialisieren. In JavaScript wird der Konstruktor mit dem Schlüsselwort "constructor" definiert.
+Der Konstruktor wird verwendet, um Eigenschaften zu initialisieren. Der Konstruktor mit dem Schlüsselwort "constructor" definiert.
 ### Verwendung:
-Der "constructor" in JavaScript wird verwendet, um Initialisierung von Objekten mithilfe von Klassen durchzuführen.
+Der Constructor wird verwendet, um Initialisierung von Objekten mithilfe von Klassen durchzuführen.
 
 ```javascript
 class Person {
@@ -59,13 +55,12 @@ class Person {
 ```
 
 ### Besonderheiten:
-Der "constructor" wird automatisch aufgerufen, wenn ein neues Objekt der Klasse erstellt wird. Er dient zur Initialisierung von Instanzvariablen und anderen Vorbereitungen.
+Der Constructor wird automatisch aufgerufen, wenn ein neues Objekt der Klasse erstellt wird. Er dient zur Initialisierung von Instanzvariablen.
 
 ## Read-only Property:
 
 ### Definition:
-In JavaScript können schreibgeschützte Eigenschaften durch Verwendung des "Object.defineProperty" erstellt werden. Eine schreibgeschützte Eigenschaft kann nur im Konstruktor oder innerhalb der Klasse selbst gesetzt werden.
-
+Schreibgeschützte Eigenschaften können durch Verwendung des "Object.defineProperty" erstellt werden. Eine schreibgeschützte Eigenschaft kann nur im Konstruktor oder innerhalb der Klasse selbst erstellt werden.
 ### Verwendung:
 Man kann es verwenden bei:
 * Konstanten Werten
@@ -88,7 +83,7 @@ Eine schreibgeschützte Eigenschaft erlaubt nur Lesezugriffe. Nach der Initialis
 Getter werden definiert, indem der Schlüsselwort "get" vor einem Methodennamen in der Klasse verwendet wird.
 
 ### Verwendung:
-Getter in JavaScript-Klassen dienen dazu, den Wert einer Eigenschaft abzurufen, wenn darauf zugegriffen wird.
+Getter dienen dazu, den Wert einer Eigenschaft abzurufen, wenn darauf zugegriffen wird.
 
 ```javascript
 class Rectangle {
@@ -101,4 +96,4 @@ class Rectangle {
 ```
 
 ### Besonderheit:
-Getters ermöglichen den Zugriff auf eine Eigenschaft. Dies stellt Werten bereit, die sich basierend auf anderen Eigenschaften können.
+Getter ermöglichen den Zugriff auf eine Eigenschaft. Dies stellt Werten bereit, die sich basierend auf anderen Eigenschaften ändern können.

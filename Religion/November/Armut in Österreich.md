@@ -59,3 +59,6 @@ Lebensbedürfnissen hinzukommen, wie z.B.:
 - Menschen mit Migrationshintergund
 - Frauen
 - Langzeitarbeitslose
+
+## Definition von Sozialstaat
+Zentrale Aufgabe: Für soziale Gerechtigkeit zu sorgen und größtmögliche Absicherung für alle Menschen zu bieten.
