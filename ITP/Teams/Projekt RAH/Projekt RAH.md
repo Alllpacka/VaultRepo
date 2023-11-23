@@ -122,7 +122,6 @@ Es handelt sich um eine spezielle Art von Zeichenketten, die mit Backticks (\`) 
 Zusammenstellung von zeichenketten, Mehrzeilige Zeichenketten, Generierung von HTML oder anderen Textformaten
 
 ```js
-
 const name = "Alice";
 
 const age = 30;  
@@ -130,7 +129,6 @@ const age = 30;  
 const greeting = `Hallo, mein Name ist ${name} und ich bin ${age} Jahre alt.`;  
 
 console.log(greeting); // Ausgabe: Hallo, mein Name ist Alice und ich bin 30 Jahre alt.
-
 ```
 
 ### Besonderheiten
