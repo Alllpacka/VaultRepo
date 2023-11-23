@@ -3,6 +3,12 @@
 ## Table of content
 #let/const
 #TemplateStrings
+#Destructuring
+#Klassen
+#Export/Import
+#ArrowFunctions 
+#Default/Rest
+#Spread
 
 #Adrian
 ## Variablen Block-Scope, let und const
