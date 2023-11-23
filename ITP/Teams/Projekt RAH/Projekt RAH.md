@@ -209,11 +209,11 @@ Getter ermöglichen den Zugriff auf eine Eigenschaft. Dies stellt Werten bereit,
 
 ## Export
 
-**Definition**
+### Definition
 Funktionen und Variablen können in externen Files gespeichert werden. Es gibt zwei Varianten zu Exportieren: *Named Exports* und *Default Exports*
 
 
-**Einsatzgebiet mit Anwendungsbeispielen**
+### Einsatzgebiet mit Anwendungsbeispielen
 ```js
 //named Exports
 
@@ -238,17 +238,17 @@ const testExport = {
 export default testExport;
 ```
 
-**Besonderheiten**
+### Besonderheiten
 
 Es kann nur einen *Default Export* pro File geben
 
 
 ## Imports
 
-**Definition**
+### Definition
 Funktionen und Variablen können in zwei Wegen importiert werden, die Methode entscheidet ob es ein *Named Export* oder ein *Default Export* ist.
 
-**Einsatzgebiet mit Anwendungsbeispielen**
+### Einsatzgebiet mit Anwendungsbeispielen
 ```js
 //import von named exports
 import { name, zipCode } from "./namedExport.js";
@@ -259,16 +259,16 @@ import { name, zipCode } from "./namedExport.js";
 import testExport from "./defaultExport.js"
 ```
 
-**Besonderheiten**
+### Besonderheiten
 Imports von *Named Exports* müssen mit geschwungenen Klammern deklariert werden, Imports von *Default Exports* nicht
 
 ## Arrow Funktionen
 
-**Definition**
+### Definition
 Mit *Arrow Funktionen* können mit wenig Aufwand Funktionen deklariert werden. *Arrow Funktionen* haben einen viel kürzeren Syntax als Reguläre Funktionen-Deklaration. *Arrow Funktionen* können auf verschiedene, aber gleich richtige, Arten geschrieben werden.
 
 
-**Einsatzgebiet mit Anwendungsbeispielen**
+### Einsatzgebiet mit Anwendungsbeispielen
 ```js
 a = 5;
 b = 6;
@@ -282,7 +282,7 @@ console.log(mul(a, b)); // Output: 30
 ```
 
 
-**Besonderheiten**
+### Besonderheiten
 Wenn nur ein Parameter gegeben ist müssen keine Klammern gesetzt werden
 
 ```js
@@ -296,10 +296,10 @@ In *Arrow Funktionen* gibt es das ***this*** Schlüsselwort nicht im klassischem
 ## Default und Rest Parameter
 ### Default Parameter
 
-**Definition**
+#### Definition
 Default Parameter erlauben es, wenn eine Funktion mit Weniger als allen Parametern ausgeführt wird, Standard werte für die ausgelassenen Parameter zu vergeben.
 
-**Einsatzgebiet mit Anwendungsbeispielen**
+#### Einsatzgebiet mit Anwendungsbeispielen
 ```js
 function multiply(a, b = 1) {
   return a * b;
@@ -314,10 +314,10 @@ console.log(multiply(5));
 
 ### Rest Parameter
 
-**Definition**
+#### Definition
 Rest Parameter erlauben es einer Funktion unendlich Parameter zu übergeben, in Form eines Arrays.
 
-**Einsatzgebiet mit Anwendungsbeispielen**
+#### Einsatzgebiet mit Anwendungsbeispielen
 ```js
 function sum(...theArgs) {
   let total = 0;
@@ -348,7 +348,7 @@ myFun("one", "two", "three", "four", "five", "six");
 // manyMoreArgs, ["three", "four", "five", "six"]
 ```
 
-**Besonderheiten**
+#### Besonderheiten
 Mann kann sie nur einmal pro Funktion, und wenn dann am ende benutzen
 ```js
 //FALSCH
@@ -358,7 +358,7 @@ function wrong2(...wrong, arg2, arg3) {}
 
 ## Spread
 
-**Definierung**
+*Definierung
 Der Spread Operator (...)  ermöglicht es, Elemente eines Arrays auf einfache Weise zu extrahieren oder zu kombinieren. Er wird verwendet, um ein Array in seine einzelnen Elemente aufzubrechen oder um mehrere Elemente zu einem neuen Array hinzuzufügen.
 
 **Einsatzgebiet mit Anwendungsbeispielen**
