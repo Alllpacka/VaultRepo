@@ -213,13 +213,12 @@ Getter ermöglichen den Zugriff auf eine Eigenschaft. Dies stellt Werten bereit,
 #### Exports
 Funktionen und Variablen können in externen Files gespeichert werden. Es gibt zwei Varianten zu Exportieren: *Named Exports* und *Default Exports*
 #### Imports
-
+Funktionen und Variablen können in zwei Wegen importiert werden, die Methode entscheidet ob es ein *Named Export* oder ein *Default Export* ist.
 
 
 ### Einsatzgebiet mit Anwendungsbeispielen
+#### Named Exports
 ```js
-//named Exports
-
 export const name = 'Eduard Müller';
 export const zipCode = 2020;
 ```
@@ -230,9 +229,8 @@ const zipCode = 2020;
 export {name, zipCode}
 ```
 
+#### Default Exports
 ```js
-//Default Exports
-
 const testExport = {
 	name: 'Eduard Müller',
 	zipCode: 2020
