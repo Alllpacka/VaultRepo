@@ -223,7 +223,7 @@ Eine schreibgeschützte Eigenschaft erlaubt nur Lesezugriffe. Nach der Initialis
 ### Getter:
 
 #### Definition:
-Getter werden definiert, indem der Schlüsselwort "get" vor einem Methodennamen in der Klasse verwendet wird.
+Getter werden definiert, indem das Schlüsselwort "get" vor einem Methodennamen in der Klasse verwendet wird.
 
 #### Verwendung:
 Getter dienen dazu, den Wert einer Eigenschaft abzurufen, wenn darauf zugegriffen wird.
