@@ -72,6 +72,3 @@ Zentrale Aufgabe: Für soziale Gerechtigkeit zu sorgen und größtmögliche Absi
 * Universelle Leistung
 * Familienbeihilfe
 * Arbeitsrechtlicher Schutz
-
-
-
