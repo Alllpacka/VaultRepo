@@ -64,6 +64,7 @@ Lebensbedürfnissen hinzukommen, wie z.B.:
 ## Definition von Sozialstaat
 Zentrale Aufgabe: Für soziale Gerechtigkeit zu sorgen und größtmögliche Absicherung für alle Menschen zu bieten.
 
+
 ## Leistungen des Sozialstaates Österreich
 
 * Sozialversicherung
