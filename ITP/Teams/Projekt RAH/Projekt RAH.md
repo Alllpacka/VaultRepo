@@ -1,5 +1,9 @@
 # ES.6 Zusammenfassung
 
+## Table of content
+#let/const
+#TemplateStrings
+
 #Adrian
 ## Variablen Block-Scope, let und const
 
