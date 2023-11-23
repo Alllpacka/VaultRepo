@@ -115,8 +115,6 @@ console.log(greeting); // Ausgabe: Hallo, mein Name ist Alice und ich bin 30 Jah
 
 - Können über mehrere Zeilen gehen, ohne dass Escape-Zeichen oder Zeichenkettenverkettungen erforderlich sind.
 
-
-#Jannis
 ## Destructuring von Objekten und Arrays
 
 **Definition:**
@@ -215,10 +213,6 @@ class Rectangle {
 #### Besonderheit:
 Getter ermöglichen den Zugriff auf eine Eigenschaft. Dies stellt Werten bereit, die sich basierend auf anderen Eigenschaften ändern können.
 
-
-#Jakob
-
-#Jakob
 ## Export und Import
 
 **Definition**
@@ -302,10 +296,6 @@ const sayHello = name => "Hallo " + name;
 
 In *Arrow Funktionen* gibt es das ***this*** Schlüsselwort nicht im klassischem Sinne. Im klassischem Sinne repräsentiert das ***this*** Schlüsselwort das Objekt das die Funktion aufgerufen hat, in *Arrow Funktionen* repräsentiert es den Besitzer der Funktion. 
 
-
-
-
-#Paul
 ## Default und Rest Parameter
 ### Default Parameter
 
@@ -400,7 +390,6 @@ const obj = { key1: "value1" };
 const array = [...obj]; // TypeError: obj is not iterable
 ```
 
-#Julian
 ## Verwendung von Array-Funktionen in JavaScript
 
 ### forEach()
