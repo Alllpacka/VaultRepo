@@ -207,10 +207,13 @@ class Rectangle {
 #### Besonderheit:
 Getter ermöglichen den Zugriff auf eine Eigenschaft. Dies stellt Werten bereit, die sich basierend auf anderen Eigenschaften ändern können.
 
-## Export
+## Export und Imports
 
 ### Definition
+#### Exports
 Funktionen und Variablen können in externen Files gespeichert werden. Es gibt zwei Varianten zu Exportieren: *Named Exports* und *Default Exports*
+#### Imports
+
 
 
 ### Einsatzgebiet mit Anwendungsbeispielen
@@ -246,7 +249,7 @@ Es kann nur einen *Default Export* pro File geben
 ## Imports
 
 ### Definition
-Funktionen und Variablen können in zwei Wegen importiert werden, die Methode entscheidet ob es ein *Named Export* oder ein *Default Export* ist.
+
 
 ### Einsatzgebiet mit Anwendungsbeispielen
 ```js
@@ -358,10 +361,10 @@ function wrong2(...wrong, arg2, arg3) {}
 
 ## Spread
 
-*Definierung
+### Definierung
 Der Spread Operator (...)  ermöglicht es, Elemente eines Arrays auf einfache Weise zu extrahieren oder zu kombinieren. Er wird verwendet, um ein Array in seine einzelnen Elemente aufzubrechen oder um mehrere Elemente zu einem neuen Array hinzuzufügen.
 
-**Einsatzgebiet mit Anwendungsbeispielen**
+### Einsatzgebiet mit Anwendungsbeispielen
 ```js
 const originalArray = [1, 2, 3];
 const clonedArray = [...originalArray];
@@ -379,7 +382,7 @@ const newArray = [...originalArray, 4];
 console.log(newArray); // Ausgabe: [1, 2, 3, 4]
 ```
 
-**Besonderheiten**
+### Besonderheiten
 Die meisten Objekte sind nicht unterstützt, da sie iterrierbar sein müssen
 
 ```js
@@ -391,10 +394,10 @@ const array = [...obj]; // TypeError: obj is not iterable
 
 ### forEach()
 
-**Definition**
+#### Definition
 Die `forEach()` Funktion führt eine vorgegebene Funktion für jedes Element im Array aus.
 
-**Einsatzgebiet mit Anwendungsbeispielen**
+#### Einsatzgebiet mit Anwendungsbeispielen
 ```js
 let numbers = [1, 3, 4, 9, 8];
 
@@ -417,10 +420,10 @@ numbers.forEach(computeSquare);
 
 ### map()
 
-**Definition**
+#### Definition
 Die `map()` Funktion erstellt ein neues Array mit den Ergebnissen des Funktionsaufrufs für jedes Element im Array.
 
-**Einsatzgebiet mit Anwendungsbeispielen**
+#### Einsatzgebiet mit Anwendungsbeispielen
 ```js
 let numbers = [2, 4, 6, 8, 10];
 
@@ -438,10 +441,10 @@ console.log(square_numbers);
 
 ### filter()
 
-**Definition**
+#### Definition
 Die `filter()` Funktion gibt ein neues Array zurück, das alle Elemente enthält, die eine angegebene Filterfunktion bestehen.
 
-**Einsatzgebiet mit Anwendungsbeispielen**
+#### Einsatzgebiet mit Anwendungsbeispielen
 ```js
 let numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
