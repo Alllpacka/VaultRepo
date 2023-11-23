@@ -42,11 +42,11 @@
 
 ## Variablen Block-Scope, let und const
 
-**Definition**
+### Definition
 
 Ab ES.6 ist es möglich, dass ganz normale Blöcke Sicherheitsbereiche aufmachen. Es gibt dazu zwei Schlüsselwörter: `let` und `const`. Mit `let` deklarierte Variablen haben Block-Sichtbarkeiten, während `const` eine Initialisierung der Variablen erfordert und diese dazu unveränderlich macht. Eine spätere Zuweisung der Variablen würde zu einem Fehler führen.
 
-**Einsatzgebiet mit Anwendungsbeispielen**
+### Einsatzgebiet mit Anwendungsbeispielen
 Vermeidung von Variablen-Konflikten, Sicherstellung von Variablen-Sichtbarkeit, Verbesserung der Code-Lesbarkeit,...
 
 ```js
@@ -64,26 +64,26 @@ console.log(b);
 
 ```
 
-**Besonderheiten**
-###### Sichtbarkeit von Variablen:
+### Besonderheiten
+#### Sichtbarkeit von Variablen:
 
 - Variablen die mit `let` und `const` innerhalb eines Blockes deklariert wurden, sind nur innerhalb des Blocks sichtbar. 8Sie können nicht außerhalb des Blocks aufgerufen oder verändert werden)
 
-###### Vermeidung von Konflikten:
+#### Vermeidung von Konflikten:
 
 - Es können gleichnamige Variablen in verschiedenen Blöcken deklariert werden. Jeder Block hat seinen eigenen Scope.
 
-###### Temporal Dead Zone(TDZ):
+#### Temporal Dead Zone(TDZ):
 
 - Variablen haben eine Temporal Dead Zone vor ihrer Deklaration im Code. Wenn man versucht auf solche Variablen **vor** ihrer Deklaration zuzugreifen, führen zu einem `RefferenceError`.
 
 ## Template Strings
 
-**Definition**
+### Definition
 
 Es handelt sich um eine spezielle Art von Zeichenketten, die mit Backticks (\`) erstellt werden. Template Strings bieten die bequeme Möglichkeit, Zeichenketten zu erstellen, indem sie die Einbettung von Ausdrücken oder Variablen direkt in die Zeichenkette ermöglichen. Dabei wird die Platzhalter-Syntax `${}` verwendet.
 
-**Einsatzgebiet mit Anwendungsbeispielen**
+### Einsatzgebiet mit Anwendungsbeispielen
 
 Zusammenstellung von zeichenketten, Mehrzeilige Zeichenketten, Generierung von HTML oder anderen Textformaten
 
@@ -99,22 +99,22 @@ console.log(greeting); // Ausgabe: Hallo, mein Name ist Alice und ich bin 30 Jah
 
 ```
 
-**Besonderheiten**
+### Besonderheiten
 
-###### Einbettung von Ausdrücken:
+#### Einbettung von Ausdrücken:
 
 - Hat den Vorteil, dass sie die Einbettung von, z.B.: Variablen, direkt in die Zeichenkette ermöglichen.
 
-###### Mehrzeilige Zeichenketten:
+#### Mehrzeilige Zeichenketten:
 
 - Können über mehrere Zeilen gehen, ohne dass Escape-Zeichen oder Zeichenkettenverkettungen erforderlich sind.
 
 ## Destructuring von Objekten und Arrays
 
-**Definition:**
+### Definition
 "Destructuring" ermöglicht es Werte aus Objekten oder Arrays zu extrahieren und sie in separate Variablen zu speichern.
-### Objekte:
-#### Verwendung:
+
+### Einsatzgebiet mit Anwendungsbeispielen
 Destructuring von Objekten ermöglicht es, Werte direkt aus einem Objekt zu extrahieren und in separaten Variablen zu speichern.
 
 ```javascript
