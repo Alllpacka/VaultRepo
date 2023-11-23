@@ -1,5 +1,46 @@
 # ES.6 Zusammenfassung
 
+- [[#Variablen Block-Scope, let und const|Variablen Block-Scope, let und const]]
+				- [[#Sichtbarkeit von Variablen:|Sichtbarkeit von Variablen:]]
+				- [[#Vermeidung von Konflikten:|Vermeidung von Konflikten:]]
+				- [[#Temporal Dead Zone(TDZ):|Temporal Dead Zone(TDZ):]]
+- [[#Template Strings|Template Strings]]
+				- [[#Einbettung von Ausdrücken:|Einbettung von Ausdrücken:]]
+				- [[#Mehrzeilige Zeichenketten:|Mehrzeilige Zeichenketten:]]
+- [[#Destructuring von Objekten und Arrays|Destructuring von Objekten und Arrays]]
+	- [[#Destructuring von Objekten und Arrays#Objekte:|Objekte:]]
+		- [[#Objekte:#Verwendung:|Verwendung:]]
+	- [[#Destructuring von Objekten und Arrays#Arrays:|Arrays:]]
+		- [[#Arrays:#Verwendung:|Verwendung:]]
+		- [[#Arrays:#Besonderheiten:|Besonderheiten:]]
+- [[#Klassen (constructor, read-only Property, Getter)|Klassen (constructor, read-only Property, Getter)]]
+	- [[#Klassen (constructor, read-only Property, Getter)#Constructor|Constructor]]
+		- [[#Constructor#Definition:|Definition:]]
+		- [[#Constructor#Verwendung:|Verwendung:]]
+		- [[#Constructor#Besonderheiten:|Besonderheiten:]]
+	- [[#Klassen (constructor, read-only Property, Getter)#Read-only Property:|Read-only Property:]]
+		- [[#Read-only Property:#Definition:|Definition:]]
+		- [[#Read-only Property:#Verwendung:|Verwendung:]]
+		- [[#Read-only Property:#Besonderheiten:|Besonderheiten:]]
+	- [[#Klassen (constructor, read-only Property, Getter)#Getter:|Getter:]]
+		- [[#Getter:#Definition:|Definition:]]
+		- [[#Getter:#Verwendung:|Verwendung:]]
+		- [[#Getter:#Besonderheit:|Besonderheit:]]
+- [[#Export|Export]]
+	- [[#Named Exports|Named Exports]]
+	- [[#Default Exports|Default Exports]]
+- [[#Imports|Imports]]
+				- [[#Import von *Named Exports*|Import von *Named Exports*]]
+				- [[#Import von *Default Exports*|Import von *Default Exports*]]
+- [[#Arrow Funktionen|Arrow Funktionen]]
+- [[#Default und Rest Parameter|Default und Rest Parameter]]
+	- [[#Default und Rest Parameter#Default Parameter|Default Parameter]]
+	- [[#Default und Rest Parameter#Rest Parameter|Rest Parameter]]
+- [[#Spread|Spread]]
+- [[#Verwendung von Array-Funktionen in JavaScript|Verwendung von Array-Funktionen in JavaScript]]
+	- [[#Verwendung von Array-Funktionen in JavaScript#forEach()|forEach()]]
+	- [[#Verwendung von Array-Funktionen in JavaScript#map()|map()]]
+	- [[#Verwendung von Array-Funktionen in JavaScript#filter()|filter()]]
 
 
 ## Variablen Block-Scope, let und const
@@ -169,14 +210,10 @@ class Rectangle {
 #### Besonderheit:
 Getter ermöglichen den Zugriff auf eine Eigenschaft. Dies stellt Werten bereit, die sich basierend auf anderen Eigenschaften ändern können.
 
-## Export und Import
+## Export
 
 **Definition**
-##### Export
 Funktionen und Variablen können in externen Files gespeichert werden. Es gibt zwei Varianten zu Exportieren: *Named Exports* und *Default Exports*
-
-##### Import
-Funktionen und Variablen können in zwei Wegen importiert werden, die Methode entscheidet ob es ein *Named Export* oder ein *Default Export* ist.
 
 
 **Einsatzgebiet mit Anwendungsbeispielen**
@@ -205,13 +242,24 @@ export default testExport;
 
 **Besonderheiten**
 
-##### Default Exports
 Es kann nur einen *Default Export* pro File geben
 
 
 ## Imports
 
+**Definition**
+Funktionen und Variablen können in zwei Wegen importiert werden, die Methode entscheidet ob es ein *Named Export* oder ein *Default Export* ist.
 
+**Einsatzgebiet mit Anwendungsbeispielen**
+###### Import von *Named Exports*
+```js
+import { name, zipCode } from "./namedExport.js";
+```
+
+###### Import von *Default Exports*
+```js
+import testExport from "./defaultExport.js"
+```
 
 **Besonderheiten**
 Imports von *Named Exports* müssen mit geschwungenen Klammern deklariert werden, Imports von *Default Exports* nicht
