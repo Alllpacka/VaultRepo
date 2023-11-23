@@ -327,6 +327,12 @@ const name = 'Helmut Rahm'
 const sayHello = name => "Hallo " + name;
 ```
 
+Wenn kein Parameter übergeben wird müssen Klammern gesetzt werden
+
+```js
+const log = () => console.log("hallo");
+```
+
 In *Arrow Funktionen* gibt es das ***this*** Schlüsselwort nicht im klassischem Sinne. Im klassischem Sinne repräsentiert das ***this*** Schlüsselwort das Objekt das die Funktion aufgerufen hat, in *Arrow Funktionen* repräsentiert es den Besitzer der Funktion. 
 
 ## Default und Rest Parameter
