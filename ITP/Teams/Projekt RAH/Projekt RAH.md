@@ -1,16 +1,51 @@
 # ES.6 Zusammenfassung
 
-## Table of content
-#let/const
-#TemplateStrings
-#Destructuring
-#Klassen
-#Export/Import
-#ArrowFunctions 
-#Default/Rest
-#Spread
+- [[#Variablen Block-Scope, let und const|Variablen Block-Scope, let und const]]
+				- [[#Sichtbarkeit von Variablen:|Sichtbarkeit von Variablen:]]
+				- [[#Vermeidung von Konflikten:|Vermeidung von Konflikten:]]
+				- [[#Temporal Dead Zone(TDZ):|Temporal Dead Zone(TDZ):]]
+- [[#Template Strings|Template Strings]]
+				- [[#Einbettung von Ausdrücken:|Einbettung von Ausdrücken:]]
+				- [[#Mehrzeilige Zeichenketten:|Mehrzeilige Zeichenketten:]]
+- [[#Destructuring von Objekten und Arrays|Destructuring von Objekten und Arrays]]
+	- [[#Destructuring von Objekten und Arrays#Objekte:|Objekte:]]
+		- [[#Objekte:#Verwendung:|Verwendung:]]
+	- [[#Destructuring von Objekten und Arrays#Arrays:|Arrays:]]
+		- [[#Arrays:#Verwendung:|Verwendung:]]
+		- [[#Arrays:#Besonderheiten:|Besonderheiten:]]
+- [[#Klassen (constructor, read-only Property, Getter)|Klassen (constructor, read-only Property, Getter)]]
+	- [[#Klassen (constructor, read-only Property, Getter)#Constructor|Constructor]]
+		- [[#Constructor#Definition:|Definition:]]
+		- [[#Constructor#Verwendung:|Verwendung:]]
+		- [[#Constructor#Besonderheiten:|Besonderheiten:]]
+	- [[#Klassen (constructor, read-only Property, Getter)#Read-only Property:|Read-only Property:]]
+		- [[#Read-only Property:#Definition:|Definition:]]
+		- [[#Read-only Property:#Verwendung:|Verwendung:]]
+		- [[#Read-only Property:#Besonderheiten:|Besonderheiten:]]
+	- [[#Klassen (constructor, read-only Property, Getter)#Getter:|Getter:]]
+		- [[#Getter:#Definition:|Definition:]]
+		- [[#Getter:#Verwendung:|Verwendung:]]
+		- [[#Getter:#Besonderheit:|Besonderheit:]]
+- [[#Export und Import|Export und Import]]
+			- [[#Besonderheit:#Export|Export]]
+			- [[#Besonderheit:#Import|Import]]
+				- [[#Import#Named Exports|Named Exports]]
+				- [[#Import#Default Exports|Default Exports]]
+				- [[#Import#Import von *Named Exports*|Import von *Named Exports*]]
+				- [[#Import#Import von *Default Exports*|Import von *Default Exports*]]
+			- [[#Besonderheit:#Default Exports|Default Exports]]
+			- [[#Besonderheit:#Imports|Imports]]
+- [[#Arrow Funktionen|Arrow Funktionen]]
+- [[#Default und Rest Parameter|Default und Rest Parameter]]
+	- [[#Default und Rest Parameter#Default Parameter|Default Parameter]]
+	- [[#Default und Rest Parameter#Rest Parameter|Rest Parameter]]
+- [[#Spread|Spread]]
+- [[#Verwendung von Array-Funktionen in JavaScript|Verwendung von Array-Funktionen in JavaScript]]
+	- [[#Verwendung von Array-Funktionen in JavaScript#forEach()|forEach()]]
+	- [[#Verwendung von Array-Funktionen in JavaScript#map()|map()]]
+	- [[#Verwendung von Array-Funktionen in JavaScript#filter()|filter()]]
 
-#Adrian
+
 ## Variablen Block-Scope, let und const
 
 **Definition**
