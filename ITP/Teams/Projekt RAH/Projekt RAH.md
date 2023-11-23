@@ -27,11 +27,7 @@
 		- [[#Getter:#Verwendung:|Verwendung:]]
 		- [[#Getter:#Besonderheit:|Besonderheit:]]
 - [[#Export|Export]]
-	- [[#Named Exports|Named Exports]]
-	- [[#Default Exports|Default Exports]]
 - [[#Imports|Imports]]
-				- [[#Import von *Named Exports*|Import von *Named Exports*]]
-				- [[#Import von *Default Exports*|Import von *Default Exports*]]
 - [[#Arrow Funktionen|Arrow Funktionen]]
 - [[#Default und Rest Parameter|Default und Rest Parameter]]
 	- [[#Default und Rest Parameter#Default Parameter|Default Parameter]]
@@ -41,6 +37,7 @@
 	- [[#Verwendung von Array-Funktionen in JavaScript#forEach()|forEach()]]
 	- [[#Verwendung von Array-Funktionen in JavaScript#map()|map()]]
 	- [[#Verwendung von Array-Funktionen in JavaScript#filter()|filter()]]
+
 
 
 ## Variablen Block-Scope, let und const
@@ -217,12 +214,12 @@ Funktionen und Variablen können in externen Files gespeichert werden. Es gibt z
 
 
 **Einsatzgebiet mit Anwendungsbeispielen**
-###### Named Exports
 ```js
+//named Exports
+
 export const name = 'Eduard Müller';
 export const zipCode = 2020;
 ```
-
 ```js
 const name = 'Eduard Müller';
 const zipCode = 2020;
@@ -230,8 +227,9 @@ const zipCode = 2020;
 export {name, zipCode}
 ```
 
-###### Default Exports
 ```js
+//Default Exports
+
 const testExport = {
 	name: 'Eduard Müller',
 	zipCode: 2020
@@ -251,13 +249,13 @@ Es kann nur einen *Default Export* pro File geben
 Funktionen und Variablen können in zwei Wegen importiert werden, die Methode entscheidet ob es ein *Named Export* oder ein *Default Export* ist.
 
 **Einsatzgebiet mit Anwendungsbeispielen**
-###### Import von *Named Exports*
 ```js
+//import von named exports
 import { name, zipCode } from "./namedExport.js";
 ```
 
-###### Import von *Default Exports*
 ```js
+//import von default exports
 import testExport from "./defaultExport.js"
 ```
 
