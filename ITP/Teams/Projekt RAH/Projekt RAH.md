@@ -94,14 +94,14 @@ Vermeidung von Variablen-Konflikten, Sicherstellung von Variablen-Sichtbarkeit, 
 
 console.log(b);
 
-// ReferenceError: b is not defined da b außerhalb des Blocks nixht exisitert.
+// ReferenceError: b is not defined da b außerhalb des Blocks nicht exisitert.
 
 ```
 
 ### Besonderheiten
 #### Sichtbarkeit von Variablen:
 
-- Variablen die mit `let` und `const` innerhalb eines Blockes deklariert wurden, sind nur innerhalb des Blocks sichtbar. Sie können nicht außerhalb des Blocks aufgerufen oder verändert werden)
+- Variablen die mit `let` und `const` innerhalb eines Blockes deklariert wurden, sind nur innerhalb des Blocks sichtbar. (Sie können nicht außerhalb des Blocks aufgerufen oder verändert werden)
 
 #### Vermeidung von Konflikten:
 
