@@ -5,4 +5,3 @@
 5. Menschenwürdige arbeit & Wirtschaftswachstum
 6. Nachhaltige/r Konsum & Produktion
 7. Masnahmen zum Klimaschutz
-8. 
