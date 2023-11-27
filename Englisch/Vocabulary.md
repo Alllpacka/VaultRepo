@@ -539,4 +539,9 @@ while + verb phrase            during the break
 | to marshal sth.             | ordenen, aufstellen                        |
 | to tap into sth.            | etwas anzapfen, etwas nutzen               | 
 
- 
+ | eng               | ger                               |
+ | ----------------- | --------------------------------- |
+ | freedom of travel | Reise- und Niederlassungsfreiheit |
+ | customs checks    | Zollkontrolle(n)                  |
+ | common currency   | Gemeinschaftswärung (Euro)        |
+ | common market     |                                   |
