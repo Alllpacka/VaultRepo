@@ -4,4 +4,12 @@
 4. Hochwertige Bildung
 5. Menschenwürdige arbeit & Wirtschaftswachstum
 6. Nachhaltige/r Konsum & Produktion
+<<<<<<< HEAD
 7. Masnahmen zum Klimaschutz
+=======
+7. Masnahmen zum Klimaschutz
+
+# Handelsnetz
+
+Fair Trade schließt mehrere Bauern in eine demokratische Gemeinschaft zusammen.
+Geräte werden für die Gemeinschaft verkauft.
