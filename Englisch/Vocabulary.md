@@ -547,4 +547,6 @@ while + verb phrase            during the break
  | common market                            | Binnenmarkt                       |
  | free-trade zone                          | Freihandelszone                   |
  | to <u>facilitate</u> the exchange of sth | erleichtern                       |
+ | to subsidize project                     | subventionieren (🤓)              |
+ | legal framework                          | rechtliche rahmenbedingungen      |
  |                                          |                                   |
