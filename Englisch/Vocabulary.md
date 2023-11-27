@@ -549,4 +549,6 @@ while + verb phrase            during the break
  | to <u>facilitate</u> the exchange of sth | erleichtern                       |
  | to subsidize project                     | subventionieren (🤓)              |
  | legal framework                          | rechtliche rahmenbedingungen      |
- |                                          |                                   |
+
+
+
