@@ -4,9 +4,6 @@
 4. Hochwertige Bildung
 5. Menschenwürdige arbeit & Wirtschaftswachstum
 6. Nachhaltige/r Konsum & Produktion
-<<<<<<< HEAD
-7. Masnahmen zum Klimaschutz
-=======
 7. Masnahmen zum Klimaschutz
 
 # Handelsnetz
