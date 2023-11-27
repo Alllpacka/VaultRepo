@@ -8,4 +8,5 @@
 
 # Handelsnetz
 
-Fair Trade schließt mehrere Bauern in eine demokra
+Fair Trade schließt mehrere Bauern in eine demokratische Gemeinschaft zusammen.
+Geräte werden für die Gemeinschaft verkauft.
