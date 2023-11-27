@@ -211,7 +211,7 @@ Man kann es verwenden bei:
 constructor(radius) {
     Object.defineProperty(this, 'radius', {
       value: radius,
-      writable: false}
+      writable: false
     });
 ```
 
