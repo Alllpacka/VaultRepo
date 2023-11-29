@@ -1,7 +1,7 @@
 	1. **Students API:**
-   - [ ] *Get Students:* 
+   - [x] *Get Students:* ✅ 2023-11-29
 	   - `GET /students`
-   - [ ] *Get Student by ID:* 
+   - [x] *Get Student by ID:* ✅ 2023-11-29
 	   - `GET /students/{id}`
    - [ ] *Create Student:* 
 	   - `POST /students`
