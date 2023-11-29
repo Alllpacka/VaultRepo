@@ -21,7 +21,7 @@
 	   - `POST /transactions`
    - [x] *Update Transaction:* ✅ 2023-11-22
 	   - `PATCH /transactions/{id}`
-   - [ ] *Delete Transaction:* 
+   - [x] *Delete Transaction:* ✅ 2023-11-29
 	   - `DELETE /transactions/{id}`
 
 3. **Classes API:**
