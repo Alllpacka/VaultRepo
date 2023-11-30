@@ -1,3 +1,6 @@
+# Definition
+
+
 | Jakob                                            | Jannis                       |
 | ------------------------------------------------ | ---------------------------- |
 | **Fußabdruck in gha**                            | **Fußabdruck in gha**        |
@@ -7,3 +10,4 @@
 | **Abdruck verkleinern**                          | **Abdruck verkleinern**      |
 | mehr Fisch                                       |                              |
 | mehr Bahnfahren (ka warum ich muss niergens hin) |                              |
+|                                                  |                              |
