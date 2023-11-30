@@ -150,7 +150,7 @@ console.log(greeting); // Ausgabe: Hallo, mein Name ist Alice und ich bin 30 Jah
 Destructuring von Objekten ermöglicht es, Werte direkt aus einem Objekt zu extrahieren und in separaten Variablen zu speichern.
 
 ```javascript
-const person = { name: 'John', age: 30, city: 'New York' };
+const persons = {person1: { name: 'John', age: 30, city: 'New York' }};
 const { name, age } = person;
 
 console.log(name); // John
