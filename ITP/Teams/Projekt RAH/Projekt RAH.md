@@ -448,6 +448,7 @@ function computeSquare(element) {
 // Berechne das Quadrat jeder Zahl im Array
 numbers.forEach(computeSquare);
 
+
 /* Ausgabe:
 1
 9 
