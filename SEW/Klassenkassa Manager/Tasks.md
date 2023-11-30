@@ -3,11 +3,11 @@
 	   - `GET /students`
    - [x] *Get Student by ID:* ✅ 2023-11-29
 	   - `GET /students/{id}`
-   - [ ] *Create Student:* 
+   - [x] *Create Student:* ✅ 2023-11-30
 	   - `POST /students`
-   - [ ] *Update Student:* 
+   - [x] *Update Student:* ✅ 2023-11-30
 	   - `PATCH /students/{id}`
-   - [ ] *Delete Student:* 
+   - [x] *Delete Student:* ✅ 2023-11-30
 	   - `DELETE /students/{id}`
    - [ ] *Get Students in a Class:* 
 	   - `GET /classes/{classId}/students`
