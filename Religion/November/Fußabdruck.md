@@ -1,5 +1,5 @@
 # Definition
-
+Der ökologische Fußabdruck bezeichnet die Fläche, die entweder ein Mensch, ein Unternehmen oder auch ein Land benötigt, um seinen täglichen Bedarf an Ressourcen abzudecken.
 
 | Jakob                                            | Jannis                       |
 | ------------------------------------------------ | ---------------------------- |
