@@ -9,8 +9,6 @@
 	   - `PATCH /students/{id}`
    - [x] *Delete Student:* ✅ 2023-11-30
 	   - `DELETE /students/{id}`
-   - [ ] *Get Students in a Class:* 
-	   - `GET /classes/{classId}/students`
 
 2. **Transactions API:**
    - [x] *Get Transactions:* ✅ 2023-11-21
@@ -35,6 +33,9 @@
 	   - `PATCH /classes/{id}`
    - [ ] *Delete Class:* 
 	   - `DELETE /classes/{id}`
+   - [ ] *Get Students in a Class:* 
+	   - `GET /classes/{classId}/students`
+
 
 4. **Transaction Students API:**
    - [ ] *Get Transaction Student:* 
