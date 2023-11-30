@@ -23,17 +23,17 @@
 	   - `DELETE /transactions/{id}`
 
 3. **Classes API:**
-   - [ ] *Get Classes:* 
+   - [x] *Get Classes:* ✅ 2023-11-30
 	   - `GET /classes`
-   - [ ] *Get Class by ID:* 
+   - [x] *Get Class by ID:* ✅ 2023-11-30
 	   - `GET /classes/{id}`
-   - [ ] *Create Class:* 
+   - [x] *Create Class:* ✅ 2023-11-30
 	   - `POST /classes`
-   - [ ] *Update Class:* 
+   - [x] *Update Class:* ✅ 2023-11-30
 	   - `PATCH /classes/{id}`
-   - [ ] *Delete Class:* 
+   - [x] *Delete Class:* ✅ 2023-11-30
 	   - `DELETE /classes/{id}`
-   - [ ] *Get Students in a Class:* 
+   - [x] *Get Students in a Class:* ✅ 2023-11-30
 	   - `GET /classes/{classId}/students`
 
 
