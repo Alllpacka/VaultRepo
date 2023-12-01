@@ -38,7 +38,7 @@
 
 
 4. **Payments API:**
-   - [ ] *Get Payments:* 
+   - [x] *Get Payments:* ✅ 2023-12-01
 	   - `GET /paymentStatus/{transactionId}/{studentId}/`
 	   - ergibt bool
 	- [ ] *Get Students for a Transaction:* 
