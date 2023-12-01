@@ -43,7 +43,7 @@
 	   - ergibt bool
    - [ ] *Update Payments:*
 	   - `PATCH /paymentStatus/{transactionId}/{studentId}/`
-      - Request Payload: 
+      - Request Payload:  
 	      - `{ "isPaid": true }`
    - [ ] *Create Payments*
 		-  `POST /paymentStatus/{transactionId}/{studentId}`
