@@ -41,6 +41,10 @@
    - [ ] *Get Payments:* 
 	   - `GET /paymentStatus/{transactionId}/{studentId}/`
 	   - ergibt bool
+	- [ ] *Get Students for a Transaction:* 
+	      - `GET /transactions/{transactionId}/students`
+	- [ ] *Get Transactions for a Student:* 
+	      - `GET /students/{studentId}/transactions`
    - [ ] *Update Payments:*
 	   - `PATCH /paymentStatus/{transactionId}/{studentId}/`
       - Request Payload:  
@@ -48,7 +52,3 @@
    - [ ] *Create Payments*
 		-  `POST /paymentStatus/{transactionId}/{studentId}`
 		- default `isPaid = false`
-	- [ ] *Get Students for a Transaction:* 
-	      - `GET /transactions/{transactionId}/students`
-	- [ ] *Get Transactions for a Student:* 
-	      - `GET /students/{studentId}/transactions`
