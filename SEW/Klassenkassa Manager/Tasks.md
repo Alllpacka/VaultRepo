@@ -41,14 +41,15 @@
    - [x] *Get Payments:* ✅ 2023-12-01
 	   - `GET /paymentStatus/{transactionId}/{studentId}/`
 	   - ergibt bool
-	- [ ] *Get Students for a Transaction:* 
+	- [x] *Get Students for a Transaction:* ✅ 2023-12-01
 	      - `GET /transactions/{transactionId}/students`
-	- [ ] *Get Transactions for a Student:* 
+	- [x] *Get Transactions for a Student:* ✅ 2023-12-01
 	      - `GET /students/{studentId}/transactions`
+   - [x] *Create Payments* ✅ 2023-12-01
+		-  `POST /paymentStatus/{transactionId}/{studentId}`
+		- default `isPaid = false`
    - [ ] *Update Payments:*
 	   - `PATCH /paymentStatus/{transactionId}/{studentId}/`
       - Request Payload:  
 	      - `{ "isPaid": true }`
-   - [ ] *Create Payments*
-		-  `POST /paymentStatus/{transactionId}/{studentId}`
-		- default `isPaid = false`
+
