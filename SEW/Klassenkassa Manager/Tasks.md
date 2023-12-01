@@ -40,10 +40,12 @@
 4. **Transaction Students API:**
    - [ ] *Get Transaction Student:* 
 	   - `GET /paymentStatus/{transactionId}/{studentId}/`
+	   - ergibt bool
    - [ ] *Update Transaction Student:*
 	   - `PATCH /paymentStatus/{transactionId}/{studentId}/`
       - Request Payload: 
 	      - `{ "isPaid": true }`
+   -[ ] *Create* 
 	
 	- [ ] *Get Students for a Transaction:* 
 	      - `GET /transactions/{transactionId}/students`
