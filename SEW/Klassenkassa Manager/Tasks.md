@@ -37,15 +37,15 @@
 	   - `GET /classes/{classId}/students`
 
 
-4. **Transaction Students API:**
-   - [ ] *Get Transaction Student:* 
+4. **Payments API:**
+   - [ ] *Get Payments:* 
 	   - `GET /paymentStatus/{transactionId}/{studentId}/`
 	   - ergibt bool
-   - [ ] *Update Transaction Student:*
+   - [ ] *Update Payments:*
 	   - `PATCH /paymentStatus/{transactionId}/{studentId}/`
       - Request Payload: 
 	      - `{ "isPaid": true }`
-   - [ ] *Create Transaction Student*
+   - [ ] *Create Payments*
 		-  `POST /paymentStatus/{transactionId}/{studentId}`
 		- default `isPaid = false`
 	- [ ] *Get Students for a Transaction:* 
