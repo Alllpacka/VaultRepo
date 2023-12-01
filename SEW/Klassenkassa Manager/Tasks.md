@@ -48,7 +48,7 @@
    - [x] *Create Payments* ✅ 2023-12-01
 		-  `POST /paymentStatus/{transactionId}/{studentId}`
 		- default `isPaid = false`
-   - [ ] *Update Payments:*
+   - [x] *Update Payments:* ✅ 2023-12-01
 	   - `PATCH /paymentStatus/{transactionId}/{studentId}/`
       - Request Payload:  
 	      - `{ "isPaid": true }`
