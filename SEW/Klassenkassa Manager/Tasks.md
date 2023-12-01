@@ -45,8 +45,9 @@
 	   - `PATCH /paymentStatus/{transactionId}/{studentId}/`
       - Request Payload: 
 	      - `{ "isPaid": true }`
-   -[ ] *Create* 
-	
+   - [ ] *Create Transaction Student*
+		-  `POST /paymentStatus/{transactionId}/{studentId}`
+		- default `isPaid = false`
 	- [ ] *Get Students for a Transaction:* 
 	      - `GET /transactions/{transactionId}/students`
 	- [ ] *Get Transactions for a Student:* 
