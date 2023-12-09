@@ -1,4 +1,4 @@
-	1. **Students API:**
+1. **Students API:**
    - [x] *Get Students:* ✅ 2023-11-29
 	   - `GET /students`
    - [x] *Get Student by ID:* ✅ 2023-11-29
@@ -35,7 +35,6 @@
 	   - `DELETE /classes/{id}`
    - [x] *Get Students in a Class:* ✅ 2023-11-30
 	   - `GET /classes/{classId}/students`
-
 
 4. **Payments API:**
    - [x] *Get Payments:* ✅ 2023-12-01
