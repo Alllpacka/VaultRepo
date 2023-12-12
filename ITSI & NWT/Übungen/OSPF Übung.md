@@ -23,3 +23,5 @@ set name=Router1
 
 # routenausfall
 connection zwischen router 2 und router 3 abgesteckt
+![[Pasted image 20231212105006.png]]
+
