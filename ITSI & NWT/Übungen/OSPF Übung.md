@@ -18,3 +18,8 @@ set name=Router1
 # ping versuch
 ![[Pasted image 20231212104239.png]]
 
+# routing table
+![[Pasted image 20231212104435.png]]
+
+# routenausfall
+connection zwischen router 2 und router 3 abgesteckt
