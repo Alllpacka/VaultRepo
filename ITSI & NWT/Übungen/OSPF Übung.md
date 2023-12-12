@@ -1,3 +1,4 @@
+# config
 ```mikrotik
 /routing ospf instance
 add disabled=no name=OSPFInst1 redistribute=connected router-id=10.0.0.1
@@ -13,3 +14,7 @@ add area=backbone cost=15 disabled=no interfaces=ether2
 /system identity
 set name=Router1
 ```
+
+# ping versuch
+![[Pasted image 20231212104239.png]]
+
