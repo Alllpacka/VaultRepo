@@ -19,3 +19,5 @@
 - stable currency
 - recognition of qualifications
 - protection when shopping online
+- high hygiene on food
+---
