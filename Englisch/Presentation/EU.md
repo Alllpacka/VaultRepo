@@ -1,6 +1,7 @@
 # EU and what it provides
 ---
 ## Table of content
+- dail
 
 ---
 # daily life
@@ -25,4 +26,5 @@
 - autonomous regulation of pesticides
 - more economic flexibility with own currency
 - setting their own social standards
-- 
+- full control over borders
+- separate food labelling standards
