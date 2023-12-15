@@ -22,4 +22,7 @@
 - high hygiene on food
 ---
 # why counties would want to leave the EU
+- autonomous regulation of pesticides
+- more economic flexibility with own currency
+- setting their own social standards
 - 
