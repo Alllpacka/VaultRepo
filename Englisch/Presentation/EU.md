@@ -6,4 +6,6 @@
 # daily life
 - provides clean drinking water
 - prohibits harmful pesticides
+- sets social standarts
+- provides a stable currency
 - 
