@@ -13,4 +13,9 @@
 - strict quality assurance on meat
 - calling between counties is cheap
 ---
-# 
+# points important in my life
+- clean drinking water 
+- clean air
+- stable currency
+- recognition of qualifications
+- protection when shopping online
