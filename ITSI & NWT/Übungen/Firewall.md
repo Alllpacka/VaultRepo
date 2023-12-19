@@ -66,3 +66,7 @@ change PermitRootLogin to no
 
 ## enable PubkeyAuthentication
 ![[Pasted image 20231219114514.png]]
+
+## disable PasswordAuthentication
+![[Pasted image 20231219114552.png]]
+
