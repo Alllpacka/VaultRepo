@@ -77,3 +77,9 @@ change PermitRootLogin to no
 ssh-keygen.exe
 ```
 
+### copy key to server
+![[Pasted image 20231219115546.png]]
+```bash
+cat C:\Users\jakob\.ssh\id_rsa.pub | ssh 192.168.56.103 "mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys"
+```
+
