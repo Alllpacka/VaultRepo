@@ -7,5 +7,11 @@ ssh 172.18.10.177
 
 # enable firewall
 add a rule to allow tcp a tcp connection from host system and enable the ufw
-![[Pasted image 20231219102644.png]]
+![[Pasted image 20231219102706.png]]
+```bash
+sudo ufw allow proto tcp from 172.18.9.39 to 172.18.10.177
+```
+```bash
+sudo ufw enable
+```
 
