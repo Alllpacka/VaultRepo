@@ -41,11 +41,11 @@ enable logging
 sudo ufw logging on
 ```
 
-
-
-
 # enable the ufw
 ```bash
 sudo ufw enable
 ```
+
+# nmap
+send nmap command to test all ports on the server and use own p
 
