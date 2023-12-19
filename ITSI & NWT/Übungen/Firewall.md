@@ -35,6 +35,12 @@ set a rule to allow tcp connections on port 25565
 sudo ufw allow 25565/tcp
 ```
 
+enable logging
+![[Pasted image 20231219112117.png]]
+```bash
+sudo ufw logging on
+```
+
 
 
 
