@@ -56,10 +56,7 @@ nmap -p- -Pn 192.168.56.103
 
 # Bonus
 ## disable root login
-go to sshd_config
-```bash
-sudo nano /etc/ssh/sshd_config
 ```
 
-and change PermitRootLogin to no
+change PermitRootLogin to no
 ![[Pasted image 20231219114101.png]]
