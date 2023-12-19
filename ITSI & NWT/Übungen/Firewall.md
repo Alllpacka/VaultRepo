@@ -109,3 +109,10 @@ sudo ufw allow from 192.168.56.0/24 to any port 25565
 ```
 
 ## server with port 25565 running on special user
+![[Pasted image 20231219123809.png]]
+```bash
+sudo useradd -s /usr/sbin/nologin server25565
+```
+```bash
+sudo -u server25565 nc -l 25565
+```
