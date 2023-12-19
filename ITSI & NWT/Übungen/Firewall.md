@@ -9,7 +9,7 @@ ssh 172.18.10.177
 add a rule to allow tcp a tcp connection from host system
 ![[Pasted image 20231219102706.png]]
 ```bash
-sudo ufw allow proto tcp from 172.18.9.39 to 172.18.10.177
+sudo ufw allow proto tcp from 172.18.9.39 to 192.168.56.103
 ```
 
 ## applications
