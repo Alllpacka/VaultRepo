@@ -55,8 +55,14 @@ nmap -p- -Pn 192.168.56.103
 
 
 # Bonus
-## disable root login
+go to sshd_config
+```bash
+sudo nano /etc/ssh/sshd_config
 ```
 
+## disable root login
 change PermitRootLogin to no
 ![[Pasted image 20231219114101.png]]
+
+## enable PubkeyAuthentication
+![[Pasted image 20231219114514.png]]
