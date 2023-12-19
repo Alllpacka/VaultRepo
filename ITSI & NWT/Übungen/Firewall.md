@@ -70,3 +70,9 @@ change PermitRootLogin to no
 ## disable PasswordAuthentication
 ![[Pasted image 20231219114552.png]]
 
+## generate key on host
+![[Pasted image 20231219114748.png]]
+```bash
+ssh-keygen.exe
+```
+
