@@ -16,4 +16,9 @@ sudo ufw enable
 ```
 
 # applications
-simulate a server on port 25565
+simulate a server on port 25565 using netcat
+![[Pasted image 20231219104316.png]]
+
+```bash
+netcat -l 25565
+```
