@@ -36,9 +36,12 @@ sudo ufw allow 25565/tcp
 ```
 
 enable logging
-![[Pasted image 20231219112117.png]]
+![[Pasted image 20231219120421.png]]
 ```bash
 sudo ufw logging on
+```
+```bash
+sudo ufw logging high
 ```
 
 # enable the ufw
