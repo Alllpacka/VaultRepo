@@ -47,5 +47,9 @@ sudo ufw enable
 ```
 
 # nmap
-send nmap command to test all ports on the server and use own p
+send nmap command to test all ports on the server
+![[Pasted image 20231219113525.png]]
+```bash
+nmap -p- -Pn 192.168.56.103
+```
 
