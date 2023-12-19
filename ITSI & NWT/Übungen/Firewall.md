@@ -108,4 +108,4 @@ ssh -p 4 192.168.56.103
 sudo ufw allow from 192.168.56.0/24 to any port 25565
 ```
 
-## server with port 25565 running on 
+## server with port 25565 running on special user
