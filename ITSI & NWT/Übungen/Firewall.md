@@ -99,7 +99,7 @@ systemctl reboot ssh
 ### connect
 ![[Pasted image 20231219123046.png]]
 ```bash
-ssh -p 
+ssh -p 4 192.168.56.103
 ```
 
-##
+## 
