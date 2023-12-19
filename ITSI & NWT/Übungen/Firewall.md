@@ -102,4 +102,10 @@ systemctl reboot ssh
 ssh -p 4 192.168.56.103
 ```
 
-## 
+## only allow internal connection to port 25565
+![[Pasted image 20231219123401.png]]
+```bash
+sudo ufw allow from 192.168.56.0/24 to any port 25565
+```
+
+## server with port 25565 running on 
