@@ -13,6 +13,7 @@ sudo ufw allow proto tcp from 172.18.9.39 to 172.18.10.177
 ```
 
 ## applications
+### netcat
 simulate a server on port 25565 using netcat
 ![[Pasted image 20231219104316.png]]
 
@@ -20,6 +21,8 @@ simulate a server on port 25565 using netcat
 netcat -l 25565
 ```
 
+## rules
+set a rule to allow ssh connections
 
 
 ```bash
