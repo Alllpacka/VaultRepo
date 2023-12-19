@@ -15,3 +15,5 @@ sudo ufw allow proto tcp from 172.18.9.39 to 172.18.10.177
 sudo ufw enable
 ```
 
+# applications
+simulate a server on port 25565
