@@ -56,6 +56,8 @@ send nmap command to test all ports on the server
 nmap -p- -Pn 192.168.56.103
 ```
 
+## logs
+![[Pasted image 20231219121329.png]]
 
 # Bonus
 go to sshd_config
@@ -86,3 +88,4 @@ ssh-keygen.exe
 cat C:\Users\jakob\.ssh\id_rsa.pub | ssh 192.168.56.103 "mkdir -p ~/.ssh && cat >> ~/.ssh/authorized_keys"
 ```
 
+### change port of ssh
