@@ -23,8 +23,12 @@ netcat -l 25565
 
 ## rules
 set a rule to allow ssh connections
+(will skip if rule already exists)
+![[Pasted image 20231219104943.png]]
 
 
+
+# enable the ufw
 ```bash
 sudo ufw enable
 ```
