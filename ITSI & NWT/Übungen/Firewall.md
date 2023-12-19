@@ -89,3 +89,6 @@ cat C:\Users\jakob\.ssh\id_rsa.pub | ssh 192.168.56.103 "mkdir -p ~/.ssh && cat 
 ```
 
 ### change port of ssh
+in sshd_config
+![[Pasted image 20231219121532.png]]
+
