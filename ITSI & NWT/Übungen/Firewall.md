@@ -25,6 +25,16 @@ netcat -l 25565
 set a rule to allow ssh connections
 (will skip if rule already exists)
 ![[Pasted image 20231219104943.png]]
+```bash
+sudo sfw allow ssh
+```
+
+set a rule to allow tcp connections on port 25565
+![[Pasted image 20231219105154.png]]
+```bash
+sudo ufw allow 25565/tcp
+```
+
 
 
 
