@@ -247,7 +247,7 @@ import CustomName from `./user.mjs`
 ### API-Design
 
 <span style="color:#00b0f0">Eine well-designed API..</span>.
-- … bietet Erleichterung und transportiert nicht nur Daten einer Datenbanküber HTTP.
+- … bietet Erleichterung und transportiert nicht nur Daten einer Datenbank über HTTP.
 - … sollte den Erwartungen von Entwicklern für Qualität und Standards gerechtwerden.
 
 **Merkmale einer guten API**
