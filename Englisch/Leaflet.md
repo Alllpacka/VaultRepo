@@ -9,7 +9,12 @@ Structure/Layout: Title + Subheadings
 
 ![[ad14d555-2382-4288-af9c-91db5031effc.jpg]]
 
-BP1: learn about another culture -> improve/gain cross-cultural skills
+BP1: unique opportunity to...
+	 learn about another culture -> improve/gain cross-cultural skills
 	 expand/widen your horizon
 	 become independent
 	 boost your self-esteem
+	 makes you stand out
+	 make new friends
+
+BP2: legal drinking age
