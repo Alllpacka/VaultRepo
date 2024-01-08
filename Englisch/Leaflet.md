@@ -18,4 +18,6 @@ BP1: unique opportunity to...
 	 make new friends
 
 BP2: legal drinking age of 16 yrs -> festivals, wine culture
-	 skiing, crystal-clear lakes (take a swim), hiking
+	 skiing, crystal-clear lakes (take a swim), hiking, historic sites, explore the unspoiled nature, exquisite architecture, famous cuisine
+
+BP3: German is spoken in "many" countries
