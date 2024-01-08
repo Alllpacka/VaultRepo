@@ -17,4 +17,5 @@ BP1: unique opportunity to...
 	 makes you stand out
 	 make new friends
 
-BP2: legal drinking age
+BP2: legal drinking age of 16 yrs -> festivals, wine culture
+	 skiing, crystal-clear lakes (take a swim), hiking
