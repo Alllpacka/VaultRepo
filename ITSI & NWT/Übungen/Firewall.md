@@ -26,7 +26,7 @@ set a rule to allow ssh connections
 (will skip if rule already exists)
 ![[Pasted image 20231219104943.png]]
 ```bash
-sudo sfw allow ssh
+sudo ufw allow ssh
 ```
 
 set a rule to allow tcp connections on port 25565
