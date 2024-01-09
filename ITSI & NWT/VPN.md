@@ -12,4 +12,12 @@ Wireguard
 ![[Pasted image 20240109105331.png]]
 
 # OpenVPN
-~~~mikroti
+~~~mikrotik
+/interface/bridge/add name=br
+/interface/bridge/port/add bridge=br interface=ether
+
+/ip/address/add interface=br address=192.168.10.1/24
+/ip/pool/add name Pool10
+
+
+~~~
