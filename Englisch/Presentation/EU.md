@@ -1,7 +1,9 @@
 # EU and what it provides
 ---
 ## Table of content
-- dail
+- daily life
+- points important in my life
+- why counties would want to leave the EU
 
 ---
 # daily life
@@ -28,3 +30,5 @@
 - setting their own social standards
 - full control over borders
 - separate food labelling standards
+---
+# Thank you for your attention
