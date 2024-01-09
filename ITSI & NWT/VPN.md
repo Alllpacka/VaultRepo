@@ -4,3 +4,4 @@
 ![[Pasted image 20240109104950.png]]
 
 # Site-to-Site VPN
+![[Pasted image 20240109105331.png]]
