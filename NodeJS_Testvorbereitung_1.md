@@ -256,7 +256,7 @@ npm init // Erstellt package in aktuellem Verzeichnis
 }
 ```
 
-~~~~~~yaml
+~~~yaml
 // YAML
 servers:
 - url: https://development.example.com/v1
@@ -265,10 +265,10 @@ description: Development server
 description: Staging server
 - url: https://api.example.com/v1
 description: Production server
-```
+~~~
 
 **Endpunkte anhand einer Spezifikation finden**
-```yaml
+~~~yaml
 paths:
   /users:
     get:
@@ -287,12 +287,9 @@ paths:
     delete:
       summary: Benutzer löschen
       description: Löscht einen Benutzer.
-
-```
+~~~
 
 In diesem Beispiel sind die Endpunkte: `/users` & `/users/{userID}`
-
-
 
 ### Docker
 
@@ -332,7 +329,7 @@ docker run -d –-name webserver –p 8080:80 nginx // Portweiterleitung mit -p
 **Docker images erstellen**
 Bsp. Node.js App im Docker-Container
 
-```
+```docker
 FROM node:18.18.2  
 WORKDIR /app  
 COPY . /app  
