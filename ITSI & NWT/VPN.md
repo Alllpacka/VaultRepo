@@ -11,3 +11,5 @@ Wireguard
 # Site-to-Site VPN
 ![[Pasted image 20240109105331.png]]
 
+# OpenVPN
+~~~mikroti
