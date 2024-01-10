@@ -157,7 +157,7 @@ Eduard Müller
 
 **Aufbau**
 ```
-(Javascript)
+       (Javascript)
 +-------------------------+          +-------------------------+
 |       User Code         |          |           NPM           |
 +-------------------------+          +-------------------------+
@@ -193,7 +193,7 @@ npm init // Erstellt package in aktuellem Verzeichnis
 ### REST
 
 >[!SUMMARY] REST
-> **R**epresentational **S**tate **T**ransfer. API Design Standard. 
+> **Re**presentational **S**tate **T**ransfer. API Design Standard. 
 > 
 >
 >**Methoden:**
