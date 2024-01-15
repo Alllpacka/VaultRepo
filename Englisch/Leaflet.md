@@ -1,4 +1,4 @@
-Aim: to inform
+~Aim: to inform
 Register: formal/informal
 Structure/Layout: Title + Subheadings
 				  Several paragraphs (introduction, content points)
