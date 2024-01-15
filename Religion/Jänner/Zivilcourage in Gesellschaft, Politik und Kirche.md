@@ -8,7 +8,7 @@ S.33
 	* Zweiter Text: Christliches Gedankengut wurde ausgeklammert (helfen, Nächstenliebe). Da Christen sich für niemanden eingesetzt haben, wird sich auch niemand für sie einsetzen.
 
 3. Geschwister Scholl
-	* Hans (1918-19) und Sophie (1921-1943) Scholl
+	* Hans (1918-1943) und Sophie (1921-1943) Scholl
 	* Hans und Sophie Scholl waren Studenten in Berlin und anti-Nazi aktivisten
-	* Sie waren die gründer der Weißen Rose
+	* Sie waren die gründer der "Weißen Rose"
 	* Sie wurden wegen hochverat von den Nazist hingerichtet
