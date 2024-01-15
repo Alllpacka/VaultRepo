@@ -10,4 +10,4 @@ S.33
 3. Geschwister Scholl
 	* Hans und Sophie Scholl waren Studenten in Berlin und anti-Nazi aktivisten
 	* Sie waren die gründer der Weißen Rose
-	* 
+	* Sie wurden wegen hochverat von den Nazist hingerichtet
