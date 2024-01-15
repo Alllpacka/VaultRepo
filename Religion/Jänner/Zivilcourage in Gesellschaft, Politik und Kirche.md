@@ -5,3 +5,4 @@ S.33
 
 2. In einem Abschnitt des Weltkatechismus weisen Autoren auf die Christen auf ihre Pflichten hin. Überlegen sie Themen, bei denen die Verantwortlichen in der Kirche Unterstützung und Mitdenken der Gläubigen brauchen
 	* Die Kernessenz der hl. Messe für Katholiken ist die Wandlung -jedoch möchte sich niemand im Leben wirklich zum Positiven "wandeln"
+	* Zweiter Text: Christliches Gedankengut wurde ausgeklammert (helfen, Nächstenliebe). Da Christen sich für niemanden eingesetzt haben, wird sich auch niemand für sie einsetzen
