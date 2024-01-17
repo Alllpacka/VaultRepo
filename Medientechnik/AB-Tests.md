@@ -9,7 +9,7 @@ die user sollen entscheiden welche version sie von einem produkt besser/schöner
 es wird die ux getestet
 - Traffic (page views, unique visitors) to the page, component, or other element being reviewed for test scenarios
 - Engagement (time spent, pages per visit, bounce rate)
-- Conversions (clicks, registrations, fallout)
+- Conversions (clicks, registrations)
 - Performance trended over time
 
 ##### Wo findet der Test statt
