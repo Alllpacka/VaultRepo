@@ -2,7 +2,7 @@
 Zwei (oder mehrere) varianten von etwas zu vergleichen 
 
 ##### Wer ist beim Test dabei und welche Aufgaben hat er/sie
-die user sollen entsch
+die user sollen entscheiden welche version sie von einem produkt besser/schöner finden oder welche version besser zu benutzen ist
 
 ##### Was kann (nicht) getestet werden
 es wird die ux getestet
@@ -23,6 +23,7 @@ es wird die ux getestet
 + analytical evaluation
 
 ##### Wann sollte der Test durchgeführt werden
+für die besten ergebnisse sollte ein
 dauerhaft um ein produkt zu fine-tunen
 
 ##### Wie viele Probanten/Durchläufe
