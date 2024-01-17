@@ -2,7 +2,7 @@
 Zwei (oder mehrere (a/b/n Tests)) varianten von etwas zu vergleichen 
 
 ##### Wer ist beim Test dabei und welche Aufgaben hat er/sie
-user zum eintscheiden und data analysten
+user zum eintscheiden und data analysten im hintergrund zum auswerten der daten
 die user sollen entscheiden welche version sie von einem produkt besser/schöner finden oder welche version besser zu benutzen ist
 
 ##### Was kann (nicht) getestet werden
