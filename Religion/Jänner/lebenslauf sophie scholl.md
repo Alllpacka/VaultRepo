@@ -2,20 +2,22 @@
 
 + Sophie tritt 1934 in den Bund Deutscher Madel (BDM) ein.
 
-+ Im Sommer 1942 stößt Sophie zum ersten Mal auf ein Flugblatt der Weißen Rose. Sie findet heraus, dass es von Hans stammt, und steigt selbst bei der Weißen Rose ein.
+
 
 + Familie Scholl zieht 1930 nach Ludwigsburg, 1932 dann nach Ulm.
 
-+ Beim Verteilen des sechsten Flugblatts werden Sophie und Hans am 18.02.1943 in der Münchner Universität beobachtet. Sie werden verraten, verhaftet und von der Gestapo verhört.
+ 
 
 + 1940 macht Sophie Abitur, anschließend eine Ausbildung zur Kindergartnerin.
- Scholl sowie Christoph Probst zum Tod. Wenige Stunden später werden sie hingerichtet.
+Scholl sowie Christoph Probst zum Tod. Wenige Stsarbeitsdienst in Krauchenwies, anschließend Kriegshilfsdienst als Kindergartnerin in Blumberg.
 
-+ 1941 leistet Sophie für ein halbes Jahr Reichsarbeitsdienst in Krauchenwies, anschließend Kriegshilfsdienst als Kindergartnerin in Blumberg.
+
+
++ Im November 1937 verliebt Sich Sophie in den angehenden Offizier Fritz Hartnag
 
 + Im Mai 1942 beginnt Sophie ihr Studium der Philosophie und Biologie an der Ludwig-Maximilians-Universität in München.
-
-+ Im November 1937 verliebt Sich Sophie in den angehenden Offizier Fritz Hartnagel.
-
++ Im Sommer 1942 stößt Sophie zum ersten Mal auf ein Flugblatt der Weißen Rose. Sie findet heraus, dass es von Hans stammt, und steigt selbst bei der Weißen Rose ein.verhört.
 + Im Januar 1943 ruft die Weiße Rose die Deutschen mit dem fünften Flugblatt zum Widerstand gegen das Nazi.Regime auf. Sophie verteilt Flugblätter in mehreren süddeutschen Städten
-+ Am 22.02.1943 verurteilt der nationalsozialistische „Volksgerichtshoff Hans und Sophie
++ Beim Verteilen des sechsten Flugblatts werden Sophie und Hans am 18.02.1943 in der Münchner Universität beobachtet. Sie werden verraten, verhaftet und von der Gestapo
++ Am 22.02.1943 verurteilt der nationalsozialistische „Volksgerichtshoff Hans und Sophie unden später werden sie hingerichtet.
++ 1941 leistet Sophie für ein halbes Jahr Reich
