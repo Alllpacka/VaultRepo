@@ -14,8 +14,8 @@
 
 + Im Sommer 1942 stößt Sophie zum ersten Mal auf ein Flugblatt der Weißen Rose. Sie findet heraus, dass es von Hans stammt, und steigt selbst bei der Weißen Rose ein.verhört.
 
-+ Im Januar 1943 ruft die Weiße Rose die Deutschen mit dem fünften Flugblatt zum Widerstand gegen das Nazi.Regime auf. Sophie verteilt Flugblätter in mehreren süddeutschen Städten
++ Im Januar 1943 ruft die Weiße Rose die Deutschen mit dem fünften Flugblatt zum Widerstand gegen das Nazi-Regime auf. Sophie verteilt Flugblätter in mehreren süddeutschen Städten
 
-+ Beim Verteilen des sechsten Flugblatts werden Sophie und Hans am 18.02.1943 in der Münchner Universität beobachtet. Sie werden verraten, verhaftet und von der Gestapo
++ Beim Verteilen des sechsten Flugblatts werden Sophie und Hans am 18.02.1943 in der Münchner Universität beobachtet. Sie werden verraten, verhaftet und von der Gestapo verhört
 
-+ Am 22.02.1943 verurteilt der nationalsozialistische „Volksgerichtshoff Hans und Sophie unden später werden sie hingerichtet.
++ Am 22.02.1943 verurteilt der nationalsozialistische „Volksgerichtshoff Hans und Sophie Stunden später werden sie hingerichtet.
