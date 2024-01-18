@@ -18,4 +18,4 @@
 
 + Beim Verteilen des sechsten Flugblatts werden Sophie und Hans am 18.02.1943 in der Münchner Universität beobachtet. Sie werden verraten, verhaftet und von der Gestapo verhört
 
-+ Am 22.02.1943 verurteilt der nationalsozialistische „Volksgerichtshoff Hans und Sophie Stunden später werden sie hingerichtet.
++ Am 22.02.1943 verurteilt der nationalsozialistische „Volksgerichtshoff Hans und Sophie sowie Christoph Probst den Tod. Wenige Stunden später werden sie hingerichtet.
