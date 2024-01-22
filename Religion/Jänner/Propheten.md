@@ -12,3 +12,4 @@ Prophet = Sprachrohr, Rufer Gottes
 * Hosea
 * Mirjam
 * Debora
+* ...
