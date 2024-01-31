@@ -13,3 +13,13 @@ docker run -d --name ubuntu -it ubuntu
 ```
 
 ## Aktualisieren
+![[Pasted image 20240131075539.png]]
+```bash
+docker exec -it ubuntu bash
+apt update
+```
+
+![[Pasted image 20240131075650.png]]
+
+## tree installieren
+![[Pasted image 20240131075728.png]]
