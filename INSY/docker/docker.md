@@ -37,3 +37,6 @@ apt install tree
 cd /
 ```
 
+## tree ausführen
+### was macht tree
+tree gibt eine graphische darstellung der struktur des Filesystems aus
