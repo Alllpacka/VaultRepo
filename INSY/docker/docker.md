@@ -6,3 +6,10 @@
 -) Ermitteln Sie mithilfe der tree-Befehls die ungefähre Anzahl der Files des Betriebssystems
 
 # Lösung
+## Container starten
+![[Pasted image 20240131075220.png]]
+```bash
+docker run -d --name ubuntu -it ubuntu
+```
+
+## Aktualisieren
