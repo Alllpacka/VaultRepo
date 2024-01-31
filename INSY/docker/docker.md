@@ -20,6 +20,20 @@ apt update
 ```
 
 ![[Pasted image 20240131075650.png]]
+```bash
+apt upgrade -y
+```
 
 ## tree installieren
 ![[Pasted image 20240131075728.png]]
+```bash
+apt install tree
+```
+
+## ins Stammverzeichnis wechseln
+
+![[Pasted image 20240131075902.png]]
+```bash
+cd /
+```
+
