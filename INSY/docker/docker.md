@@ -40,3 +40,9 @@ cd /
 ## tree ausführen
 ### was macht tree
 tree gibt eine graphische darstellung der struktur des Filesystems aus
+
+## Anzahl der Files im Betriebssystem
+![[Pasted image 20240131080218.png]]
+```bash
+tree
+```
