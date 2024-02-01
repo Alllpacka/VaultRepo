@@ -5,4 +5,5 @@
 	+ das (wieder einmal) nur ans geld gedacht wird
 
 + Was kritisiert der Prophet? Wozu ruft er auf?
+	+ das die armen und schwachen von den reichen ausgeraubt werden
 	+ 
