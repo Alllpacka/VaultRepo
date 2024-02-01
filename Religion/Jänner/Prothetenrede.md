@@ -1,0 +1,1 @@
++ Was kritisiefi die Aktivistin? Wozu ruft sie auf?
