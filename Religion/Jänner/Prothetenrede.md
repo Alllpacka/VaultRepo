@@ -6,4 +6,5 @@
 
 + Was kritisiert der Prophet? Wozu ruft er auf?
 	+ das die armen und schwachen von den reichen ausgeraubt werden
-	+ 
+	+ er ruft dazu auf nicht zu spät nach den "worten des herren" zu suchen
+
