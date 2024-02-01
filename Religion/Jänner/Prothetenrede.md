@@ -1,1 +1,4 @@
-+ Was kritisiefi die Aktivistin? Wozu ruft sie auf?
++ Was kritisiert die Aktivistin? Wozu ruft sie auf?
+	+ wenig aktion gegen den klimawandel
+	+ das die probleme auf jüngere Menschen geschoben wird
+	+ 
