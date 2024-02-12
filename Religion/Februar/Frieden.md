@@ -4,4 +4,6 @@ hebr. Shalom
 + friedliche Kompromisse
 + Mitbestimmungsrecht in Politik und Gesellschaft
 
-Friedenstreffe
+Friedenstreffen in Assisi
+Gemeinsame Verpfichtung für den Frieden
++ Ablehnung von Gewalt ()
