@@ -1,11 +1,12 @@
 # Aufgabe1:
 
 1) Finde auf Docker Hub das offizielle Node.js-Image
-	![[Pasted image 20240215080815.png]]
-	```bash
-	docker search node.js
-	```
-2) Welche drei Hauptvarianten werden in der Dokumentation für das Image aufgeführt und was sind die Unterschiede zwischen ihnen?
+![[Pasted image 20240215080815.png]]
+```bash
+docker search node.js
+```
+	
+1) Welche drei Hauptvarianten werden in der Dokumentation für das Image aufgeführt und was sind die Unterschiede zwischen ihnen?
 	```node:<version>```
 	Normale Version von Node
 	```node:<version>-alpine```
@@ -16,6 +17,10 @@
 
 
 3) Lade das aktuelle node:alpine-Image herunter
+![[Pasted image 20240215082012.png]]
+```bash
+docker pull node:alpine
+```
 
 4) Wie groß ist es im Vergleich zum Standard-Node.js-Image?
 
