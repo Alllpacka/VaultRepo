@@ -25,9 +25,16 @@ docker pull node:alpine
 4) Wie groß ist es im Vergleich zum Standard-Node.js-Image?
 
 5) Benenne das heruntergeladene Image in small-node um
-
+![[Pasted image 20240215082445.png]]
+```bash
+docker image tag node:alpine small-node
+```
+	
 6) Überzeuge dich, dass bei dir jetzt ein Image namens small-node existiert
+![[Pasted image 20240215082611.png]]
+```bash
 
+```
 7) Erzeuge und starte einen Node.js-Container basierend auf dem small-node-Image,
 
    welcher automatisch wieder gelöscht werden soll. Starte dann per docker exec
