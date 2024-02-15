@@ -107,9 +107,13 @@ mkdir /app
 3) Wechsel anschließend in diesen Ordner und erstelle eine Datei "main.js" mit folgendem Inhalt:
 
       console.log("Hallo Welt")
-![[Pasted image 20240215091831.png]]
+![[Pasted image 20240215092028.png]]
 ```bash
 echo "console.log(\"Hello World\");" > main.js
 ```
 
 4) Führe anschließend dein Skript via node main.js aus
+![[Pasted image 20240215092100.png]]
+```bash
+node main.js
+```
