@@ -6,8 +6,13 @@
 	docker search node.js
 	```
 2) Welche drei Hauptvarianten werden in der Dokumentation für das Image aufgeführt und was sind die Unterschiede zwischen ihnen?
-	```
-```
+	```node:<version>```
+	Normale Version von Node
+	```node:<version>-alpine```
+	Version für Alpine Linux
+	Kleine Linux Distro -> kleineres Node Image
+	```node:<version>-slim```
+`
 
 
 3) Lade das aktuelle node:alpine-Image herunter
