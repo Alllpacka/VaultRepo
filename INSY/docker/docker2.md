@@ -70,7 +70,12 @@ docker run -it -d --name test-container node
 ```
 
 3) Steuere mit der bash im Container den Ordner etc an und finde die Version der zugrunde liegenden Debian-Distribution heraus
+![[Pasted image 20240215084356.png]]
+![[Pasted image 20240215084334.png]]
+```bash
+cd /etc
 
+```
 4) Gehe dann zurück in den root-Ordner und von dort zu /usr/share
 
 5) Findest du in dem Ordner Hinweise zu einer anderen Programmiersprache, die wir schon verwendet haben und die in diesem Container installiert ist?
