@@ -99,9 +99,14 @@ docker container rename test-container my-node-app
 ```
 
 2) Erstelle dann dort dann den Ordner /app (Befehl: mkdir /app)
+![[Pasted image 20240215091732.png]]
+```bash
+mkdir /app
+```
 
 3) Wechsel anschließend in diesen Ordner und erstelle eine Datei "main.js" mit folgendem Inhalt:
 
       console.log("Hallo Welt")
+
 
 4) Führe anschließend dein Skript via node main.js aus
