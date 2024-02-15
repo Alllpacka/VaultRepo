@@ -33,13 +33,11 @@ docker image tag node:alpine small-node
 6) Überzeuge dich, dass bei dir jetzt ein Image namens small-node existiert
 ![[Pasted image 20240215082611.png]]
 ```bash
-
+docker images | grep small-node
 ```
-7) Erzeuge und starte einen Node.js-Container basierend auf dem small-node-Image,
 
-   welcher automatisch wieder gelöscht werden soll. Starte dann per docker exec
+7) Erzeuge und starte einen Node.js-Container basierend auf dem small-node-Image, welcher automatisch wieder gelöscht werden soll. Starte dann per docker exec in diesem Container eine Bash
 
-   in diesem Container eine Bash
 
 8) Welche Fehlermeldung tritt dabei auf?
 
