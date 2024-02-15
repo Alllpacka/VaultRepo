@@ -1,10 +1,14 @@
 # Aufgabe1:
 
 1) Finde auf Docker Hub das offizielle Node.js-Image
-	
-1) Welche drei Hauptvarianten werden in der Dokumentation für das Image
+	![[Pasted image 20240215080815.png]]
+	```bash
+	docker search node.js
+	```
+2) Welche drei Hauptvarianten werden in der Dokumentation für das Image aufgeführt und was sind die Unterschiede zwischen ihnen?
+	```
+```
 
-   aufgeführt und was sind die Unterschiede zwischen ihnen?
 
 3) Lade das aktuelle node:alpine-Image herunter
 
