@@ -74,9 +74,15 @@ docker run -it -d --name test-container node
 ![[Pasted image 20240215084334.png]]
 ```bash
 cd /etc
-
+cat debian_version
 ```
+
 4) Gehe dann zurück in den root-Ordner und von dort zu /usr/share
+![[Pasted image 20240215084452.png]]
+```bash
+cd /
+cd /usr/share/
+```
 
 5) Findest du in dem Ordner Hinweise zu einer anderen Programmiersprache, die wir schon verwendet haben und die in diesem Container installiert ist?
 
