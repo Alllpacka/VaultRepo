@@ -23,13 +23,14 @@ docker pull node:alpine
 ```
 
 4) Wie groß ist es im Vergleich zum Standard-Node.js-Image?
+![[Pasted image 20240215083323.png]]
 
 5) Benenne das heruntergeladene Image in small-node um
 ![[Pasted image 20240215082445.png]]
 ```bash
 docker image tag node:alpine small-node
 ```
-	
+
 6) Überzeuge dich, dass bei dir jetzt ein Image namens small-node existiert
 ![[Pasted image 20240215082611.png]]
 ```bash
@@ -56,9 +57,8 @@ docker rmi node:alpine small-node
 
 # Aufgabe2:
 
-1) Erzeuge einen neuen Node.js-Container namens test-container auf
+1) Erzeuge einen neuen Node.js-Container namens test-container auf Grundlage des Standard-Node.js-Images und führe darin die bash aus
 
-   Grundlage des Standard-Node.js-Images und führe darin die bash aus
 
 2) Dieser Container soll nach Beenden NICHT automatisch gelöscht werden
 
