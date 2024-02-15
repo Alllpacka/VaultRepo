@@ -12,7 +12,7 @@
 	Version für Alpine Linux
 	Kleine Linux Distro -> kleineres Node Image
 	```node:<version>-slim```
-`
+	Node aber ohne häufig verwendeter Packages, es sind nur die essenziellen Packages enthalten
 
 
 3) Lade das aktuelle node:alpine-Image herunter
