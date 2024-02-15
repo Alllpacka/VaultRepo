@@ -43,9 +43,16 @@ docker run --rm --name small-node small-node
 ```
 
 8) Welche Fehlermeldung tritt dabei auf?
+![[Pasted image 20240215083023.png]]
+```bash
+docker exec small-node /bin/bash
+```
 
 9) Lösche beide Node.js-Images, die auf Alpine basieren
-
+![[Pasted image 20240215083123.png]]
+```bash
+docker rmi node:alpine small-node
+```
 
 # Aufgabe2:
 
