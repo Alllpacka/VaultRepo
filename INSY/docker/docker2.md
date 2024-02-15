@@ -58,9 +58,16 @@ docker rmi node:alpine small-node
 # Aufgabe2:
 
 1) Erzeuge einen neuen Node.js-Container namens test-container auf Grundlage des Standard-Node.js-Images und führe darin die bash aus
-
+![[Pasted image 20240215084057.png]]
+```bash
+docker run -it -d --name test-container node
+docker exec -it test-container /bin/bash
+```
 
 2) Dieser Container soll nach Beenden NICHT automatisch gelöscht werden
+```bash
+docker run -it -d --name test-container node
+```
 
 3) Steuere mit der bash im Container den Ordner etc an und finde die Version der zugrunde liegenden Debian-Distribution heraus
 
