@@ -93,6 +93,10 @@ ls -la
 # Aufgabe3:
 
 1) Benenne dann den Container test-container um in my-node-app
+![[Pasted image 20240215085601.png]]
+```bash
+docker container rename test-container my-node-app
+```
 
 2) Erstelle dann dort dann den Ordner /app (Befehl: mkdir /app)
 
