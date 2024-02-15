@@ -85,7 +85,10 @@ cd /usr/share/
 ```
 
 5) Findest du in dem Ordner Hinweise zu einer anderen Programmiersprache, die wir schon verwendet haben und die in diesem Container installiert ist?
-
+![[Pasted image 20240215084616.png]]
+```bash
+ls -la
+```
 
 # Aufgabe3:
 
@@ -93,9 +96,7 @@ cd /usr/share/
 
 2) Erstelle dann dort dann den Ordner /app (Befehl: mkdir /app)
 
-3) Wechsel anschließend in diesen Ordner und erstelle eine Datei
-
-   "main.js" mit folgendem Inhalt:
+3) Wechsel anschließend in diesen Ordner und erstelle eine Datei "main.js" mit folgendem Inhalt:
 
       console.log("Hallo Welt")
 
