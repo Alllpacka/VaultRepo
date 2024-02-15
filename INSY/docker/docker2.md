@@ -37,7 +37,10 @@ docker images | grep small-node
 ```
 
 7) Erzeuge und starte einen Node.js-Container basierend auf dem small-node-Image, welcher automatisch wieder gelöscht werden soll. Starte dann per docker exec in diesem Container eine Bash
-
+![[Pasted image 20240215082921.png]]
+```bash
+docker run --rm --name small-node small-node
+```
 
 8) Welche Fehlermeldung tritt dabei auf?
 
