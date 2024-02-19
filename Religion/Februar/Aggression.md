@@ -15,5 +15,6 @@ kultureller Gewalt: legitimierung der strukturellen Gewallt durch Kultur
 	5. ungerechte Vermögensverteilung (Amerikanien)
 2. eigenes Konfliktverhalten
 	1. zurückhaltend
-3. Frauenfeidlich = rechtsextremistisch, 
+3. Ursachen von Konflikten
+	1. Frauenfeidlich = rechtsextremistisch, 
 4. kein Markus
