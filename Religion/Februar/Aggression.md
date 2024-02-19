@@ -5,7 +5,7 @@ aggression = lat. aggregere (angreifen) 🤓
 
 direkte Gewalt: direkte Akteur
 strukturelle Gewalt: diskriminierung einer Gruppe
-kultur
+kultureller Gewalt: legitimierung der strukturellen Gewallt durch Kultur
 
 1. Strukturelle Gewalt
 	1. Amerikanien (Rassismus)
@@ -13,6 +13,7 @@ kultur
 	3. Russland (meingungseinschrenkung)
 	4. Indien (Kastensystem)
 	5. ungerechte Vermögensverteilung (Amerikanien)
-2. zurückhaltend
+2. eigenes Konfliktverhalten
+	1. zurückhaltend
 3. Frauenfeidlich = rechtsextremistisch, 
 4. kein Markus
