@@ -5,5 +5,5 @@ aggression = lat. aggregere (angreifen) 🤓
 
 1. Amerikanien, China, Russland
 2. zurückhaltend
-3. 
+3. Frauenfeidlich = rechtsextremistisch, 
 4. kein Markus
