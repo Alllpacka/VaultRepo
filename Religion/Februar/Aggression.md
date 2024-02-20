@@ -17,4 +17,5 @@ kultureller Gewalt: legitimierung der strukturellen Gewallt durch Kultur
 	1. zurückhaltend
 3. Ursachen von Konflikten
 	1. Frauenfeidlich = rechtsextremistisch, 
-4. kein Markus
+4. Möglichkeit der Konfliktlösung
+	1. kein Markus
