@@ -20,3 +20,8 @@ vpn ausschalten
 mit wireshark anfangen zu capturen und nach openvpn-protokoll suchen
 ![[Pasted image 20240220105119.png]]
 
+# ipconfig
+![[Pasted image 20240220105749.png]]
+![[Pasted image 20240220105810.png]]
+![[Pasted image 20240220105829.png]]
+
