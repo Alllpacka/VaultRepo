@@ -25,3 +25,5 @@ mit wireshark anfangen zu capturen und nach openvpn-protokoll suchen
 ![[Pasted image 20240220105810.png]]
 ![[Pasted image 20240220105829.png]]
 
+# routes
+![[Pasted image 20240220110038.png]]
