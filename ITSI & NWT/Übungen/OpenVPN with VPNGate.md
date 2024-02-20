@@ -11,3 +11,10 @@
 
 ![[Pasted image 20240220102019.png]]
 
+# wireshark configurieren
+![[Pasted image 20240220104842.png]]
+tcp port `443` hinzufügen
+
+# verbindungsaufbau mitlesen
+vpn ausschalten
+mit wireshark anfangen zu capturen
