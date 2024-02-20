@@ -20,7 +20,8 @@ vpn ausschalten
 mit wireshark anfangen zu capturen und nach openvpn-protokoll suchen
 ![[Pasted image 20240220105119.png]]
 
-durch den verbindungsaufbau zwischen client und server (`Client Hello` und ``)
+durch den verbindungsaufbau zwischen client und server (`Client Hello` und `Change Cipher`) werden daten durch das openvpn-protokoll geleitet und ins vpngate network weitergeleitet
+![[Pasted image 20240220110446.png]]
 
 # ipconfig
 ![[Pasted image 20240220105749.png]]
