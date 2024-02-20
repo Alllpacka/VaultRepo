@@ -4,6 +4,6 @@
 [server von VPNGate](https://www.vpngate.net/en/)
 
 # server aussuchen und verbinden
+![[Pasted image 20240220101750.png]]
 
-
-![[Pasted image 20240220101733.png]]
+## config file
