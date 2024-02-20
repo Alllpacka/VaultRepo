@@ -17,4 +17,6 @@ tcp port `443` hinzufügen
 
 # verbindungsaufbau mitlesen
 vpn ausschalten
-mit wireshark anfangen zu capturen
+mit wireshark anfangen zu capturen und nach openvpn-protokoll suchen
+![[Pasted image 20240220105119.png]]
+
