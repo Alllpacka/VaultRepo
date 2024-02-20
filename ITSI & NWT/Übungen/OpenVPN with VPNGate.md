@@ -6,4 +6,8 @@
 # server aussuchen und verbinden
 ![[Pasted image 20240220101750.png]]
 
-## config file
+## config file herunterladen und importieren
+![[Pasted image 20240220102011.png]]
+
+![[Pasted image 20240220102019.png]]
+
