@@ -7,7 +7,7 @@
 # Image- und Anhänger-Werbung
 ![[Pasted image 20240222090549.png]]
 # Gesichtsverlust
-
+![[Pasted image 20240222090705.png]]
 # Drohstrategien
 
 # Begrenzte Vernichtungsschläge
