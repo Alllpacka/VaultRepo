@@ -17,4 +17,5 @@
 # Gemeinsam in den Abgrund
 ![[Pasted image 20240222092148.png]]
 
-# eskalationsstufen 
+# eskalationsstufen nach Friedrich Glasl
+![[eskalationsstufen.png]]
