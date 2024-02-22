@@ -9,9 +9,9 @@
 # Gesichtsverlust
 ![[Pasted image 20240222090705.png]]
 # Drohstrategien
-
+![[Pasted image 20240222091934.png]]
 # Begrenzte Vernichtungsschläge
-
+![[Pasted image 20240222092030.png]]
 # Zersplitterung
 
 # Gemeinsam in den Abgrund
