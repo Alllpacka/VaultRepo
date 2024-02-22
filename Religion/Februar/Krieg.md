@@ -5,7 +5,7 @@
 # Taten
 ![[Pasted image 20240222090141.png]]
 # Image- und Anhänger-Werbung
-
+![[Pasted image 20240222090549.png]]
 # Gesichtsverlust
 
 # Drohstrategien
