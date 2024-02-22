@@ -1,5 +1,5 @@
 # Verhärtung
-
+![[Pasted image 20240222090050.png]]
 # Debatte
 
 # Taten
