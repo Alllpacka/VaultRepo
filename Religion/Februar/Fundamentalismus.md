@@ -5,3 +5,6 @@ Fundamentalismus ist eine Überzeugung, Anschauung oder Geisteshaltung, die sich
 # Pluralismu
 ## Definition
 Vielfalt von Gruppen/Ideen innerhalb einer Gesellschaft
+
+
+# 911
