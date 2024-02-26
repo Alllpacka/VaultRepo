@@ -15,4 +15,4 @@ aufrüstung der """"""sicherheit""""""
 "krieg gegen terror" (wir stürzen regierungen die wir nicht mögen)
 krieg in afghanistan und irak
 -> mehr feinde für amerikanien
-christen verstehen malwieder nicht den unterschied zwishcen radikalisierten angehörigen 
+christen verstehen malwieder nicht den unterschied zwishcen radikalisierten muslimen und normal praktizierenden
