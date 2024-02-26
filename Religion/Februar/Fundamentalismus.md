@@ -8,4 +8,4 @@ Vielfalt von Gruppen/Ideen innerhalb einer Gesellschaft
 
 
 # 911
-vier Flugzeugentführungen (2 WTC, 1 Pentagon, 1 Feld in )
+vier Flugzeugentführungen (Abstürze: 2 WTC, 1 Pentagon, 1 Feld in Pennsylvania)
