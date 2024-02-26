@@ -9,3 +9,7 @@ Vielfalt von Gruppen/Ideen innerhalb einer Gesellschaft
 
 # 911
 vier Flugzeugentführungen (Abstürze: 2 WTC, 1 Pentagon, 1 Feld in Pennsylvania)
+
+### Auswirkungen
+aufrüstung der """"""sicherheit"""""" 
+"krieg gegen terror" (wir stürzen regierungen die)
