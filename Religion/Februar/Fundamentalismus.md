@@ -13,4 +13,6 @@ vier Flugzeugentführungen (Abstürze: 2 WTC, 1 Pentagon, 1 Feld in Pennsylvania
 ### Auswirkungen
 aufrüstung der """"""sicherheit"""""" 
 "krieg gegen terror" (wir stürzen regierungen die wir nicht mögen)
+krieg in afghanistan und irak
 -> mehr feinde für amerikanien
+christen verstehen malwieder nicht den unterschied zwishcen radikalisierten angehörigen 
