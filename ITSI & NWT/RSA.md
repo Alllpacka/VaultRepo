@@ -18,4 +18,10 @@ $$
 
 1. $$ n = p*q $$$$ p,q \dots Primzahlen $$
 2. $$ \gcd(e, \psi(n)) = 1 $$
-3. $$ e*d \equiv 1 (\b
+
+4. $$ e*d \equiv 1 (\bmod{\psi(n)}) $$
+
+bsp:
+
+1. n = p * q = 13 * 7 = 21
+2. 
