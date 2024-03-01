@@ -24,5 +24,8 @@ gcd (greatest common divisor) = ggt (größter gemeinsamer Teiler)
 bsp:
 
 1. n = p * q = 13 * 7 = 91
+	ψ(n) = (p-1) * (q-1) = 12 * 6 = 72
 2. e = 11
 3. 
+   ```
+```
