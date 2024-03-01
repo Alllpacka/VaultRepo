@@ -26,7 +26,7 @@ bsp:
 1. n = p * q = 13 * 7 = 91
 	ψ(n) = (p-1) * (q-1) = 12 * 6 = 72
 2. e = 11
-3. 
+3. rsa ausrechnen
 
 ```python
 pow(11, -1, 72) = 59
@@ -35,3 +35,7 @@ modular inversis
 
 probe:
 	(59, 11) mod(72) = 1
+
+M = 42
+
+$$ C = M^11 \b||
