@@ -27,5 +27,11 @@ bsp:
 	ψ(n) = (p-1) * (q-1) = 12 * 6 = 72
 2. e = 11
 3. 
-   ```
+
+```python
+pow(11, -1, 72) = 59
 ```
+modular inversis
+
+probe:
+	(59, 11) mod(72) = 1
