@@ -29,7 +29,7 @@ bsp:
 3. rsa ausrechnen
 
 ```python
-pow(11, -1, 72) = 59
+d = pow(11, -1, 72) = 59
 ```
 modular inversis
 
@@ -38,5 +38,5 @@ probe:
 
 M = 42
 
-$$ C = M^{11} \bmod(n) = 42^{11} \bmod(91) = 35 $$
-$$ M = 
+$$ C = M^{e} \bmod(n) = 42^{11} \bmod(91) = 35 $$
+$$ M = C^{d} \bmod(e) = 35^{59} \bmod(11) = 42 
