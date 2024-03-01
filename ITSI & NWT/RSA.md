@@ -16,7 +16,5 @@ M = C^d * (\bmod{n})
 $$
 (d, n) private key
 
-1. $$ n = p*q $$
-   $$ p,q \dots \doc{Pri mzahlen
-2. 
-3. 
+1. $$ n = p*q $$$$ p,q \dots Primzahlen $$
+2. $$ \ggT{e, \psy(n)} = 1 $$
