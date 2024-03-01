@@ -18,10 +18,11 @@ $$
 
 1. $$ n = p*q $$$$ p,q \dots Primzahlen $$
 2. $$ \gcd(e, \psi(n)) = 1 $$
-
-4. $$ e*d \equiv 1 (\bmod{\psi(n)}) $$
+gcd (greatest common divisor) = ggt (größter gemeinsamer Teiler)
+3. $$ e*d \equiv 1 (\bmod{\psi(n)}) $$
 
 bsp:
 
-1. n = p * q = 13 * 7 = 21
-2. 
+1. n = p * q = 13 * 7 = 91
+2. e = 11
+3. 
