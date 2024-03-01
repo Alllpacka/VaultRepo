@@ -17,4 +17,5 @@ $$
 (d, n) private key
 
 1. $$ n = p*q $$$$ p,q \dots Primzahlen $$
-2. $$ \ggT{e, \psy(n)} = 1 $$
+2. $$ \gcd(e, \psi(n)) = 1 $$
+3. $$ e*d \equiv 1 (\b
