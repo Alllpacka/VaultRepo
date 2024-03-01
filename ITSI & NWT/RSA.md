@@ -7,4 +7,10 @@ Public Key verfahren (Private und Public Key)
 Nachrichten werden mit dem pulic Key encrypted und mit dem private Key decrypted
 
 $$
-C = M^e * (\|
+C = M^e * (\mod{n})
+$$
+(e, n) public key
+
+$$
+M = C^d * (\mod{n})
+$$
