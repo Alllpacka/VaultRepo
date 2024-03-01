@@ -39,4 +39,4 @@ probe:
 M = 42
 
 $$ C = M^{e} \bmod(n) = 42^{11} \bmod(91) = 35 $$
-$$ M = C^{d} \bmod(e) = 35^{59} \bmod(11) = 42 
+$$ M = C^{d} \bmod(e) = 35^{59} \bmod(11) = \uline{42} $$
