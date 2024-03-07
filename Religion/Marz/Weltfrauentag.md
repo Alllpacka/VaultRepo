@@ -23,4 +23,5 @@ Ziel: gleichberechtigter zugang und teilnahme im öffentlichen leben
 
 Nach Monachie hing Wahlrecht vom Vermögen ab
 
-1918 allgemeine, gleiche Wa
+1918 allgemeine, gleiche Wahlrecht eingeführt
+
