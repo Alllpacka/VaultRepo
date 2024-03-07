@@ -12,4 +12,8 @@ seit französischer revolution um gleiche rechte gekämpft
 	olymp de gouges -> Manifest der Frauenrecte
 
 begin 20. Jhd. keine mitglieder verine oder politische partein
-	-> grün
+	-> gründung der frauenvereine
+
+Ziel: gleichberechtigter zugang und teilnahme im öffentlichen leben
+
+19\. März 1911 größ
