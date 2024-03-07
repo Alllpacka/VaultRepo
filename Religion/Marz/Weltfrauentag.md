@@ -9,3 +9,7 @@ keine/sehr wenige rechte
 	viele jobs nicht offen
 
 seit französischer revolution um gleiche rechte gekämpft
+	olymp de gouges -> Manifest der Frauenrecte
+
+begin 20. Jhd. keine mitglieder verine oder politische partein
+	-> grün
