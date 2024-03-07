@@ -16,4 +16,11 @@ begin 20. Jhd. keine mitglieder verine oder politische partein
 
 Ziel: gleichberechtigter zugang und teilnahme im öffentlichen leben
 
-19\. März 1911 größ
+19\. März 1911 größte frauendemonstration
+	20000 Frauen und Männer
+		Frauenwahlrecht
+		gleicher lohn für gleiche arbeit
+
+Nach Monachie hing Wahlrecht vom Vermögen ab
+
+1918 allgemeine, gleiche Wa
