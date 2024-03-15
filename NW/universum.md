@@ -1,3 +1,5 @@
-# urknall-hypotese
+# Urknall-Hypotese
 
-zeit ist ein abstrakter begriff
+Zeit ist ein abstrakter Begriff
+Zeit ist irreversibel
+Zeit ist gerichtet → auf maximale Entropie
