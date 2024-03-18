@@ -12,10 +12,10 @@ bro ka
 palöd
 
 ## was ist, wenn mein patner ausgetreten ist?
-palöd
+geht 
 
 ## was ist, wenn beide ausgetreten sind?
 einfach nicht kirchlich
 
 ## was ist, wenn einer evangelisch und einer katholisch ist?
-palöd
+katholisch, evangelisch
