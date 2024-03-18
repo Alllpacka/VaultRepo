@@ -6,3 +6,5 @@ Zeit ist gerichtet → auf maximale Entropie
 ungeordnete Zustände sind wahrscheinlicher als geordnete
 
 wird Bewegung eingeschränkt, entstehen Cluster an Molekülen → Bewegungsenergie geht verloren
+
+Harmonischer Oszillator (f(x) = x^2)
