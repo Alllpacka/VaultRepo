@@ -9,3 +9,4 @@ wird Bewegung eingeschränkt, entstehen Cluster an Molekülen → Bewegungsenerg
 
 Harmonischer Oszillator (wird 3 dimensional dargestellt)
 
+mindestmaß (plankische wirkungs quantum) für effekte
