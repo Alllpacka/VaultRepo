@@ -8,3 +8,4 @@ ungeordnete Zustände sind wahrscheinlicher als geordnete
 wird Bewegung eingeschränkt, entstehen Cluster an Molekülen → Bewegungsenergie geht verloren
 
 Harmonischer Oszillator (wird 3 dimensional dargestellt)
+
