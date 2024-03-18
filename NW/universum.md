@@ -9,4 +9,6 @@ wird Bewegung eingeschränkt, entstehen Cluster an Molekülen → Bewegungsenerg
 
 Harmonischer Oszillator (wird 3 dimensional dargestellt)
 
-Mindestmaß (plancksche Wirkungsquantum) für Effekte
+Mindestmaß (plancksche Wirkungsquantum) für Effekte (darunter ist alles undefiniert)
+
+Quantenfluktuation ist das Zusammenstoßen von Teilchen und Antiteilchen
