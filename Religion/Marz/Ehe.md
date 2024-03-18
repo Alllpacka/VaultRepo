@@ -18,4 +18,7 @@ geht
 einfach nicht kirchlich
 
 ## was ist, wenn einer evangelisch und einer katholisch ist?
-katholisch, evangelisch
+katholisch, evangelisch oder ökumenisch
+
+## welche rechtlichen pflichten gibt es für eheleute in österreich
+gemeinsames wohnen, treue
