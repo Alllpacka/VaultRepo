@@ -21,4 +21,4 @@ einfach nicht kirchlich
 katholisch, evangelisch oder ökumenisch
 
 ## welche rechtlichen pflichten gibt es für eheleute in österreich
-gemeinsames wohnen, treue
+gemeinsames wohnen, treue, "anständige begegnung", leistung von gegenseitigem beistand
