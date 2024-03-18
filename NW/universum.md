@@ -12,3 +12,5 @@ Harmonischer Oszillator (wird 3 dimensional dargestellt)
 Mindestmaß (plancksche Wirkungsquantum) für Effekte (darunter ist alles undefiniert)
 
 Quantenfluktuation ist das Zusammenstoßen von Teilchen und Antiteilchen
+
+Das Nichts übt einen negativen Druck aus
