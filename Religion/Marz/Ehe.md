@@ -2,6 +2,7 @@
 zusammenschluss zweier personen
 
 ## welche bedeutung hat sie für menschen? welche bedeutung hat die kirchliche ehe vor gott?
-weniger steuern, 
+weniger steuern, offizieller zusammenschluss
+
 
 ## was läuft das sakrament der ehe ab?
