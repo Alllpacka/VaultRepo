@@ -9,12 +9,13 @@ weniger steuern, offizieller zusammenschluss
 bro ka
 
 ## einer katholisch, der andere nicht - funktioniert das?
-
+palöd
 
 ## was ist, wenn mein patner ausgetreten ist?
-
+palöd
 
 ## was ist, wenn beide ausgetreten sind?
 einfach nicht kirchlich
 
 ## was ist, wenn einer evangelisch und einer katholisch ist?
+palöd
