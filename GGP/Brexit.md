@@ -12,4 +12,3 @@
 + Auswanderung von großen Firmen nach Irland
 + Weniger Import und Export
 + Negatives Wirtschaftswachstum
-+ Netto
