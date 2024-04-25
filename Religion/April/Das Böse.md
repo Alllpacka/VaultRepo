@@ -3,7 +3,7 @@
 		+ Hochmut
 		+ Trägheit
 		+ Zorn
-		+ Habgier
+		+ Habgier 
 		+ Wolllust
 		+ Völlerei
 		+ Neid
