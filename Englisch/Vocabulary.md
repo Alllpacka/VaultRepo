@@ -553,13 +553,18 @@ while + verb phrase            during the break
 
 
 
-| English                 | German                          |
-| ----------------------- | ------------------------------- |
-| merit                   | Verdienst                       |
-| meritocracy             | Leistungsgesellschaft           |
-| prosperity              | Wohlstand                       |
-| regardless of sth.      | unabhängig von etw.             |
-| equality of opportunity | chancengleichheit               |
-| to determine            | bestimmen                       |
-| "can do" attititude     | "alles ist machbar" einstellung |
-| industrious             | fleiß                           |
+| English                        | German                           |
+| ------------------------------ | -------------------------------- |
+| merit                          | Verdienst                        |
+| meritocracy                    | Leistungsgesellschaft            |
+| prosperity                     | Wohlstand                        |
+| regardless of sth.             | unabhängig von etw.              |
+| equality of opportunity        | chancengleichheit                |
+| to determine                   | bestimmen                        |
+| "can do" attititude            | "alles ist machbar" einstellung  |
+| industrious                    | fleiß                            |
+| to outweigh sth.               | ausgleichen, aufwiegen           |
+| to maintain positions of power | machtposition aufrecht erhalten  |
+| to suppress democracy          | demokratie unterdrücken          |
+| deprived (adj)                 | benachteiligt, unterpriviligiert |
+| food deserts                   |                                  |
