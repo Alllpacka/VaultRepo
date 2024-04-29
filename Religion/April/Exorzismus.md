@@ -1,3 +1,8 @@
+ein in rituelle Handlungen eingebettetes Gebet zur Austreibung des Bösen/Abwehr des Bösen
+- in einfacher Form bei jeder Taufe
+- Sog. "großer Exorzismus" im Laufe der Geschichte für "Teufelsaustreibungen"
+
+
 1. kann der Mensch vom teufel besessen werden?
 	-  Nein
 2. Phänomen der Besessenheit
