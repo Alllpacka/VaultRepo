@@ -3,3 +3,17 @@
 	- 128 bit pro block
 	- kann verschiedene key längen haben (128, 192, 256)
 ![[Pasted image 20240430102140.png]]
+## Byte Sub
+
+"vermischen" von bytes
+
+| Input | Output |
+| ----- | ------ |
+| 0     | 4      |
+| 1     | 5      |
+| 2     | 23     |
+| 3     | 91     |
+| ...   | ...    |
+| 255   | 0      |
+
+## Shift Row & Mix Collum
