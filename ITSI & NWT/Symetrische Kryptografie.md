@@ -15,6 +15,11 @@
 | 3     | 91     |
 | ...   | ...    |
 | 255   | 0      |
+![[Pasted image 20240430103403.png]]
 
 ## Shift Row & Mix Collum
 ![[Pasted image 20240430103233.png]]
+![[Pasted image 20240430103240.png]]
+
+## add round keys
+![[Pasted image 20240430103258.png]]
