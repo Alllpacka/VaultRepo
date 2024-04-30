@@ -17,3 +17,4 @@
 | 255   | 0      |
 
 ## Shift Row & Mix Collum
+![[Pasted image 20240430103233.png]]
