@@ -25,6 +25,8 @@ Eine Statische IP-Adresse für das Netz einstellen
 ![[Pasted image 20240507111201.png]]
 
 # ping versuche 
+## R1 zu R4
+![[Pasted image 20240507122224.png]]
 
-
-# ausfall simulieren
+# Ausfall simulieren
+sind noch nicht dazu gekommen
