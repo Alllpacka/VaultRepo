@@ -1,3 +1,6 @@
+# aufgabenstellung
+![[ospf.png]]
+
 # config
 ```mikrotik
 /routing ospf instance
@@ -12,7 +15,7 @@ add address=192.168.10.1/24 interface=ether5 network=192.168.10.0
 add area=backbone cost=15 disabled=no interfaces=ether1
 add area=backbone cost=15 disabled=no interfaces=ether2
 /system identity
-set name=Router1
+set name=R1
 ```
 
 # ping versuch
