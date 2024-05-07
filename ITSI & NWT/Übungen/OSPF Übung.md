@@ -4,7 +4,7 @@
 # config
 ```mikrotik
 /routing ospf instance
-add disabled=no name=OSPFInst1 redistribute=connected router-id=10.0.0.1
+add disabled=no name=OSPFInst1 redistribute=connected router-id=10.0.0.2
 /routing ospf area
 add disabled=no instance=OSPFInst1 name=backbone
 /ip address
