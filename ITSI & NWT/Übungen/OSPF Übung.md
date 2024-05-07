@@ -20,7 +20,7 @@ add area=backbone cost=50 disabled=no interfaces=ether3
 set name=R2
 ```
 
-# ping versuche
+# ping versuche 
 
 
 # ausfall simulieren
