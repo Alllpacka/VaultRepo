@@ -1,7 +1,7 @@
-# aufgabenstellung
+# Aufgabenstellung
 ![[ospf.png]]
 
-# config für R2
+# Config für R2
 ```mikrotik
 /routing ospf instance
 add disabled=no name=OSPFInst1 redistribute=connected router-id=10.0.0.2
@@ -19,6 +19,10 @@ add area=backbone cost=50 disabled=no interfaces=ether3
 /system identity
 set name=R2
 ```
+
+# Config für Laptop
+Eine Statische IP-Adresse für das Netz einstellen
+![[Pasted image 20240507111201.png]]
 
 # ping versuche 
 
