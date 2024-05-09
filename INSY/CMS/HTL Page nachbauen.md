@@ -11,5 +11,8 @@ Lösen sie folgende Aufgabe:
 
 # Lösung
 
-Wordpress Files runterladen und in den htdocs Ordner von xampp entpacken
-in xampp Apache und MySQL Services starten und 
+[Wordpress Files](https://wordpress.org/download/) runterladen und in den `htdocs` Ordner von `xampp` entpacken
+![[Pasted image 20240509180249.png]]
+in `xampp` *Apache* und *MySQL* Services starten
+![[Pasted image 20240509180310.png]]
+
