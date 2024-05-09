@@ -35,5 +35,8 @@ Im Webbrowser zu [dieser Adresse](http://localhost:80/htl-nachbau/wp-admin/setup
 ![[Pasted image 20240509182422.png]]
 und die Installation starten
 ![[Pasted image 20240509182441.png]]
-![[Pasted image 20240509182620.png]]
+![[Pasted image 20240509182738.png]]
+nach ein paar Sekunden ist es auch schon fertig
+![[Pasted image 20240509182827.png]]
 
+zum Anmeldeformular 
