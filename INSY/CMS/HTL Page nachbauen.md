@@ -21,7 +21,7 @@ den `wordpress` Ordner zum Webseitennamen umbenennen
 
 über `cmd` oder `phpMyAdmin` eine Datenbank und User erstellen
 ![[Pasted image 20240509180735.png]]
-![[Pasted image 20240509181012.png]]
+![[Pasted image 20240509181807.png]]
 
 dem `wordpress` User alle Rechte auf die `wordpress` Datenbank geben
-![[Pasted image 20240509180900.png]]
+![[Pasted image 20240509181837.png]]
