@@ -16,3 +16,7 @@ Lösen sie folgende Aufgabe:
 in `xampp` *Apache* und *MySQL* Services starten
 ![[Pasted image 20240509180310.png]]
 
+den `wordpress` Ordner zum Webseitennamen umbenennen
+![[Pasted image 20240509180633.png]]
+
+über `cmd` oder `phpMy`
