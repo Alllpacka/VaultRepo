@@ -35,5 +35,5 @@ Im Webbrowser zu [dieser Adresse](http://localhost:80/htl-nachbau/wp-admin/setup
 ![[Pasted image 20240509182422.png]]
 und die Installation starten
 ![[Pasted image 20240509182441.png]]
+![[Pasted image 20240509182620.png]]
 
-![[Pasted image 20240509182515.png]]
