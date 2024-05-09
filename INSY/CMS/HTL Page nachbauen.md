@@ -10,3 +10,6 @@ Lösen sie folgende Aufgabe:
 -) Dokumentieren sie die obigen Aufgaben
 
 # Lösung
+
+Wordpress Files runterladen und in den htdocs Ordner von xampp entpacken
+in xampp Apache und MySQL Services starten und 
