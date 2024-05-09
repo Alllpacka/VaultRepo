@@ -30,6 +30,4 @@ dem `wordpress` User alle Rechte auf die `wordpress` Datenbank geben
 
 
 ## Wordpress Installation
-Im Webbrowser zu dieser Adresse gehen:
-
-```
+Im Webbrowser zu [dieser Adresse](http://localhost:80/htl-nachbau/wp-admin/setup-config.php) gehen und dem Install
