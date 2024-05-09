@@ -19,4 +19,9 @@ in `xampp` *Apache* und *MySQL* Services starten
 den `wordpress` Ordner zum Webseitennamen umbenennen
 ![[Pasted image 20240509180633.png]]
 
-über `cmd` oder `phpMy`
+über `cmd` oder `phpMyAdmin` eine Datenbank und User erstellen
+![[Pasted image 20240509180735.png]]
+![[Pasted image 20240509180751.png]]
+
+dem `wordpress` User alle Rechte auf die `wordpress` Datenbank geben
+![[Pasted image 20240509180900.png]]
