@@ -10,8 +10,8 @@ Lösen sie folgende Aufgabe:
 -) Dokumentieren sie die obigen Aufgaben
 
 # Lösung
-
-## Vorbereitung
+## Installation
+### Vorbereitung
 [Wordpress Files](https://wordpress.org/download/) runterladen und in den `htdocs` Ordner von `xampp` entpacken
 ![[Pasted image 20240509180249.png]]
 in `xampp` *Apache* und *MySQL* Services starten
@@ -20,7 +20,7 @@ in `xampp` *Apache* und *MySQL* Services starten
 den `wordpress` Ordner zum Webseitennamen umbenennen
 ![[Pasted image 20240509180633.png]]
 
-## Datenbank und User
+### Datenbank und User
 über `cmd` oder `phpMyAdmin` eine Datenbank und User erstellen
 ![[Pasted image 20240509180735.png]]
 ![[Pasted image 20240509181807.png]]
@@ -29,7 +29,7 @@ dem `wordpress` User alle Rechte auf die `wordpress` Datenbank geben
 ![[Pasted image 20240509181923.png]]
 
 
-## Wordpress Installation
+### Wordpress Installation
 Im Webbrowser zu [dieser Adresse](http://localhost:80/htl-nachbau/wp-admin/setup-config.php) gehen und dem Installguide folgen
 ![[Pasted image 20240509182327.png]]
 ![[Pasted image 20240509182422.png]]
@@ -39,4 +39,10 @@ und die Installation starten
 nach ein paar Sekunden ist es auch schon fertig
 ![[Pasted image 20240509182827.png]]
 
-zum Anmeldeformular 
+zum Anmeldeformular gehen und Anmelden
+![[Pasted image 20240509182927.png]]
+
+
+
+
+## HTL-Homepage nachstellen
