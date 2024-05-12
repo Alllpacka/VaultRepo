@@ -46,4 +46,7 @@ zum Anmeldeformular gehen und Anmelden
 
 
 ## HTL-Homepage nachstellen
-![[Pasted image 20240509183211.png]]
+### Echte Seite
+![[Pasted image 20240512141253.png]]
+
+### Nachbau
