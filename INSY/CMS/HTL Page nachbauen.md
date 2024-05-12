@@ -50,3 +50,5 @@ zum Anmeldeformular gehen und Anmelden
 ![[Pasted image 20240512141253.png]]
 
 ### Nachbau
+![[Pasted image 20240512164824.png]]
+![[Pasted image 20240512164842.png]]
