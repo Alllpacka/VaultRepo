@@ -1,6 +1,3 @@
-
-
-
 # Viktor Frankl
 ![[Pasted image 20240506083850.png]]
 
