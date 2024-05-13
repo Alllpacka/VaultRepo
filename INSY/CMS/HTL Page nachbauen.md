@@ -5,8 +5,6 @@ Lösen sie folgende Aufgabe:
 
 -) Testen Sie verschiedene CMS-Funktionen
 
--) Binden Sie auf eine bestimmte Seite ein eigenes PHP-Programm ein welches Daten aus einer Datenbank ausgibt.
-
 -) Dokumentieren sie die obigen Aufgaben
 
 # Lösung
