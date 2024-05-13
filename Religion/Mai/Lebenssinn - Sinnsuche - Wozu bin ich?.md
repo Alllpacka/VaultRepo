@@ -21,3 +21,5 @@ Kümmerte sich um die Psychische Gesundheit
 Wurde Professor in Harvard
 Gründete ein Institut für Logotherapie
 1997 starb er an Herzversagen
+
+# Logotherapie
