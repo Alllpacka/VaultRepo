@@ -17,4 +17,7 @@ Blieb mit seinen Eltern in Österreich
 Kümmerte sich um die Psychische Gesundheit
 1944 werden Viktor, seine Frau Tilly und seine Mutter werden nach Ausschwitz gebracht
 1945 wird er durch US-Truppen befreit
-1946
+1946 schreibt er Bücher über seine Zeit im KZ und der Suche nach dem sinn des Lebens
+Wurde Professor in Harvard
+Gründete ein Institut für Logotherapie
+1997 starb er an Herzversagen
