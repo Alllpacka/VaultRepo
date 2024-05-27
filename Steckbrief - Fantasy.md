@@ -5,4 +5,9 @@
 ## hauptdarsteller
 ## kurzer inhalt
 ## oskars
-## 
+## Merkmal des genres
+## besonderheiten
+
+# [The Lord of the Rings: The Return of the King](https://www.imdb.com/title/tt0167260/)
+
+# [The Lord of the Rings: The Two Towers](https://www.imdb.com/title/tt0167261/)
