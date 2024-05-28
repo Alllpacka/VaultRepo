@@ -23,3 +23,7 @@ eg.:
 | 181  | Frank   | Maier    | 50997 | Köln | Birkenallee | 117    | 15.03.2012 | 35    | Stifte    | 3     | 2      | 0      | Schreibgeräte         |
 
 ## 2. Normierung
+das Datenbank Schema zu einer Variation wie diese ändern:
+![[Pasted image 20240528185015.png]]
+
+## 3. Nomierung
