@@ -24,6 +24,5 @@ eg.:
 
 ## 2. Normierung
 das Datenbank Schema zu einer Variation wie diese ändern:
-![[Pasted image 20240528185015.png]]
-
-## 3. Nomierung
+![[Pasted image 20240528193300.png]]
+es lassen sich viele Felder in kleiner Tables unterteilen um mehr Kontrolle/Übersicht zu verschaffen
