@@ -127,7 +127,7 @@ Wurde erstmals am 1.12.2003 im Embassy Theatre in Wellington ausgestrahlt
 
 
 ## Oscars
-wude zu elf Kategorien nominiert und wurde auch in allen ausgezeichnet (Bester Film, Bestes adaptiertes Drehbuch, Bestes Szenenbild, Bestes Kostümdesign, Bestes Make-up, Beste visuele Effekte, Bester Schnitt, Bester Ton, Beste Filmmusik, Bester Song)
+wude zu elf Kategorien nominiert und wurde auch in allen ausgezeichnet (*Bester Film*, *Bestes adaptiertes Drehbuch*, *Bestes Szenenbild*, *Bestes Kostümdesign*, *Bestes Make-up*, *Beste visuele Effekte*, *Bester Schnitt*, *Bester Ton*, *Beste Filmmusik*, *Bester Song*)
 
 ## Besonderheiten
 
