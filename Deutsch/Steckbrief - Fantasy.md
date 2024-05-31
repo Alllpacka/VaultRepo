@@ -28,7 +28,7 @@ Wurde erstmals am 10.12.2001 in England ausgestrahlt und war ab dem 19.12.2001 a
 | [Harry Sinclair](https://de.wikipedia.org/wiki/Harry_Sinclair)     | Isildur             |
 | [Alan Howard](https://de.wikipedia.org/wiki/Alan_Howard)           | Der Ring / Sauron   |
 ## kurzer Inhalt
-Auf dem fiktiven Kontinent Mittelerde wird die Geschichte von Frodo Beutlin erzählt, wie er ein mächtiges Artefakt des bösen Zauberers Sauron
+Auf dem fiktiven Kontinent Mittelerde wird die Geschichte von Frodo Beutlin erzählt, , ein mächtiges Artefakt des bösen Zauberers Sauron, 
 ## Oscars
 Für 13 Oscars nominiert und hat vier davon gewonnen (Filmmusik, visuelle Effekte, Make-up, Kamera)
 ## Merkmal des Genres
