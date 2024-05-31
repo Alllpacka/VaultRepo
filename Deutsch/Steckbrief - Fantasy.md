@@ -11,27 +11,27 @@ Wurde größtenteils in Neuseeland gedreht ist aber eine zusammenarbeit von Neus
 Wurde erstmals am 10.12.2001 in England ausgestrahlt und war ab dem 19.12.2001 auch in deutschen Kinos zu sehen
 
 ## Hauptdarsteller
-| Name                                                               | Figur               |
-| ------------------------------------------------------------------ | ------------------- |
-| [Elijah Wood](https://de.wikipedia.org/wiki/Elijah_Wood)           | Frodo Beutlin       |
-| [Ian McKellen](https://de.wikipedia.org/wiki/Ian_McKellen)         | Gandalf             |
-| [Sean Astin](https://de.wikipedia.org/wiki/Sean_Astin)             | Samweis Gamdschie   |
-| [Viggo Mortensen](https://de.wikipedia.org/wiki/Viggo_Mortensen)   | Aragorn             |
-| [Liv Tyler](https://de.wikipedia.org/wiki/Liv_Tyler)               | Arwen               |
-| [Sean Bean](https://de.wikipedia.org/wiki/Sean_Bean)               | Boromir             |
-| [Orlando Bloom](https://de.wikipedia.org/wiki/Orlando_Bloom)       | Legolas             |
-| [John Rhys-Davies](https://de.wikipedia.org/wiki/John_Rhys-Davies) | Gimli               |
-| [Christopher Lee](https://de.wikipedia.org/wiki/Christopher_Lee)   | Sauroman            |
-| [Dominic Monaghan](https://de.wikipedia.org/wiki/Dominic_Monaghan) | Meriadoc Brandybock |
-| [Billy Boyd](https://de.wikipedia.org/wiki/Billy_Boyd)             | Peregrin Tuk        |
-| [Cate Blanchett](https://de.wikipedia.org/wiki/Cate_Blanchett)     | Galadriel           |
-| [Hugo Weaving](https://de.wikipedia.org/wiki/Hugo_Weaving)         | Elrond              |
-| [Ian Holm](https://de.wikipedia.org/wiki/Ian_Holm)                 | Bilbo Beutlin       |
-| [Marton Csokas](https://de.wikipedia.org/wiki/Marton_Csokas)       | Celeborn            |
-| [Andy Serkis](https://de.wikipedia.org/wiki/Andy_Serkis)           | Gollum / Sméagol    |
-| [David Weatherley](https://de.wikipedia.org/wiki/David_Weatherley) | Wirt Butterblume    |
-| [Harry Sinclair](https://de.wikipedia.org/wiki/Harry_Sinclair)     | Isildur             |
-| [Alan Howard](https://de.wikipedia.org/wiki/Alan_Howard)           | Der Ring / Sauron   |
+| Name                                                       | Figur                                                                |
+| ---------------------------------------------------------- | -------------------------------------------------------------------- |
+| [Elijah Wood](https://de.wikipedia.org/wiki/Elijah_Wood)   | [Frodo Beutlin](https://de.wikipedia.org/wiki/Frodo_Beutlin)         |
+| [Ian McKellen](https://de.wikipedia.org/wiki/Ian_McKellen) | [Gandalf](https://de.wikipedia.org/wiki/Gandalf)                     |
+| [Sean Astin](https://de.wikipedia.org/wiki/Sean_Astin)     | [Samweis Gamdschie](https://de.wikipedia.org/wiki/Samweis_Gamdschie) |
+|                                                            |                                                                      |
+|                                                            |                                                                      |
+|                                                            |                                                                      |
+|                                                            |                                                                      |
+|                                                            |                                                                      |
+|                                                            |                                                                      |
+|                                                            |                                                                      |
+|                                                            |                                                                      |
+|                                                            |                                                                      |
+|                                                            |                                                                      |
+|                                                            |                                                                      |
+|                                                            |                                                                      |
+|                                                            |                                                                      |
+|                                                            |                                                                      |
+|                                                            |                                                                      |
+|                                                            |                                                                      |
 
 ## kurzer Inhalt
 Auf dem fiktiven Kontinent Mittelerde wird die Geschichte von Frodo Beutlin erzählt, wie er in besitz des einen Rings, ein mächtiges Artefakt des bösen Zauberers Sauron, gelangt und ihm zur Aufgabe gestellt wird diesen zu zerstören.
@@ -73,8 +73,7 @@ Wurde erstmals am 5.12.2002 im Ziegfeld Theatre in New York ausgestrahlt
 | [Liv Tyler](https://de.wikipedia.org/wiki/Liv_Tyler)                  | [Arwen Undomiel](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Arwen)                        |
 | [Hugo Weaving](https://de.wikipedia.org/wiki/Hugo_Weaving)            | [Elrond](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Elrond)                               |
 | [David Wenham](https://de.wikipedia.org/wiki/David_Wenham)            | [Faramir](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Faramir)                             |
-|                                                                       |                                                                                                       |
-|                                                                       |                                                                                                       |
+| [Cate Blanchett](https://de.wikipedia.org/wiki/Cate_Blanchett)        | [Galadriel](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Galadriel_und_Celeborn)            |
 
 ## kurzer Inhalt
 
