@@ -1,5 +1,5 @@
 # Merkmale des Genres
-Hat viele seiner Wurzeln in alter Mythologie, Sagen und Märchen. Oft übernatürliche un
+Hat viele seiner Wurzeln in alter Mythologie, Sagen und Märchen. Oft sind übernatürliche und magische Elemente im Vordergrund und werden als normal/real dargestellt.
 # [The Lord of the Rings: The Fellowship of the Ring (Der Herr der Ringe: Die Gefährten)](https://www.imdb.com/title/tt0120737/)
 ## Produzenten
 [Peter Jackson](https://de.wikipedia.org/wiki/Peter_Jackson), [Barrie M. Osborne](https://de.wikipedia.org/wiki/Barrie_M._Osborne), [Tim Sanders](https://en.wikipedia.org/wiki/Tim_Sanders_(filmmaker)), [Fran Walsh](https://de.wikipedia.org/wiki/Fran_Walsh)
@@ -50,6 +50,15 @@ Dieser Film ist nur der Erste in der wohl bekanntesten und erfolgreichsten Fanta
 
 ## Besonderheiten
 # [The Lord of the Rings: The Return of the King (Der Herr der Ringe: Die Rückkehr des Königs)](https://www.imdb.com/title/tt0167260/)
+## Produzenten
+[Peter Jackson](https://de.wikipedia.org/wiki/Peter_Jackson), [Eric Monette](https://pro.imdb.com/name/nm8662749/) [Barrie M. Osborne](https://de.wikipedia.org/wiki/Barrie_M._Osborne), [Fran Walsh](https://de.wikipedia.org/wiki/Fran_Walsh)
+## welches Jahr
 
+## Hauptdarsteller
 
+## kurzer Inhalt
+
+## Oscars
+
+## Besonderheiten
 
