@@ -32,10 +32,12 @@ Wurde erstmals am 10.12.2001 in England ausgestrahlt und war ab dem 19.12.2001 a
 Für 13 Oscars nominiert und hat vier davon gewonnen (Filmmusik, visuelle Effekte, Make-up, Kamera)
 ## Merkmal des Genres
 ## Besonderheiten
+Dieser Film ist nur der Erste in der wohl bekanntesten und erfolgreichsten Fantasiefilmreihe der Welt.
+
+# [The Lord of the Rings: The Two Towers (Der Herr der Ringe: Die zwei Türme)](https://www.imdb.com/title/tt0167261/)
 
 
 # [The Lord of the Rings: The Return of the King (Der Herr der Ringe: Die Rückkehr des Königs)](https://www.imdb.com/title/tt0167260/)
 
-# [The Lord of the Rings: The Two Towers (Der Herr der Ringe: Die zwei Türme)](https://www.imdb.com/title/tt0167261/)
 
 
