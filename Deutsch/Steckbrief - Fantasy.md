@@ -1,3 +1,5 @@
+# Merkmale des Genres
+Hat viele seiner Wurzeln in alter Mythologie, Sagen und Märchen. Oft übernatürliche un
 # [The Lord of the Rings: The Fellowship of the Ring (Der Herr der Ringe: Die Gefährten)](https://www.imdb.com/title/tt0120737/)
 ## Produzenten
 [Peter Jackson](https://de.wikipedia.org/wiki/Peter_Jackson), [Barrie M. Osborne](https://de.wikipedia.org/wiki/Barrie_M._Osborne), [Tim Sanders](https://en.wikipedia.org/wiki/Tim_Sanders_(filmmaker)), [Fran Walsh](https://de.wikipedia.org/wiki/Fran_Walsh)
@@ -31,9 +33,6 @@ Wurde erstmals am 10.12.2001 in England ausgestrahlt und war ab dem 19.12.2001 a
 Auf dem fiktiven Kontinent Mittelerde wird die Geschichte von Frodo Beutlin erzählt, wie er in besitz des einen Rings, ein mächtiges Artefakt des bösen Zauberers Sauron, gelangt und ihm zur Aufgabe gestellt wird diesen zu zerstören.
 ## Oscars
 Für 13 Oscars nominiert und hat vier davon gewonnen (Filmmusik, visuelle Effekte, Make-up, Kamera)
-## Merkmal des Genres
-Hat viele seiner Wurzeln in alter Mythologie, Sagen und Märchen
-
 ## Besonderheiten
 HdR: Die Gefährten erzählt einen Teil der Romantriologie *[Der Herr der Ringe](https://de.wikipedia.org/wiki/Der_Herr_der_Ringe)*, geschrieben von [J. R. R. Tolkien](https://de.wikipedia.org/wiki/J._R._R._Tolkien) und in 1954/1955 erstmalig veröffentlicht.
 Dieser Film ist nur der Erste in der wohl bekanntesten und erfolgreichsten Fantasiefilmreihe der Welt.
@@ -41,7 +40,15 @@ Dieser Film ist nur der Erste in der wohl bekanntesten und erfolgreichsten Fanta
 # [The Lord of the Rings: The Two Towers (Der Herr der Ringe: Die zwei Türme)](https://www.imdb.com/title/tt0167261/)
 ## Produzenten
 [Peter Jackson](https://de.wikipedia.org/wiki/Peter_Jackson), [Eric Monette](https://pro.imdb.com/name/nm8662749/) [Barrie M. Osborne](https://de.wikipedia.org/wiki/Barrie_M._Osborne), [Fran Walsh](https://de.wikipedia.org/wiki/Fran_Walsh)
+## welches Jahr
 
+## Hauptdarsteller
+
+## kurzer Inhalt
+
+## Oscars
+
+## Besonderheiten
 # [The Lord of the Rings: The Return of the King (Der Herr der Ringe: Die Rückkehr des Königs)](https://www.imdb.com/title/tt0167260/)
 
 
