@@ -34,7 +34,7 @@ Wurde erstmals am 10.12.2001 in England ausgestrahlt und war ab dem 19.12.2001 a
 | [Alan Howard](https://de.wikipedia.org/wiki/Alan_Howard)           | [Ring/Sauron](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Sauron)              |
 
 ## kurzer Inhalt
-Auf dem fiktiven Kontinent Mittelerde wird die Geschichte von Frodo Beutlin erzählt, wie er in Besitz des Einen Rings, ein mächtiges Artefakt des bösen Zauberers Sauron, gelangt und ihm zur Aufgabe gestellt wird diesen zu zerstören.
+Auf dem fiktiven Kontinent Mittelerde wird die Geschichte von Frodo Beutlin erzählt, wie er in Besitz des Einen Ring, ein mächtiges Artefakt des bösen Zauberers Sauron, gelangt und ihm zur Aufgabe gestellt wird diesen zu zerstören.
 
 ## Oscars
 Für 13 Oscars nominiert und hat vier davon gewonnen (*Beste Filmmusik*, *Beste visuelle Effekte*, *Bestes Make-up*, *Beste Kamera*)
@@ -125,10 +125,10 @@ Wurde erstmals am 1.12.2003 im Embassy Theatre in Wellington ausgestrahlt
 | [Alan Howard](https://de.wikipedia.org/wiki/Alan_Howard)                    | [Sauron](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Sauron)                             |
 
 ## kurzer Inhalt
-Aragorn führt die vereinte Armee Mittelerdes in den Kampf gegen die rießigen Armeen Saurons um es Frodo und Sam zu ermöglichen den Schicksalsberg zu erreichen und den Einen Ring entgültig zu zerstören.
+Aragorn führt die vereinte Armee Mittelerdes in den Kampf gegen die riesigen Armeen Saurons, um es Frodo und Sam zu ermöglichen den Schicksalsberg zu erreichen und den Einen Ring endgültig zu zerstören.
 
 ## Oscars
 wude zu elf Kategorien nominiert und wurde auch in allen ausgezeichnet (*Bester Film*, *Bestes adaptiertes Drehbuch*, *Bestes Szenenbild*, *Bestes Kostümdesign*, *Bestes Make-up*, *Beste visuele Effekte*, *Bester Schnitt*, *Bester Ton*, *Beste Filmmusik*, *Bester Song*)
 
 ## Besonderheiten
-
+HdR: Die Rückkehr des Königs ist der erste Film der
