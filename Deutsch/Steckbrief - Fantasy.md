@@ -2,6 +2,7 @@
 ## Produzent
 [Peter Jackson](https://de.wikipedia.org/wiki/Peter_Jackson), [Barrie M. Osborne](https://de.wikipedia.org/wiki/Barrie_M._Osborne), [Tim Sanders](https://en.wikipedia.org/wiki/Tim_Sanders_(filmmaker)), [Fran Walsh](https://de.wikipedia.org/wiki/Fran_Walsh)
 ## welches Land
+Wurde größtenteils in Neuseeland gedreht 
 ## welches Jahr
 ## Hauptdarsteller
 ## kurzer Inhalt
