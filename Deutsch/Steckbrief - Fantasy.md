@@ -1,5 +1,5 @@
 # [The Lord of the Rings: The Fellowship of the Ring (Der Herr der Ringe: Die Gefährten)](https://www.imdb.com/title/tt0120737/)
-## Produzent
+## Produzenten
 [Peter Jackson](https://de.wikipedia.org/wiki/Peter_Jackson), [Barrie M. Osborne](https://de.wikipedia.org/wiki/Barrie_M._Osborne), [Tim Sanders](https://en.wikipedia.org/wiki/Tim_Sanders_(filmmaker)), [Fran Walsh](https://de.wikipedia.org/wiki/Fran_Walsh)
 ## welches Land
 Wurde größtenteils in Neuseeland gedreht ist aber eine zusammenarbeit von Neuseeländern und US-Amerikanern
@@ -39,7 +39,8 @@ HdR: Die Gefährten erzählt einen Teil der Romantriologie *[Der Herr der Ringe]
 Dieser Film ist nur der Erste in der wohl bekanntesten und erfolgreichsten Fantasiefilmreihe der Welt.
 
 # [The Lord of the Rings: The Two Towers (Der Herr der Ringe: Die zwei Türme)](https://www.imdb.com/title/tt0167261/)
-
+## Produzenten
+[Peter Jackson](https://de.wikipedia.org/wiki/Peter_Jackson), [Barrie M. Osborne](https://de.wikipedia.org/wiki/Barrie_M._Osborne), [Fran Walsh](https://de.wikipedia.org/wiki/Fran_Walsh)
 
 # [The Lord of the Rings: The Return of the King (Der Herr der Ringe: Die Rückkehr des Königs)](https://www.imdb.com/title/tt0167260/)
 
