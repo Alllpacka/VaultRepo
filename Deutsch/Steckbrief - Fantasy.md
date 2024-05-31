@@ -11,27 +11,27 @@ Wurde größtenteils in Neuseeland gedreht ist aber eine zusammenarbeit von Neus
 Wurde erstmals am 10.12.2001 in England ausgestrahlt und war ab dem 19.12.2001 auch in deutschen Kinos zu sehen
 
 ## Hauptdarsteller
-| Name                                                       | Figur                                                                |
-| ---------------------------------------------------------- | -------------------------------------------------------------------- |
-| [Elijah Wood](https://de.wikipedia.org/wiki/Elijah_Wood)   | [Frodo Beutlin](https://de.wikipedia.org/wiki/Frodo_Beutlin)         |
-| [Ian McKellen](https://de.wikipedia.org/wiki/Ian_McKellen) | [Gandalf](https://de.wikipedia.org/wiki/Gandalf)                     |
-| [Sean Astin](https://de.wikipedia.org/wiki/Sean_Astin)     | [Samweis Gamdschie](https://de.wikipedia.org/wiki/Samweis_Gamdschie) |
-|                                                            |                                                                      |
-|                                                            |                                                                      |
-|                                                            |                                                                      |
-|                                                            |                                                                      |
-|                                                            |                                                                      |
-|                                                            |                                                                      |
-|                                                            |                                                                      |
-|                                                            |                                                                      |
-|                                                            |                                                                      |
-|                                                            |                                                                      |
-|                                                            |                                                                      |
-|                                                            |                                                                      |
-|                                                            |                                                                      |
-|                                                            |                                                                      |
-|                                                            |                                                                      |
-|                                                            |                                                                      |
+| Name                                                               | Figur                                                                             |
+| ------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
+| [Elijah Wood](https://de.wikipedia.org/wiki/Elijah_Wood)           | [Frodo Beutlin](https://de.wikipedia.org/wiki/Frodo_Beutlin)                      |
+| [Ian McKellen](https://de.wikipedia.org/wiki/Ian_McKellen)         | [Gandalf](https://de.wikipedia.org/wiki/Gandalf)                                  |
+| [Sean Astin](https://de.wikipedia.org/wiki/Sean_Astin)             | [Samweis Gamdschie](https://de.wikipedia.org/wiki/Samweis_Gamdschie)              |
+| [Viggo Mortensen](https://de.wikipedia.org/wiki/Viggo_Mortensen)   | [Aragorn](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Aragorn)         |
+| [Liv Tyler](https://de.wikipedia.org/wiki/Liv_Tyler)               | [Arwen](https://de.wikipedia.org/wiki/Arwen)                                      |
+| [Sean Bean](https://de.wikipedia.org/wiki/Sean_Bean)               | [Boromir](https://de.wikipedia.org/wiki/Boromir)                                  |
+| [Orlando Bloom](https://de.wikipedia.org/wiki/Orlando_Bloom)       | [Legolas](https://de.wikipedia.org/wiki/Legolas)                                  |
+| [John Rhys-Davies](https://de.wikipedia.org/wiki/John_Rhys-Davies) | [Gimli](https://de.wikipedia.org/wiki/Gimli_(Mittelerde))                         |
+| [Christopher Lee](https://de.wikipedia.org/wiki/Christopher_Lee)   | [Saruman](https://de.wikipedia.org/wiki/Saruman)                                  |
+| [Dominic Monaghan](https://de.wikipedia.org/wiki/Dominic_Monaghan) | [Meriadoc Brandybock](https://de.wikipedia.org/wiki/Meriadoc_Brandybock)          |
+| [Billy Boyd](https://de.wikipedia.org/wiki/Billy_Boyd)             | [Peregrin Tuk](https://de.wikipedia.org/wiki/Peregrin_Tuk)                        |
+| [Cate Blanchett](https://de.wikipedia.org/wiki/Cate_Blanchett)     | [Galadriel](https://de.wikipedia.org/wiki/Galadriel)                              |
+| [Hugo Weaving](https://de.wikipedia.org/wiki/Hugo_Weaving)         | [Elrond](https://de.wikipedia.org/wiki/Elrond)                                    |
+| [Ian Holm](https://de.wikipedia.org/wiki/Ian_Holm)                 | [Bilbo Beutlin](https://de.wikipedia.org/wiki/Bilbo_Beutlin)                      |
+| [Marton Csokas](https://de.wikipedia.org/wiki/Marton_Csokas)       | [Celeborn](https://de.wikipedia.org/wiki/Celeborn)                                |
+| [Andy Serkis](https://de.wikipedia.org/wiki/Andy_Serkis)           | [Gollum](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Gollum_/_Sméagol) |
+|                                                                    |                                                                                   |
+|                                                                    |                                                                                   |
+|                                                                    |                                                                                   |
 
 ## kurzer Inhalt
 Auf dem fiktiven Kontinent Mittelerde wird die Geschichte von Frodo Beutlin erzählt, wie er in besitz des einen Rings, ein mächtiges Artefakt des bösen Zauberers Sauron, gelangt und ihm zur Aufgabe gestellt wird diesen zu zerstören.
