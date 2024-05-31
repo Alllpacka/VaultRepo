@@ -90,7 +90,24 @@ wurde zu sechs Oscars nominiert, hat zwei gewonnen
 
 
 ## Hauptdarsteller
-
+| Name                                                               | Figur                                                                                               |
+| ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
+| [Elijah Wood](https://de.wikipedia.org/wiki/Elijah_Wood)           | [Frodo Beutlin](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Frodo_Beutlin)               |
+| [Ian McKellen](https://de.wikipedia.org/wiki/Ian_McKellen)         | [Gandalf](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Gandalf)                           |
+| [Viggo Mortensen](https://de.wikipedia.org/wiki/Viggo_Mortensen)   | [Aragorn/Elessar](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Aragorn)                   |
+| [Sean Astin](https://de.wikipedia.org/wiki/Sean_Astin)             | [Samweis Gamdschie](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Samweis_Gamdschie_(Sam)) |
+| [Andy Serkis](https://de.wikipedia.org/wiki/Andy_Serkis)           | [Gollum/Sméagol](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Gollum_/_Sméagol)           |
+| [Cate Blanchett](https://de.wikipedia.org/wiki/Cate_Blanchett)     | [Galadriel](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Galadriel_und_Celeborn)          |
+| [John Rhys-Davies](https://de.wikipedia.org/wiki/John_Rhys-Davies) |                                                                                                     |
+|                                                                    |                                                                                                     |
+|                                                                    |                                                                                                     |
+|                                                                    |                                                                                                     |
+|                                                                    |                                                                                                     |
+|                                                                    |                                                                                                     |
+|                                                                    |                                                                                                     |
+|                                                                    |                                                                                                     |
+|                                                                    |                                                                                                     |
+|                                                                    |                                                                                                     |
 
 ## kurzer Inhalt
 
