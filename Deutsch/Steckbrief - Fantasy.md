@@ -6,7 +6,19 @@ Wurde größtenteils in Neuseeland gedreht ist aber eine zusammenarbeit von Neus
 ## welches Jahr
 Wurde erstmals am 10.12.2001 in England ausgestrahlt und war ab dem 19.12.2001 auch in deutschen Kinos zu sehen
 ## Hauptdarsteller
-
+| Name        | Figur               |
+| ----------- | ------------------- |
+| Elijah Wood | Frodo Beutlin       |
+|             | Gandalf             |
+|             | Samweis Gamdschie   |
+|             | Aragorn             |
+|             | Arwen               |
+|             | Boromir             |
+|             | Legolas             |
+|             | Gimli               |
+|             | Sauroman            |
+|             | Meriadoc Brandybock |
+|             | P                   |
 ## kurzer Inhalt
 ## Oskars
 ## Merkmal des Genres
