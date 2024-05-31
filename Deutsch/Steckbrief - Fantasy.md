@@ -131,4 +131,5 @@ Aragorn führt die vereinte Armee Mittelerdes in den Kampf gegen die riesigen Ar
 wude zu elf Kategorien nominiert und wurde auch in allen ausgezeichnet (*Bester Film*, *Bestes adaptiertes Drehbuch*, *Bestes Szenenbild*, *Bestes Kostümdesign*, *Bestes Make-up*, *Beste visuele Effekte*, *Bester Schnitt*, *Bester Ton*, *Beste Filmmusik*, *Bester Song*)
 
 ## Besonderheiten
-HdR: Die Rückkehr des Königs ist der erste Film der
+HdR: Die Rückkehr des Königs ist der erste Science-Fiction/Fantasy Film der bei den Oscars als *Bester Film* ernannt wurde.
+HdR: Die Rückkehr des Königs ist einer der wenigen Filme die bei den 
