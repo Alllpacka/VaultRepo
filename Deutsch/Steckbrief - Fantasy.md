@@ -29,9 +29,10 @@ Wurde erstmals am 10.12.2001 in England ausgestrahlt und war ab dem 19.12.2001 a
 | [Alan Howard](https://de.wikipedia.org/wiki/Alan_Howard)           | Der Ring / Sauron   |
 ## kurzer Inhalt
 ## Oscars
-Für 13 Oscars nominiert und hat vier 
+Für 13 Oscars nominiert und hat vier davon gewonnen (Filmmusik, visuelle Effekte, Make-up, Kamera)
 ## Merkmal des Genres
 ## Besonderheiten
+
 
 # [The Lord of the Rings: The Return of the King (Der Herr der Ringe: Die Rückkehr des Königs)](https://www.imdb.com/title/tt0167260/)
 
