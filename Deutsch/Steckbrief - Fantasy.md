@@ -90,24 +90,40 @@ wurde zu sechs Oscars nominiert, hat zwei gewonnen
 
 
 ## Hauptdarsteller
-| Name                                                               | Figur                                                                                               |
-| ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
-| [Elijah Wood](https://de.wikipedia.org/wiki/Elijah_Wood)           | [Frodo Beutlin](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Frodo_Beutlin)               |
-| [Ian McKellen](https://de.wikipedia.org/wiki/Ian_McKellen)         | [Gandalf](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Gandalf)                           |
-| [Viggo Mortensen](https://de.wikipedia.org/wiki/Viggo_Mortensen)   | [Aragorn/Elessar](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Aragorn)                   |
-| [Sean Astin](https://de.wikipedia.org/wiki/Sean_Astin)             | [Samweis Gamdschie](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Samweis_Gamdschie_(Sam)) |
-| [Andy Serkis](https://de.wikipedia.org/wiki/Andy_Serkis)           | [Gollum/Sméagol](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Gollum_/_Sméagol)           |
-| [Cate Blanchett](https://de.wikipedia.org/wiki/Cate_Blanchett)     | [Galadriel](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Galadriel_und_Celeborn)          |
-| [John Rhys-Davies](https://de.wikipedia.org/wiki/John_Rhys-Davies) |                                                                                                     |
-|                                                                    |                                                                                                     |
-|                                                                    |                                                                                                     |
-|                                                                    |                                                                                                     |
-|                                                                    |                                                                                                     |
-|                                                                    |                                                                                                     |
-|                                                                    |                                                                                                     |
-|                                                                    |                                                                                                     |
-|                                                                    |                                                                                                     |
-|                                                                    |                                                                                                     |
+| Name                                                                  | Figur                                                                                               |
+| --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| [Elijah Wood](https://de.wikipedia.org/wiki/Elijah_Wood)              | [Frodo Beutlin](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Frodo_Beutlin)               |
+| [Ian McKellen](https://de.wikipedia.org/wiki/Ian_McKellen)            | [Gandalf](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Gandalf)                           |
+| [Viggo Mortensen](https://de.wikipedia.org/wiki/Viggo_Mortensen)      | [Aragorn/Elessar](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Aragorn)                   |
+| [Sean Astin](https://de.wikipedia.org/wiki/Sean_Astin)                | [Samweis Gamdschie](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Samweis_Gamdschie_(Sam)) |
+| [Andy Serkis](https://de.wikipedia.org/wiki/Andy_Serkis)              | [Gollum/Sméagol](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Gollum_/_Sméagol)           |
+| [Cate Blanchett](https://de.wikipedia.org/wiki/Cate_Blanchett)        | [Galadriel](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Galadriel_und_Celeborn)          |
+| [John Rhys-Davies](https://de.wikipedia.org/wiki/John_Rhys-Davies)    | [Gimli](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Gimli)                               |
+| [Bernard Hill](https://de.wikipedia.org/wiki/Bernard_Hill)            | [Théoden](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Théoden)                           |
+| [Billy Boyd](https://de.wikipedia.org/wiki/Billy_Boyd)                | [Peregrin Tuk](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Peregrin_Tuk)                 |
+| [Dominic Monaghan](https://de.wikipedia.org/wiki/Dominic_Monaghan)    | [Meriadoc Brandybock](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Meriadoc_Brandybock)   |
+| [Orlando Bloom](https://de.wikipedia.org/wiki/Orlando_Bloom)          | [Legolas](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Legolas)                           |
+| [Hugo Weaving](https://de.wikipedia.org/wiki/Hugo_Weaving)            | [Elrond](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Elrond)                             |
+| [Liv Tyler](https://de.wikipedia.org/wiki/Liv_Tyler)                  | [Arwen Undómiel](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Arwen)                      |
+| [Miranda Otto](https://de.wikipedia.org/wiki/Miranda_Otto)            | [Éowyn](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Éowyn)                               |
+| [David Wenham](https://de.wikipedia.org/wiki/David_Wenham)            | [Faramir](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Faramir)                           |
+| [Karl Urban](https://de.wikipedia.org/wiki/Karl_Urban_(Schauspieler)) | [Éomer](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Éomer)                               |
+| [John Noble](https://de.wikipedia.org/wiki/John_Noble_(Schauspieler)) | [Denethor](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Denethor)                         |
+| [Ian Holm](https://de.wikipedia.org/wiki/Ian_Holm)                    | [Bilbo Beutlin](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Bilbo_Beutlin)               |
+| [Sean Bean](https://de.wikipedia.org/wiki/Sean_Bean)                  | [Boromir](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Boromir)                           |
+| [Marton Csokas](https://de.wikipedia.org/wiki/Marton_Csokas)          | [Celeborn](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Galadriel_und_Celeborn)           |
+|                                                                       |                                                                                                     |
+|                                                                       |                                                                                                     |
+|                                                                       |                                                                                                     |
+|                                                                       |                                                                                                     |
+|                                                                       |                                                                                                     |
+|                                                                       |                                                                                                     |
+|                                                                       |                                                                                                     |
+|                                                                       |                                                                                                     |
+|                                                                       |                                                                                                     |
+|                                                                       |                                                                                                     |
+|                                                                       |                                                                                                     |
+|                                                                       |                                                                                                     |
 
 ## kurzer Inhalt
 
