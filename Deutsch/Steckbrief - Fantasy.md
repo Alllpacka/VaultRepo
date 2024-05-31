@@ -1,5 +1,5 @@
 # Merkmale des Genres
-Hat viele seiner Wurzeln in alter Mythologie, Sagen und Märchen. Oft sind übernatürliche und magische Elemente im Vordergrund und werden als normal/real dargestellt.
+Hat viele seiner Wurzeln in alter Mythologie, Sagen und Märchen. Oft sind übernatürliche und magische Elemente im Vordergrund und werden als normal/real dargestellt. Typische Fantasiewesen sind Elfen (Elben in Tolkiens Werken), Zwerge, Kobolde und Orks. 
 
 # [The Lord of the Rings: The Fellowship of the Ring (Der Herr der Ringe: Die Gefährten)](https://www.imdb.com/title/tt0120737/)
 ## Produzenten
@@ -132,4 +132,4 @@ wude zu elf Kategorien nominiert und wurde auch in allen ausgezeichnet (*Bester 
 
 ## Besonderheiten
 HdR: Die Rückkehr des Königs ist der erste Science-Fiction/Fantasy Film der bei den Oscars als *Bester Film* ernannt wurde.
-HdR: Die Rückkehr des Königs ist einer der wenigen Filme die bei den 
+HdR: Die Rückkehr des Königs ist einer der wenigen Filme die bei den Oscars einen **Clean Sweep** erlangt haben (alle nominierten Kategorien auch gewonnen)
