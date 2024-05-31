@@ -40,6 +40,8 @@ Dieser Film ist nur der Erste in der wohl bekanntesten und erfolgreichsten Fanta
 # [The Lord of the Rings: The Two Towers (Der Herr der Ringe: Die zwei Türme)](https://www.imdb.com/title/tt0167261/)
 ## Produzenten
 [Peter Jackson](https://de.wikipedia.org/wiki/Peter_Jackson), [Eric Monette](https://pro.imdb.com/name/nm8662749/) [Barrie M. Osborne](https://de.wikipedia.org/wiki/Barrie_M._Osborne), [Fran Walsh](https://de.wikipedia.org/wiki/Fran_Walsh)
+## welches Land
+Wurde größtenteils in Neuseeland gedreht ist aber eine zusammenarbeit von Neuseeländern und US-Amerikaner
 ## welches Jahr
 
 ## Hauptdarsteller
@@ -47,8 +49,9 @@ Dieser Film ist nur der Erste in der wohl bekanntesten und erfolgreichsten Fanta
 ## kurzer Inhalt
 
 ## Oscars
-
+wurde zu sechs Oscars nominiert, hat zwei gewonnen
 ## Besonderheiten
+
 # [The Lord of the Rings: The Return of the King (Der Herr der Ringe: Die Rückkehr des Königs)](https://www.imdb.com/title/tt0167260/)
 ## Produzenten
 [Peter Jackson](https://de.wikipedia.org/wiki/Peter_Jackson), [Eric Monette](https://pro.imdb.com/name/nm8662749/) [Barrie M. Osborne](https://de.wikipedia.org/wiki/Barrie_M._Osborne), [Fran Walsh](https://de.wikipedia.org/wiki/Fran_Walsh)
