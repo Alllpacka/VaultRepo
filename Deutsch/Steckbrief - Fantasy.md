@@ -37,7 +37,7 @@ Wurde erstmals am 10.12.2001 in England ausgestrahlt und war ab dem 19.12.2001 a
 Auf dem fiktiven Kontinent Mittelerde wird die Geschichte von Frodo Beutlin erzählt, wie er in Besitz des einen Rings, ein mächtiges Artefakt des bösen Zauberers Sauron, gelangt und ihm zur Aufgabe gestellt wird diesen zu zerstören.
 
 ## Oscars
-Für 13 Oscars nominiert und hat vier davon gewonnen (Filmmusik, visuelle Effekte, Make-up, Kamera)
+Für 13 Oscars nominiert und hat vier davon gewonnen (*Beste Filmmusik*, visuelle Effekte, Make-up, Kamera)
 
 ## Besonderheiten
 HdR: Die Gefährten erzählt einen Teil der Romantriologie *[Der Herr der Ringe](https://de.wikipedia.org/wiki/Der_Herr_der_Ringe)*, geschrieben von [J. R. R. Tolkien](https://de.wikipedia.org/wiki/J._R._R._Tolkien) und in 1954/1955 erstmalig veröffentlicht.
@@ -79,7 +79,7 @@ Wurde erstmals am 5.12.2002 im Ziegfeld Theatre in New York ausgestrahlt
 HdR: Die zwei Türme setzt die Geschichte Frodos weiter den Schicksalsberg zu erreichen, dies möchte er durch die Hilfe einer kuriosen Kreatur, namens Gollum schaffen. Es wird sich aber herausstellen, ob Gollum wirklich so vertrauenswürdig ist.
 
 ## Oscars
-wurde zu sechs Oscars nominiert, hat zwei davon gewonnen (*Bester Film*)
+HdR: Die zwei Türme wurde zu sechs Oscars nominiert und hat zwei davon gewonnen (*Bester Film*, *Bestes Szenenbild*)
 
 ## Besonderheiten
 
