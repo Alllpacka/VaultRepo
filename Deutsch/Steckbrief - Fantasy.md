@@ -91,7 +91,7 @@ wurde zu sechs Oscars nominiert, hat zwei gewonnen
 Wurde größtenteils in Neuseeland gedreht ist aber eine zusammenarbeit von Neuseeländern und US-Amerikaner
 
 ## welches Jahr
-Wurde erstmals am 1.12.2003 im Embassy Theatre in New York ausgestrahlt
+Wurde erstmals am 1.12.2003 im Embassy Theatre in Wellington ausgestrahlt
 
 ## Hauptdarsteller
 | Name                                                                        | Figur                                                                                               |
@@ -127,7 +127,7 @@ Wurde erstmals am 1.12.2003 im Embassy Theatre in New York ausgestrahlt
 
 
 ## Oscars
-
+wude zu elf 
 
 ## Besonderheiten
 
