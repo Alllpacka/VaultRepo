@@ -75,7 +75,7 @@ Wurde erstmals am 5.12.2002 im Ziegfeld Theatre in New York ausgestrahlt
 | [Cate Blanchett](https://de.wikipedia.org/wiki/Cate_Blanchett)        | [Galadriel](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Galadriel_und_Celeborn)            |
 
 ## kurzer Inhalt
-HdRDie zwei Türme setzt die Geschichte Frodos weiter
+HdR: Die zwei Türme setzt die Geschichte Frodos weiter den Schicksalsberg zu erreichen, dies möchte er durch die Hilfe einer kurriosen Kreatur, namens Gollum schaffen. Es wird sich aber herrausstellen ob Gollum wirklich so vertraunswürdig ist.
 
 ## Oscars
 wurde zu sechs Oscars nominiert, hat zwei gewonnen
