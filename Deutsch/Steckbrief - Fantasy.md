@@ -1,11 +1,12 @@
 # Merkmale des Genres
 Hat viele seiner Wurzeln in alter Mythologie, Sagen und Märchen. Oft sind übernatürliche und magische Elemente im Vordergrund und werden als normal/real dargestellt.
+
 # [The Lord of the Rings: The Fellowship of the Ring (Der Herr der Ringe: Die Gefährten)](https://www.imdb.com/title/tt0120737/)
 ## Produzenten
 [Peter Jackson](https://de.wikipedia.org/wiki/Peter_Jackson), [Barrie M. Osborne](https://de.wikipedia.org/wiki/Barrie_M._Osborne), [Tim Sanders](https://en.wikipedia.org/wiki/Tim_Sanders_(filmmaker)), [Fran Walsh](https://de.wikipedia.org/wiki/Fran_Walsh)
 
 ## welches Land
-Wurde größtenteils in Neuseeland gedreht ist aber eine zusammenarbeit von Neuseeländern und US-Amerikanern
+Wurde größtenteils in Neuseeland gedreht ist aber eine Zusammenarbeit von Neuseeländern und US-Amerikanern
 
 ## welches Jahr
 Wurde erstmals am 10.12.2001 in England ausgestrahlt und war ab dem 19.12.2001 auch in deutschen Kinos zu sehen
@@ -33,7 +34,7 @@ Wurde erstmals am 10.12.2001 in England ausgestrahlt und war ab dem 19.12.2001 a
 | [Alan Howard](https://de.wikipedia.org/wiki/Alan_Howard)           | [Ring/Sauron](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Sauron)              |
 
 ## kurzer Inhalt
-Auf dem fiktiven Kontinent Mittelerde wird die Geschichte von Frodo Beutlin erzählt, wie er in besitz des einen Rings, ein mächtiges Artefakt des bösen Zauberers Sauron, gelangt und ihm zur Aufgabe gestellt wird diesen zu zerstören.
+Auf dem fiktiven Kontinent Mittelerde wird die Geschichte von Frodo Beutlin erzählt, wie er in Besitz des einen Rings, ein mächtiges Artefakt des bösen Zauberers Sauron, gelangt und ihm zur Aufgabe gestellt wird diesen zu zerstören.
 
 ## Oscars
 Für 13 Oscars nominiert und hat vier davon gewonnen (Filmmusik, visuelle Effekte, Make-up, Kamera)
@@ -47,7 +48,7 @@ Dieser Film ist nur der Erste in der wohl bekanntesten und erfolgreichsten Fanta
 [Peter Jackson](https://de.wikipedia.org/wiki/Peter_Jackson), [Eric Monette](https://pro.imdb.com/name/nm8662749/) [Barrie M. Osborne](https://de.wikipedia.org/wiki/Barrie_M._Osborne), [Fran Walsh](https://de.wikipedia.org/wiki/Fran_Walsh)
 
 ## welches Land
-Wurde größtenteils in Neuseeland gedreht ist aber eine zusammenarbeit von Neuseeländern und US-Amerikaner
+Wurde größtenteils in Neuseeland gedreht ist aber eine Zusammenarbeit von Neuseeländern und US-Amerikanern
 
 ## welches Jahr
 Wurde erstmals am 5.12.2002 im Ziegfeld Theatre in New York ausgestrahlt
@@ -75,7 +76,7 @@ Wurde erstmals am 5.12.2002 im Ziegfeld Theatre in New York ausgestrahlt
 | [Cate Blanchett](https://de.wikipedia.org/wiki/Cate_Blanchett)        | [Galadriel](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Galadriel_und_Celeborn)            |
 
 ## kurzer Inhalt
-HdR: Die zwei Türme setzt die Geschichte Frodos weiter den Schicksalsberg zu erreichen, dies möchte er durch die Hilfe einer kurriosen Kreatur, namens Gollum schaffen. Es wird sich aber herrausstellen ob Gollum wirklich so vertraunswürdig ist.
+HdR: Die zwei Türme setzt die Geschichte Frodos weiter den Schicksalsberg zu erreichen, dies möchte er durch die Hilfe einer kuriosen Kreatur, namens Gollum schaffen. Es wird sich aber herausstellen, ob Gollum wirklich so vertrauenswürdig ist.
 
 ## Oscars
 wurde zu sechs Oscars nominiert, hat zwei gewonnen
@@ -88,7 +89,7 @@ wurde zu sechs Oscars nominiert, hat zwei gewonnen
 [Peter Jackson](https://de.wikipedia.org/wiki/Peter_Jackson), [Eric Monette](https://pro.imdb.com/name/nm8662749/) [Barrie M. Osborne](https://de.wikipedia.org/wiki/Barrie_M._Osborne), [Fran Walsh](https://de.wikipedia.org/wiki/Fran_Walsh)
 
 ## ## welches Land
-Wurde größtenteils in Neuseeland gedreht ist aber eine zusammenarbeit von Neuseeländern und US-Amerikaner
+Wurde größtenteils in Neuseeland gedreht ist aber eine Zusammenarbeit von Neuseeländern und US-Amerikanern
 
 ## welches Jahr
 Wurde erstmals am 1.12.2003 im Embassy Theatre in Wellington ausgestrahlt
