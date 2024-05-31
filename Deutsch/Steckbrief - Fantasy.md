@@ -43,7 +43,7 @@ Dieser Film ist nur der Erste in der wohl bekanntesten und erfolgreichsten Fanta
 ## welches Land
 Wurde größtenteils in Neuseeland gedreht ist aber eine zusammenarbeit von Neuseeländern und US-Amerikaner
 ## welches Jahr
-
+Wurde erstmals am 5.12.2002 im Ziegfeld Theatre in New York ausgestrahlt und war ab dem 19.12.2001 auch in deutschen Kinos zu sehen
 ## Hauptdarsteller
 
 ## kurzer Inhalt
