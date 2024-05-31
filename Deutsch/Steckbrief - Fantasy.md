@@ -35,7 +35,7 @@ Für 13 Oscars nominiert und hat vier davon gewonnen (Filmmusik, visuelle Effekt
 Hat viele seiner Wurzeln in alter Mythologie, Sagen und Märchen
 
 ## Besonderheiten
-HdR: Die Gefährten erzählt einen Teil des Romans *[Der Herr der Ringe](https://de.wikipedia.org/wiki/Der_Herr_der_Ringe)*, geschrieben von [J. R. R. Tolkien](https://de.wikipedia.org/wiki/J._R._R._Tolkien) und in 19++ erstmalig veröffentlicht
+HdR: Die Gefährten erzählt einen Teil der Romantriologie *[Der Herr der Ringe](https://de.wikipedia.org/wiki/Der_Herr_der_Ringe)*, geschrieben von [J. R. R. Tolkien](https://de.wikipedia.org/wiki/J._R._R._Tolkien) und in 1954/1955 erstmalig veröffentlicht.
 Dieser Film ist nur der Erste in der wohl bekanntesten und erfolgreichsten Fantasiefilmreihe der Welt.
 
 # [The Lord of the Rings: The Two Towers (Der Herr der Ringe: Die zwei Türme)](https://www.imdb.com/title/tt0167261/)
