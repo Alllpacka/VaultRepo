@@ -37,7 +37,7 @@ Wurde erstmals am 10.12.2001 in England ausgestrahlt und war ab dem 19.12.2001 a
 Auf dem fiktiven Kontinent Mittelerde wird die Geschichte von Frodo Beutlin erzählt, wie er in Besitz des einen Rings, ein mächtiges Artefakt des bösen Zauberers Sauron, gelangt und ihm zur Aufgabe gestellt wird diesen zu zerstören.
 
 ## Oscars
-Für 13 Oscars nominiert und hat vier davon gewonnen (*Beste Filmmusik*, *Beste visuelle Effekte*, Bestes Make-up, *Beste Kamera*)
+Für 13 Oscars nominiert und hat vier davon gewonnen (*Beste Filmmusik*, *Beste visuelle Effekte*, *Bestes Make-up*, *Beste Kamera*)
 
 ## Besonderheiten
 HdR: Die Gefährten erzählt einen Teil der Romantriologie *[Der Herr der Ringe](https://de.wikipedia.org/wiki/Der_Herr_der_Ringe)*, geschrieben von [J. R. R. Tolkien](https://de.wikipedia.org/wiki/J._R._R._Tolkien) und in 1954/1955 erstmalig veröffentlicht.
