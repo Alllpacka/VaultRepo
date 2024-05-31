@@ -1,12 +1,13 @@
 # [The Lord of the Rings: The Fellowship of the Ring (Der Herr der Ringe: Die Gefährten)](https://www.imdb.com/title/tt0120737/)
 ## Produzent
-## welches land
-## welches jahr
-## hauptdarsteller
-## kurzer inhalt
-## oskars
-## Merkmal des genres
-## besonderheiten
+[Peter Jackson](), [Barrie M. Osborne](), [Tim Sand]()
+## welches Land
+## welches Jahr
+## Hauptdarsteller
+## kurzer Inhalt
+## Oskars
+## Merkmal des Genres
+## Besonderheiten
 
 # [The Lord of the Rings: The Return of the King (Der Herr der Ringe: Die Rückkehr des Königs)](https://www.imdb.com/title/tt0167260/)
 
