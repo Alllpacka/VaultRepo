@@ -54,25 +54,27 @@ Wurde größtenteils in Neuseeland gedreht ist aber eine zusammenarbeit von Neus
 Wurde erstmals am 5.12.2002 im Ziegfeld Theatre in New York ausgestrahlt
 
 ## Hauptdarsteller
-| Name                                                               | Figur                                                                                               |
-| ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
-| [Elijah Wood](https://de.wikipedia.org/wiki/Elijah_Wood)           | [Frodo Beutlin](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Frodo_Beutlin)               |
-| [Sean Astin](https://de.wikipedia.org/wiki/Sean_Astin)             | [Samweis Gamdschie](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Samweis_Gamdschie_(Sam)) |
-| [Viggo Mortensen](https://de.wikipedia.org/wiki/Viggo_Mortensen)   | [Aragorn](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Aragorn)                           |
-| [Ian McKellen](https://de.wikipedia.org/wiki/Ian_McKellen)         | [Gandalf](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Gandalf)                           |
-| [Dominic Monaghan](https://de.wikipedia.org/wiki/Dominic_Monaghan) | [Meriadoc Brandybock](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Meriadoc_Brandybock)   |
-| [Billy Boyd](https://de.wikipedia.org/wiki/Billy_Boyd)             |                                                                                                     |
-|                                                                    |                                                                                                     |
-|                                                                    |                                                                                                     |
-|                                                                    |                                                                                                     |
-|                                                                    |                                                                                                     |
-|                                                                    |                                                                                                     |
-|                                                                    |                                                                                                     |
-|                                                                    |                                                                                                     |
-|                                                                    |                                                                                                     |
-|                                                                    |                                                                                                     |
-|                                                                    |                                                                                                     |
-|                                                                    |                                                                                                     |
+| Name                                                                  | Figur                                                                                                 |
+| --------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| [Elijah Wood](https://de.wikipedia.org/wiki/Elijah_Wood)              | [Frodo Beutlin](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Frodo_Beutlin)                 |
+| [Sean Astin](https://de.wikipedia.org/wiki/Sean_Astin)                | [Samweis Gamdschie](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Samweis_Gamdschie_(Sam))   |
+| [Viggo Mortensen](https://de.wikipedia.org/wiki/Viggo_Mortensen)      | [Aragorn](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Aragorn)                             |
+| [Ian McKellen](https://de.wikipedia.org/wiki/Ian_McKellen)            | [Gandalf](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Gandalf)                             |
+| [Dominic Monaghan](https://de.wikipedia.org/wiki/Dominic_Monaghan)    | [Meriadoc Brandybock](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Meriadoc_Brandybock)     |
+| [Billy Boyd](https://de.wikipedia.org/wiki/Billy_Boyd)                | [Peregrin Tuk](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Peregrin_Tuk)                   |
+| [Orlando Bloom](https://de.wikipedia.org/wiki/Orlando_Bloom)          | [Legolas](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Legolas)                             |
+| [John Rhys-Davies](https://de.wikipedia.org/wiki/John_Rhys-Davies)    | [Gimli](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Gimli)                                 |
+| [Andy Serkis](https://de.wikipedia.org/wiki/Andy_Serkis)              | [Gollum/Sméagol](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Gollum_/_Sméagol)             |
+| [Christopher Lee](https://de.wikipedia.org/wiki/Christopher_Lee)      | [Saruman](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Saruman)                             |
+| [Bernard Hill](https://de.wikipedia.org/wiki/Bernard_Hill)            | [Théoden](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Théoden)                             |
+| [Miranda Otto](https://de.wikipedia.org/wiki/Miranda_Otto)            | [Éowyn](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Éowyn)                                 |
+| [Karl Urban](https://de.wikipedia.org/wiki/Karl_Urban_(Schauspieler)) | [Éomer](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Éomer)                                 |
+| [Brad Dourif](https://de.wikipedia.org/wiki/Brad_Dourif)              | [Gríma Schlangenzunge](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Gríma_„Schlangenzunge“) |
+| [Liv Tyler](https://de.wikipedia.org/wiki/Liv_Tyler)                  | [Arwen Undomiel](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Arwen)                        |
+| [Hugo Weaving](https://de.wikipedia.org/wiki/Hugo_Weaving)            | [Elrond](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Elrond)                               |
+| [David Wenham](https://de.wikipedia.org/wiki/David_Wenham)            | [Faramir](https://de.wikipedia.org/wiki/Figuren_in_Tolkiens_Welt#Faramir)                             |
+|                                                                       |                                                                                                       |
+|                                                                       |                                                                                                       |
 
 ## kurzer Inhalt
 
