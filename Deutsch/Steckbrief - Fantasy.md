@@ -18,17 +18,18 @@ Wurde erstmals am 10.12.2001 in England ausgestrahlt und war ab dem 19.12.2001 a
 | [John Rhys-Davies](https://de.wikipedia.org/wiki/John_Rhys-Davies) | Gimli               |
 | [Christopher Lee](https://de.wikipedia.org/wiki/Christopher_Lee)   | Sauroman            |
 | [Dominic Monaghan](https://de.wikipedia.org/wiki/Dominic_Monaghan) | Meriadoc Brandybock |
-|                                                                    | Peregrin Tuk        |
-|                                                                    | Galadriel           |
-|                                                                    | Elrond              |
-|                                                                    | Bilbo Beutlin       |
-|                                                                    | Celeborn            |
-|                                                                    | Gollum / Sméagol    |
-|                                                                    | Wirt Butterblume    |
-|                                                                    | Isildur             |
-|                                                                    | Der Ring / Sauron   |
+| [Billy Boyd](https://de.wikipedia.org/wiki/Billy_Boyd)             | Peregrin Tuk        |
+| [Cate Blanchett](https://de.wikipedia.org/wiki/Cate_Blanchett)     | Galadriel           |
+| [Hugo Weaving](https://de.wikipedia.org/wiki/Hugo_Weaving)         | Elrond              |
+| [Ian Holm](https://de.wikipedia.org/wiki/Ian_Holm)                 | Bilbo Beutlin       |
+| [Marton Csokas](https://de.wikipedia.org/wiki/Marton_Csokas)       | Celeborn            |
+| [Andy Serkis](https://de.wikipedia.org/wiki/Andy_Serkis)           | Gollum / Sméagol    |
+| [David Weatherley](https://de.wikipedia.org/wiki/David_Weatherley) | Wirt Butterblume    |
+| [Harry Sinclair](https://de.wikipedia.org/wiki/Harry_Sinclair)     | Isildur             |
+| [Alan Howard](https://de.wikipedia.org/wiki/Alan_Howard)           | Der Ring / Sauron   |
 ## kurzer Inhalt
-## Oskars
+## Oscars
+Für 13 Oscars nominiert und hat vier 
 ## Merkmal des Genres
 ## Besonderheiten
 
