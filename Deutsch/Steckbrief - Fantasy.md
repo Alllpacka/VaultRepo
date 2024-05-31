@@ -18,7 +18,14 @@ Wurde erstmals am 10.12.2001 in England ausgestrahlt und war ab dem 19.12.2001 a
 |             | Gimli               |
 |             | Sauroman            |
 |             | Meriadoc Brandybock |
-|             | P                   |
+|             | Peregrin Tuk        |
+|             | Galadriel           |
+|             | Elrond              |
+|             | Bilbo Beutlin       |
+|             | Celeborn            |
+|             | Gollum / Sméagol    |
+|             | Wirt Butterblume    |
+|             |                     |
 ## kurzer Inhalt
 ## Oskars
 ## Merkmal des Genres
