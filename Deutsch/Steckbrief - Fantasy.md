@@ -6,26 +6,27 @@ Wurde größtenteils in Neuseeland gedreht ist aber eine zusammenarbeit von Neus
 ## welches Jahr
 Wurde erstmals am 10.12.2001 in England ausgestrahlt und war ab dem 19.12.2001 auch in deutschen Kinos zu sehen
 ## Hauptdarsteller
-| Name        | Figur               |
-| ----------- | ------------------- |
-| Elijah Wood | Frodo Beutlin       |
-|             | Gandalf             |
-|             | Samweis Gamdschie   |
-|             | Aragorn             |
-|             | Arwen               |
-|             | Boromir             |
-|             | Legolas             |
-|             | Gimli               |
-|             | Sauroman            |
-|             | Meriadoc Brandybock |
-|             | Peregrin Tuk        |
-|             | Galadriel           |
-|             | Elrond              |
-|             | Bilbo Beutlin       |
-|             | Celeborn            |
-|             | Gollum / Sméagol    |
-|             | Wirt Butterblume    |
-|             |                     |
+| Name                                                               | Figur               |
+| ------------------------------------------------------------------ | ------------------- |
+| [Elijah Wood](https://de.wikipedia.org/wiki/Elijah_Wood)           | Frodo Beutlin       |
+| [Ian McKellen](https://de.wikipedia.org/wiki/Ian_McKellen)         | Gandalf             |
+| [Sean Astin](https://de.wikipedia.org/wiki/Sean_Astin)             | Samweis Gamdschie   |
+| [Viggo Mortensen](https://de.wikipedia.org/wiki/Viggo_Mortensen)   | Aragorn             |
+| [Liv Tyler](https://de.wikipedia.org/wiki/Liv_Tyler)               | Arwen               |
+| [Sean Bean](https://de.wikipedia.org/wiki/Sean_Bean)               | Boromir             |
+| [Orlando Bloom](https://de.wikipedia.org/wiki/Orlando_Bloom)       | Legolas             |
+| [John Rhys-Davies](https://de.wikipedia.org/wiki/John_Rhys-Davies) | Gimli               |
+| [Christopher Lee](https://de.wikipedia.org/wiki/Christopher_Lee)   | Sauroman            |
+| [Dominic Monaghan](https://de.wikipedia.org/wiki/Dominic_Monaghan) | Meriadoc Brandybock |
+|                                                                    | Peregrin Tuk        |
+|                                                                    | Galadriel           |
+|                                                                    | Elrond              |
+|                                                                    | Bilbo Beutlin       |
+|                                                                    | Celeborn            |
+|                                                                    | Gollum / Sméagol    |
+|                                                                    | Wirt Butterblume    |
+|                                                                    | Isildur             |
+|                                                                    | Der Ring / Sauron   |
 ## kurzer Inhalt
 ## Oskars
 ## Merkmal des Genres
