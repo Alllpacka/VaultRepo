@@ -82,7 +82,7 @@ HdR: Die zwei Türme setzt die Geschichte Frodos weiter den Schicksalsberg zu er
 HdR: Die zwei Türme wurde zu sechs Oscars nominiert und hat zwei davon gewonnen (*Bester Film*, *Bestes Szenenbild*)
 
 ## Besonderheiten
-
+Die Schacht von Helms Klamm ist nicht nur durch das Visuelle beeindruckend, diese Kam
 
 # [The Lord of the Rings: The Return of the King (Der Herr der Ringe: Die Rückkehr des Königs)](https://www.imdb.com/title/tt0167260/)
 ## Produzenten
