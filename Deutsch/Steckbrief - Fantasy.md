@@ -87,8 +87,11 @@ wurde zu sechs Oscars nominiert, hat zwei gewonnen
 ## Produzenten
 [Peter Jackson](https://de.wikipedia.org/wiki/Peter_Jackson), [Eric Monette](https://pro.imdb.com/name/nm8662749/) [Barrie M. Osborne](https://de.wikipedia.org/wiki/Barrie_M._Osborne), [Fran Walsh](https://de.wikipedia.org/wiki/Fran_Walsh)
 
-## welches Jahr
+## ## welches Land
+Wurde größtenteils in Neuseeland gedreht ist aber eine zusammenarbeit von Neuseeländern und US-Amerikaner
 
+## welches Jahr
+Wurde erstmals am 1.12.2003 im Embassy Theatre in New York ausgestrahlt
 
 ## Hauptdarsteller
 | Name                                                                        | Figur                                                                                               |
