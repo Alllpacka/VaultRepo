@@ -32,8 +32,10 @@ Auf dem fiktiven Kontinent Mittelerde wird die Geschichte von Frodo Beutlin erz�
 ## Oscars
 F체r 13 Oscars nominiert und hat vier davon gewonnen (Filmmusik, visuelle Effekte, Make-up, Kamera)
 ## Merkmal des Genres
+Hat viele seiner Wurzeln in alter Mythologie, Sagen und M채rchen
 
 ## Besonderheiten
+HdR: Die Gef채hrten erz채hlt einen Teil des Romans 
 Dieser Film ist nur der Erste in der wohl bekanntesten und erfolgreichsten Fantasiefilmreihe der Welt.
 
 # [The Lord of the Rings: The Two Towers (Der Herr der Ringe: Die zwei T체rme)](https://www.imdb.com/title/tt0167261/)
