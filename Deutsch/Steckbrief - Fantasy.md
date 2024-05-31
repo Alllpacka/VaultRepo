@@ -79,7 +79,7 @@ Wurde erstmals am 5.12.2002 im Ziegfeld Theatre in New York ausgestrahlt
 HdR: Die zwei Türme setzt die Geschichte Frodos weiter den Schicksalsberg zu erreichen, dies möchte er durch die Hilfe einer kuriosen Kreatur, namens Gollum schaffen. Es wird sich aber herausstellen, ob Gollum wirklich so vertrauenswürdig ist.
 
 ## Oscars
-wurde zu sechs Oscars nominiert, hat zwei gewonnen
+wurde zu sechs Oscars nominiert, hat zwei davon gewonnen (*Bester Film*)
 
 ## Besonderheiten
 
