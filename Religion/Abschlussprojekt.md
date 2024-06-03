@@ -1,3 +1,6 @@
-# Ideen
-+ Leute interviewen und Podcast-mäßig drüber reden
-+ gelynched werden
+# Satanismus in Medien
+## Musik
+
+
+
+## Filme & Serien

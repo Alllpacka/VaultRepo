@@ -1,8 +1,12 @@
 # The decline of American Dream
-The American Dream, a term crowned by [James Truslow Adams](https://en.wikipedia.org/wiki/James_Truslow_Adams), primarily focuses on individual freedom, equal chances not only in life but also in the economic world, hard work and its rewards.
+The American Dream, a term coined by [James Truslow Adams](https://en.wikipedia.org/wiki/James_Truslow_Adams), primarily focuses on individual freedom, equal chances not only in life but also in the economic world, hard work and its rewards.
 That was the original idea behind it, but over the years it changed to fit the conditions of Americans at the time. In the time of the Cold War and thus the *Golden Age of the American Capitalism* the American Dream consisted of having a nice family Home in a suburb, a low-cut green garden, a dog, two kids and a well-paying job to afford anything you could want. But with the ever growing divide of the upper and lower class, the dream slowly shifted into having a stable income to cover the debts, you need to take on for either university or to cover healthcare costs, and to save up money for a private pension. These worries so many people need to deal with can be traced back to companies lowering or striking benefits for even the fully-employed people. Employees have not only received less benefits from their jobs but also less pay, driving many people below the bottom line where they are fortunate if they can cover their costs on food and shelter, but sadly most can't.
 
 The American Dream has thus become almost unachievable for a large percentage of the population.
+
+![[20240513_075752.jpg]]
+![[20240513_075807.jpg]]
+
 
 # The European Dream
 In contrast to the American Dream the European Dream hold unity, peace, solidarity, tolerance, economic prosperity and inclusiveness as it's primary values. The dream wants to portray an environment where every human is equal and all differences are celebrated and respected, the American Dream focuses on more selfish values like, autonomy, independence and personal wealth but has some more communally oriented qualities like a strong work ethic, patriotism and religious inheritance.
