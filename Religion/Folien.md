@@ -58,3 +58,9 @@ Gravity Falls
 ### Spiele
 
 ---
+![[doom.original-3501285268.jpg]]
+
+---
+![[cuphead-devil-1095787526.jpg]]
+
+---
