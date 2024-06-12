@@ -43,6 +43,8 @@ Stabkirche Fantoft
 
 ---
 ### Serien
+
+---
 ![[Pasted image 20240612215522.png]]
 Rick & Morty
 
@@ -51,7 +53,7 @@ Rick & Morty
 South Park
 
 ---
-![[bill_cipher__render__2__by_yessing_dfnxciv-pre.png]]
+
 Gravity Falls
 
 ---
