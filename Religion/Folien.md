@@ -61,6 +61,12 @@ Gravity Falls
 ![[doom.original-3501285268.jpg]]
 
 ---
+![[maxresdefault-1788101466.jpg]]
+
+---
 ![[cuphead-devil-1095787526.jpg]]
+
+---
+![[maxresdefault-4057171081.jpg]]
 
 ---
