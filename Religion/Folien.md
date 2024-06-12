@@ -6,7 +6,7 @@
 Robert Johnson
 
 ---
-![[English-writer-and-occultist-Aleister-Crowley-1875-1947-3948730683.jpg]]
+![[Unseen-Aleister-Crowley-1024x614-2905763991.jpg]]
 Aleister Crowley
 
 ---
@@ -53,7 +53,7 @@ Rick & Morty
 South Park
 
 ---
-
+![[latest-3552666057.jpg]]
 Gravity Falls
 
 ---
