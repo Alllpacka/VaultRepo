@@ -15,3 +15,7 @@
 ![[SabbathHeader1970s-1248837684.jpeg]]
 ---
 ![[MYHHeM-1080x549-3980488841.jpg]]
+---
+![[Varg_Vikernes-2.jpg]]
+---
+![[330px-Bergen,_Fantoft2.jpg]]Fantoft 
