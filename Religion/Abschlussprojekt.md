@@ -15,3 +15,50 @@ In den 80ern ist in den nordischen Staaten ein Metal Untergrund gewachsen aus de
 Am 10. August 1993 verlor die Band ein weiteres Mitglied durch den Mord von Euronymous durch Varg Vikernes. Dieser wurde in den folgenden Tagen festgenommen und aufgrund des Mordes und vollbrachter Kirchenbrände im Jahr 1992, und wurde schließlich im Jahr 1994 zu 21 Jahren Haft verurteilt.  
 
 Durch die vielen Vorkommnisse von Satanismus in vielen Genres ist es in heutiger Zeit harmlos geworden in Songs über satanistische Rituale, Schriften oder Philosophien zu singen.
+
+# Satanismus in Serien & Spielen
+## Serien
+
+Also, in diesem Teil der Presentation werd ich ein paar beispiele für Teufels oder Teufels- Ähnliche Figuren auflisten und ein bisschen ins detail gehen wie sie dargestellt werden.
+
+Erstens, in Rick and Morty wird der Teufel als eine Normal aussehende Person dargestellt die einen laden betreibt der Verfluchte Dinge verkauft. Er ist als gemein und mitfühlslos charaktisiert, also eine ziemliche Standart darstellung eigentlich.
+
+  
+
+In South Park wird, wie für South Park üblich, etwas mit den erwartungen gespielt. Diese darstellung ist mitleidensvoll und sensibel. Außerdem ist er Bi Sexuell und war in einer Beziehung mit Saddam Hussein. Sein aussehen ist eine mehr Traditionelle darstellung des Teufels, mit Roter Haut, einem Ziegen unterkörper und Hörnern.
+
+  
+
+Bill Cipher aus Gravity Falls ist zwar nicht der buchstäbliche teufel doch hat viele der selben Charakteristiken. Er ist nur selbstinterresiert , hat gottesgleiche mächte und verhandelt mehrmals knäbelverträge die stark ein klassische Vertäge mit dem Teufel erinnern.
+
+## Spiele
+
+Kommen wir nun zu den Spielen.
+
+Das klassische Beispiel dafür ist natürlich Doom. In dieser Spiele reihe kämpft man sich durch einen Demonen Infizierten Mars und auch mehrmals durch die Hölle selbst. Alles weil die Dämonen den Haßen des hauptcharakters umgebracht haben (und die menschheit zu energie umwandeln wollen aber das ist nur nebensächlich). Zur Dartstellung Satans kommen wir gleich wieder.
+
+  
+
+In The Binding Of Isaac geht es darum dass die Mutter des hauptcharakters in ein Religiöses Dogma verfällt und glaubt dass ihr 4 Jähriger Son, Isaac vom Teufel besessen ist. Dieser Versteckt sich in einer Kiste wo er langsam erstickt während er die Ereignisse des Spiels träumt. Im spiel selbst kann man mit hilfe von Satan etwas seiner Leben gegen einige der Stärksten Items im spiel austauschen und er dient auch als mehrere der zahlreichen Endgegener. Sonderliche Charaktisierung gibt es nicht. Es gibt die entscheidung zwischen den zuvorerwähnten "Devil Deals" oder "Angel Deals", jedoch sobald man einen Devil Deal annimt wird man für immer aus Angel Deals ausgeschlossen und muss gezwungenerweiße Satan als endgegner bekämpfen.
+
+  
+
+In Cuphead geht es darum das der Hauptcharakter siene seele im Kasino des Teufels verspielt hat und andere Seelen für ihn eintreiben muss um seine schulden zu begleichn, ich hoffe die symbolik dahinter ist offensichtlich.
+
+  
+
+In Broforce geht es um ein Einsatzkommando der USA die eine weltweite von Satan geführte Terroristenorganisation zerstören muss. Es gibt Passiert deutlich mehr in dem Spiel aber ich möcht jetzt die besten Teile nicht spoilern. Am ende bringt man Satan um und pisst auf sein grab. Ich hoffe auch hier ist die symbolik offensichtlich, die verteuflung alles was nicht für den militär industrie komplex steht.
+
+  
+
+Zugutterletzt kommen wir zu Doom.
+
+Erst mal eine Frage, welche dieser Figuren glaubt ihr ist Satan im Doom Franchise.
+
+Falsch es ist keiner von denen, es ist der Typ. Ich werd jetzt nicht zusehr in die Geschichte eingehen aber die generellen Infos sind. Das ist der Dunkle Lord, er hat das universum und gott erschaffen. Und ist das ebenbild des Hauptcharakters. Es gibt deutlich mehr metaphern und symbolik im Doom franchise aber ich möcht mal nicht den ramen komplett sprengen.
+
+  
+
+## End
+
+Es gibt natürlich auch viele weitere Beispile von Darstellungen des Teufels und Satanismus in Medien, das hier sind nur einige ausgesuchte Beispiele.

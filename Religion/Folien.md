@@ -39,3 +39,8 @@ Stabkirche Fantoft
 (restoriert in 1997)
 
 ---
+## Satanismus in Serien & Spielen
+
+---
+### Serien
+![](https://lh7-us.googleusercontent.com/slidesz/AGV_vUf0AWiFYqzy66hMpujwNS5NJOEz_VRgMKnA4NSOSt5KKHUYjMkJqsWQpgMgU74-HzcZ1dN_5ehH-_5uLfsf9LM5qQZE-QrNEKMvgBDaQ3Ji1OsZBBzphvDCnjzZi21UJPXj_F3uutnsruNcm3EQfw9mopXH9gk=s2048?key=NDu-nL5v7vl_ylx0GpoioQ)
