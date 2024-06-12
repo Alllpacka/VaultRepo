@@ -70,4 +70,9 @@ Gravity Falls
 ![[maxresdefault-4057171081.jpg]]
 
 ---
-![[maxresdefault-1046213779.jpg]]
+![[Pasted image 20240612220954.png]]
+
+---
+![[Pasted image 20240612221024.png]]
+
+---
