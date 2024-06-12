@@ -3,8 +3,12 @@
 ## Satanismus in Musik
 ---
 ![[RJthumb-801482547.jpg]]
+Robert Johnson
+
 ---
 ![[English-writer-and-occultist-Aleister-Crowley-1875-1947-3948730683.jpg]]
+Aleister Crowley
+
 ---
 ![[1 HFOL4MGtKHxngK7FQF7CaQ.webp]]
 ---
@@ -18,4 +22,6 @@
 ---
 ![[Varg_Vikernes-2.jpg]]
 ---
-![[330px-Bergen,_Fantoft2.jpg]]Fantoft 
+![[330px-Bergen,_Fantoft2.jpg]]
+Stabkirche Fantoft
+(restoriert in 1997)
