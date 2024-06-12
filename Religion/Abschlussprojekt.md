@@ -25,7 +25,7 @@ Erstens, in Rick and Morty wird der Teufel als eine Normal aussehende Person dar
 
   
 
-In South Park wird, wie für South Park üblich, etwas mit den erwartungen gespielt. Diese darstellung ist mitleidensvoll und sensibel. Außerdem ist er Bi Sexuell und war in einer Beziehung mit Saddam Hussein. Sein aussehen ist eine mehr Traditionelle darstellung des Teufels, mit Roter Haut, einem Ziegen unterkörper und Hörnern.
+In South Park wird, wie für South Park üblich, etwas mit den Erwartungen gespielt. Diese Darstellung ist mitleidensvoll und sensibel. Außerdem ist er Bi Sexuell und war in einer Beziehung mit Saddam Hussein. Sein aussehen ist eine mehr Traditionelle darstellung des Teufels, mit Roter Haut, einem Ziegen unterkörper und Hörnern.
 
   
 
