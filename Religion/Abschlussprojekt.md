@@ -4,5 +4,4 @@ Im frühen 20. Jhd wurde das Christentum sehr hoch angesehen und alles was nicht
 In den folgenden Jahrzenten wurde der Titel "Satansmusik" auf andere Genres geschoben, wie in den 60ern auf Rock & Roll. Zeitgleich wurde die Idee den Statanismus als eine Ideologie anzusehen immer größer. Dies geschah durch Lehren von LaVeyan und, den wohl bekanntesten Satanisten, Aleister Crowley.
 Der wohl bekannteste Skandal ist die Presenz von Crowley auf dem Cover von *Sgt. Peppers Lonely Heartsclub Band*, eins der bekanntesten Beatels (😠) Alben.
 Auch andere Bands sind nicht von Satanistischen vorwürfen verschohnt worden, der Song *Sympathy For The Devil*, von den Rolling Stones, beschreibt die Menscheitsgeschicht, speziell die Kriege die wir gegeneinander geführt haben/führen, aus der Sicht von Lucifer. Led Zeppelins Gitarris, Jimmy Page war zwar laut eigenen Aussagen kein Satanist war aber sehr interessiert an den Werken von Aleister Crowley zu so einem großen Ausmaß, das er Aleisters Haus in Loch Ness kaufte. 
-
-## Filme & Serien
+Die in den Medien oft falsch Dargestellte Band, Black Sabbath, war in keiner Weise mit satanistischen 
