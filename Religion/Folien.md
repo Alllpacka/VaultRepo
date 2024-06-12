@@ -10,7 +10,7 @@ Robert Johnson
 Aleister Crowley
 
 ---
-![[1 HFOL4MGtKHxngK7FQF7CaQ.webp]]
+![[1 HFOL4MGtKHxngK7FQF7CaQ.jpg]]
 Sgt. Peppers Lonely Heartsclub Band
 
 ---
